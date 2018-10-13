@@ -1,2 +1,2 @@
 # bootstrap
-Foundation Bootstrap Committee
+Foundation Bootstrap Team
