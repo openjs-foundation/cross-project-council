@@ -19,4 +19,3 @@ To enable widespread adoption and help accelerate development of JavaScript and 
 across connected devices, servers and networks, user agents and runtimes. The $FOUNDATION supports its
 hosted projects through open governance models and social structures that encourage community, skills
 growth, technical contribution, standards engagement, and inclusive participation.
->>>>>>> doc: add vision and mission
