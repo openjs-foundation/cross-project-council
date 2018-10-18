@@ -4,7 +4,7 @@ Foundation Bootstrap Team
 ## What's in a name?
 
 As we do not yet have a name for a merged entity we shall refer to merged entity in this document
-as $FOUNDATION
+as $FOUNDATION.
 
 ## Mission
 
