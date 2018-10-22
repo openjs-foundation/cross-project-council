@@ -1,6 +1,6 @@
 # Foundation Program RFCs
 
-There are many things that this new foundation can do to support its projects! To capture and flesh out as may of these as possible, we will use an RFC process to accept and evaluate the proposals in this repo. Some of these program proposals may be determined to be required for Minimum Viable Foundation. These proposals
+There are many things that this new foundation can do to support its projects! To capture and flesh out as may of these as possible, we will use an RFC process to accept and evaluate the proposals in this repo. Some of these program proposals may be determined to be required for Minimum Viable Foundation.
 
 ## When you need to follow this process
 
@@ -21,7 +21,7 @@ RFCs that are candidates for inclusion will enter a "final comment period" lasti
 
  * accepted at the close of its final comment period. A Bootstrap member will merge the RFC's associated pull request, at which point the RFC will become 'active', or;
 
- * rejected by the Website Redesign working group after public discussion has settled and comments have been made summarizing the rationale for rejection. A member of the working group should then close the RFC's associated pull request.
+ * rejected by the Bootstrap team after public discussion has settled and comments have been made summarizing the rationale for rejection. A member of the working group should then close the RFC's associated pull request.
 
 ## Minimum Viable Foundation program proposals:
 
