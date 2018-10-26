@@ -23,27 +23,27 @@ Board at any place or places.
 ### Section 1.4 *Purpose*
 
 (a)The nature of the business or purposes to be conducted or promoted by
-the JS Foundation is toengage in any lawful act or activity for which
-corporations that are organized not for profit may beorganized under the
+the JS Foundation is to engage in any lawful act or activity for which
+corporations that are organized not for profit may be organized under the
 General Corporation Law of Delaware. The primary purpose of the JS
 Foundation(collectively, “the Purpose”) is to: (i) drive widespread
-adoption and continued development of keyJavaScript solutions and
+adoption and continued development of key JavaScript solutions and
 related technologies; (ii) facilitate collaboration within the
-JavaScript developmentcommunity; (iii) create a center of gravity for
-open source projects throughout the end-to-end JavaScriptecosystem
+JavaScript development community; (iii) create a center of gravity for
+open source projects throughout the end-to-end JavaScript ecosystem
 guiding them toward open governance and diverse collaborator bases; (iv)
-host the infrastructureto support hosted open source projects (the
-“Projects”); (v) enable, through advancement of the JSFoundation’s
+host the infrastructure to support hosted open source projects (the
+“Projects”); (v) enable, through advancement of the JS Foundation’s
 projects and strategic partnerships, an open and accessible web; and
-(vi) undertake such otheractivities as may from time to time be
+(vi) undertake such other activities as may from time to time be
 appropriate to further the purposes and achieve the goals set Forth
 above.
 
 (b)The JS Foundation will promote the Projects. Subject to Section 13.3,
 Members are expected to support the design, development, or application
-of hardware or software products that will implement oneor more
+of hardware or software products that will implement one or more
 Projects. In furtherance of these efforts, the JS Foundation shall seek
-to solicit the participation ofall interested parties on a fair,
+to solicit the participation of all interested parties on a fair,
 equitable and open basis in the Projects.
 
 \(c) In support of such purpose, the JS Foundation may engage in some or
@@ -56,9 +56,9 @@ and/or certification marks; (iii) administer or subcontract a branding
 program; (iv) create various printed and/or electronic materials for
 distribution to members and non-members
 
-; (v) maintain its own website
+\(v) maintain its own website
 
-; (vi) coordinate the promotion of the Projects among members and
+\(vi) coordinate the promotion of the Projects among members and
 non-members, as well as create basic marketing promotional collateral
 (e.g., both web pages as well as tangible materials); and (vii)
 undertake those other activities as the Board may from time to time
@@ -144,9 +144,7 @@ appoint one representative to serve as a member of the Board (a
 Director to run for election as an officer of the JS Foundation (each an
 “Officer”);
 
-(c)
-
-appoint one voting representative, on a one vote per Member basis, to
+\(c) appoint one voting representative, on a one vote per Member basis, to
 each Member Committee thereof that the JS Foundation may establish; and
 
 \(d) appoint and maintain one representative on the Technical Advisory
@@ -204,9 +202,7 @@ Board; and
 \(b) such other rights as the Board of Directors may from time to time
 approve.
 
-### Section 2.7
-
-*Participation*
+### Section 2.7 *Participation*
 
 Participation in Projects sponsored by the JS Foundation shall not be
 limited to Members, but may be subject to such operating procedures and
@@ -633,7 +629,7 @@ calling the meeting. A notice or waiver of notice or any waiver by
 electronic transmission of a meeting of the Board need not specify the
 purposes of the meeting.
 
-Section 4.10 Quorum, Action at Meeting, Adjournments
+### Section 4.10 *Quorum, Action at Meeting, Adjournments*
 
 \(a) At all meetings of the Board a majority of Directors then in office,
 shall constitute a quorum for the transaction of business and the act of
@@ -819,19 +815,14 @@ deem advisable, to perform such general or special duties as may from
 time to time be delegated to any such Board Committees by the Board,
 subject to the limitations imposed by the Certificate of Incorporation
 or by these By-laws. No Committee shall have the power or authority to
-take any
-
-action
-
-prohibited by Section 5.1 above to be taken by the Executive Committee
-
-. The Board may designate one or more Directors as alternate members of
-any Board Committees, who may replace any absent member at any meeting
-of such Board Committees. Any such Board Committee or Board Committees
-shall have such powers, duties and name or names as may be determined
-from time to time by resolution adopted by the Board. Each Board
-Committee shall keep regular minutes of its meetings and make such
-reports to the Board as the Board may request.
+take any action prohibited by Section 5.1 above to be taken by the Executive
+Committee  The Board may designate one or more Directors as alternate members
+of any Board Committees, who may replace any absent member at any meeting of
+such Board Committees. Any such Board Committee or Board Committees shall have
+such powers, duties and name or names as may be determined from time to time
+by resolution adopted by the Board. Each Board Committee shall keep regular
+minutes of its meetings and make such reports to the Board as the Board may
+request.
 
 ### Section 5.3 *Meetings of Committees of the Board*
 
@@ -892,7 +883,7 @@ and trade secrets, created by and related to the Project (“Project IP”),
 be transferred and assigned to another entity for the purpose of
 continuation of the Project; provided, however, that:
 
-> 1\. The request is timely made;
+1\. The request is timely made;
 
 2\. The receiving entity is a non-profit corporation qualified under the
 United States Internal Revenue Code at the time the request is made; and
@@ -1102,8 +1093,7 @@ deemed equivalent thereto.
 
 ## ARTICLE VIII - INDEMNIFICATION
 
-### Section 8.1 *Actions other than by or in the Right of the JS
-Foundation *
+### Section 8.1 *Actions other than by or in the Right of the JS Foundation*
 
 Subject to confirmation of the appropriateness of such action by the
 Board as provided in Section 8.4 below, the JS Foundation shall
@@ -1218,8 +1208,7 @@ her status as such, whether or not the JS Foundation would have the
 power to indemnify him or her against such liability under the
 provisions of this Article VIII.
 
-### Section 8.9 *Continuation of Indemnification and Advancement of
-Expenses *
+### Section 8.9 *Continuation of Indemnification and Advancement of Expenses *
 
 The indemnification and advancement of expenses provided by, or granted
 pursuant to, this Article VIII shall continue as to a person who has
