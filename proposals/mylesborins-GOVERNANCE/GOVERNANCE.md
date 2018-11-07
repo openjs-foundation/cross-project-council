@@ -3,10 +3,6 @@
 For the current list of Team members, see the project
 [README.md](./README.md).
 
-## In progress
-
-this proposal is currently stage 0
-
 ## Members
 
 The [nodejs/bootstrap](https://github.com/nodejs/bootstrap) GitHub

@@ -4,7 +4,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 0
 
-* [MylesBorins - GOVERNANCE](mylesborins-GOVERNANCE.md)
+* [MylesBorins - GOVERNANCE](mylesborins-GOVERNANCE)
 
 ## Stage 1
 
