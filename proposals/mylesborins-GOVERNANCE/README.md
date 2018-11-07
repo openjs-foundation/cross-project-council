@@ -1,5 +1,5 @@
 # Initial Governance Model
->  Stage 0
+>  Stage 1
 
 ## Champion
 
@@ -11,7 +11,7 @@ This [GOVERNANCE.md][] document is a basic outline of the governance model for t
 
 ## Required Resources
 
-Approval of the bootstrap team
+Approval of the bootstrap team.
 
 ## Who would be responsible?
 
@@ -21,9 +21,15 @@ The bootstrap committee
 
 We need basic governance to operate
 
-## What is neccessary to accept this proposal
+## What is neccessary to get this proposal to stage 2
 
-For this proposal to be accepted we need to reach consesnsus on landing [GOVERNANCE.md][]
-in the root directory of this repo.
+For this proposal to move to stage 2 we will need consensus that the text in [GOVERNANCE.md](./GOVERNANCE.md) is an accurate
+description of the process we want to follow as a bootstrap team. We need there to be no objections to the text landing as it
+exists in the proposal.
+
+## What is neccessary to get this proposal to stage 3
+
+As this proposal does not need to be approved by either board and doesn't have any budgetary or legal requriements I believe
+that we can move immediately from Stage 2 to Stage 3 at the same time.
 
 [GOVERNANCE.md]: ./GOVERNANCE.md

@@ -4,11 +4,11 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 0
 
-* [MylesBorins - GOVERNANCE](mylesborins-GOVERNANCE)
+There are currently no Stage 0 proposals
 
 ## Stage 1
 
-There are currently no Stage 1 proposals.
+* [MylesBorins - GOVERNANCE](mylesborins-GOVERNANCE)
 
 ## Stage 2
 
