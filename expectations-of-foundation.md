@@ -16,3 +16,4 @@ This document is for the initial phase of work for the Bootstrap team to draft r
 - No "pay to play" in technical participation
 - Earmarking allowed with flexibility in budgeting for concerns and needs of individual projects
 - Value satisfaction: regular feedback from projects
+- Explicit acknowledgement and documention for the ability of projects to leave the foundation
