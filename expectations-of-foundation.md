@@ -7,7 +7,7 @@ This document is for the initial phase of work for the Bootstrap team to draft r
 - Annual reviews of staff, NPS, board, programs, support services to projects for accountability and incremental improvement
 - The foundation staff, executive director, and board should follow a leadership style that prioritizes and promotes the well-being of the project and those who prioritize and promote a healthy project and ecosystem.
 - Project representation on the Board
-  - Projects could have tiers, only 'platinum' projecs should sit on the Board directly. Other projects would have shared seats(like gold/silver member strcuture)
+  - Community Representation should sit on the Board directly. Projects could share this representation.
   - Community representation on the Board: 1 seat guaranteed for the Cross-Project Community Council and 1 seat for Individual Membership program if and only if threshold requirements have been met(TODO)
   - Each council(CPC and Community Council) should have a given allocation of Board seats. How these are allocated should be defined by each respective council.
 - Board must establish Cross Project Council focused on the specific needs of the member projects
