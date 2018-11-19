@@ -19,7 +19,7 @@ Projects must be proposed via GitHub. Project proposals submitted to the _$FOUND
 
 * name of project
 * project description (what it does, why it is valuable, origin and history)
-* statement on alignment with CNCF charter mission
+* statement on alignment with _$FOUNDATION_ charter mission
 * sponsor from CPC (sponsor helps mentor projects)
 * preferred maturity level 
 * license 
