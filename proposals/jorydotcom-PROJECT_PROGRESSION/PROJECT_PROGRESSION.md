@@ -7,8 +7,6 @@ Benefits of the project progression process include:
 * Mentorship and support 
 * Remove possible legal and governance obstacles to adoption and contribution by ensuring all projects adhere to _$FOUNDATION_ legal, code of conduct and IP Policy requirements
 
-
-
 This proposal has been modified from the [CNCF process documentation](https://github.com/cncf/toc/tree/master/process).
 
 ## II. Project Proposal Process
@@ -19,26 +17,26 @@ This governance policy sets forth the proposal process for projects to be accept
 ### Project Proposal Requirements
 Projects must be proposed via GitHub. Project proposals submitted to the _$FOUNDATION_ must provide the following information to the best of their ability:
 
- .. name of project
- .. project description (what it does, why it is valuable, origin and history)
- .. statement on alignment with CNCF charter mission
- .. sponsor from CPC (sponsor helps mentor projects)
- .. preferred maturity level 
- .. license 
- .. source control (GitHub by default)
- .. external dependencies (including licenses)
- .. initial committers (how long working on project)
- .. infrastructure requests 
- .. communication channels (slack, irc, mailing lists)
- .. issue tracker (GitHub by default)
- .. website 
- .. release methodology and mechanics
- .. social media accounts
- .. community size and any existing financial sponsorship
+* name of project
+* project description (what it does, why it is valuable, origin and history)
+* statement on alignment with CNCF charter mission
+* sponsor from CPC (sponsor helps mentor projects)
+* preferred maturity level 
+* license 
+* source control (GitHub by default)
+* external dependencies (including licenses)
+* initial committers (how long working on project)
+* infrastructure requests 
+* communication channels (slack, irc, mailing lists)
+* issue tracker (GitHub by default)
+* website 
+* release methodology and mechanics
+* social media accounts
+* community size and any existing financial sponsorship
 
 ### Project Acceptance Process
- .. Projects are required to present their proposal at a CPC meeting
- .. Projects get accepted via a 2/3 supermajority vote of the CPC
+* Projects are required to present their proposal at a CPC meeting
+* Projects get accepted via a 2/3 supermajority vote of the CPC
 
 ## III. Stages - Definitions & Expectations
 Every _$FOUNDATION_ project has an associated maturity level. Proposed _$FOUNDATION_ projects should state their preferred maturity level. Projects of all maturities have access to _$FOUNDATION_ resources.
