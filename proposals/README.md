@@ -12,8 +12,8 @@ There are currently no Stage 1 proposals.
 
 ## Stage 2
 
-* [MylesBorins - GOVERNANCE](mylesborins-GOVERNANCE)
+There are currently no Stage 2 proposals.
 
 ## Stage 3
 
-There are currently no Stage 3 proposals.
+* [MylesBorins - GOVERNANCE](./adopted/mylesborins-GOVERNANCE)
