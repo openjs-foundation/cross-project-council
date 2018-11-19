@@ -7,7 +7,9 @@ Jory Burson (@jorydotcom)
 
 ## Description
 
-The [PROJECT_PROGRESSION.md][] document describes the process and criteria for any project to join the foundation and 'graduate' to a 'Top Level Project.' This proposal incorporates ideas from the CNCF and JSF.
+The [PROJECT_PROGRESSION.md][] document describes the process and criteria for any project to join the foundation and 'graduate' to a 'Top Level Project.' This proposal incorporates ideas from the CNCF, the JSF, and the [Community Drafting Doc](https://docs.google.com/presentation/d/1qUcvZz4wmQtwcWu9rWjxFNmWw5plD9-4_7mtvQvCegk/edit#slide=id.g45c3106792_4_115).
+
+Note that this document will utilize the naming conventions that are to be determined in [#44](https://github.com/nodejs/bootstrap/issues/44#issuecomment-440026298). 
 
 ## Required Resources
 
