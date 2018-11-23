@@ -190,8 +190,27 @@ ensuring:
      from the mentorship program, Project issues and conflicts, opportunities
      for collaboration between Projects, opportunities for the Foundation in the
      greater JavaScript community, etc.
+     
+## Section 6. Non-Responsibilities of the CPC
 
-## Section 6. Elections
+JS Foundation Projects are self-governing entities. All policies and procedures for interacting with, contributing to and making decisions within a Project are defined, implemented, and documented by that Project’s maintainers and community during the mentorship process. Specific technical decisions within a Project will be the responsibility of the Project and establishment and implementation of the decision making process will be done within the guidelines as defined by CPC charter. Those Project decisions and responsibilities include but are not limited to:
+
+* Setting release dates.
+* Release quality standards.
+* Technical direction.
+* Project governance and process.
+* GitHub repository hosting.
+* Conduct guidelines.
+* Maintaining the list of additional Collaborators.
+* Development process and any coding standards.
+* Mediating technical conflicts between Collaborators.
+
+
+Not withstanding the above, the Projects and the entire technical community will follow any processes
+as may be specified by the Board relating to the intake and license compliance review of contributions,
+including the _$FOUNDATION_ IP Policy.
+
+## Section 7. Elections
 
 Leadership roles in _$FOUNDATION_ Foundation will be peer elected
 representatives of the community.
@@ -227,7 +246,7 @@ The TAC will elect from amongst voting CPC members a CPC Chairperson to work on 
 
 ====================
 
-## Section 7. Decision Making
+## Section 8. Decision Making
 
 For internal Project decisions, Collaborators shall operate under Lazy
 Consensus. The CPC follows a [Consensus Seeking][] decision making model. When
@@ -238,7 +257,7 @@ If an agenda item cannot reach a consensus a CPC member can call for either a
 closing vote or a vote to table the issue to the next meeting. Votes shall
 follow the procedure described in the [Voting][] section of this charter.
 
-## Section 8. Voting
+## Section 9. Voting
 
 The CPC follows a [Consensus Seeking][] decision making model. When an agenda
 item has appeared to reach a consensus the moderator will ask "Does anyone
@@ -256,7 +275,7 @@ Note that, in addition to requiring a simple majority vote of the CPC, all
 changes to this charter are also subject to approval from the _$FOUNDATION_
 Foundation board.
 
-## Section 9. Definitions
+## Section 10. Definitions
 
 Complete once we have agreement on the contents
 
