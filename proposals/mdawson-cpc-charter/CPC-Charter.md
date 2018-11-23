@@ -294,10 +294,10 @@ repository.
 in an official decision making role as defined in the Project's governance
 policies.
 
-[Foundation mission and vision statements]: 
-[Foundation bylaws]: 
-[Voting]: 
-[Elections]: 
+[Foundation mission and vision statements]:  xx
+[Foundation bylaws]:  x
+[Voting]:  #section-9.-voting
+[Elections]: #section-7.-elections
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
