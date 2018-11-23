@@ -277,8 +277,27 @@ Foundation board.
 
 ## Section 10. Definitions
 
-Complete once we have agreement on the contents
+**Project**: a technical collaboration effort that is organized through the
+project mentorship process and approved by the TAC.
 
+**Contributors**: contribute code or other artifacts, but do not have the right
+to commit to the code base. Contributors work with the Project's Collaborators
+to have code committed to the code base. A Contributor may be promoted to a
+Collaborator by the Project's Maintainers. Contributors should rarely be
+encumbered by the TAC or Board.
+
+**Collaborator**: a Contributor within a Project that has made significant and
+valuable contributions and has been given commit-access to that Project
+repository.
+
+**Maintainer**: a Collaborator within a Project elected to represent the Project
+in an official decision making role as defined in the Project's governance
+policies.
+
+[Foundation mission and vision statements]: 
+[Foundation bylaws]: 
+[Voting]: 
+[Elections]: 
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
