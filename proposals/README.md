@@ -4,7 +4,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 0
 
-There are currently no Stage 0 proposals
+* [MichaelDawson - CPC-Charter](mdawson-cpc-charter)
 
 ## Stage 1
 
