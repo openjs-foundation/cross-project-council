@@ -6,7 +6,7 @@ The Foundation Bootstrap Team is the temporary body tasked with managing communi
 
 The files in this repository are living documents and will never represent finished governance. Once we reach consensus on governance, this repository will be archived and the documents will be moved to their new home in a Foundation specific Github org.
 
-Until such a time that this group has consensus on a new governance model, and the Foundation has legal squared away, all projects, programs, and committees will continue to operate unchanged.
+Until such a time that this group has consensus on a new governance model, and the Foundation has any legal requirements satisfied, all projects, programs, and committees will continue to operate unchanged.
 
 Upon enactment of this new governance model, this working body will be disbanded.
 
