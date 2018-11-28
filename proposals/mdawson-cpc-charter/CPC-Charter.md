@@ -180,7 +180,7 @@ ensuring:
    * defining common practices to be implemented across _$FOUNDATION_ projects, if any.
    * The CPC is also responsible for mediating technical conflicts between
      _$FOUNDATION_ Projects when attempts to resolve those conflicts within the Project
-    and were unsuccessful. 
+   were unsuccessful. 
    * The CPC serves as the _$FOUNDATION_'s primary technical
      liaison body with external open source projects, consortiums and groups and is
      also responsible for ensuring that the _$FOUNDATION_ has appropriate technical
