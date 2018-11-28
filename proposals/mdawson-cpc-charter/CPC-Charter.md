@@ -177,6 +177,9 @@ ensuring:
      as outlined in [XXXX], and creating conceptual architecture for how the proejcts
      fit together.
    * aligning projects, removing or archiving projects, as outlined in [XXXX].
+   * approving funds for budgets delegated to the project. A good example is the
+     travel fund.
+   * follow and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
    * defining common practices to be implemented across _$FOUNDATION_ projects, if any.
    * The CPC is also responsible for mediating technical conflicts between
      _$FOUNDATION_ Projects when attempts to resolve those conflicts within the Project
