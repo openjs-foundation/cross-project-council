@@ -1,11 +1,9 @@
 ## I. Overview
 This governance policy describes how an open source project can formally join the Foundation via the [Project Proposal Process](). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
 
-Benefits of the project progression process include:
-* Promotion and public visibility of work that can add value to the _$FOUNDATION_ mission and build the ingredients of a successful project
-* Deepened alignment with existing projects
-* Mentorship and support 
-* Remove possible legal and governance obstacles to adoption and contribution by ensuring all projects adhere to _$FOUNDATION_ legal, code of conduct and IP Policy requirements
+Project progression - movement from one stage to another - allows projects to particpate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all _$FOUNDATION_ projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources such as the travel fund.
+
+For more information about how your project can benefit from Foundation membership and services, please see [TBD Document]().
 
 This proposal has been modified from the [CNCF process documentation](https://github.com/cncf/toc/tree/master/process).
 
@@ -20,6 +18,7 @@ Projects must be proposed via GitHub. Project proposals submitted to the _$FOUND
 * name of project
 * project description (what it does, why it is valuable, origin and history)
 * statement on alignment with _$FOUNDATION_ charter mission
+* link to current Code of Conduct
 * sponsor from CPC (sponsor helps mentor projects)
 * preferred maturity level 
 * license 
@@ -105,9 +104,10 @@ To graduate from Sandbox or Incubating status, or for a new project to join as a
 **Examples**
 
 **Expectations**
+Projects in this stage are not in active development. The foundation will continue to hold the IP and any trademarks and domains, but the project does not draw on foundation resources. 
 
 **Acceptance Criteria**
-* Archiving criteria: projects may be archived via a 2/3 vote from the CPC
+* Archiving criteria: projects may be archived via a 2/3 vote from the CPC and with approval from project ownership. The CPC will develop and follow a modfified archiving procedure if a lack of project ownership is identified.
 
 
 ## IV. Annual Review Process
