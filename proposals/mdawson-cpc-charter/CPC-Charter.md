@@ -183,7 +183,9 @@ ensuring:
     and were unsuccessful. 
    * The CPC serves as the _$FOUNDATION_'s primary technical
      liaison body with external open source projects, consortiums and groups and is
-     also responsible for technical participation in standards bodies
+     also responsible for ensuring that the _$FOUNDATION_ has appropriate technical
+     participation in standards bodies by finding an encouraging projects members to
+     particiapte in these bodies.
    * Members of the CPC, or committees consisting of subsets of the CPC
      membership will be expected to meet on a regular basis to discuss topics
      such as new project acceptance into the mentorship program, project graduation
