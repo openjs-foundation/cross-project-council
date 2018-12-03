@@ -106,3 +106,49 @@ This document is organized by two key areas: concerns that must be included in t
   - providing regular updates to the project and the community
   - Regular communication/interlocks with the project committees.
   - regulard Q&A with ecosystem
+
+##### Mission Statement Drafts
+Projects joining the foundation should collectively agree on a _single mission statement_ when joining the new Foundation. Below are a number of rough drafts put forward by attendees of the Governance breakout session(s) at our Node.js Collaborator Summit 2018 in Vancouver.
+
+ > By providing structure and support to build and sustain community among open-source projects.
+
+ > Growing and maintaining the global JavaScript system through open, equitable, and inclusive governance.
+
+ > The Foundation is dedicated to the development and sustainability of the JavaScript ecosystem, through fostering the environment for growth of JavaScript related projects.
+
+ > The Foundation envisions a future where JavaScript is a sustainable platform for implementing best in class experiences in production across all types of workloads. The $FOUNDATION is committed to being a catalyst across the industry making our technological communities productive, sustainable, equitable, diverse and inclusive.
+
+##### Vision Statement Drafts
+Projects joining the foundation should collectively agree on a _single vision statement_ when joining the new Foundation. Below are a number of recommendations put forward by attendees of the Governance breakout sessions at our Node.js Collaborator Summit 2018 in Vancouver.
+
+ > Vision: To enable widespread adoption and help accelerate development of JavaScript and key ecosystem projects across connected devices, servers and networks, user agents and runtimes. The Foundation supports its hosted projects through open governance models and social structures that encourage community, skills growth, technical contribution, standards engagement, and inclusive participation.
+
+##### Identified Values
+The following values were identified in the governance brainstorming exercises during the October 2018 Collaborators Summit in Vancouver. We believe they can operate as guiding principles for Foundation efforts.
+
+###### Community Focus
+  - Promote Diversity, Inclusivity and Representation with a global perspective.
+  - Bring members together on a regular basis with equal accessibility
+  - Global Leadership
+  - Be less US / North American centric – engage worldwide
+  - Value moral values
+
+###### Project Driven
+  - Projects make all technical decisions
+  - Make projects the priority
+  - Value project input for all decisions
+  - Ensure health of highly used / critical libraries
+  - Help champion new efforts
+  - Provide Recognition
+  - Ensure ability to leave
+
+###### Transparent Operation
+  - Open Governance
+  - Radical Collaboration
+  - Value data over opinions
+  - Guarantee the right to disagree
+  - Consensus seeking as a model for decision making
+
+###### Simple Structure
+  - By-laws general enough not to require evolution
+  - Simple, project-driven governance evolution
