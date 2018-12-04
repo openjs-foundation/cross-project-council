@@ -9,6 +9,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 ## Stage 1
 
 * [hackygolucky-EXPECTATIONS](hackygolucky-EXPECTATIONS)
+* [jorydotcom - PROJECT_PROGRESSION](./jorydotcom-PROJECT_PROGRESSION)
 
 ## Stage 2
 
