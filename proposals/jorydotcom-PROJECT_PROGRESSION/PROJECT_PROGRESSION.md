@@ -107,7 +107,7 @@ To graduate from Sandbox or Incubating status, or for a new project to join as a
 Projects in this stage are not in active development. The foundation will continue to hold the IP and any trademarks and domains, but the project does not draw on foundation resources. 
 
 **Acceptance Criteria**
-* Archiving criteria: projects may be archived via a 2/3 vote from the CPC and with approval from project ownership. The CPC will develop and follow a modfified archiving procedure if a lack of project ownership is identified.
+Archiving criteria: projects may be archived via a 2/3 vote from the CPC and with approval from project ownership." In cases where there is a lack of project ownership, only a 2/3 vote from the CPC is required.
 
 
 ## IV. Annual Review Process
