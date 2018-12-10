@@ -3,12 +3,12 @@
 Anyone may submit an idea for a policy or program following the [staging process](../STAGING_PROCESS.md).
 
 ## Stage 0
-
-* [hackygolucky-EXPECTATIONS](hackygolucky-EXPECTATIONS)
+There are currently no Stage 0 proposals.
 
 ## Stage 1
 
 * [MylesBorins - GOVERNANCE](mylesborins-GOVERNANCE)
+* [hackygolucky-EXPECTATIONS](hackygolucky-EXPECTATIONS)
 
 ## Stage 2
 
