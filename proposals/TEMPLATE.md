@@ -27,6 +27,6 @@ Please include potential metrics that can be used to measure success of the prop
 
 Why should we do this?
 
-## What is neccessary to complete this proposal
+## What is necessary to complete this proposal
 
 Define "done".
