@@ -1,5 +1,5 @@
 # Initial Governance Model
->  Stage 1
+>  Stage 2
 
 ## Champion
 
@@ -20,12 +20,6 @@ The bootstrap committee
 ## Why this proposal is important
 
 We need basic governance to operate
-
-## What is neccessary to get this proposal to stage 2
-
-For this proposal to move to stage 2 we will need consensus that the text in [GOVERNANCE.md](./GOVERNANCE.md) is an accurate
-description of the process we want to follow as a bootstrap team. We need there to be no objections to the text landing as it
-exists in the proposal.
 
 ## What is neccessary to get this proposal to stage 3
 
