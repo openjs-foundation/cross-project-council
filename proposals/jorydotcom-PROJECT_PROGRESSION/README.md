@@ -35,7 +35,6 @@ There are several sections that need to see further refinement/consensus buildin
 * Clarification on what resources a Archived/Emeritus project will have/need
 * Language for the Proposed Annual Review Process
 
-
 ## What is neccessary to get this proposal to stage 3
 
 IDK yet
