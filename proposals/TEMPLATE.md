@@ -27,6 +27,10 @@ Please include potential metrics that can be used to measure success of the prop
 
 Why should we do this?
 
-## What is neccessary to complete this proposal
+## Unresolved Question
 
-Define "done".
+Current objections or concerns that will be required to reach stage 2
+
+## What is necessary to complete this proposal
+
+Everything required to reach stage 3
