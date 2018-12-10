@@ -78,7 +78,7 @@ To be considered for Incubation Stage, the project must meet the Sandbox require
  * Have a healthy number of committers. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
  * Demonstrate a substantial ongoing flow of commits and merged contributions.
  * Since these metrics can vary significantly depending on the type, scope and size of a project, the CPC has final judgement over the level of activity that is adequate to meet these criteria.
- * Recieve a two-thirds supermajority vote of the CPC to move to Incubation Stage. 
+ * Receive a two-thirds supermajority vote of the CPC to move to Incubation Stage. 
 
 
 ### Top Level/Graduate Stage*
