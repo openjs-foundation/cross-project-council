@@ -31,6 +31,6 @@ Why should we do this?
 
 Current objections or concerns that will be required to reach stage 2
 
-## What is neccessary to complete this proposal
+## What is necessary to complete this proposal
 
 Everything required to reach stage 3

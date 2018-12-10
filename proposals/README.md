@@ -4,11 +4,10 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 0
 
-There are currently no Stage 0 proposals
+There are currently no Stage 0 proposals.
 
 ## Stage 1
-
-There are currently no Stage 1 proposals.
+* [hackygolucky-EXPECTATIONS](hackygolucky-EXPECTATIONS)
 
 ## Stage 2
 
@@ -17,3 +16,8 @@ There are currently no Stage 2 proposals.
 ## Stage 3
 
 * [MylesBorins - GOVERNANCE](./adopted/mylesborins-GOVERNANCE)
+
+### Unresolved Questions
+- subject of membership to projects, not just the foundation overall
+- c3 structure(there has been a question now of whether c3 board representation is necessary depending on what the c3 flushes out to be)
+- Node.js having a Board seat
