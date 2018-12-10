@@ -25,7 +25,16 @@ Existing projects need to know what their "status" will be in the new organizati
 
 ## What is neccessary to get this proposal to stage 2
 
-IDK yet
+There are several sections that need to see further refinement/consensus building. There are also open issues which affect the language in this document. This includes: 
+
+* Whether there is an Open Governance requirement of Top Level Projects
+* Defined Project Proposal Requirements, & explicit metrics for how to validate that those requirements have been met.
+* Clarification of Stage Definitions and Monikers (see also #44)
+  * do we require projects to keep public lists of orgs using their technology
+* Confirmation that the CPC will be responsible for project acceptance process
+* Clarification on what resources a Archived/Emeritus project will have/need
+* Language for the Proposed Annual Review Process
+
 
 ## What is neccessary to get this proposal to stage 3
 

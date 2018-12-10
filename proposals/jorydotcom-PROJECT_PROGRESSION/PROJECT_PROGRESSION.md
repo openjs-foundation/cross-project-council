@@ -64,7 +64,9 @@ To be considered for Sandbox Stage, the project must meet the following requirem
 
 ### Incubating Stage*
 **Definition** 
-The Incubation Stage is for projects that are interested in reaching the Top-Level Stage, or want to have more access, participation, responsibilities and representation in the CPC. Incubating projects will receive mentorship from the CPC and are expected to actively develop their community of contributors, governance, and other project documentation. 
+The Incubation Stage is for projects that are interested in reaching the Top-Level Stage, or want to have more access, participation, responsibilities and representation in the CPC. Incubating projects will receive mentorship from the CPC and are expected to actively develop their community of contributors, governance, and other project documentation.
+
+In order to support their active development, projects in the incubation stage have a higher level of access to marketing and other resources which will be agreed upon acceptance to the incubation stage and reviewed/agreed on a yearly basis. Progress will be reviewed on a yearly basis and a project may be asked by the CPC to move back to the Sandbox stage if the level of development drops off or stalls. 
 
 **Examples**
 1. Projects that are on their way or very likely to become Top Level Projects.
