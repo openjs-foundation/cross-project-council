@@ -4,16 +4,18 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 0
 
-There are currently no Stage 0 proposals
+* [Regular Town Halls](./stage-0/regular-town-halls)
 
 ## Stage 1
 
+* [hackygolucky-EXPECTATIONS](hackygolucky-EXPECTATIONS)
+* [jorydotcom - PROJECT_PROGRESSION](./jorydotcom-PROJECT_PROGRESSION)
 * [MichaelDawson - CPC-Charter](mdawson-cpc-charter)
 
 ## Stage 2
 
-* [MylesBorins - GOVERNANCE](mylesborins-GOVERNANCE)
+There are currently no Stage 2 proposals.
 
 ## Stage 3
 
-There are currently no Stage 3 proposals.
+* [MylesBorins - GOVERNANCE](./adopted/mylesborins-GOVERNANCE)
