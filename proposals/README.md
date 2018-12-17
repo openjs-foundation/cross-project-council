@@ -17,8 +17,3 @@ There are currently no Stage 2 proposals.
 ## Stage 3
 
 * [MylesBorins - GOVERNANCE](./adopted/mylesborins-GOVERNANCE)
-
-### Unresolved Questions
-- subject of membership to projects, not just the foundation overall
-- c3 structure(there has been a question now of whether c3 board representation is necessary depending on what the c3 flushes out to be)
-- Node.js having a Board seat
