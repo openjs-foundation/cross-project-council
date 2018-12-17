@@ -10,6 +10,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 * [hackygolucky-EXPECTATIONS](hackygolucky-EXPECTATIONS)
 * [jorydotcom - PROJECT_PROGRESSION](./jorydotcom-PROJECT_PROGRESSION)
+* [MichaelDawson - CPC-Charter](mdawson-cpc-charter)
 
 ## Stage 2
 
