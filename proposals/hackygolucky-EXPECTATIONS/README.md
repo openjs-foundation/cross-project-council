@@ -30,3 +30,8 @@ For this proposal to move to stage 2 we will need consensus that the text in [EX
 The Boards and Legal would review this proposal and Legal would then draft the expectations as language that would be folded into the Bylaws to be developed for the proposed foundation.
 
 [EXPECTATIONS.md]: ./EXPECTATIONS.md
+
+### Unresolved Questions
+- subject of membership to projects, not just the foundation overall
+- c3 structure(there has been a question now of whether c3 board representation is necessary depending on what the c3 flushes out to be)
+- Node.js having a Board seat
