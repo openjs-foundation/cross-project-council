@@ -5,6 +5,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 ## Stage 0
 
 * [Regular Town Halls](./stage-0/regular-town-halls)
+* [Standards Outreach](./stage-0/standards-outreach)
 
 ## Stage 1
 
