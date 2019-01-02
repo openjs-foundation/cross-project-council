@@ -53,7 +53,7 @@ The CPC is in inclusive group with 2 types of members:
 as outlined below. In any case where it is not specified that a role
 or responsibility applies to a Voting member, then a Regular member is
 implied. Anyone who has been a member of one of the projects under the 
-foundation for at least 3 months may request to
+Foundation for at least 3 months may request to
 become a regular member by opening a PR to add themselves to the list of
 regular members. Regular members remain for as long as they are active
 within the work of the CPC. Regular members who have not been active
