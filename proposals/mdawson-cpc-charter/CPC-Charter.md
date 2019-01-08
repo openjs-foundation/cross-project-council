@@ -44,16 +44,17 @@ direction of the policies set by the Board.
 
 ## Section 4. Establishment of the CPC.
 
-The CPC is in inclusive group with 2 types of members:
+The CPC is an inclusive group with two types of members:
 
 * Regular members
 * Voting members
 
-**Regular members** Regular members have the roles and responsibilities
-as outlined below. In any case where it is not specified that a role
-or responsibility applies to a Voting member, then a Regular member is
-implied. Anyone who has been a member of one of the projects under the 
-Foundation for at least 3 months may request to
+### Regular members
+
+Regular members have the roles and responsibilities
+outlined below. Regular member is implied when memership type is not
+specified. Anyone who has been a member of one of the projects under the 
+Foundation for at least three months may request to
 become a regular member by opening a PR to add themselves to the list of
 regular members. Regular members remain for as long as they are active
 within the work of the CPC. Regular members who have not been active
@@ -61,32 +62,32 @@ in GitHub, participated in meetings, or other work of the CPC for 3 months may b
 removed from the list of Regular members. In addition, a Regular CPC member
 can be removed by voluntary resignation, or by a standard CPC motion.
 
-**Voting members** Voting members have the roles and responsibilities
-as outlined below. Voting members are selected as follows:
+### Voting members
 
-* Each top level project may nominate 2 member through a process
+Voting members are selected as follows:
+
+* Each top level project may nominate two members through a process
 of their choosing. Once nominated the member must be ratified by the
 board before becoming a Voting member.
 
-* 2 Voting members may be nominated by the non top-level projects.
-If a vote is required among candidates nominated by different projects,
-each of the non-top level projects will have 2 votes (one for each position).
+* two Voting members may be nominated by the non top-level projects based
+on a process set by the CPC.
 
-* 2 Voting members may be nominated by the Regular members. Once
+* two Voting members may be nominated by the Regular members. Once
 nominated these members must be ratified by the board before
 becoming a Voting member.
 
-Voting members are expected to make a time commitment that
+Voting members are expected to make a time commitment which
 allows them to be responsive to CPC business, participate regularly
-in meetings and to participate in all voting matters.  They are
-also expected to help to "enable" work of the regular CPC
+in meetings and to participate in all voting matters (either by
+voting or specifically abstaining).  They are
+also expected to help to enable work of the regular CPC
 members by providing leadership, help with interactions with the
-board and Foundation staff and to generally help grease the
-wheels to keep things moving.
+board and Foundation staff and to generally help keep things moving.
 
 Voting members serve for a term of 1 year and must be re-nominated
 and ratified by the board each year. In addition, a Voting CPC member
-can be removed by by voluntary resignation, by a standard CPC motion,
+can be removed by voluntary resignation, by a standard CPC motion,
 or in accordance to the participation rules described for Regular
 members.
  
@@ -94,11 +95,11 @@ Changes to CPC membership should be posted in the agenda, and may be suggested
 as any other agenda item.
 
 No more than one-fourth of the Voting CPC members may be affiliated with the
-same employer. If removal or resignation of a Voting CPC member, or a change of
-employment by a Voting CPC member, creates a situation where more than
-one-fourth of the Voting CPC membership shares an employer, then the situation
-must be immediately remedied by the resignation or removal of one or more
-PC
+same employer. Removal or resignation of a Voting CPC member, or a change of
+employment by a Voting CPC member could cause more than
+one-fourth of the Voting CPC membership to be affiliated with the same emplyer.
+Such a situation must be immediately remedied by the resignation or
+removal of one or more voting CPC members.
 
 The CPC may, at its discretion, invite any number of non-voting observers to
 participate in the public portion of CPC discussions and meetings.
@@ -112,56 +113,57 @@ through consensus or if necessary a vote as described in the section titled "Vot
 Minutes or an appropriate recording shall be taken and made available to
 the community through accessible public postings.
 
+Voting members have the roles and responsibilities as outlined below.
+
 Section 5. Responsibilities and Expectations of the CPC
 
 Subject to such policies as may be set by the Board, the CPC is responsible for
 ensuring: 
 
-   * ensuring collaboration is the driving principle within a Project, between
+   1. ensuring collaboration is the driving principle within a Project, between
      _$FOUNDATION_ Projects, and between _$FOUNDATION_ Projects and the broader
      community.
-   * defining and maintaining neutral consensus for the technical vision for the _$FOUNDATION_
-   * creating conceptual architecture for how the projects fit together.
-   * Voting members are responsible for approving new projects within the scope
-     for _$FOUNDATION_ set by the Governing Board, as outlined in [XXXX].
-   * Voting members are responsible for making final decisions on aligning projects,
-     removing or archiving projects, as outlined in [XXXX].
-   * Voting members are responsible for approving funds for budgets delegated 
-     to the project. A good example is the travel fund.
-   * follow and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
-   * defining common practices to be implemented across _$FOUNDATION_ projects, if any.
-   * The CPC is also responsible for mediating technical conflicts between
-     _$FOUNDATION_ Projects when attempts to resolve those conflicts within the Project
-   were unsuccessful. 
-   * Creating a yearly budget that can be drawn on by the projects.
-   * The CPC serves as the _$FOUNDATION_'s primary technical
-     liaison body with external open source projects, consortiums and groups and is
-     also responsible for ensuring that the _$FOUNDATION_ has appropriate technical
-     participation in standards bodies by finding an encouraging projects members to
-     particiapte in these bodies.
-   * Managing the Individual membership program
-   * Managing programs to improve Inclusivity and Diversity
-   * Guiding projects into appropriate Foundation paths
-   * Shared resources, tooling and funding for projects and Commons.js (Events
-     Collabl Summit, Travel fund)
-   * Code of Conduct incident response support
-   * Developing a framework for community end-user feedback
-   * Managing programs to offer mentorship to external individuals
-   * Managing developer outreach programs
-   * Support project advocacy and recognition programs
-   * Identify, recruit and engage prospective projects
-   * Voting members are responsible for making a final decision if consensus
-     cannot be reached among members.
-   * Members of the CPC, or committees consisting of subsets of the CPC
-     membership will be expected to meet on a regular basis to discuss topics
-     such as new project acceptance into the mentorship program, project graduation
-     from the mentorship program, Project issues and conflicts, opportunities
-     for collaboration between Projects, opportunities for the Foundation in the
-     greater JavaScript community, etc.
-   * When needed, members of the CPC will be expected to create subcommittees
-     or working groups to make proposals, delegate areas of responsibility and
-     to make decisions on significant topics. Delegation to the subcommittee
-     will be through a written set of responsibilities for the subcomittee or group.
+   1. defining and maintaining neutral consensus for the technical vision for the _$FOUNDATION_.
+   1. creating conceptual architecture for how the projects fit together.
+   1. Voting members are responsible for approving new projects within the scope
+      for _$FOUNDATION_ set by the Governing Board, as outlined in [XXXX].
+   1. Voting members are responsible for making final decisions on aligning projects,
+      removing or archiving projects, as outlined in [XXXX].
+   1. Voting members are responsible for approving funds for budgets delegated 
+      to the project. A good example is the travel fund.
+   1. follow and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
+   1. defining common practices to be implemented across _$FOUNDATION_ projects, if any.
+   1. The CPC is also responsible for mediating technical conflicts between
+      _$FOUNDATION_ Projects when attempts to resolve those conflicts within the Project
+      were unsuccessful. 
+   1. Creating a yearly budget that can be drawn on by the projects.
+   1. The CPC serves as the _$FOUNDATION_'s primary technical
+      liaison body with external open source projects, consortiums and groups and is
+      also responsible for ensuring that the _$FOUNDATION_ has appropriate technical
+      participation in standards bodies by finding an encouraging projects members to
+      particiapte in these bodies.
+   1. Managing the Individual membership program.
+   1. Managing programs to improve inclusivity and diversity.
+   1. Guiding projects into appropriate Foundation paths.
+   1. Shared resources, tooling and funding for projects and Commons.js (Events
+      Collaborator Summit, Travel fund).
+   1. Code of Conduct incident response support.
+   1. Developing a framework for community end-user feedback.
+   1. Managing programs to offer mentorship to external individuals.
+   1. Managing developer outreach programs.
+   1. Supporting project advocacy and recognition programs.
+   1. Identifing, recruiting and engaging prospective projects.
+   1. Voting members are responsible for making a final decision if consensus
+      cannot be reached among members.
+   1. Members of the CPC, or committees consisting of subsets of the CPC
+      membership will be expected to meet on a regular basis to discuss topics
+      such as new project acceptance into the mentorship program, project graduation
+      from the mentorship program, Project issues and conflicts, opportunities
+      for collaboration between Projects, opportunities for the Foundation in the
+      greater JavaScript community, etc.
+   1. When needed, members of the CPC will be expected to create subcommittees
+      or working groups. The CPC will delegate responsibilities and empower
+      these groups to make decisions.
      
      
 ## Section 6. Non-Responsibilities of the CPC
