@@ -36,6 +36,4 @@ foundation.
 
 ## What is neccessary to complete this proposal
 
-* Agreement on the number of board members the CPC should
-  have.
 

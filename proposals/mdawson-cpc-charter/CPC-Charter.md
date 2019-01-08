@@ -224,7 +224,38 @@ the same person. The CPC shall hold annual elections to select a CPC
 Chairperson and Director; there are no limits on the number of terms a
 CPC Chairperson or Director may serve.
 
-## Section 8. Decision Making
+## Section 8. Board Representation
+
+There are 3 Board seats earmarked for representation from the
+_$FOUNDATION_ projects.  The first of these board seats is filled by
+the CPC Director as outlined in Section 7 on [Elections][].
+
+The remaining 2 Board seats will be filled based on processes defined
+by the CPC and approved by the Voting CPC members and then the Board. The
+CPC members will review and either re-confirm or update the
+processes once per year.
+
+For the first year after the formation of the _$FOUNDATION_, the
+processes for filling the remaining 2 Board seats will be as follows:
+
+* As a constellation member of the _$FOUNDATION_, the Node.js project
+  will elect one Board representative from either the TSC or
+  Community Committee. The representative will be selected through a vote
+  of the members of the Node.js organization. 
+
+* One board member will be elected from the voting CPC members representing
+  the top level projects (excluding those representing Node.js) within
+  the _$FOUNDATION_ through a vote of the members of the top
+  level projects (excluding Node.js).
+
+This approach ensures that votes are not swamped by the larger nubmers of
+members within the Node.js project while at the same time recognizing the
+size and contribution of the Node.js project at this time.
+
+As described in the [Elections][] section a multiple candidate method
+will be be used for the voting.
+
+## Section 9. Decision Making
 
 For internal Project decisions, Collaborators shall operate under Lazy
 Consensus. The CPC follows a [Consensus Seeking][] decision making model. When
@@ -235,7 +266,7 @@ If an agenda item cannot reach a consensus a CPC member can call for either a
 closing vote or a vote to table the issue to the next meeting. Votes shall
 follow the procedure described in the [Voting][] section of this charter.
 
-## Section 9. Voting
+## Section 10. Voting
 
 The CPC follows a [Consensus Seeking][] decision making model. When an agenda
 item has appeared to reach a consensus the moderator will ask "Does anyone
@@ -253,7 +284,7 @@ Note that, in addition to requiring a simple majority vote of the CPC Voting
 CPC members, all changes to this charter are also subject to approval
 from the _$FOUNDATION_ Foundation board.
 
-## Section 10. Definitions
+## Section 11. Definitions
 
 **Project**: a technical collaboration effort that is organized through the
 project mentorship process and approved by the TAC.
@@ -274,7 +305,7 @@ policies.
 
 [Foundation mission and vision statements]:  xx
 [Foundation bylaws]:  x
-[Voting]:  #section-9.-voting
+[Voting]:  #section-10.-voting
 [Elections]: #section-7.-elections
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
