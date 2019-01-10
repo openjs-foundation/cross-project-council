@@ -145,7 +145,7 @@ ensuring:
    1. Voting members are responsible for making final decisions on aligning projects,
       removing or archiving projects, as outlined in [XXXX].
    1. Voting members are responsible for approving funds for budgets delegated 
-      to the project. A good example is the travel fund.
+      to the project.
    1. Following and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
    1. Defining common practices to be implemented across _$FOUNDATION_ projects, if any.
    1. Mediating technical conflicts between _$FOUNDATION_ Projects when attempts to resolve
