@@ -8,9 +8,9 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 1
 
-* [hackygolucky-EXPECTATIONS](hackygolucky-EXPECTATIONS)
-* [jorydotcom - PROJECT_PROGRESSION](./jorydotcom-PROJECT_PROGRESSION)
-* [MichaelDawson - CPC-Charter](mdawson-cpc-charter)
+* [Expectations](./stage-1/EXPECTATIONS)
+* [Project Progression](./stage-1/PROJECT_PROGRESSION)
+* [CPC Charter](./stage-1/CPC_CHARTER)
 
 ## Stage 2
 
@@ -18,4 +18,4 @@ There are currently no Stage 2 proposals.
 
 ## Stage 3
 
-* [MylesBorins - GOVERNANCE](./adopted/mylesborins-GOVERNANCE)
+* [Governance](./adopted/GOVERNANCE)
