@@ -1,6 +1,9 @@
 # Staging Process Proposal
 
-Anyone may submit an idea for a policy or program following the staging process outlined below. To submit an idea, create a proposal document in markdown format in the /proposals directory, update [proposals/README.md](./README.md), submit a pull-request, and apply the appropriate staging label. If the proposal has multiple artifacts please consider making a folder for the proposal.
+Anyone may submit an idea for a policy or program following the staging process outlined below. To submit an idea, create a folder in the appropriate
+directory found in `./proposals`, update [proposals/README.md](./README.md), submit a pull-request, and apply the appropriate staging label.
+
+For stage 0 proposals a README.md is sufficient, for later stages please include the appropriate supporting documents as well.
 
 The proposal will be evaluated at bootstrap committee meetings and stage changes will occur at those times.
 
