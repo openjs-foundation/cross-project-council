@@ -54,7 +54,7 @@ The CPC is an inclusive group with three types of participants:
 ### Observers
 
 Observers are free to attend meetings and participate in the work of the
-Foundation, CPC and participate in the consensus seeking process.
+CPC as well as the consensus seeking process.
 
 ### Regular members
 
