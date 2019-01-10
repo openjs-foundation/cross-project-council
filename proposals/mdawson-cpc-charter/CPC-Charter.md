@@ -130,24 +130,28 @@ ensuring:
 
    1. When needed, members of the CPC will be expected to create subcommittees
       or working groups. The CPC will delegate responsibilities and empower
-      these groups to make decisions.
-   1. ensuring collaboration is the driving principle within a Project, between
+      these groups to make decisions. Any of the responsibilities listed below
+      not identified as being responsibilities of the Voting members may be delegated.
+      For the remanining responsibilities, day-to-day work, investigation, and building
+      recommentations may be delegated, however, the final responsibility will
+      remain with the Voting members.
+   1. Ensuring collaboration is the driving principle within a Project, between
      _$FOUNDATION_ Projects, and between _$FOUNDATION_ Projects and the broader
      community.
-   1. defining and maintaining neutral consensus for the technical vision for the _$FOUNDATION_.
-   1. creating conceptual architecture for how the projects fit together.
+   1. Defining and maintaining neutral consensus for the technical vision for the _$FOUNDATION_.
+   1. Creating conceptual architecture for how the projects fit together.
    1. Voting members are responsible for approving new projects within the scope
       for _$FOUNDATION_ set by the Governing Board, as outlined in [XXXX].
    1. Voting members are responsible for making final decisions on aligning projects,
       removing or archiving projects, as outlined in [XXXX].
    1. Voting members are responsible for approving funds for budgets delegated 
       to the project. A good example is the travel fund.
-   1. follow and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
-   1. defining common practices to be implemented across _$FOUNDATION_ projects, if any.
-   1. The CPC is also responsible for mediating technical conflicts between
-      _$FOUNDATION_ Projects when attempts to resolve those conflicts within the Project
-      were unsuccessful. 
-   1. Creating a yearly budget that can be drawn on by the projects.
+   1. Following and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
+   1. Defining common practices to be implemented across _$FOUNDATION_ projects, if any.
+   1. Mediating technical conflicts between _$FOUNDATION_ Projects when attempts to resolve
+      those conflicts within the Project were unsuccessful. 
+   1. Managing the process for creating a yearly budget and approving a yearly budget to be
+      presented to the board.
    1. The CPC serves as the _$FOUNDATION_'s primary technical
       liaison body with external open source projects, consortiums and groups and is
       also responsible for ensuring that the _$FOUNDATION_ has appropriate technical
