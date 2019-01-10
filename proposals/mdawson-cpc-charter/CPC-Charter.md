@@ -68,14 +68,14 @@ Voting members are selected as follows:
 
 * Each top level project may nominate two members through a process
 of their choosing. Once nominated the member must be ratified by the
-board before becoming a Voting member.
+CPC Voting members before becoming a Voting member.
 
 * two Voting members may be nominated by the non top-level projects based
 on a process set by the CPC.
 
 * two Voting members may be nominated by the Regular members. Once
-nominated these members must be ratified by the board before
-becoming a Voting member.
+nominated these members must be ratified by the CPC Voting members
+before becoming a Voting member.
 
 Voting members are expected to make a time commitment which
 allows them to be responsive to CPC business, participate regularly
@@ -86,7 +86,7 @@ members by providing leadership, help with interactions with the
 board and Foundation staff and to generally help keep things moving.
 
 Voting members serve for a term of 1 year and must be re-nominated
-and ratified by the board each year. In addition, a Voting CPC member
+and ratified by the Voting CPC members each year. In addition, a Voting CPC member
 can be removed by voluntary resignation, by a standard CPC motion,
 or in accordance to the participation rules described for Regular
 members.
@@ -120,6 +120,9 @@ Section 5. Responsibilities and Expectations of the CPC
 Subject to such policies as may be set by the Board, the CPC is responsible for
 ensuring: 
 
+   1. When needed, members of the CPC will be expected to create subcommittees
+      or working groups. The CPC will delegate responsibilities and empower
+      these groups to make decisions.
    1. ensuring collaboration is the driving principle within a Project, between
      _$FOUNDATION_ Projects, and between _$FOUNDATION_ Projects and the broader
      community.
@@ -161,10 +164,7 @@ ensuring:
       from the mentorship program, Project issues and conflicts, opportunities
       for collaboration between Projects, opportunities for the Foundation in the
       greater JavaScript community, etc.
-   1. When needed, members of the CPC will be expected to create subcommittees
-      or working groups. The CPC will delegate responsibilities and empower
-      these groups to make decisions.
-     
+  
      
 ## Section 6. Non-Responsibilities of the CPC
 
