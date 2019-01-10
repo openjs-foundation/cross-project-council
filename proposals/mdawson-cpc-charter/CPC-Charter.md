@@ -44,15 +44,23 @@ direction of the policies set by the Board.
 
 ## Section 4. Establishment of the CPC.
 
-The CPC is an inclusive group with two types of members:
+The CPC is an inclusive group with three types of participants:
 
+* Observers
 * Regular members
 * Voting members
 
+
+### Observers
+
+Observers are free to attend meetings and participate in the work of the
+Foundation, CPC and participate in the consensus seeking process.
+
 ### Regular members
 
-Regular members have the roles and responsibilities
-outlined below. Regular member is implied when memership type is not
+Regular members have made a commitment to be involved in an ongoing manner
+and take on roles and responsibilities as outlined below.
+Regular member is implied when memership type is not
 specified. Anyone who has been a member of one of the projects under the 
 Foundation for at least three months may request to
 become a regular member by opening a PR to add themselves to the list of
@@ -101,8 +109,8 @@ one-fourth of the Voting CPC membership to be affiliated with the same emplyer.
 Such a situation must be immediately remedied by the resignation or
 removal of one or more voting CPC members.
 
-The CPC may, at its discretion, invite any number of non-voting observers to
-participate in the public portion of CPC discussions and meetings.
+The public portion of the CPC discussions and meetings will be open to all
+observers and members.
 
 The CPC shall meet regularly using tools that enable participation by the
 community. The meeting shall be directed by the CPC Chairperson.
@@ -150,7 +158,8 @@ ensuring:
    1. Guiding projects into appropriate Foundation paths.
    1. Shared resources, tooling and funding for projects and Commons.js (Events
       Collaborator Summit, Travel fund).
-   1. Code of Conduct incident response support.
+   1. Supporting projects in their enforcement of Code of Conduct
+      violations and escalation.
    1. Developing a framework for community end-user feedback.
    1. Managing programs to offer mentorship to external individuals.
    1. Managing developer outreach programs.
