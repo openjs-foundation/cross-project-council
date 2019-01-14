@@ -36,5 +36,6 @@ foundation.
 
 ## What is neccessary to complete this proposal
 
-Discussion, review and agreement amoung the bootstrap
-members.
+* Agreement on the number of board members the CPC should
+  have.
+

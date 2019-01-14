@@ -13,7 +13,7 @@ technical governance model. _$FOUNDATION_ Foundation’s technical leadership
 is the Cross Project Council (“CPC”). _$FOUNDATION_ Foundation’s business
 leadership is the Board of Directors (the “Board”).
 
-This Cross Project Council Charter reflects a carefully
+This Cross Project Council Charter reflectstans a carefully
 constructed balanced role for the CPC and the Board in the governance of
 _$FOUNDATION_ Foundation. The charter amendment process is for the
 _$FOUNDATION_ to propose changes using simple majority of the
@@ -44,157 +44,140 @@ direction of the policies set by the Board.
 
 ## Section 4. Establishment of the CPC.
 
-\>\>\>\>\>\>\>\>\>\>\> Node.js
+The CPC is an inclusive group with three types of participants:
 
-CPC memberships are not time-limited. There is no maximum size of the CPC.
-The size is expected to vary in order to ensure adequate coverage of important
-areas of expertise, balanced with the ability to make decisions efficiently.
-The CPC must have at least three members.
+* Observers
+* Regular members
+* Voting members
 
-There is no specific set of requirements or qualifications for CPC
-membership beyond these rules. The CPC may add additional members to the
-CPC by a standard CPC motion and vote. A CPC member may be removed from the
-CPC by voluntary resignation, by a standard CPC motion, or in accordance to the
-participation rules described below.
 
-\>\>\>\>\>\>\>\>\>\>\> JS Foundation
+### Observers
 
-TAC memberships are time-limited to 1 year terms with no limit on the number of
-terms a member may serve. The TAC will be limited to 25 voting seats and
-membership of the TAC will consist of:
+Observers are free to attend meetings and participate in the work of the
+CPC as well as the consensus seeking process.
 
-1. One representative from each JS Foundation Platinum Member organization.
-2. One representative from the Node.js Foundation. See the [Ecosystem
-Mentorship][] section below for details concerning the relationship between the
-JS Foundation and the Node.js Foundation.
-3. Individuals from the greater JS community as appointed by the existing TAC
-and the Board. This includes JS Foundation Project representatives as nominated
-by Projects that have completed and graduated from the mentorship process.
+### Regular members
 
-There is no specific set of requirements or qualifications for TAC membership
-beyond these rules. The TAC and the Board may add additional members from the JS
-community to the TAC by  following the election process as described in the
-[Elections][] section of this charter. A TAC member, including those appointed
-by Projects and Member organizations may be removed from the TAC by voluntary
-resignation, or by a standard TAC motion and vote. If the removed member is a
-Project or Member organization representative, that Project or Member
-organization may appoint a new representative. The removed member may again be
-considered for addition to the TAC after a term of 1 year from their removal. At
-the end of a member's term, that term may be renewed for an additional term by a
-standard TAC motion and vote.
+Regular members have made a commitment to be involved in an ongoing manner
+and take on roles and responsibilities as outlined below.
+Regular member is implied when memership type is not
+specified. Anyone who has been a member of one of the projects under the 
+Foundation for at least three months may request to
+become a regular member by opening a PR to add themselves to the list of
+regular members. Regular members remain for as long as they are active
+within the work of the CPC. Regular members who have not been active
+in GitHub, participated in meetings, or other work of the CPC for 3 months may be
+removed from the list of Regular members. In addition, a Regular CPC member
+can be removed by voluntary resignation, or by a standard CPC motion.
 
-\>\>\>\>\>\>\>\>\>\>\> CNCF
+### Voting members
 
-* Composition
+Voting members are selected as follows:
 
-  * The TOC shall be composed of at most nine (9) members.
+* Each top level project may nominate two members through a process
+of their choosing. Once nominated the member must be ratified by the
+CPC Voting members before becoming a Voting member.
 
-  * TOC members elected are expected to cover key technical domains: container technologies, operating systems, technical operations, distributed systems, user level application design, etc.
+* two Voting members may be nominated by the non top-level projects based
+on a process set by the CPC.
 
-  * The Governing Board shall elect six (6) TOC members, the End User TAB shall elect one (1) TOC member and the initial seven TOC members shall elect an additional two (2) TOC members.
+* two Voting members may be nominated by the Regular members. Once
+nominated these members must be ratified by the CPC Voting members
+before becoming a Voting member.
 
-* Criteria for Nomination. Nominees for the TOC shall:
-  * commit that they have the available bandwidth to make the time to invest in the CNCF TOC, including a considerable early investment as the CNCF is formed and then ongoing investment of time to prepare and review in advance of quarterly TOC meetings,
+Voting members are expected to make a time commitment which
+allows them to be responsive to CPC business, participate regularly
+in meetings and to participate in all voting matters (either by
+voting or specifically abstaining).  They are
+also expected to help to enable work of the regular CPC
+members by providing leadership, help with interactions with the
+board and Foundation staff and to generally help keep things moving.
 
-  * demonstrate advanced level of professional experience as engineers in the scope of CNCF,
-
-  * demonstrate seniority sufficient to access additional staff or community members to assist in their TOC preparations, and\\ iv. operate neutrally in discussions and put the goals and success of CNCF in balance with corporate objectives or any particular project in CNCF.
-
-* Process for TOC Member Nominations and Election
-
- * The TOC shall be composed of nine (9) TOC members: six (6) elected by the Governing Board, one (1) selected by the End User TAB and two (2) elected by the initial seven TOC members.
-
- * Nominations: Each CNCF member may nominate up to two (2) technical representatives, (from vendors, end users or any other fields), at most one of which may be from their respective company. The nominee(s) must agree to participate prior to being added to the nomination list.
-
- * The initial seven (7) TOC members (the six elected by the Governing Board plus one (1) elected by the End User TAB) shall then nominate and elect two (2) additional TOC members using the Nomination Process.
-
- * A nomination requires a maximum one (1) page nomination pitch which should include the nominees name, contact information and supporting statement identifying the nominees experience in CNCF domains.
-
- * The Governing Board, End User TAB and TOC shall determine the timeline and dates for nominations, voting, and any other details regarding the nomination and election process for their TOC elections.
-
- * A minimum of 14 calendar days shall be reserved for an Evaluation Period whereby TOC nominees may be contacted and/or evaluate the electors.
-
- * Elections: After the Evaluation Period, the Governing Board and the seven non-TOC-appointed TOC members, shall vote on each nominee individually. A valid vote shall require as many votes as would be required to meet quorum for a meeting. Each nominee shall require support of over 50% majority of those voting to validate the nominee meets the qualification criteria. Nominees passing with a majority vote shall be Qualified Nominees.
-
-  * If the number of Qualified Nominees are equal to or less than the number of TOC seats available to be elected, the Qualified Nominees shall be approved after the nomination period has closed. If there are more Qualified Nominees than open TOC seats available for election by either the the Governing Board, End User TAB or TOC, then that group shall elect the TOC members via a Condorcet vote. A Condorcet vote shall be run using the Condorcet-IRV method through the Cornell online service ([*http://civs.cs.cornell.edu/*](http://civs.cs.cornell.edu/)).
-
-  * If there are fewer Qualified Nominees than open TOC seats available for election by either the Governing Board, End User TAB or TOC, the group shall initiate another round of nominations with each member or individual eligible to nominate submitting at most one (1) nominee.
-
-* Constraints
-
-  *  TOC Members shall serve two-year, staggered terms. The initial six elected TOC members from the Governing Board election shall serve an initial term of three (3) years. The TOC members initially elected by the End User TAB and TOC shall serve an initial term of two (2) years.
-
- * TOC members may be removed by a two-thirds vote of the other TOC members, with the impacted individual ineligible to participate in the vote.
-
- * Any TOC member that misses three (3) consecutive meetings shall be automatically suspended from eligibility to vote until having attended two meetings consecutively. For avoidance of doubt, the suspended TOC member shall be eligible to vote in the second consecutive meeting.
-
- * The TOC charter, model, approach, composition, etc may be modified by a two-thirds vote of the entire Governing Board.
-
-===========
-
+Voting members serve for a term of 1 year and must be re-nominated
+and ratified by the Voting CPC members each year. In addition, a Voting CPC member
+can be removed by voluntary resignation, by a standard CPC motion,
+or in accordance to the participation rules described for Regular
+members.
+ 
 Changes to CPC membership should be posted in the agenda, and may be suggested
 as any other agenda item.
 
-No more than one-fourth of the CPC members may be affiliated with the
-same employer. If removal or resignation of a CPC member, or a change of
-employment by a CPC member, creates a situation where more than
-one-fourth of the CPC membership shares an employer, then the situation
-must be immediately remedied by the resignation or removal of one or more
-PC
+No more than one-fourth of the Voting CPC members may be affiliated with the
+same employer. Removal or resignation of a Voting CPC member, or a change of
+employment by a Voting CPC member could cause more than
+one-fourth of the Voting CPC membership to be affiliated with the same emplyer.
+Such a situation must be immediately remedied by the resignation or
+removal of one or more voting CPC members.
 
-The CPC may, at its discretion, invite any number of non-voting observers to
-participate in the public portion of CPC discussions and meetings.
+The public portion of the CPC discussions and meetings will be open to all
+observers and members.
 
 The CPC shall meet regularly using tools that enable participation by the
-community. The meeting shall be directed by
-the CPC Chairperson. Responsibility for directing individual meetings may be
-delegated by the CPC Chairperson to any other CPC member. Minutes or an
-appropriate recording shall be taken and made available to the community
-through accessible public postings.
+community. The meeting shall be directed by the CPC Chairperson.
+Responsibility for directing individual meetings may be
+delegated by the CPC Chairperson to any other CPC member. The CPC chairperson
+shall be one of the Voting members, and will be selected by the CPC members
+through consensus or if necessary a vote as described in the section titled "Voting".
+Minutes or an appropriate recording shall be taken and made available to
+the community through accessible public postings.
 
-\>\>\>\>\>\>\>\>\>\>\> Node.js
-
-CPC members are expected to regularly participate in CPC activities.
-In the case where an individual CPC member -- within any three month period --
-attends fewer than 25% of the regularly scheduled meetings, does not
-participate in CPC discussions, *and* does not participate in CPC votes, the
-member shall be automatically removed from the CPC. The member may be invited
-to continue attending CPC meetings as an observer.
-
-===========
-
+Voting members have the roles and responsibilities as outlined below.
 
 Section 5. Responsibilities and Expectations of the CPC
 
 Subject to such policies as may be set by the Board, the CPC is responsible for
 ensuring: 
 
-   * ensuring collaboration is the driving principle within a Project, between
+   1. When needed, members of the CPC will be expected to create subcommittees
+      or working groups. The CPC will delegate responsibilities and empower
+      these groups to make decisions. Any of the responsibilities listed below
+      not identified as being responsibilities of the Voting members may be delegated.
+      For the remanining responsibilities, day-to-day work, investigation, and building
+      recommentations may be delegated, however, the final responsibility will
+      remain with the Voting members.
+   1. Ensuring collaboration is the driving principle within a Project, between
      _$FOUNDATION_ Projects, and between _$FOUNDATION_ Projects and the broader
      community.
-   * defining and maintaining neutral consensus for the technical vision for the _$FOUNDATION_
-   * approving new projects within the scope for _$FOUNDATION_ set by the Governing Board,
-     as outlined in [XXXX], and creating conceptual architecture for how the proejcts
-     fit together.
-   * aligning projects, removing or archiving projects, as outlined in [XXXX].
-   * approving funds for budgets delegated to the project. A good example is the
-     travel fund.
-   * follow and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
-   * defining common practices to be implemented across _$FOUNDATION_ projects, if any.
-   * The CPC is also responsible for mediating technical conflicts between
-     _$FOUNDATION_ Projects when attempts to resolve those conflicts within the Project
-   were unsuccessful. 
-   * The CPC serves as the _$FOUNDATION_'s primary technical
-     liaison body with external open source projects, consortiums and groups and is
-     also responsible for ensuring that the _$FOUNDATION_ has appropriate technical
-     participation in standards bodies by finding an encouraging projects members to
-     particiapte in these bodies.
-   * Members of the CPC, or committees consisting of subsets of the CPC
-     membership will be expected to meet on a regular basis to discuss topics
-     such as new project acceptance into the mentorship program, project graduation
-     from the mentorship program, Project issues and conflicts, opportunities
-     for collaboration between Projects, opportunities for the Foundation in the
-     greater JavaScript community, etc.
+   1. Defining and maintaining neutral consensus for the technical vision for the _$FOUNDATION_.
+   1. Creating conceptual architecture for how the projects fit together.
+   1. Voting members are responsible for approving new projects within the scope
+      for _$FOUNDATION_ set by the Governing Board, as outlined in [XXXX].
+   1. Voting members are responsible for making final decisions on aligning projects,
+      removing or archiving projects, as outlined in [XXXX].
+   1. Voting members are responsible for approving funds for budgets delegated 
+      to the project.
+   1. Following and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
+   1. Defining common practices to be implemented across _$FOUNDATION_ projects, if any.
+   1. Mediating technical conflicts between _$FOUNDATION_ Projects when attempts to resolve
+      those conflicts within the Project were unsuccessful. 
+   1. Managing the process for creating a yearly budget and approving a yearly budget to be
+      presented to the board.
+   1. The CPC serves as the _$FOUNDATION_'s primary technical
+      liaison body with external open source projects, consortiums and groups and is
+      also responsible for ensuring that the _$FOUNDATION_ has appropriate technical
+      participation in standards bodies by finding an encouraging members from
+      individual projects to particiapte in these bodies.
+   1. Managing the Individual membership program.
+   1. Managing programs to improve inclusivity and diversity.
+   1. Guiding projects into appropriate Foundation paths.
+   1. Shared resources, tooling and funding for projects and Commons.js (Events
+      Collaborator Summit, Travel fund).
+   1. Supporting projects in their enforcement of Code of Conduct
+      violations and escalation.
+   1. Developing a framework for community end-user feedback.
+   1. Managing programs to offer mentorship to external individuals.
+   1. Managing developer outreach programs.
+   1. Supporting project advocacy and recognition programs.
+   1. Identifing, recruiting and engaging prospective projects.
+   1. Voting members are responsible for making a final decision if consensus
+      cannot be reached among members.
+   1. Members of the CPC, or committees consisting of subsets of the CPC
+      membership will be expected to meet on a regular basis to discuss topics
+      such as new project acceptance into the mentorship program, project graduation
+      from the mentorship program, Project issues and conflicts, opportunities
+      for collaboration between Projects, opportunities for the Foundation in the
+      greater JavaScript community, etc.
+  
      
 ## Section 6. Non-Responsibilities of the CPC
 
@@ -233,7 +216,6 @@ the candidates election. Elections shall be done within the Projects by
 the Collaborators active in the Project.
 
 
-\>\>\>\>\>\>\>\>\>\>\> Node.js
 The CPC will elect from amongst voting CPC members a CPC Chairperson to
 work on building an agenda for CPC meetings and a CPC Director to represent
 the CPC to the Board for a term of one year according to the _$FOUNDATION_ Foundation’s
@@ -241,15 +223,6 @@ By-laws. The Chair and Director may be (but are not required to be)
 the same person. The CPC shall hold annual elections to select a CPC
 Chairperson and Director; there are no limits on the number of terms a
 CPC Chairperson or Director may serve.
-
-\>\>\>\>\>\>\>\>\>\>\> JS Foundation
-Each Project that has graduated from the mentorship program may nominate a representative to be appointed to the CPC. Elections shall be done within the Projects by the Collaborators active in the Project.
-
-Foundation supporting Member organizations may elect representatives to the CPC and may use whatever means they deem fit to determine the individuals who will fill those roles in accordance with the limits set forth in the Establishment of the CPC section above.
-
-The TAC will elect from amongst voting CPC members a CPC Chairperson to work on building an agenda for CPC meetings and represent the CPC to the Board of Directors for a term of one year according to the JS Foundation's By-laws. The CPC shall hold annual elections to select a CPC Chairperson; there are no limits on the number of terms a CPC Chairperson may serve.
-
-====================
 
 ## Section 8. Decision Making
 
@@ -273,12 +246,12 @@ either a closing vote or a vote to table the issue to the next meeting.
 The call for a vote must be seconded by a majority of the CPC or else the
 discussion will continue.
 
-For all votes, a simple majority of all CPC members for, or against, the issue
-wins. A CPC member may choose to participate in any vote through abstention.
+For all votes, a simple majority of all Voting CPC members for, or against, the issue
+wins. A Voting CPC member may choose to participate in any vote through abstention.
 
-Note that, in addition to requiring a simple majority vote of the CPC, all
-changes to this charter are also subject to approval from the _$FOUNDATION_
-Foundation board.
+Note that, in addition to requiring a simple majority vote of the CPC Voting
+CPC members, all changes to this charter are also subject to approval
+from the _$FOUNDATION_ Foundation board.
 
 ## Section 10. Definitions
 
