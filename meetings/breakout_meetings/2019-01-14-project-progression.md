@@ -79,6 +79,7 @@ Today we will have open, timeboxed discussion of the following concerns identifi
 
 ### 10 mins - Clarification of Stage Definitions and Monikers (see also #44)
 
+*Note: we did not have time to cover this*
 
 ### 5 mins - Confirmation that the CPC will be responsible for project acceptance process
 
@@ -95,6 +96,8 @@ Today we will have open, timeboxed discussion of the following concerns identifi
 * Michael: If nothing goes right, having an independent 3rd party to help with this seems right to me.
 
 ### 5 mins - Clarification on what resources a Archived/Emeritus project will have/need
+
+*Note: we did not have time to cover this*
 
 ### (time permitting) Language for the Proposed Annual Review Process - see CNCF process documentation 
 
