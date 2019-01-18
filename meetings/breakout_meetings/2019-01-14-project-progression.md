@@ -61,7 +61,7 @@ Today we will have open, timeboxed discussion of the following concerns identifi
 * Jory: My Concerns for these definitions is that you might be precluding these smaller projects from having a voice and being able to take on voting decisions.
 * Matteo: For me it seems a little bit complicated. If a project isn’t very active, would they be willing to invest time in building the foundation?
 * Jory: There’s a difference between thriving and small projects. There are upper limits to projects, though they are thriving, and that’s ok.
-* Michael: We’re trying to word it so anyone can participate in the regular work. There are multiple open paths to becoming voting members, if you’re big enough - get it, but if you’re smaller, you can get recognition as voting members by the many paths we have to get there.
+* Michael: We’re trying to word it so anyone can participate in the regular work. There are multiple open paths to becoming voting members, if the project is big enough there is direct representation. If the project is smaller there are several paths to get there in the governance being proposed.
 * Jory: We believe in the power of small projects/business and what they can bring to the table. We don’t want to undervalue that.
 * Tierney: I concur 100%. That’s how node was built.
 * Myles: not hearing anything that’s saying small projects can’t become voting members/contributors right now as a top level project.
