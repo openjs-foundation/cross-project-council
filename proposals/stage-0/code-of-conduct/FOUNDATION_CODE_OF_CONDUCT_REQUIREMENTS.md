@@ -15,7 +15,7 @@ as its code of conduct and it applies to all activities/spaces at the foundation
 addition, projects joining the foundation are required to adopt this code of conduct
 within 3 months of joining the foundation.
 
-The foundation has chosen to require a common Code of Conduct as this maximizes the effectiveness
+The foundation has chosen to require a common Code of Conduct to maximize its effectiveness
 with which it can support Projects in their efforts to apply the Code of Conduct as well as
 supporting an effective escalation process. 
 
