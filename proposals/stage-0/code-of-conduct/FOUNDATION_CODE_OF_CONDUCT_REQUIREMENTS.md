@@ -17,7 +17,7 @@ within 3 months of joining the foundation.
 
 The foundation has chosen to require a common Code of Conduct to maximize its effectiveness
 with which it can support Projects in their efforts to apply the Code of Conduct as well as
-supporting an effective escalation process. 
+an effective escalation process. 
 
 ## Enforcement
 
