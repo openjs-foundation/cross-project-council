@@ -62,7 +62,7 @@ and code of conduct issues. The makeup of this team is as follows:
 * the non top-level projects may optionally provide 1 member
 * optionally 1 invited outside expert as agreed by the other CoCP members.
 
-Members of the CoCP team will added for a 1 year team and will be re-comfirmed on
+Members of the CoCP team will be added for a 1-year team and will be re-confirmed on
 a yearly basis.
 
 ## Resources
