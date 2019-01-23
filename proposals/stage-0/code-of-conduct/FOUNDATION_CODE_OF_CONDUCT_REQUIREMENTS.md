@@ -68,4 +68,4 @@ a yearly basis.
 ## Resources
 
 The CPC will establish a sub-team which will build a set of resources/processes that
-can be re-used by projects when implementing their CoC processes and enforcement.
+can be reused by projects when implementing their CoC processes and enforcement.
