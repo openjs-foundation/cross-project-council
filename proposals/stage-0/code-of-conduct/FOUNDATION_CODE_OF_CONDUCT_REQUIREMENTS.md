@@ -42,7 +42,7 @@ It is expected that most reports will be handled successfully by the CPC (in the
 case of reports relating to spaces within the scope of the foundation) or
 the processes put in place by a project. In exceptional cases where a
 reporter wishes to challenge the response from the CPC or Project, or does
-not feel comfortable reporting through the standard proceses, an escalation
+not feel comfortable reporting through the standard processes, an escalation
 report can be made to coc-escalation@xxx.org.
 
 All escalations will be reviewed and investigated by the Code of Conduct Panel (CoCP)
