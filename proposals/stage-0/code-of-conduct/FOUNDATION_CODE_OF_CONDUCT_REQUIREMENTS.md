@@ -27,7 +27,7 @@ investigated, and will result in a response that is deemed necessary and appropr
 to the circumstances. The CPC is obligated to maintain confidentiality with regard
 to the reporter of an incident.
 
-For spaces managed by each project, the project must provide a email to which complaints 
+For spaces managed by each project, the project must provide an email to which complaints 
 can be forwarded and document that complaints will be investigated and will result in a
 response that is deemed appropriate for the circumstances. Each project is free to
 implement enforcement of the Code of Conduct using processes appropriate for the size
