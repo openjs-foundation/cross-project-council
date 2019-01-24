@@ -105,7 +105,7 @@ as any other agenda item.
 No more than one-fourth of the Voting CPC members may be affiliated with the
 same employer. Removal or resignation of a Voting CPC member, or a change of
 employment by a Voting CPC member could cause more than
-one-fourth of the Voting CPC membership to be affiliated with the same emplyer.
+one-fourth of the Voting CPC membership to be affiliated with the same employer.
 Such a situation must be immediately remedied by the resignation or
 removal of one or more voting CPC members.
 
