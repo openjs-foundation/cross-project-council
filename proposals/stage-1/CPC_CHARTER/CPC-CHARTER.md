@@ -13,8 +13,8 @@ technical governance model. _$FOUNDATION_ Foundation’s technical leadership
 is the Cross Project Council (“CPC”). _$FOUNDATION_ Foundation’s business
 leadership is the Board of Directors (the “Board”).
 
-This Cross Project Council Charter reflectstans a carefully
-constructed balanced role for the CPC and the Board in the governance of
+This Cross Project Council Charter reflects a carefully
+constructed, balanced role for the CPC and the Board in the governance of
 _$FOUNDATION_ Foundation. The charter amendment process is for the
 _$FOUNDATION_ to propose changes using simple majority of the
 full _$FOUNDATION_, the proposed changes being subject to review
