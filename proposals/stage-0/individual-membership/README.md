@@ -112,7 +112,7 @@ Given the goals outlined in this proposal,
 
 ### Why this proposal is important
 
-With the historical data we have regarding individual membership, if Board Directors wish for the Individual Membership to be representative of the larger Node.js engaged ecosystem, we know that the number and makeup of the prior votes was not statistically significant nor representative. The Individual Membership did not have a clear path, role, or definition. 
+With the historical data we have regarding individual membership in Node.js, if Board Directors wish for the Individual Membership to be representative of the larger umbrella projects engaged ecosystem, we know that the number of members prior and the number of members who voted was not statistically significant nor representative. The Individual Membership did not have a clear path, role, or definition and all three are required in order to set the program up for success and provide proper service to these member programs. 
 
 *The goals of the proposed program include:*
 
