@@ -16,7 +16,7 @@ addition, projects joining the foundation are required to adopt this code of con
 within 3 months of joining the foundation.
 
 The foundation has chosen to require a common Code of Conduct to maximize its effectiveness
-at supporting Projects, in their efforts to apply the Code of Conduct, as well as 
+at supporting projects, in their efforts to apply the Code of Conduct, as well as 
 an effective escalation process. 
 
 ## Enforcement
@@ -39,10 +39,10 @@ of these processes, however, the project must agree to:
 ## Escalation
 
 It is expected that most reports will be handled successfully by the processes put
-in place by a project (for reports made to a Project) or the CPC (in the
-case of reports relating to spaces within the scope of the foundation versus a Project).
+in place by a project (for reports made to a project) or the CPC (in the
+case of reports relating to spaces within the scope of the foundation versus a project).
 In exceptional cases where a reporter wishes to challenge the response from the CPC or
-Project, or does not feel comfortable reporting through the standard processes, an escalation
+project, or does not feel comfortable reporting through the standard processes, an escalation
 report can be made to coc-escalation@xxx.org.
 
 All escalations will be reviewed and investigated by the Code of Conduct Panel (CoCP)
