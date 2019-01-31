@@ -105,7 +105,7 @@ To be considered for Growth Stage, the project must meet the At Large requiremen
 ### Impact Stage (formerly 'Top-Level')
 **Definition**
 
-The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintainence, and long-term support. These projects have reached a   
+The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintainence, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.     
 
 **Examples**
 
