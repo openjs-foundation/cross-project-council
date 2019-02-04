@@ -47,57 +47,44 @@ direction of the policies set by the Board.
 The CPC is an inclusive group with three types of participants:
 
 * Observers
-* Regular members
 * Voting members
-
 
 ### Observers
 
-Observers are free to attend meetings and participate in the work of the
-CPC as well as the consensus seeking process.
+Any member of any foundation project is invited to attend public CPC meetings as
+an observer, cannot attend private sessions occasionally held by the Voting Members.
 
-### Regular members
-
-Regular members have made a commitment to be involved in an ongoing manner
-and take on roles and responsibilities as outlined below.
-Regular member is implied when memership type is not
-specified. Anyone who has been a member of one of the projects under the 
-Foundation for at least three months may request to
-become a regular member by opening a PR to add themselves to the list of
-regular members. Regular members remain for as long as they are active
-within the work of the CPC. Regular members who have not been active
-in GitHub, participated in meetings, or other work of the CPC for 3 months may be
-removed from the list of Regular members. In addition, a Regular CPC member
-can be removed by voluntary resignation, or by a standard CPC motion.
+All Observers can participate in the [Consensus Seeking Process][] but cannot participate
+in the [Voting][] process.
 
 ### Voting members
 
+Voting members are invited to attend all CPC meetings, both public and private.
+
+All Voting Members can cast a single vote as part of the [Voting][] process.
+
 Voting members are selected as follows:
 
-* Each top level project may nominate two members through a process
+* Each top level project may nominate one member through a process
 of their choosing. Once nominated the member must be ratified by the
 CPC Voting members before becoming a Voting member.
 
-* two Voting members may be nominated by the non top-level projects based
+* one Voting member may be nominated by the non top-level projects based
 on a process set by the CPC.
-
-* two Voting members may be nominated by the Regular members. Once
-nominated these members must be ratified by the CPC Voting members
-before becoming a Voting member.
 
 Voting members are expected to make a time commitment which
 allows them to be responsive to CPC business, participate regularly
 in meetings and to participate in all voting matters (either by
 voting or specifically abstaining).  They are
-also expected to help to enable work of the regular CPC
-members by providing leadership, help with interactions with the
-board and Foundation staff and to generally help keep things moving.
+also expected to help to enable work of the Observers by providing leadership,
+help with interactions with the board and Foundation staff and to generally help
+keep things moving.
 
 Voting members serve for a term of 1 year and must be re-nominated
-and ratified by the Voting CPC members each year. In addition, a Voting CPC member
-can be removed by voluntary resignation, by a standard CPC motion,
-or in accordance to the participation rules described for Regular
-members.
+and ratified by the Voting CPC members each year. Voting members who have not been active
+in GitHub, participated in meetings, or other work  of the CPC for 3 months may be removed
+from the list of Regular members. In addition, a Voting CPC member can be removed by
+voluntary resignation, or by a standard CPC motion.
  
 Changes to CPC membership should be posted in the agenda, and may be suggested
 as any other agenda item.
@@ -123,7 +110,7 @@ the community through accessible public postings.
 
 Voting members have the roles and responsibilities as outlined below.
 
-Section 5. Responsibilities and Expectations of the CPC
+## Section 5. Responsibilities and Expectations of the CPC
 
 Subject to such policies as may be set by the Board, the CPC is responsible for
 ensuring: 
@@ -177,8 +164,7 @@ ensuring:
       from the mentorship program, Project issues and conflicts, opportunities
       for collaboration between Projects, opportunities for the Foundation in the
       greater JavaScript community, etc.
-  
-     
+
 ## Section 6. Non-Responsibilities of the CPC
 
 _$FOUNDATION_ Projects are self-governing entities. All policies and procedures for interacting with, contributing to and making decisions within a Project are defined, implemented, and documented by that Project’s maintainers and community during the mentorship process. Specific technical decisions within a Project will be the responsibility of the Project and establishment and implementation of the decision making process will be done within the guidelines as defined by CPC charter. Those Project decisions and responsibilities include but are not limited to:
@@ -192,7 +178,6 @@ _$FOUNDATION_ Projects are self-governing entities. All policies and procedures 
 * Maintaining the list of additional Collaborators.
 * Development process and any coding standards.
 * Mediating technical conflicts between Collaborators.
-
 
 Not withstanding the above, the Projects and the entire technical community will follow any processes
 as may be specified by the Board relating to the intake and license compliance review of contributions,
@@ -214,7 +199,6 @@ when there are only two candidates for one position to be filled. No
 election is required if there is only one candidate and no objections to
 the candidates election. Elections shall be done within the Projects by
 the Collaborators active in the Project.
-
 
 The CPC will elect from amongst voting CPC members a CPC Chairperson to
 work on building an agenda for CPC meetings and a CPC Director to represent
@@ -305,6 +289,7 @@ policies.
 
 [Foundation mission and vision statements]:  xx
 [Foundation bylaws]:  x
+[Consensus Seeking Process]:  #section-10.-decision-making
 [Voting]:  #section-10.-voting
 [Elections]: #section-7.-elections
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
