@@ -22,7 +22,7 @@ the Code of Conduct.
 ## Enforcement
 
 For spaces managed by the foundation complaints can be forwarded to report@xxxx.org and will
-be investigated by the CPC or its delegates. All complaints will be reviewed, 
+be investigated by the Cross Project Council(CPC) or its delegates. All complaints will be reviewed, 
 investigated, and will result in a response that is deemed necessary and appropriate
 to the circumstances. The CPC is obligated to maintain confidentiality with regard
 to the reporter of an incident.
