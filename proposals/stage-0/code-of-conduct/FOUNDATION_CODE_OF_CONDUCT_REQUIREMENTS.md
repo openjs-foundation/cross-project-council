@@ -16,7 +16,7 @@ addition, projects joining the foundation are required to adopt this code of con
 within 3 months of joining the foundation.
 
 The foundation has chosen to require a common Code of Conduct. This will allow a common
-escalation process, and will allow the Foundation to better support projects in their efforts to apply
+escalation process and will allow the Foundation to better support projects in their efforts to apply
 the Code of Conduct.
 
 ## Enforcement
