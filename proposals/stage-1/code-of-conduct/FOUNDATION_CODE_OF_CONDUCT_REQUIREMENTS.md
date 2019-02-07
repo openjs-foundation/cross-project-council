@@ -33,7 +33,7 @@ response that is deemed appropriate for the circumstances. Each project is free 
 implement enforcement of the Code of Conduct using processes appropriate for the size
 and scope of the project including any day-to-day moderation of the project spaces. As part
 of these processes, however, the project must agree to:
-  * maintain the confidentiality with regard to the reporter of an indicent
+  * maintain the confidentiality with regard to the reporter of an incident
   * to participate in and document the path for escalation as outlined in the section on Escalation.
 
 ## Escalation
