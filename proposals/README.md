@@ -7,7 +7,6 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [Regular Town Halls](./stage-0/regular-town-halls)
 * [Standards Outreach](./stage-0/standards-outreach)
 * [Shared Interfaces](./stage-0/shared-interfaces)
-* [Individual Membership program](./stage-0/individual-membership)
 
 ## Stage 1
 
@@ -15,6 +14,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [CPC Charter](./stage-1/CPC_CHARTER)
 * [Community Board representation](./stage-1/community-board-represenation)
 * [Code of Conduct approach](./stage-1/code-of-conduct)
+* [Individual Membership program](./stage-1/individual-membership)
 
 ## Stage 2
 
