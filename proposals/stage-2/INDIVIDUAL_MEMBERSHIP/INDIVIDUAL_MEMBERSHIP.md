@@ -12,13 +12,23 @@ Phase 1: At launch, the program will only have a single tier. This will provide 
 
 Phase 2: The long term goal of the projects will be to deliver three membership tiers, as described below. The initial membership offering would then be known as Bronze Membership, followed by the addition of the two higher tiers in terms of perks.The delay in Silver and Gold Membership launch allow the program time to recruit corporate member perks and mature enough to provide value.
 
+## Chartering
+
+The Cross Project Council (CPC) will be chartered by the board to roll out and maintain the Individual Membership program.
+
+## Board Representation
+
+One of the three community board seats is reserved for Individual Membership Program. It becomes activated once
+there are least 3 platinum directors and 2000 members registered in the program. Specifics related to timing will
+be determined by the CPC.
+
 ## Individual Membership Tiers
 
 ### Initial 2019 relaunch membership/Bronze Member ($12/yr) 
 
 #### Rollout Target: Q4 2019
 
-The affordability of this member class allows for folks who are excited about $FOUNDATION projects to feel part of the $FOUNDATION without putting the barrier to entry too high. This membership level affords participants:
+The affordability of this member level allows for folks who are excited about $FOUNDATION projects to feel part of the $FOUNDATION without putting the barrier to entry too high. This membership level affords participants:
 
 1. The $FOUNDATION member badge – an exclusive digital membership badge and sticker 
 2. Public “thank you” on the $FOUNDATION website 
@@ -32,7 +42,7 @@ The affordability of this member class allows for folks who are excited about $F
 
 #### Rollout Target: Q1 2020
 
-This membership class targets participants excited to become more involved with industry tools and services by connecting with $FOUNDATION Corporate Member companies on a deeper level. This class affords participants all the benefits of Bronze Membership as well as:
+This membership level targets participants excited to become more involved with industry tools and services by connecting with $FOUNDATION Corporate Member companies on a deeper level. This level affords participants all the benefits of Bronze Membership as well as:
 
 1. Access to Corporate Member perks (similar to GitHub’s [Student Developer Pack](https://education.github.com/pack)) 
     1. Ex: Three free months of LinkedIn Learning 
@@ -44,7 +54,7 @@ This membership class targets participants excited to become more involved with 
 
 #### Rollout Target: Q2 2020
 
-A Gold Membership is for community members eager to engage closer with project administration and governance. This class affordes participants all the benefits of Silver Membership, as well as:
+A Gold Membership is for community members eager to engage closer with project administration and governance. This level affordes participants all the benefits of Silver Membership, as well as:
 
 1. A yearly town hall style meet and greet with $FOUNDATION Board members 
 2. 25% discount to Foundation events.

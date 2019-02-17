@@ -1,5 +1,5 @@
 # Individual Membership Program
->  Stage 1
+>  Stage 2
 
 ### Champion
 [Tracy Hinds](https://github.com/hackygolucky)
@@ -14,7 +14,6 @@ What resources would be needed to execute it?
 
 - Administrator for elections, tooling, and communications coordination for membership 
 - Tooling: membership management system and election system 
-  
 
 ### Who would be responsible?
 
@@ -45,8 +44,5 @@ With the historical data we have regarding individual membership in Node.js, if 
 
 ### What is necessary to complete this proposal
 
-1. Approval of this proposal from projects building the $FOUNDATION, the Node.js Board of Directors, and JSF Board of Directors
+1. Approval of this proposal from the Node.js Board of Directors, and JSF Board of Directors
 2. A continued commitment by the CPC in conjunction with the Executive group
-3. Consensus regarding how this program should be chartered
-  - chartered by board or by CPC
-4. Consensus regarding if this is a membership class or a program.
