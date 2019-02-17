@@ -74,11 +74,11 @@ can be removed by voluntary resignation, or by a standard CPC motion.
 
 Voting members are selected as follows:
 
-* Each top level project may nominate two members through a process
+* Each Impact project may nominate two members through a process
 of their choosing. Once nominated the member must be ratified by the
 CPC Voting members before becoming a Voting member.
 
-* two Voting members may be nominated by the non top-level projects based
+* two Voting members may be nominated by the non Impact projects based
 on a process set by the CPC.
 
 * two Voting members may be nominated by the Regular members. Once
@@ -244,9 +244,9 @@ processes for filling the remaining 2 Board seats will be as follows:
   of the members of the Node.js organization. 
 
 * One board member will be elected from the voting CPC members representing
-  the top level projects (excluding those representing Node.js) within
-  the _$FOUNDATION_ through a vote of the members of the top
-  level projects (excluding Node.js).
+  the Impact projects (excluding those representing Node.js) within
+  the _$FOUNDATION_ through a vote of the members of the Impact
+  projects (excluding Node.js).
 
 This approach ensures that votes are not swamped by the larger nubmers of
 members within the Node.js project while at the same time recognizing the
