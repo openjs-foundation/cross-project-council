@@ -141,9 +141,9 @@ ensuring:
    1. Defining and maintaining neutral consensus for the technical vision for the _$FOUNDATION_.
    1. Creating conceptual architecture for how the projects fit together.
    1. Voting members are responsible for approving new projects within the scope
-      for _$FOUNDATION_ set by the Governing Board, as outlined in [XXXX].
+      for _$FOUNDATION_ set by the Governing Board, as outlined in the Project Progression Process.
    1. Voting members are responsible for making final decisions on aligning projects,
-      removing or archiving projects, as outlined in [XXXX].
+      removing or archiving projects, as outlined in Project Progression Process.
    1. Voting members are responsible for approving funds for budgets delegated 
       to the project.
    1. Following and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
