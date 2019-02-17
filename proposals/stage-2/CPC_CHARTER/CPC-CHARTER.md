@@ -238,7 +238,7 @@ CPC members will review and either re-confirm or update the
 processes once per year.
 
 For the first year after the formation of the _$FOUNDATION_, the
-processes for filling the remaining 2 Board seats will be as follows:
+processes for filling this seat will be as follows:
 
 * As a constellation member of the _$FOUNDATION_, the Node.js project
   will elect one Board representative from either the TSC or
