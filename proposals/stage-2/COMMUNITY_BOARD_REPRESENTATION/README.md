@@ -1,5 +1,5 @@
 # Community Board Representation
->  Stage 1
+>  Stage 2
 
 ## Champion
 
@@ -49,27 +49,8 @@ This would be owned by both the board and the CPC
 Community representation is extremely important to the success of the foundation ensuring the board has insight
 into the community and vice versa.
 
-## Unresolved Question
-
-* Will there be an individual membership program?
-* Is the community ok with the proposed allocation
-* Is the community ok with 1 of the seats only activating with 2k members
-* Is the board ok with the proposed allocation and limitations
-
 ## What is necessary to complete this proposal
 
-* Community consensus
 * Board Sign off
 * Implemented in CPC Charter
 * Implemented in $FOUNDATION bylaws
-
-## Alternatives to this proposal
-
-The [CPC_CHARTER](../CPC_CHARTER/README.md) proposal has an alternative proposal for community board representation.
-Specifically that there be:
-
-* 1 board seat for CPC
-* 2 floating board seats to be delegated by CPC
-  - delegated on an annual basis and approved by Board
-
-Picking between these two will depend on whether or not that is an individual membership program with Board representation.

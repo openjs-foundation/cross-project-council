@@ -16,6 +16,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 2
 
+* [Community Board representation](./stage-2/COMMUNITY_BOARD_REPRESENTATION)
 * [Expectations](./stage-2/EXPECTATIONS)
 * [Individual Membership program](./stage-2/INDIVIDUAL_MEMBERSHIP)
 * [Project Progression](./stage-2/PROJECT_PROGRESSION)
