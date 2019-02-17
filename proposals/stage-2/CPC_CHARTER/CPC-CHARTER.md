@@ -231,7 +231,7 @@ _$FOUNDATION_ projects.  The first of these board seats is filled by
 the CPC Director as outlined in Section 7 on [Elections][] and is 
 always in place.  
 
-The second board seat require 2 Platinum board members to activate
+The second board seat requires 2 Platinum board members to activate
 and will be filled based on processes defined
 by the CPC and approved by the Voting CPC members and then the Board. The
 CPC members will review and either re-confirm or update the
