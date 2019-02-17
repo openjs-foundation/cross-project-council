@@ -228,9 +228,11 @@ CPC Chairperson or Director may serve.
 
 There are 3 Board seats earmarked for representation from the
 _$FOUNDATION_ projects.  The first of these board seats is filled by
-the CPC Director as outlined in Section 7 on [Elections][].
+the CPC Director as outlined in Section 7 on [Elections][] and is 
+always in place.  
 
-The remaining 2 Board seats will be filled based on processes defined
+The remaining 2 Board seats require 2 Platinum board members to activate
+and will be filled based on processes defined
 by the CPC and approved by the Voting CPC members and then the Board. The
 CPC members will review and either re-confirm or update the
 processes once per year.
