@@ -249,12 +249,12 @@ As described in the [Elections][] section a multiple candidate method
 will be be used for the voting for the first and second board members.
 
 The third board seat is earmarked to represent the Individual membership
-program.  3 Platinum board members as well as 2000 members registered in the
+program. 3 Platinum board members as well as 2000 members registered in the
 Individual membership program are required for it to activate.
-Candidate for the Individual Membership Director are to be nominated by voting
-members of the top-level committees of projects and the voting CPC members.
-Active members of the Individual Membership program would then vote via
-election system set by the CPC on the candidate of their choosing.
+Candidates for the Individual Membership Director are to be nominated by voting
+members of the top-level committees of all projects and the voting CPC members.
+Active members of the Individual Membership program would then vote on the
+candidate of their choosing via an election system set by the CPC.
 
 ## Section 9. Decision Making
 
