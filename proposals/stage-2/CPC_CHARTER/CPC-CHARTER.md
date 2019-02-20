@@ -74,14 +74,14 @@ can be removed by voluntary resignation, or by a standard CPC motion.
 
 Voting members are selected as follows:
 
-* Each Impact project may nominate two members through a process
+* Each Impact project may nominate up to two members through a process
 of their choosing. Once nominated the member must be ratified by the
 CPC Voting members before becoming a Voting member.
 
-* two Voting members may be nominated by the non Impact projects based
+* up to two Voting members may be nominated by the non Impact projects based
 on a process set by the CPC.
 
-* two Voting members may be nominated by the Regular members. Once
+* up to two Voting members may be nominated by the Regular members. Once
 nominated these members must be ratified by the CPC Voting members
 before becoming a Voting member.
 
