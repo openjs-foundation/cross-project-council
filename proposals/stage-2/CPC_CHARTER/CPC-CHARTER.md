@@ -74,14 +74,14 @@ can be removed by voluntary resignation, or by a standard CPC motion.
 
 Voting members are selected as follows:
 
-* Each top level project may nominate two members through a process
+* Each Impact project may nominate up to two members through a process
 of their choosing. Once nominated the member must be ratified by the
 CPC Voting members before becoming a Voting member.
 
-* two Voting members may be nominated by the non top-level projects based
+* up to two Voting members may be nominated by the non Impact projects based
 on a process set by the CPC.
 
-* two Voting members may be nominated by the Regular members. Once
+* up to two Voting members may be nominated by the Regular members. Once
 nominated these members must be ratified by the CPC Voting members
 before becoming a Voting member.
 
@@ -141,9 +141,9 @@ ensuring:
    1. Defining and maintaining neutral consensus for the technical vision for the _$FOUNDATION_.
    1. Creating conceptual architecture for how the projects fit together.
    1. Voting members are responsible for approving new projects within the scope
-      for _$FOUNDATION_ set by the Governing Board, as outlined in [XXXX].
+      for _$FOUNDATION_ set by the Governing Board, as outlined in the Project Progression Process.
    1. Voting members are responsible for making final decisions on aligning projects,
-      removing or archiving projects, as outlined in [XXXX].
+      removing or archiving projects, as outlined in Project Progression Process.
    1. Voting members are responsible for approving funds for budgets delegated 
       to the project.
    1. Following and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
@@ -228,32 +228,33 @@ CPC Chairperson or Director may serve.
 
 There are 3 Board seats earmarked for representation from the
 _$FOUNDATION_ projects.  The first of these board seats is filled by
-the CPC Director as outlined in Section 7 on [Elections][].
+the CPC Director as outlined in Section 7 on [Elections][] and is 
+always in place.  
 
-The remaining 2 Board seats will be filled based on processes defined
+The second board seat requires 2 Platinum board members to activate
+and will be filled based on processes defined
 by the CPC and approved by the Voting CPC members and then the Board. The
 CPC members will review and either re-confirm or update the
 processes once per year.
 
 For the first year after the formation of the _$FOUNDATION_, the
-processes for filling the remaining 2 Board seats will be as follows:
+processes for filling this seat will be as follows:
 
 * As a constellation member of the _$FOUNDATION_, the Node.js project
   will elect one Board representative from either the TSC or
   Community Committee. The representative will be selected through a vote
   of the members of the Node.js organization. 
 
-* One board member will be elected from the voting CPC members representing
-  the top level projects (excluding those representing Node.js) within
-  the _$FOUNDATION_ through a vote of the members of the top
-  level projects (excluding Node.js).
-
-This approach ensures that votes are not swamped by the larger nubmers of
-members within the Node.js project while at the same time recognizing the
-size and contribution of the Node.js project at this time.
-
 As described in the [Elections][] section a multiple candidate method
-will be be used for the voting.
+will be be used for the voting for the first and second board members.
+
+The third board seat is earmarked to represent the Individual membership
+program. 3 Platinum board members as well as 2000 members registered in the
+Individual membership program are required for it to activate.
+Candidates for the Individual Membership Director are to be nominated by voting
+members of the top-level committees of all projects and the voting CPC members.
+Active members of the Individual Membership program would then vote on the
+candidate of their choosing via an election system set by the CPC.
 
 ## Section 9. Decision Making
 

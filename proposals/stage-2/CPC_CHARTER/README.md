@@ -1,5 +1,5 @@
 # CPC Charter Proposal
->  Stage 1
+>  Stage 2
 
 ## Champion
 
@@ -36,4 +36,4 @@ foundation.
 
 ## What is neccessary to complete this proposal
 
-
+* Consensus from board that they would ratify this charter
