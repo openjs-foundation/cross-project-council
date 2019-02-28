@@ -1,5 +1,5 @@
-# Initial Governance Model
->  Stage 2
+# Expectations
+>  Stage 3
 
 ## Champion
 
@@ -26,6 +26,3 @@ The needs of the projects and ecosystem stakeholders being voiced through the go
 The Boards and Legal would review this proposal and Legal would then draft the expectations as language that would be folded into the Bylaws to be developed for the proposed foundation.
 
 [EXPECTATIONS.md]: ./EXPECTATIONS.md
-
-### Unresolved Questions
-- subject of membership to projects, not just the foundation overall
