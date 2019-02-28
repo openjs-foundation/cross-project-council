@@ -18,8 +18,8 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [CPC Charter](./stage-2/CPC_CHARTER)
 * [Expectations](./stage-2/EXPECTATIONS)
 * [Individual Membership program](./stage-2/INDIVIDUAL_MEMBERSHIP)
-* [Project Progression](./stage-2/PROJECT_PROGRESSION)
 
 ## Stage 3
 
 * [Governance](./stage-3/GOVERNANCE)
+* [Project Progression](./stage-3/PROJECT_PROGRESSION)
