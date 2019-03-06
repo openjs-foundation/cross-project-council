@@ -144,9 +144,14 @@ ensuring:
       for _$FOUNDATION_ set by the Governing Board, as outlined in the Project Progression Process.
    1. Voting members are responsible for making final decisions on aligning projects,
       removing or archiving projects, as outlined in Project Progression Process.
+   1. Voting members are responsible for approving the charter
+      (and any updates) for projects which are part of the _$FOUNDATION_. As part of this
+      review/approval the voting members will ensure that the updated charter is compatible
+      with the mission of the _$FOUNDATION_ and reach consensus with the Board on more
+      substantial changes before final approval by CPC. 
    1. Voting members are responsible for approving funds for budgets delegated 
       to the project.
-   1. Following and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
+   1. Following and be up to date on Board/_$FOUNDATION_ initiatives and communicate them to the projects.
    1. Defining common practices to be implemented across _$FOUNDATION_ projects, if any.
    1. Mediating technical conflicts between _$FOUNDATION_ Projects when attempts to resolve
       those conflicts within the Project were unsuccessful. 
