@@ -4,22 +4,29 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 0
 
+
 * [Regular Town Halls](./stage-0/regular-town-halls)
 * [Standards Outreach](./stage-0/standards-outreach)
 * [Shared Interfaces](./stage-0/shared-interfaces)
 * [Individual Membership Director](./stage-0/individual-membership-director)
 
+* [Regular Town Halls](./stage-0/REGULAR_TOWN_HALLS)
+* [Standards Outreach](./stage-0/STANDARDS_OUTREACH)
+* [Shared Interfaces](./stage-0/SHARED_INTERFACES)
+
+
 ## Stage 1
 
-* [Expectations](./stage-1/EXPECTATIONS)
-* [Project Progression](./stage-1/PROJECT_PROGRESSION)
-* [CPC Charter](./stage-1/CPC_CHARTER)
-* [Community Board representation](./stage-1/community-board-represenation)
+* [Code of Conduct approach](./stage-1/CODE_OF_CONDUCT)
 
 ## Stage 2
 
-There are currently no Stage 2 proposals.
+* [Community Board representation](./stage-2/COMMUNITY_BOARD_REPRESENTATION)
+* [CPC Charter](./stage-2/CPC_CHARTER)
+* [Expectations](./stage-2/EXPECTATIONS)
+* [Individual Membership program](./stage-2/INDIVIDUAL_MEMBERSHIP)
+* [Project Progression](./stage-2/PROJECT_PROGRESSION)
 
 ## Stage 3
 
-* [Governance](./adopted/GOVERNANCE)
+* [Governance](./stage-3/GOVERNANCE)

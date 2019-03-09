@@ -1,5 +1,5 @@
 # Initial Governance Model
->  Stage 2
+>  Stage 3
 
 ## Champion
 

@@ -1,5 +1,5 @@
 # Project Progression Proposal
->  Stage 1
+>  Stage 2
 
 ## Champion
 
@@ -27,7 +27,7 @@ Existing projects need to know what their "status" will be in the new organizati
 
 There are several sections that need to see further refinement/consensus building. There are also open issues which affect the language in this document. This includes: 
 
-* Whether there is an Open Governance requirement of Top Level Projects
+* Whether there is an Open Governance requirement of Top Level Projects - **yes, see issue #74**
 * Defined Project Proposal Requirements, & explicit metrics for how to validate that those requirements have been met.
 * Clarification of Stage Definitions and Monikers (see also #44)
   * do we require projects to keep public lists of orgs using their technology
@@ -37,6 +37,8 @@ There are several sections that need to see further refinement/consensus buildin
 
 ## What is neccessary to get this proposal to stage 3
 
-IDK yet
+Acceptance of & integration with the bootstrap CPC
+Adoption of final stage names/monikers per #44
+Existing Projects opt in to selected stage
 
 [PROJECT_PROGRESSION.md]: ./PROJECT_PROGRESSION.md
