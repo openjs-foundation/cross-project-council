@@ -17,7 +17,7 @@ What resources would be needed to execute it?
 
 ## Who would be responsible?
 
-Which committee would be overseeing or responsible for executing this proposal
+Which committee would be overseeing or responsible for executing this proposa?
 
 ## How would success be measured?
 
