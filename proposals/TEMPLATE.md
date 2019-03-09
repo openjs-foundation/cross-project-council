@@ -5,7 +5,7 @@ Below is simply a suggested template for drafting a proposal, it will not fit al
 
 ## Champion
 
-Who is the the stakeholder of this initiative?
+Who is the stakeholder of this initiative?
 
 ## Description
 
