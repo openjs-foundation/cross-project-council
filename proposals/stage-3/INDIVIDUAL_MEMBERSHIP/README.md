@@ -1,5 +1,5 @@
 # Individual Membership Program
->  Stage 2
+>  Stage 3
 
 ### Champion
 [Tracy Hinds](https://github.com/hackygolucky)
@@ -41,8 +41,3 @@ With the historical data we have regarding individual membership in Node.js, if 
 
 - Provides the interested but not yet fully engaged members the path to engagement and voice 
 - Operationalizes programs that focus on folks who are more engaged and interested in giving and getting feedback outside of the collaborator base on the project and foundation work through guaranteed communications, surveys, better evangelists prepared with exclusive information ahead of the world to provide this value. 
-
-### What is necessary to complete this proposal
-
-1. Approval of this proposal from the Node.js Board of Directors, and JSF Board of Directors
-2. A continued commitment by the CPC in conjunction with the Executive group
