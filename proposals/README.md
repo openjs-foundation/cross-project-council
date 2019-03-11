@@ -14,12 +14,12 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 2
 
-* [Community Board representation](./stage-2/COMMUNITY_BOARD_REPRESENTATION)
 * [CPC Charter](./stage-2/CPC_CHARTER)
 * [Expectations](./stage-2/EXPECTATIONS)
 
 ## Stage 3
 
+* [Community Board representation](./stage-3/COMMUNITY_BOARD_REPRESENTATION)
 * [Governance](./stage-3/GOVERNANCE)
 * [Individual Membership program](./stage-3/INDIVIDUAL_MEMBERSHIP)
 * [Project Progression](./stage-3/PROJECT_PROGRESSION)

@@ -1,5 +1,5 @@
 # Community Board Representation
->  Stage 2
+>  Stage 3
 
 ## Champion
 
@@ -48,9 +48,3 @@ This would be owned by both the board and the CPC
 
 Community representation is extremely important to the success of the foundation ensuring the board has insight
 into the community and vice versa.
-
-## What is necessary to complete this proposal
-
-* Board Sign off
-* Implemented in CPC Charter
-* Implemented in $FOUNDATION bylaws
