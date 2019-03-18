@@ -2,31 +2,31 @@
 
 ## Section 1. Guiding Principle.
 
-The _$FOUNDATION_ Foundation will operate transparently, openly,
+The OpenJS Foundation will operate transparently, openly,
 collaboratively, and ethically. Project proposals, timelines, and status
 must not merely be open, but also easily visible to outsiders.
 
-## Section 2. Evolution of _$FOUNDATION_ Foundation Governance.
+## Section 2. Evolution of OpenJS Foundation Governance.
 
 Most large, complex open source communities have both a business and a
-technical governance model. _$FOUNDATION_ Foundation’s technical leadership
-is the Cross Project Council (“CPC”). _$FOUNDATION_ Foundation’s business
+technical governance model. OpenJS Foundation’s technical leadership
+is the Cross Project Council (“CPC”). OpenJS Foundation’s business
 leadership is the Board of Directors (the “Board”).
 
 This Cross Project Council Charter reflects a carefully
 constructed, balanced role for the CPC and the Board in the governance of
-_$FOUNDATION_ Foundation. The charter amendment process is for the
-_$FOUNDATION_ to propose changes using simple majority of the
-full _$FOUNDATION_, the proposed changes being subject to review
+OpenJS Foundation. The charter amendment process is for the
+OpenJS Foundation to propose changes using simple majority of the
+full OpenJS Foundation, the proposed changes being subject to review
 and approval by the Board. The Board may additionally make amendments to
-the _$FOUNDATION_ charter at any time, though the Board will not interfere
+the OpenJS Foundation charter at any time, though the Board will not interfere
 with day-to-day discussions, votes or meetings
 of the CPC.
 
-## Section 3. Board’s Role in Setting _$FOUNDATION_ Foundation’s Strategic Direction. 
+## Section 3. Board’s Role in Setting OpenJS Foundation’s Strategic Direction. 
 
 The Board will set the overall CPC Policy. The policy will describe the
-overarching scope of the _$FOUNDATION_ Foundation initiative, _$FOUNDATION_ 
+overarching scope of the OpenJS Foundation initiative, OpenJS Foundation 
 Foundation’s technical vision and direction and project release
 expectations in the form of expected cadence and intent. The Board will
 use the CPC as a delegate body for governing technical implementation,
@@ -36,7 +36,7 @@ approved by the Board.
 
 The Board sets the overall CPC policy through [Foundation mission and vision
 statements][] as well as within the [Foundation bylaws][]. The policy describes
-the overarching scope of the _$FOUNDATION_ initiatives , technical vision,
+the overarching scope of the OpenJS Foundation initiatives , technical vision,
 and direction. The Board uses the CPC as a delegate body for governing
 high-level technical policy and procedures while remaining within the scope and
 direction of the policies set by the Board.
@@ -62,7 +62,7 @@ Regular members have made a commitment to be involved in an ongoing manner
 and take on roles and responsibilities as outlined below.
 Regular member is implied when memership type is not
 specified. Anyone who has been a member of one of the projects under the 
-Foundation for at least three months may request to
+OpenJS Foundation for at least three months may request to
 become a regular member by opening a PR to add themselves to the list of
 regular members. Regular members remain for as long as they are active
 within the work of the CPC. Regular members who have not been active
@@ -136,25 +136,30 @@ ensuring:
       recommentations may be delegated, however, the final responsibility will
       remain with the Voting members.
    1. Ensuring collaboration is the driving principle within a Project, between
-     _$FOUNDATION_ Projects, and between _$FOUNDATION_ Projects and the broader
-     community.
-   1. Defining and maintaining neutral consensus for the technical vision for the _$FOUNDATION_.
+      OpenJS Foundation Projects, and between OpenJS Foundation Projects and the broader
+      community.
+   1. Defining and maintaining neutral consensus for the technical vision for the OpenJS Foundation.
    1. Creating conceptual architecture for how the projects fit together.
    1. Voting members are responsible for approving new projects within the scope
-      for _$FOUNDATION_ set by the Governing Board, as outlined in the Project Progression Process.
+      for OpenJS Foundation set by the Governing Board, as outlined in the Project Progression Process.
    1. Voting members are responsible for making final decisions on aligning projects,
       removing or archiving projects, as outlined in Project Progression Process.
+   1. Voting members are responsible for approving the charter
+      (and any updates) for projects which are part of the OpenJS Foundation. As part of this
+      review/approval the voting members will ensure that the updated charter is compatible
+      with the mission of the OpenJS Foundation and reach consensus with the Board on more
+      substantial changes before final approval by CPC. 
    1. Voting members are responsible for approving funds for budgets delegated 
       to the project.
-   1. Following and be up to date on Board/$FOUNDATION initiatives and communicate them to the projects.
-   1. Defining common practices to be implemented across _$FOUNDATION_ projects, if any.
-   1. Mediating technical conflicts between _$FOUNDATION_ Projects when attempts to resolve
+   1. Following and be up to date on Board/OpenJS Foundation initiatives and communicate them to the projects.
+   1. Defining common practices to be implemented across OpenJS Foundation projects, if any.
+   1. Mediating technical conflicts between OpenJS Foundation Projects when attempts to resolve
       those conflicts within the Project were unsuccessful. 
    1. Managing the process for creating a yearly budget and approving a yearly budget to be
       presented to the board.
-   1. The CPC serves as the _$FOUNDATION_'s primary technical
+   1. The CPC serves as the OpenJS Foundation's primary technical
       liaison body with external open source projects, consortiums and groups and is
-      also responsible for ensuring that the _$FOUNDATION_ has appropriate technical
+      also responsible for ensuring that the OpenJS Foundation has appropriate technical
       participation in standards bodies by finding an encouraging members from
       individual projects to particiapte in these bodies.
    1. Managing the Individual membership program.
@@ -181,7 +186,7 @@ ensuring:
      
 ## Section 6. Non-Responsibilities of the CPC
 
-_$FOUNDATION_ Projects are self-governing entities. All policies and procedures for interacting with, contributing to and making decisions within a Project are defined, implemented, and documented by that Project’s maintainers and community during the mentorship process. Specific technical decisions within a Project will be the responsibility of the Project and establishment and implementation of the decision making process will be done within the guidelines as defined by CPC charter. Those Project decisions and responsibilities include but are not limited to:
+OpenJS Foundation Projects are self-governing entities. All policies and procedures for interacting with, contributing to and making decisions within a Project are defined, implemented, and documented by that Project’s maintainers and community during the mentorship process. Specific technical decisions within a Project will be the responsibility of the Project and establishment and implementation of the decision making process will be done within the guidelines as defined by CPC charter. Those Project decisions and responsibilities include but are not limited to:
 
 * Setting release dates.
 * Release quality standards.
@@ -196,11 +201,11 @@ _$FOUNDATION_ Projects are self-governing entities. All policies and procedures 
 
 Not withstanding the above, the Projects and the entire technical community will follow any processes
 as may be specified by the Board relating to the intake and license compliance review of contributions,
-including the _$FOUNDATION_ IP Policy.
+including the OpenJS Foundation IP Policy.
 
 ## Section 7. Elections
 
-Leadership roles in _$FOUNDATION_ Foundation will be peer elected
+Leadership roles in OpenJS Foundation will be peer elected
 representatives of the community.
 
 For election of persons (such as the CPC Chairperson), a multiple-candidate
@@ -218,7 +223,7 @@ the Collaborators active in the Project.
 
 The CPC will elect from amongst voting CPC members a CPC Chairperson to
 work on building an agenda for CPC meetings and a CPC Director to represent
-the CPC to the Board for a term of one year according to the _$FOUNDATION_ Foundation’s
+the CPC to the Board for a term of one year according to the OpenJS Foundation’s
 By-laws. The Chair and Director may be (but are not required to be)
 the same person. The CPC shall hold annual elections to select a CPC
 Chairperson and Director; there are no limits on the number of terms a
@@ -227,7 +232,7 @@ CPC Chairperson or Director may serve.
 ## Section 8. Board Representation
 
 There are 3 Board seats earmarked for representation from the
-_$FOUNDATION_ projects.  The first of these board seats is filled by
+OpenJS Foundation projects.  The first of these board seats is filled by
 the CPC Director as outlined in Section 7 on [Elections][] and is 
 always in place.  
 
@@ -237,10 +242,10 @@ by the CPC and approved by the Voting CPC members and then the Board. The
 CPC members will review and either re-confirm or update the
 processes once per year.
 
-For the first year after the formation of the _$FOUNDATION_, the
+For the first year after the formation of the OpenJS Foundation, the
 processes for filling this seat will be as follows:
 
-* As a constellation member of the _$FOUNDATION_, the Node.js project
+* As a constellation member of the OpenJS Foundation, the Node.js project
   will elect one Board representative from either the TSC or
   Community Committee. The representative will be selected through a vote
   of the members of the Node.js organization. 
@@ -283,7 +288,7 @@ wins. A Voting CPC member may choose to participate in any vote through abstenti
 
 Note that, in addition to requiring a simple majority vote of the CPC Voting
 CPC members, all changes to this charter are also subject to approval
-from the _$FOUNDATION_ Foundation board.
+from the OpenJS Foundation board.
 
 ## Section 11. Definitions
 
