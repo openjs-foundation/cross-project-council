@@ -7,7 +7,7 @@
 
 ## Description
 
-A monthly / quarterly open Q/A between the Board of Directors of $FOUNDATION
+A monthly / quarterly open Q/A between the Board of Directors of OpenJS Foundation
 and the projects / community.
 
 ## Required Resources

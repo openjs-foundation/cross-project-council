@@ -22,7 +22,7 @@ specifically that:
 
 4.3 e) There must be 2 platinum directors for the TSC or CommComm to elect a board member
 
-### Proposal for $FOUNDATION
+### Proposal for OpenJS Foundation
 
 There would be up to 3 community board seats:
 
