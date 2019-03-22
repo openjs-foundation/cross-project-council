@@ -115,7 +115,7 @@ Projects joining the foundation should collectively agree on a _single mission s
 
  > The Foundation is dedicated to the development and sustainability of the JavaScript ecosystem, through fostering the environment for growth of JavaScript related projects.
 
- > The Foundation envisions a future where JavaScript is a sustainable platform for implementing best in class experiences in production across all types of workloads. The $FOUNDATION is committed to being a catalyst across the industry making our technological communities productive, sustainable, equitable, diverse and inclusive.
+ > The Foundation envisions a future where JavaScript is a sustainable platform for implementing best in class experiences in production across all types of workloads. The OpenJS Foundation is committed to being a catalyst across the industry making our technological communities productive, sustainable, equitable, diverse and inclusive.
 
 ### Vision Statement Drafts
 Projects joining the foundation should collectively agree on a _single vision statement_ when joining the new Foundation. Below are a number of recommendations put forward by attendees of the Governance breakout sessions at our Node.js Collaborator Summit 2018 in Vancouver.

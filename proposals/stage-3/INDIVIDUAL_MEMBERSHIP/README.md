@@ -6,7 +6,7 @@
 
 ### Description
 
-The projects of the $FOUNDATION should strive to feel more engaging and welcoming. The Individual Membership program brings together $FOUNDATION projects contributors and users – who are not current contributors – through increased participation, solicited input, and first access to some $FOUNDATION provided benefits. This program codifies a relationship with our ecosystem, and provides an opportunity for the $FOUNDATION, and member companies, to connect with engaged community members through systematic communication building.
+The projects of the OpenJS Foundation should strive to feel more engaging and welcoming. The Individual Membership program brings together OpenJS Foundation projects contributors and users – who are not current contributors – through increased participation, solicited input, and first access to some OpenJS Foundation provided benefits. This program codifies a relationship with our ecosystem, and provides an opportunity for the OpenJS Foundation, and member companies, to connect with engaged community members through systematic communication building.
 
 ### Required Resources
 
@@ -17,7 +17,7 @@ What resources would be needed to execute it?
 
 ### Who would be responsible?
 
-The CPC would own the maintenance and sustainability of the programs with power to delegate, and would be aided by the Executive group with resources of the $FOUNDATION to execute.
+The CPC would own the maintenance and sustainability of the programs with power to delegate, and would be aided by the Executive group with resources of the OpenJS Foundation to execute.
 
 ### How would success be measured?
 
@@ -33,7 +33,7 @@ With the historical data we have regarding individual membership in Node.js, if 
 
 *The goals of the proposed program include:*
 
-- To give a voice and direction to a larger and different group than core collaborators of projects. To feel bought into the $FOUNDATION. 
+- To give a voice and direction to a larger and different group than core collaborators of projects. To feel bought into the OpenJS Foundation. 
 - To have a visible association with the foundation 
 - They see direct benefit through the swag, resources, etc. 
 
