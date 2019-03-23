@@ -247,7 +247,7 @@ processes for filling this seat will be as follows:
 
 * As a constellation member of the OpenJS Foundation, the Node.js project
   will elect one Board representative from either the Technical Steering Committee (TSC) or
-  Community Committee. The representative will be selected according to a process
+  Community Committee (CommComm). The representative will be selected according to a process
 defined by the TSC and CommComm. 
 
 As described in the [Elections][] section a multiple candidate method
