@@ -246,7 +246,7 @@ For the first year after the formation of the OpenJS Foundation, the
 processes for filling this seat will be as follows:
 
 * As a constellation member of the OpenJS Foundation, the Node.js project
-  will elect one Board representative from either the TSC or
+  will elect one Board representative from either the Technical Steering Committee (TSC) or
   Community Committee. The representative will be selected according to a process
 defined by the TSC and CommComm. 
 
