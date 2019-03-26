@@ -1,0 +1,48 @@
+# OpenJS Foundation Projects
+
+The projects below are full OpenJS Foundation members at the stage level indicated in the heading. Projects may move to new stages upon annual review or by request. 
+
+For more information on the stage definitions and how projects move between stages, please see the [Project Progression Document](/PROJECT_PROGRESSION.md). Links will navigate you to the project's official website.
+
+## Impact Projects
+
+* [Appium](http://appium.io/)
+* [Dojo](https://dojo.io/)
+* [jQuery](https://jquery.com/)
+* [Node.js](https://nodejs.dev/)
+* [webpack](https://webpack.js.org/)
+
+## Growth Projects
+
+* [Architect](https://arc.codes/)
+* [Intern](https://theintern.io/)
+* [MochaJS](https://mochajs.org/)
+* [Node-RED](https://nodered.org/)
+* [webhint](https://webhint.io/)
+
+## At Large Projects
+
+* [ESLint](https://eslint.org/)
+* [Esprima](http://esprima.org/)
+* [Express](https://expressjs.com/)
+* [Globalize](https://globalizejs.com/)
+* [Grunt](https://gruntjs.com/)
+* [HospitalRun](http://hospitalrun.io/)
+* [Interledger](https://interledger.org/)
+* [JerryScript](http://jerryscript.net/)
+* [LoDash](https://lodash.com/)
+* [libuv](https://libuv.org/)
+* [Marko JS](https://markojs.com/)
+* [messageformat](https://messageformat.github.io/messageformat/)
+* [Moment.js](https://momentjs.com/)
+* [Pep](https://github.com/jquery/PEP)
+* [QUnit](http://qunitjs.com)
+* [WebdriverIO](https://webdriver.io/)
+
+## Emeritus Projects
+
+* [Chassis](https://www.npmjs.com/package/chassis.io)
+* [Jed](https://messageformat.github.io/Jed/)
+* [jQuery UI](https://jqueryui.com/)
+* [RequireJS](https://requirejs.org/)
+* [Sizzle](https://sizzlejs.com/)
