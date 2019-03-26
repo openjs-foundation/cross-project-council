@@ -1,7 +1,7 @@
 ## I. Overview
-This governance policy describes how an open source project can formally join the Foundation via the [Project Proposal Process](). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
+This governance policy describes how an open source project can formally join the Foundation, hereinafter referred to as the "Foundation", via the [Project Proposal Process](). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
 
-Project progression - movement from one stage to another - allows projects to particpate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all OpenJS Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources such as the travel fund.
+Project progression - movement from one stage to another - allows projects to particpate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources such as the travel fund.
 
 For more information about how your project can benefit from Foundation membership and services, please see [TBD Document]().
 
@@ -10,14 +10,14 @@ This proposal has been modified from the [CNCF process documentation](https://gi
 ## II. Project Proposal Process
 
 ### Introduction
-This governance policy sets forth the proposal process for projects to be accepted into the OpenJS Foundation. The process is the same for both existing projects which seek to move into the OpenJS Foundation, and new projects to be formed within the OpenJS Foundation.
+This governance policy sets forth the proposal process for projects to be accepted into the Foundation. The process is the same for both existing projects which seek to move into the Foundation, and new projects to be formed within the Foundation.
 
 ### Project Proposal Requirements
-Projects must be proposed via GitHub. Project proposals submitted to the OpenJS Foundation must provide the following information to the best of their ability:
+Projects must be proposed via GitHub. Project proposals submitted to the Foundation must provide the following information to the best of their ability:
 
 * name of project
 * project description (what it does, why it is valuable, origin and history)
-* statement on alignment with OpenJS Foundation charter mission
+* statement on alignment with Foundation charter mission
 * link to *current* Code of Conduct
 * sponsor from CPC, if identified (a sponsor helps mentor projects)
 * project license 
@@ -36,41 +36,41 @@ Projects must be proposed via GitHub. Project proposals submitted to the OpenJS 
 
 ### Project Acceptance Process
 * Projects are required to present their proposal at a CPC meeting
-* The CPC may ask for changes to bring the project into better alignment with the OpenJS Foundation (adding a governance document to a repository or adopting a more stringent Code of Conduct, for example).
+* The CPC may ask for changes to bring the project into better alignment with the Foundation (adding a governance document to a repository or adopting a more stringent Code of Conduct, for example).
  * The project will need to make these changes in order to progress further.
 * Projects get accepted via a 2/3 supermajority vote of the CPC.
 * The proposal document will be finalized as a project charter. This charter document must be included in the project's main repository.
 * The CPC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process. 
 
 ## III. Stages - Definitions & Expectations
-Every OpenJS Foundation project has an associated maturity level. Proposed OpenJS Foundation projects should state their preferred maturity level. Projects of all maturities have access to OpenJS Foundation resources.
+Every Foundation project has an associated maturity level. Proposed Foundation projects should state their preferred maturity level. Projects of all maturities have access to Foundation resources.
 
-All OpenJS Foundation projects may attend CPC meetings and contribute work regardless of their stage. 
+All Foundation projects may attend CPC meetings and contribute work regardless of their stage. 
 
 *note: all stage names are tbd pending outcome of [#44](https://github.com/nodejs/bootstrap/issues/44#issuecomment-440026298)*
 
 ### At Large Projects (formerly 'Sandbox')
 **Definition** 
 
-At Large projects are projects which the CPC believes are, or have the potential to be, important to the ecosystem of Top-Level Projects or the JS ecosystem as a whole. They may be early-stage projects just getting started, or they may be long-established projects with minimal resource needs. The At Large stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other OpenJS Foundation projects via the graduation process.
+At Large projects are projects which the CPC believes are, or have the potential to be, important to the ecosystem of Top-Level Projects or the JS ecosystem as a whole. They may be early-stage projects just getting started, or they may be long-established projects with minimal resource needs. The At Large stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other Foundation projects via the graduation process.
 
 **Examples**
 
-1. New projects that are designed to extend one or more OpenJS Foundation projects with functionality or interoperability libraries. 
-1. Independent projects that fit the OpenJS Foundation mission and provide potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).
-1. Projects commissioned or sanctioned by the OpenJS Foundation.
-1. Any project that realistically intends to join the OpenJS Foundation Incubation or Top Level Stages in the future and wishes to lay the foundations for that transition.
+1. New projects that are designed to extend one or more Foundation projects with functionality or interoperability libraries. 
+1. Independent projects that fit the Foundation mission and provide potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).
+1. Projects commissioned or sanctioned by the Foundation.
+1. Any project that realistically intends to join the Foundation Incubation or Top Level Stages in the future and wishes to lay the foundations for that transition.
 
 **Expectations**
 
-End users should evaluate At Large projects with care, as this stage does not set requirements for community size, governance, or production readiness. At Large projects will receive minimal marketing support from the OpenJS Foundation. Projects will be reviewed on an annual basis; they may also request a status review by submitting a report to the CPC.
+End users should evaluate At Large projects with care, as this stage does not set requirements for community size, governance, or production readiness. At Large projects will receive minimal marketing support from the Foundation. Projects will be reviewed on an annual basis; they may also request a status review by submitting a report to the CPC.
 
 **Acceptance Criteria**
 
 To be considered for the At Large Stage, the project must meet the following requirements:
 * 2 CPC sponsors to champion the project & provide mentorship as needed
 * A presentation to at the meeting of the CPC
-* Adherence to the OpenJS Foundation IP Policy
+* Adherence to the Foundation IP Policy
 * Upon acceptance, At Large projects must list their status prominently on website/readme
 
 ### Growth Stage (formerly 'Incubating')
@@ -125,7 +125,7 @@ To graduate from At Large or Growth status, or for a new project to join as an I
  * Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than 1/3 is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer. 
  * Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
  * Have a healthy number of committers from at least two organizations. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
- * Adopt the OpenJS Foundation Code of Conduct.
+ * Adopt the Foundation Code of Conduct.
  * Explicitly define a project governance and committer process. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
  * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
  * Other metrics as defined by the applying Project during the application process in cooperation with the CPC.
@@ -135,7 +135,7 @@ To graduate from At Large or Growth status, or for a new project to join as an I
 ### Emeritus Stage
 **Definition**
 
-Emeritus projects are projects which the maintainers feel have reached or are nearing end-of-life. Emeritus projects have contributed to the ecosystem, but are not necessarily recommended for modern development as there may be more actively maintained choices. The OpenJS Foundation appreciates the contributions of these projects and their communities, and the role they have played in moving the ecosystem forward. 
+Emeritus projects are projects which the maintainers feel have reached or are nearing end-of-life. Emeritus projects have contributed to the ecosystem, but are not necessarily recommended for modern development as there may be more actively maintained choices. The Foundation appreciates the contributions of these projects and their communities, and the role they have played in moving the ecosystem forward. 
 
 **Examples**
 
