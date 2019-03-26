@@ -18,6 +18,7 @@ For more information on the stage definitions and how projects move between stag
 * [Intern](https://theintern.io/)
 * [MochaJS](https://mochajs.org/)
 * [Node-RED](https://nodered.org/)
+* [WebdriverIO](https://webdriver.io/)
 * [webhint](https://webhint.io/)
 
 ## At Large Projects
@@ -37,7 +38,6 @@ For more information on the stage definitions and how projects move between stag
 * [Moment.js](https://momentjs.com/)
 * [Pep](https://github.com/jquery/PEP)
 * [QUnit](http://qunitjs.com)
-* [WebdriverIO](https://webdriver.io/)
 
 ## Emeritus Projects
 
