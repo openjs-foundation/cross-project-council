@@ -2,7 +2,7 @@
 
 The projects below are full OpenJS Foundation members at the stage level indicated in the heading. Projects may move to new stages upon annual review or by request. 
 
-For more information on the stage definitions and how projects move between stages, please see the [Project Progression Document](/PROJECT_PROGRESSION.md). Links will navigate you to the project's official website.
+For information on the stages, please see the [Project Progression Document](/PROJECT_PROGRESSION.md). Links will navigate you to the project's official website.
 
 ## Impact Projects
 
