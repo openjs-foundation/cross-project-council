@@ -1,5 +1,5 @@
 ## I. Overview
-This governance policy describes how an open source project can formally join the Foundation, hereinafter referred to as the "Foundation", via the [Project Proposal Process](). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
+This governance policy describes how an open source project can formally join the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Project Proposal Process](). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
 
 Project progression - movement from one stage to another - allows projects to particpate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources such as the travel fund.
 
