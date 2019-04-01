@@ -9,7 +9,7 @@ For information on the stages, please see the [Project Progression Document](/PR
 * [Appium](http://appium.io/)
 * [Dojo](https://dojo.io/)
 * [jQuery](https://jquery.com/)
-* [Node.js](https://nodejs.dev/)
+* [Node.js](https://nodejs.org/)
 * [webpack](https://webpack.js.org/)
 
 ## Growth Projects
