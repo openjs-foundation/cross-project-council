@@ -99,7 +99,7 @@ This document is organized by two key areas: concerns that must be included in t
     - Project community representation at events 
 - Bring in resources to contribute to the working groups and initiatives. 
 - Timely communication of Board activity and decisions to appropriate scope (public, top-level committees, and so on)
-- A public face of Node.js Foundation. Activities might include, but would not be limited to, some or all of:
+- A public face of the Foundation. Activities might include, but would not be limited to, some or all of:
   - representing the voice of foundation at conferences through keynotes, panels, and talks
   - writing blog posts
   - providing regular updates to the project and the community
