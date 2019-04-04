@@ -1,12 +1,12 @@
 # Onboarding Checklist
 
-This is an informational checklist to help projects onboard into the OpenJS Foundation. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+This is an informational checklist to help projects onboard into the OpenJS Foundation - tasks we will complete together after your project has been accepted into the foundation. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
 - [ ] Adopt the OpenJS Foundation Code of Conduct
 - [ ] Update project CoC reporting methods to include OpenJS Foundation escalation path
 - [ ] Transfer official domains to OpenJS Foundation
 - [ ] Identify and document other core project infrastructure
-- [ ] Choose either CLA or DCO; implement appropriate tool
+- [ ] If choosing to use a CLA or DCO, make selection and implement appropriate tool
 - [ ] Add or Update Governance.md document (required for Impact stage)
 - [ ] Confirm required files in place (CODE_OF_CONDUCT.md, LICENSE.md)
 - [ ] Project Charter is published on website or github
