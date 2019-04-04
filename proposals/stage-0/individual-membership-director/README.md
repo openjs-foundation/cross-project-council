@@ -19,7 +19,7 @@ The process for updating the Individual Membership Director seat requires addres
 - Who is eligible to vote for candidates for a Directorship role 
   
 
-The Individual Membership Director candidates are to be nominated by voting members of the top-level committees of projects and the CPC. The active members of the Individual Membership program would then vote via our proposed election system on the candidate of their choosing.
+The Individual Membership Director candidates are to be nominated by voting members of the top-level committees of projects and the CPC. Any relevant person may be considered for candidacy regardless of whether they are a member of the Individual Membership program. The active members of the Individual Membership program would then vote via our proposed election system on the candidate of their choosing.
 
 Responsibilities of the Individual Membership Director
 
