@@ -20,7 +20,7 @@ For reporting issues in spaces related to a member project please use the email 
   the section on Escalation when required.
 
 ## Foundation Spaces
-For reporting issues in spaces managed by the OpenJS Foundation, for example, repositories within the OpenJS organization, use the email `report@openjsf.org`. The CrossProjectCouncil (CPC) is responsible for managing these reports and commits to:
+For reporting issues in spaces managed by the OpenJS Foundation, for example, repositories within the OpenJS organization, use the email `report@openjsf.org`. The Cross Project Council (CPC) is responsible for managing these reports and commits to:
 
 * maintain the confidentiality with regard to the reporter of an incident
 * to participate in the path for escalation as outlined in
