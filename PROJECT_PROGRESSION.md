@@ -1,7 +1,7 @@
 ## I. Overview
 This governance policy describes how an open source project can formally join the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Project Proposal Process](). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
 
-Project progression - movement from one stage to another - allows projects to particpate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources such as the travel fund.
+Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources such as the travel fund.
 
 For more information about how your project can benefit from Foundation membership and services, please see [TBD Document]().
 
@@ -105,11 +105,11 @@ To be considered for Growth Stage, the project must meet the At Large requiremen
 ### Impact Stage (formerly 'Top-Level')
 **Definition**
 
-The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintainence, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.     
+The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.     
 
 **Examples**
 
-1. Projects that have publicly documented release cycles and plans for LTS.
+1. Projects that have publicly documented release cycles and plans for "Long Term Support" (LTS).
 1. Projects that have themselves become platforms for other projects.
 1. Projects that are able to attract a healthy number of committers on the basis of its production usefulness (not simply 'developer popularity').
 1. Projects that have several, high-profile or well known end-user implementations.
