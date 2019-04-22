@@ -11,6 +11,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 ## Stage 1
 
 * [Code of Conduct approach](./stage-1/CODE_OF_CONDUCT)
+* [Project Onboarding](./stage-1/PROJECT_ONBOARDING)
 
 ## Stage 2
 
