@@ -14,35 +14,15 @@ This governance policy sets forth the proposal process for projects to be accept
 
 ### Project Proposal Requirements
 
-Projects must be proposed via GitHub. Project proposals submitted to the Foundation must provide the following information to the best of their ability:
+New projects should express interest to join the OpenJS Foundation via an email to new-projects@lists.openjsf.org with a filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, projects will given an `incubation` status and begin the on-boarding process. **Note** the `incubation` status is temporary as we determine if the project is a good fit. At any time during the `incubation` process a project can withdraw either voluntarily or at the request of the CPC.
 
-* name of project
-* project description (what it does, why it is valuable, origin and history)
-* statement on alignment with Foundation charter mission
-* link to *current* Code of Conduct
-* sponsor from CPC, if identified (a sponsor helps mentor projects)
-* project license 
-* source control (GitHub by default)
-* issue tracker (GitHub by default)
-* external dependencies (including licenses)
-* release methodology and mechanics
-* names of initial committers, if different from those submitting proposal
-* briefly describe the project's leadership team and decision-making process
-* preferred maturity level (see stages below)
-* list of project's official communication channels (slack, irc, mailing lists)
-* link to project's website 
-* links to social media accounts
-* existing financial sponsorship
-* infrastructure needs or requests 
+#### Application Phases
 
-### Project Acceptance Process
-
-* Projects are required to present their proposal at a CPC meeting
-* The CPC may ask for changes to bring the project into better alignment with the Foundation (adding a governance document to a repository or adopting a more stringent Code of Conduct, for example).
- * The project will need to make these changes in order to progress further.
-* Projects get accepted via a 2/3 supermajority vote of the CPC.
-* The proposal document will be finalized as a project charter. This charter document must be included in the project's main repository.
-* The CPC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process. 
+1. Initial email sent to new-projects@lists.openjsf.org with filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
+1. Silent period. Internal only discussion.
+1. Initial acceptance as [Incubating][] Project.
+1. Project goes through process of adhering to on-boarding checklist from [Project Application Template](./NEW_PROJECT_APPLICATION.md).
+1. Project presents to CPC for final acceptance via 2/3 supermajority vote and appropriate initial stage is determined.
 
 ## III. Stages - Definitions & Expectations
 
@@ -157,7 +137,28 @@ Projects in this stage are not in active development. Their maintainers may infr
 
 Projects may be granted Emeritus status via a 2/3 vote from the CPC and with approval from project ownership. In cases where there is a lack of project ownership, only a 2/3 vote from the CPC is required.
 
+### Incubating
+
+**Definition** 
+
+Incubating projects are projects that are in the process of completing their on-boarding checklist to join the foundation. Projects in this phase may be looking to join the foundation as At-Large, Growth, or Impact Stage. Members of incubating projects are invited to join Cross Project Council meetings as a guest, please refer to the [CPC Charter](./CPC-CHARTER.md) for details on how guests may participate in the meetings.
+
+**Examples**
+
+1. Projects that have been accepted into incubation process after silent period.
+
+**Expectations**
+
+It is expected that incubating project will make an active effort to work through the on-boarding process in a reasonable timeframe. They will be offered foundation support to help do so.
+
+**Acceptance Criteria**
+
+1. Completion of the on-boarding checklist
+1. 2/3 cote from the CPC to accept project
+1. Completion of the entrance criteria for desired stage
 
 ## IV. Annual Review Process
 
 The CPC shall develop an annual review process to determine whether projects are in the stage that accurately reflects their needs and goals. 
+
+[Incubating]: #incubating
