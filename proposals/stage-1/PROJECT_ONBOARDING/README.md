@@ -43,8 +43,8 @@ We need to share a workflow and understanding of what steps are required to brin
 
 Agreement on the initial checklist items; interim owners/helpers for each of the tasks.
 
-- [x] Template for Project Applications
-- [x] Onboarding Check List
+- [x] [Template for Project Applications](./NEW_PROJECT_APPLICATION.md)
+- [x] [Onboarding Check List](./NEW_PROJECT_APPLICATION.md#onboarding-checklist)
 - [ ] [Update to Project Progression](https://github.com/openjs-foundation/bootstrap/pull/158)
 - [ ] Potential changes to CPC Charter
 - [ ] Discussion/approval by bootstrap committee
