@@ -1,5 +1,5 @@
 # CPC Charter Proposal
->  Stage 2
+>  Stage 3
 
 ## Champion
 
@@ -11,7 +11,7 @@ This document captures a proposed charter for the CPC
 (or equivalent) using the Node.js TSC, JSF TAC and
 CNCF TOC charters as a starting points.
 
-## Required Resources
+## Required resources
 
 Discussion/approval by bootstrap committee
 
@@ -34,6 +34,6 @@ We need to better understand the charter for the CPC
 to validate the structure being proposed for the merged
 foundation.
 
-## What is neccessary to complete this proposal
+## Archive of initial charter
 
-* Consensus from board that they would ratify this charter
+[./CPC-CHARTER](./CPC-CHARTER)

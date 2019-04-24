@@ -14,7 +14,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 2
 
-* [CPC Charter](./stage-2/CPC_CHARTER)
+There are currently no Stage 2 proposals.
 
 ## Stage 3
 
