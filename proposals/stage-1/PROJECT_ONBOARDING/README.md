@@ -45,7 +45,7 @@ Agreement on the initial checklist items; interim owners/helpers for each of the
 
 - [x] Template for Project Applications
 - [x] Onboarding Check List
-- [ ] Update to Project Progression
+- [ ] [Update to Project Progression](https://github.com/openjs-foundation/bootstrap/pull/158)
 - [ ] Potential changes to CPC Charter
 - [ ] Discussion/approval by bootstrap committee
 - [ ] Discussion/approval by the Board
