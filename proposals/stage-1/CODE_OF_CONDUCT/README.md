@@ -22,7 +22,7 @@ responsibility of the Foundation, Board, CPC and projects.
 
 ## How would success be measured?
 
-Success is incorporate of the content whithin this document
+Success is incorporate of the content within this document
 either as the document itself or incorporate into one
 of the other Governance documents for the foundation.
 
