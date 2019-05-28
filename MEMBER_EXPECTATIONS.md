@@ -14,7 +14,7 @@ OpenJS Foundation projects or groups, those in leadership roles have a
 responsibility to uphold and respect the decision even if they disagree with
 it. This is especially important in external communications, for example in
 social media. Should the member be unwilling or unable to do so, then they
-should resign their leadership position.  This does not mean that decisions
+should resign their leadership position. This does not mean that decisions
 cannot be revisited and discussed within the team at a later time.
 
 Members of our leadership groups must also conduct themselves in a
@@ -23,7 +23,7 @@ professional and respectful manner. Some general guidelines include:
 - Remediate quickly when you realize you made a mistake. Leaders are human,
   and they will make mistakes. However they should act swiftly to
   acknowledge mistakes and correct them.
-- Aim to remediate first and then discuss.  If other members of the
+- Aim to remediate first and then discuss. If other members of the
   team express concerns about actions, acknowledge their concerns by
   stopping the actions in question and then discuss within the team
   to come to a common agreement.
@@ -31,7 +31,7 @@ professional and respectful manner. Some general guidelines include:
   standards of ethical conduct.
 - Value a diversity of views and opinions. Avoid preferential
   treatment, and hold everyone (including ourselves) accountable to the same
-  set of standards.  Everyone gets to speak up.
+  set of standards. Everyone gets to speak up.
 - Deal with issues directly with the person in question. Resist complaining
   about others in the OpenJS Foundation projects or team in a public sphere.
 - Build trust by keeping your promises.
