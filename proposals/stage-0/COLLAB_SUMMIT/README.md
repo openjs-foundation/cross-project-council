@@ -34,7 +34,7 @@ attending.
 ## Why this proposal is important
 
 Meeting fellow collaborators in person is important for the success of
-an Open Source projects.
+Open Source projects.
 
 ## Unresolved Question
 
