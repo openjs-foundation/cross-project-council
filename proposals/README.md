@@ -20,7 +20,7 @@ There are currently no Stage 2 proposals.
 ## Stage 3
 
 * [Community Board representation](./stage-3/COMMUNITY_BOARD_REPRESENTATION)
-* [CPC Charter](./proposals/stage-3/CPC_CHARTER)
+* [CPC Charter](./stage-3/CPC_CHARTER)
 * [Expectations](./stage-3/EXPECTATIONS)
 * [Governance](./stage-3/GOVERNANCE)
 * [Individual Membership program](./stage-3/INDIVIDUAL_MEMBERSHIP)
