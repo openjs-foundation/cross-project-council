@@ -36,4 +36,4 @@ foundation.
 
 ## Archive of initial charter
 
-[./CPC-CHARTER](./CPC-CHARTER)
+[./CPC-CHARTER](./CPC-CHARTER.md)
