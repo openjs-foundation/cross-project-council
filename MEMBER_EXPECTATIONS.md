@@ -42,7 +42,7 @@ professional and respectful manner. Some general guidelines include:
   whenever possible, and taking responsibility for our statements.
 
 While the guidelines above focus primarily on the spaces where
-we participate in official OpenJS foundation work (GitHub, IRC, meetings,
+we participate in official OpenJS Foundation work (GitHub, IRC, meetings,
 conferences), it is important to recognize that the public behavior
 of members also reflects on the OpenJS Foundation projects and groups.
 
