@@ -68,13 +68,12 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 
 #### Growth & At Large Project Representatives
 
-According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), each of the Growth and At Large Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. Currently, the six individuals listed below were nominated during the bootstrap process and [the bootstrap committee decided](https://github.com/openjs-foundation/cross-project-council/issues/152) that all nominees would be given a voting seat until a process for nomination and election of these representatives was formalized.
+According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), each of the Growth and At Large Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. Currently, the five individuals listed below were nominated during the bootstrap process and [the bootstrap committee decided](https://github.com/openjs-foundation/cross-project-council/issues/152) that all nominees would be given a voting seat until a process for nomination and election of these representatives was formalized.
 
 - **Architect**: Kris Borchers (@kborchers)
 - **messageformat**: Eemeli Aro (@eemeli)
 - **Mocha**: Christopher Hiller (@boneskull)
 - **Node-RED**: Nick O'Leary (@knolleary)
-- **WebdriverIO**: Christian Bromann (@bromann)
 - **webhint**: Antón Molleda (@molant)
 
 <!-- ### Regular Members -->
