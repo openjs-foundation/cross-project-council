@@ -22,7 +22,7 @@ and across projects in the Foundation.
 
 ## Who would be responsible?
 
-The CPC delegates the organization of the Summit to a team/workin group
+The CPC delegates the organization of the Summit to a team/working group
 that includes representation from all interested projects and OpenJS staff.
 The team/working group will oversee the budget for the venue and the
 travel fund.
