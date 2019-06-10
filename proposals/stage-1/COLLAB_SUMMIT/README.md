@@ -31,7 +31,7 @@ travel fund.
 
 * numbers of attendees at the Summit. The one in Berlin/Europe 2019 has 70 people
 attending.
-* number of projects partecipating in the summit.
+* number of projects participating in the summit.
 * number of decisions made / problems solved.
 
 ## Why this proposal is important
