@@ -295,7 +295,7 @@ from the OpenJS Foundation board.
 **Project**: a technical collaboration effort that is organized through the
 project mentorship process and approved by the TAC.
 
-**Contributors**: contribute code or other artefacts, but do not have the right
+**Contributors**: contribute code or other artifacts, but do not have the right
 to commit to the code base. Contributors work with the Project's Collaborators
 to have code committed to the code base. A Contributor may be promoted to a
 Collaborator by the Project's Maintainers. Contributors should rarely be
