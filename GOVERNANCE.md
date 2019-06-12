@@ -86,5 +86,5 @@ in additon to the ones listed for changing CPC governance:
 
 * The text of the PR must be approved by the board.
 
-If concensus cannot be reached, a pull request may still be landed after a vote
+If consensus cannot be reached, a pull request may still be landed after a vote
 by the Voting CPC members to override outstanding objections.
