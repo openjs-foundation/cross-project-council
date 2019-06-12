@@ -73,7 +73,7 @@ this repository provided the following conditions have been met:
 
 * there are no outstanding objections
 * there are two approvals by CPC members
-* the PR has been open for at  least 72 hours 
+* the PR has been open for at least 72 hours
 
 Pull requests that change governance of the CPC must meet the following conditions
 in addition to the ones listed for regular PRs.
