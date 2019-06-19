@@ -81,7 +81,7 @@ in addition to the ones listed for regular PRs.
 * The PR has been open for at least 14 days OR has been approved by 50% or more
   of the voting members.
 
-Pull requests that change the charter of the CPC must meeting the following conditions
+Pull requests that change the charter of the CPC must meet the following conditions
 in additon to the ones listed for changing CPC governance:
 
 * The text of the PR must be approved by the board.
