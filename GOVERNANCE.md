@@ -78,8 +78,8 @@ this repository provided the following conditions have been met:
 Pull requests that change governance of the CPC must meet the following conditions
 in addition to the ones listed for regular PRs.
 
-* The PR has been open for at least 14 days OR has been approved by 50% or more
-  of the voting members.
+* The PR has been open for at least 14 days OR consensus is reached in a meeting
+  with quorum of voting members.
 
 Pull requests that change the charter of the CPC must meet the following conditions
 in additon to the ones listed for changing CPC governance:
