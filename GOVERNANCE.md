@@ -1,11 +1,11 @@
-# Joint Foundation Bootstrap Team
+# OpenJS Cross Project Council
 
 For the current list of Team members, see the project
 [README.md](./README.md).
 
 ## Members
 
-The [nodejs/bootstrap](https://github.com/nodejs/bootstrap) GitHub
+The [openjs-foundation/cross-project-council](https://github.com/openjs-foundation/cross-project-council) GitHub
 repository is maintained by the Team and additional Members who are
 added on an ongoing basis.
 
@@ -17,11 +17,10 @@ There is no specific set of requirements or qualifications for Team Membership b
 
 The following groups automatically have membership and can request to be added to the github team:
 
-* Node.js Members: @nodejs/members
-* JSF Project Maintainers
-* JSF TAC
-* Node.js Foundation Board of Directors
-* JSF Board of Directors
+* OpenJS Foundation Voting Members
+* OpenJS Foundation Regular Members
+* OpenJS Foundation Board of Directors
+* OpenJS Foundation Project Maintainers
 
 ## Team Meetings
 
@@ -40,7 +39,7 @@ group of Collaborators.
 Any community member or contributor can ask that something be added to
 the next meeting's agenda by logging a GitHub Issue. Any Collaborator,
 Team member or the moderator can add the item to the agenda by adding
-the ***bootstrap-agenda*** tag to the issue.
+the ***cross-project-council-agenda*** tag to the issue.
 
 Prior to each Team meeting the moderator will share the agenda with
 members of the Team. Team members can add any items they like to the
