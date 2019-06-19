@@ -76,7 +76,11 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 - **Node-RED**: Nick O'Leary (@knolleary)
 - **webhint**: Antón Molleda (@molant)
 
-<!-- ### Regular Members -->
+### Regular Members
+
+According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#regular-members) anyone who has been a member of one of the projects under the OpenJS Foundation for at least three months may request to become a regular member by opening a PR to add themselves to the list of regular members
+
+- Myles Borins (@MylesBorins)
 
 <!-- ### Observers -->
 
