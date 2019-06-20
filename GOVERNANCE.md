@@ -98,7 +98,7 @@ These members will be elected as follows:
 * Each voter will be able to vote for as many or as few candidates as they wish.
 
 * Those candidates who receive the greatest number of votes will be confirmed as
-  the winners. In the case of a tie between 2 or more candidates, there will be a coin  
+  the winners. In the case of a tie between 2 or more candidates, there will be coin
   tosses between those candiates in order to select the winner.
 
 
