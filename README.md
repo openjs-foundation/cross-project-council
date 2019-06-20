@@ -90,6 +90,7 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 - Jory Burson (@jorydotcom)
 - Michael Dawson (@mhdawson)
 - Myles Borins (@MylesBorins)
+- Sendil Kumar (@sendilkumarn)
 
 <!-- ### Observers -->
 
