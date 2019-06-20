@@ -8,7 +8,7 @@ The CPC's primary role is to foster an environment of collaboration. That enviro
 
 The CPC exercises autonomy in managing its responsibilities and seeks agreement from the OpenJS Foundation Board on any change to the scope of those responsibilities.
 
-### OpenJS Fondation Projects
+### OpenJS Foundation Projects
 
 #### Impact Project
 
