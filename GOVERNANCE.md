@@ -65,6 +65,48 @@ meeting. In both cases the decision must be seconded by a majority of the Team
 or else the discussion will continue. Simple majority wins. Only Active
 Members participate in a vote.
 
+
+## Electrion process for Non-Impact Voting CPC members
+
+As per the CPC charter, the non-impact projects elect 2 voting CPC members:
+
+> up to two Voting members may be nominated by the non Impact projects
+  based on a process set by the CPC.
+
+These members will be elected as follows:
+
+* Once a year an issue will be opened in the CPC announcing that the period for
+  nominations is open.
+
+* Any member from one of the non-impact projects can self-nominate by posting a
+  reply which includes the following:
+
+  * Projects they are part of
+  * Description of their background
+  * The reasons they would like to act as the non-impact CPC voting member
+  * Confirmation that they can devote the required time/effort.
+  * Their employer  (if applicable).  This is needed due to the limitations
+    on maximum employer representation in the CPC voting members.
+
+* The nomination period will be open for 2 weeks at which point the issue will be locked.
+
+* Once the nomination period closes, the projects will be asked to confirm membership
+  as identified by the nominees.
+
+* Each project will nominate two `voters` through a process of their choosing.
+
+* Each voter will be able to vote for as many or as few candidates as they wish.
+
+* Those candidates who receive the greatest number of votes will be confirmed as
+  the winners. In the case of a tie between 2 or more candidates, there will be a coin  
+  tosses between those candiates in order to select the winner.
+
+
+
+
+
+
+
 ## Merging PRs into this Repository
 
 This section does not apply to [the Node.js core repository](https://github.com/nodejs/node).
