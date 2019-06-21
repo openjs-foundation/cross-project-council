@@ -68,7 +68,7 @@ Members participate in a vote.
 
 ## Election process for Non-Impact Voting CPC members
 
-As per the CPC charter, the non-impact projects elect 2 voting CPC members:
+As per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md), the non-impact projects elect 2 voting CPC members:
 
 > up to two Voting members may be nominated by the non Impact projects
   based on a process set by the CPC.
