@@ -38,7 +38,7 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 * [JerryScript](http://jerryscript.net/)
 * [Libuv](https://libuv.org/)
 * [Lodash](https://lodash.com/)
-* [Marko](http://markojs.com/)
+* [Marko](https://markojs.com/)
 * [messageformat](https://messageformat.github.io/messageformat/)
 * [Moment](https://momentjs.com/)
 * [PEP](https://github.com/jquery/pep)
