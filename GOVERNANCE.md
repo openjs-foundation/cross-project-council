@@ -75,7 +75,7 @@ As per the [CPC charter](https://github.com/openjs-foundation/cross-project-coun
 
 These members will be elected as follows:
 
-* Once a year an issue will be opened in the CPC announcing that the period for
+* Once a year an issue will be opened in the CPC repo announcing that the period for
   nominations is open.
 
 * Any member from one of the non-impact projects can self-nominate by posting a
