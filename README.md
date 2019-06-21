@@ -14,7 +14,7 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 
 * [Appium](http://appium.io/)
 * [Dojo](https://dojo.io/)
-* [jQuery](http://jquery.com/)
+* [jQuery](https://jquery.com/)
 * [Node.js](https://nodejs.org)
 * [webpack](https://webpack.js.org/)
 
