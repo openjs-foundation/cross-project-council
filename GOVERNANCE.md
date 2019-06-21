@@ -99,7 +99,7 @@ These members will be elected as follows:
 
 * Those candidates who receive the greatest number of votes will be confirmed as
   the winners. In the case of a tie between 2 or more candidates, there will be coin
-  tosses between those candiates in order to select the winner.
+  tosses between those candidates in order to select the winner.
 
 
 
