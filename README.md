@@ -40,7 +40,7 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 * [Lodash](https://lodash.com/)
 * [Marko](http://markojs.com/)
 * [messageformat](https://messageformat.github.io/messageformat/)
-* [Moment](http://momentjs.com/)
+* [Moment](https://momentjs.com/)
 * [PEP](https://github.com/jquery/pep)
 * [QUnit](http://qunitjs.com/)
 
