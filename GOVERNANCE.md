@@ -66,7 +66,7 @@ or else the discussion will continue. Simple majority wins. Only Active
 Members participate in a vote.
 
 
-## Electrion process for Non-Impact Voting CPC members
+## Election process for Non-Impact Voting CPC members
 
 As per the CPC charter, the non-impact projects elect 2 voting CPC members:
 
