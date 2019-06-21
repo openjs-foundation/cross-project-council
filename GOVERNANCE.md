@@ -93,7 +93,7 @@ These members will be elected as follows:
 * Once the nomination period closes, the projects will be asked to confirm membership
   as identified by the nominees.
 
-* Each project will nominate two `voters` through a process of their choosing.
+* Each non-impact project will nominate two `voters` through a process of their choosing.
 
 * Each voter will be able to vote for as many or as few candidates as they wish.
 
