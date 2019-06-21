@@ -42,7 +42,7 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 * [messageformat](https://messageformat.github.io/messageformat/)
 * [Moment](https://momentjs.com/)
 * [PEP](https://github.com/jquery/pep)
-* [QUnit](http://qunitjs.com/)
+* [QUnit](https://qunitjs.com/)
 
 #### Emeritus Projects
 
