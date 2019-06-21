@@ -24,7 +24,7 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 * [Intern](https://theintern.github.io/)
 * [Mocha](https://mochajs.org/)
 * [Node-Red](http://nodered.org/)
-* [WebdriverIO](http://webdriver.io/)
+* [WebdriverIO](https://webdriver.io/)
 * [webhint](https://webhint.io/)
 
 #### At-Large Projects
