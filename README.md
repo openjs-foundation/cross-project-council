@@ -34,7 +34,7 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 * [Express](https://expressjs.com/)
 * [Grunt](https://gruntjs.com/)
 * [HospitalRun](https://hospitalrun.io/)
-* [Interledger.js](http://interledgerjs.org/)
+* [Interledger.js](https://interledgerjs.org/)
 * [JerryScript](http://jerryscript.net/)
 * [Libuv](https://libuv.org/)
 * [Lodash](https://lodash.com/)
