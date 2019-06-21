@@ -48,7 +48,7 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 
 * [Chassis](https://github.com/jquery/css-chassis)
 * [jQuery Mobile](http://jquerymobile.com/)
-* [jQuery UI](http://jqueryui.com/)
+* [jQuery UI](https://jqueryui.com/)
 * [RequireJS](https://requirejs.org/)
 * [Sizzle](https://sizzlejs.com/)
 
