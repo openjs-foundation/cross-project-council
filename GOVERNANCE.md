@@ -65,7 +65,6 @@ meeting. In both cases the decision must be seconded by a majority of the Team
 or else the discussion will continue. Simple majority wins. Only Active
 Members participate in a vote.
 
-
 ## Election process for Non-Impact Voting CPC members
 
 As per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md), the non-impact projects elect 2 voting CPC members:
@@ -100,12 +99,6 @@ These members will be elected as follows:
 * Those candidates who receive the greatest number of votes will be confirmed as
   the winners. In the case of a tie between 2 or more candidates, there will be coin
   tosses between those candidates in order to select the winner.
-
-
-
-
-
-
 
 ## Merging PRs into this Repository
 
