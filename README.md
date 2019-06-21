@@ -29,7 +29,7 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 
 #### At-Large Projects
 
-* [ESLint](http://eslint.org/)
+* [ESLint](https://eslint.org/)
 * [Esprima](http://esprima.org/)
 * [Express](https://expressjs.com/)
 * [Grunt](http://gruntjs.com/)
