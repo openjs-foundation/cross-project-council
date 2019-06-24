@@ -23,10 +23,10 @@ the OpenJS Foundation charter at any time, though the Board will not interfere
 with day-to-day discussions, votes or meetings
 of the CPC.
 
-## Section 3. Board’s Role in Setting OpenJS Foundation’s Strategic Direction. 
+## Section 3. Board’s Role in Setting OpenJS Foundation’s Strategic Direction.
 
 The Board will set the overall CPC Policy. The policy will describe the
-overarching scope of the OpenJS Foundation initiative, OpenJS Foundation 
+overarching scope of the OpenJS Foundation initiative, OpenJS Foundation
 Foundation’s technical vision and direction and project release
 expectations in the form of expected cadence and intent. The Board will
 use the CPC as a delegate body for governing technical implementation,
@@ -60,8 +60,8 @@ CPC as well as the consensus seeking process.
 
 Regular members have made a commitment to be involved in an ongoing manner
 and take on roles and responsibilities as outlined below.
-Regular member is implied when memership type is not
-specified. Anyone who has been a member of one of the projects under the 
+Regular member is implied when membership type is not
+specified. Anyone who has been a member of one of the projects under the
 OpenJS Foundation for at least three months may request to
 become a regular member by opening a PR to add themselves to the list of
 regular members. Regular members remain for as long as they are active
@@ -98,7 +98,7 @@ and ratified by the Voting CPC members each year. In addition, a Voting CPC memb
 can be removed by voluntary resignation, by a standard CPC motion,
 or in accordance to the participation rules described for Regular
 members.
- 
+
 Changes to CPC membership should be posted in the agenda, and may be suggested
 as any other agenda item.
 
@@ -126,14 +126,14 @@ Voting members have the roles and responsibilities as outlined below.
 Section 5. Responsibilities and Expectations of the CPC
 
 Subject to such policies as may be set by the Board, the CPC is responsible for
-ensuring: 
+ensuring:
 
    1. When needed, members of the CPC will be expected to create subcommittees
       or working groups. The CPC will delegate responsibilities and empower
       these groups to make decisions. Any of the responsibilities listed below
       not identified as being responsibilities of the Voting members may be delegated.
-      For the remanining responsibilities, day-to-day work, investigation, and building
-      recommentations may be delegated, however, the final responsibility will
+      For the remaining responsibilities, day-to-day work, investigation, and building
+      recommendations may be delegated, however, the final responsibility will
       remain with the Voting members.
    1. Ensuring collaboration is the driving principle within a Project, between
       OpenJS Foundation Projects, and between OpenJS Foundation Projects and the broader
@@ -148,20 +148,20 @@ ensuring:
       (and any updates) for projects which are part of the OpenJS Foundation. As part of this
       review/approval the voting members will ensure that the updated charter is compatible
       with the mission of the OpenJS Foundation and reach consensus with the Board on more
-      substantial changes before final approval by CPC. 
-   1. Voting members are responsible for approving funds for budgets delegated 
+      substantial changes before final approval by CPC.
+   1. Voting members are responsible for approving funds for budgets delegated
       to the project.
    1. Following and be up to date on Board/OpenJS Foundation initiatives and communicate them to the projects.
    1. Defining common practices to be implemented across OpenJS Foundation projects, if any.
    1. Mediating technical conflicts between OpenJS Foundation Projects when attempts to resolve
-      those conflicts within the Project were unsuccessful. 
+      those conflicts within the Project were unsuccessful.
    1. Managing the process for creating a yearly budget and approving a yearly budget to be
       presented to the board.
    1. The CPC serves as the OpenJS Foundation's primary technical
       liaison body with external open source projects, consortiums and groups and is
       also responsible for ensuring that the OpenJS Foundation has appropriate technical
       participation in standards bodies by finding an encouraging members from
-      individual projects to particiapte in these bodies.
+      individual projects to participate in these bodies.
    1. Managing the Individual membership program.
    1. Managing programs to improve inclusivity and diversity.
    1. Guiding projects into appropriate Foundation paths.
@@ -173,7 +173,7 @@ ensuring:
    1. Managing programs to offer mentorship to external individuals.
    1. Managing developer outreach programs.
    1. Supporting project advocacy and recognition programs.
-   1. Identifing, recruiting and engaging prospective projects.
+   1. Identifying, recruiting and engaging prospective projects.
    1. Voting members are responsible for making a final decision if consensus
       cannot be reached among members.
    1. Members of the CPC, or committees consisting of subsets of the CPC
@@ -182,8 +182,8 @@ ensuring:
       from the mentorship program, Project issues and conflicts, opportunities
       for collaboration between Projects, opportunities for the Foundation in the
       greater JavaScript community, etc.
-  
-     
+
+
 ## Section 6. Non-Responsibilities of the CPC
 
 OpenJS Foundation Projects are self-governing entities. All policies and procedures for interacting with, contributing to and making decisions within a Project are defined, implemented, and documented by that Project’s maintainers and community during the mentorship process. Specific technical decisions within a Project will be the responsibility of the Project and establishment and implementation of the decision making process will be done within the guidelines as defined by CPC charter. Those Project decisions and responsibilities include but are not limited to:
@@ -233,7 +233,7 @@ CPC Chairperson or Director may serve.
 
 There are 3 Board seats earmarked for representation from the
 OpenJS Foundation projects.  The first of these board seats is filled by
-the CPC Director as outlined in Section 7 on [Elections][] and is 
+the CPC Director as outlined in Section 7 on [Elections][] and is
 always in place.  
 
 The second board seat requires 2 Platinum board members to activate
@@ -248,7 +248,7 @@ processes for filling this seat will be as follows:
 * As a constellation member of the OpenJS Foundation, the Node.js project
   will elect one Board representative from either the Technical Steering Committee (TSC) or
   Community Committee (CommComm). The representative will be selected according to a process
-  defined by the TSC and CommComm. 
+  defined by the TSC and CommComm.
 
 As described in the [Elections][] section a multiple candidate method
 will be be used for the voting for the first and second board members.
@@ -316,5 +316,3 @@ policies.
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
-
-
