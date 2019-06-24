@@ -69,7 +69,7 @@ Members participate in a vote.
 
 As per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md), the non-impact projects elect 2 voting CPC members:
 
-> up to two Voting members may be nominated by the non-impact projects
+> up to two (2) Voting members may be nominated by the non-impact projects
   based on a process set by the CPC.
 
 These members will be elected as follows:
@@ -77,9 +77,13 @@ These members will be elected as follows:
 * Once a year an issue will be opened in the CPC repo announcing that the period for
   nominations is open.
 
-* Any member from one of the non-impact projects can self-nominate by posting a
-  reply which includes the following:
-
+* Any member from one of the non-impact projects can self-nominate emailing the chair of the CPC with their
+  interest in running for the CPC.
+  
+* The nomination period will be open for 2 weeks at which point the CPC chair will list the nominees in the
+  issue.
+  
+* Each of the candidates listed will be asked to open an issue in the CPC repo which includes the following:
   * Projects they are part of
   * Description of their background
   * The reasons they would like to act as the non-impact CPC voting member
@@ -87,18 +91,15 @@ These members will be elected as follows:
   * Their employer (if applicable). This is needed due to the limitations
     on maximum employer representation in the CPC voting members.
 
-* The nomination period will be open for 2 weeks at which point the issue will be locked.
-
-* Once the nomination period closes, the projects will be asked to confirm membership
-  as identified by the nominees.
+* The projects will be asked to confirm membership as identified by the nominees.
 
 * Each non-impact project will nominate two `voters` through a process of their choosing.
 
 * Each voter will be able to vote for as many or as few candidates as they wish.
 
 * Those candidates who receive the greatest number of votes will be confirmed as
-  the winners. In the case of a tie between 2 or more candidates, there will be coin
-  tosses between those candidates in order to select the winner.
+  the winners. In the case of a tie between 2 or more candidates, the winner will be
+  chosen randomly.
 
 ## Merging PRs into this Repository
 
