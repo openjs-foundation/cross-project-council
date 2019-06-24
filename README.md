@@ -90,3 +90,10 @@ The pull request can be labeled cross-project-council-agenda to request that it 
 
 The OpenJS Foundation Board of Directors retains certain rights (especially legal considerations). If the CPC endorses a proposal, they will escalate to the OpenJS Foundation Board of Directors when required to do so.
 
+## Communication Channels
+
+CPC discussion generally happens via GitHub issues and [during our regular public meetings](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), which are open to CPC members and observers.
+
+In addition, the OpenJS Foundation maintains a [number of mailing lists](https://lists.openjsf.org).  Project particpants are strongly encouraged to subscribe to the [projects@lists.openjsf.org](https://lists.openjsf.org/g/projects) list for technical updates and discussion.  
+
+Discussion should be held in the open whenever possible.  However, if you need to raise a private concern with the CPC and you feel it is inappropriate for public discussion, you can email the [cpc-private@lists.openjsf.org](mailto:cpc-private@lists.openjsf.org) list.  Depending upon the circumstances, the CPC may request that you resubmit the issue in a public forum.
