@@ -12,45 +12,45 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 
 #### Impact Project
 
-* Appium
-* Dojo
-* jQuery
-* Node.js
-* webpack
+* [Appium](https://appium.io/)
+* [Dojo](https://dojo.io/)
+* [jQuery](https://jquery.com/)
+* [Node.js](https://nodejs.org)
+* [webpack](https://webpack.js.org/)
 
 #### Growth Projects
 
-* architect
-* Intern
-* Mocha
-* Node-Red
-* WebdriverIO
-* webhint
+* [architect](https://arc.codes/)
+* [Intern](https://theintern.github.io/)
+* [Mocha](https://mochajs.org/)
+* [Node-Red](https://nodered.org/)
+* [WebdriverIO](https://webdriver.io/)
+* [webhint](https://webhint.io/)
 
 #### At-Large Projects
 
-* ESLint
-* Esprima
-* Express
-* Grunt
-* HospitalRun
-* Interledger.js
-* JerryScript
-* Libuv
-* Lodash
-* Marko
-* messageformat
-* Moment
-* PEP
-* QUnit
+* [ESLint](https://eslint.org/)
+* [Esprima](http://esprima.org/)
+* [Express](https://expressjs.com/)
+* [Grunt](https://gruntjs.com/)
+* [HospitalRun](https://hospitalrun.io/)
+* [Interledger.js](https://interledgerjs.org/)
+* [JerryScript](http://jerryscript.net/)
+* [Libuv](https://libuv.org/)
+* [Lodash](https://lodash.com/)
+* [Marko](https://markojs.com/)
+* [messageformat](https://messageformat.github.io/messageformat/)
+* [Moment](https://momentjs.com/)
+* [PEP](https://github.com/jquery/pep)
+* [QUnit](https://qunitjs.com/)
 
 #### Emeritus Projects
 
-* Chassis
-* jQuery Mobile
-* jQuery UI
-* RequireJS
-* Sizzle
+* [Chassis](https://github.com/jquery/css-chassis)
+* [jQuery Mobile](https://jquerymobile.com/)
+* [jQuery UI](https://jqueryui.com/)
+* [RequireJS](https://requirejs.org/)
+* [Sizzle](https://sizzlejs.com/)
 
 ## CPC Members
 
@@ -63,7 +63,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 - **Appium**: Dan Graham (@dpgraham) & Jonah Stiennon(@Jonahss)
 - **Dojo**: Matt Gadd (@matt-gadd) & Dylan Schiemann (@dylans)
 - **jQuery**: Dave Methvin (@dmethvin) & Timmy Willison (@timmywil)
-- **Node.js**: Matteo Collina (@mcollina ) & Joe Sepi (@joesepi)
+- **Node.js**: Matteo Collina (@mcollina) & Joe Sepi (@joesepi)
 - **webpack**: Sean Larkin (@TheLarkInn) & Even Stensberg (@evenstensberg)
 
 #### Growth & At Large Project Representatives
