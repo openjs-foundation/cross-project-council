@@ -12,7 +12,7 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 
 #### Impact Project
 
-* [Appium](http://appium.io/)
+* [Appium](https://appium.io/)
 * [Dojo](https://dojo.io/)
 * [jQuery](https://jquery.com/)
 * [Node.js](https://nodejs.org)
