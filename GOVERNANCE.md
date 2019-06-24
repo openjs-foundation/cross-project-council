@@ -84,7 +84,7 @@ These members will be elected as follows:
   * Description of their background
   * The reasons they would like to act as the non-impact CPC voting member
   * Confirmation that they can devote the required time/effort.
-  * Their employer  (if applicable).  This is needed due to the limitations
+  * Their employer (if applicable). This is needed due to the limitations
     on maximum employer representation in the CPC voting members.
 
 * The nomination period will be open for 2 weeks at which point the issue will be locked.
