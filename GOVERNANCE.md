@@ -21,6 +21,7 @@ The following groups automatically have membership and can request to be added t
 * OpenJS Foundation Regular Members
 * OpenJS Foundation Board of Directors
 * OpenJS Foundation Project Maintainers
+* OpenJS Foundation Invited Guests
 
 ## Team Meetings
 

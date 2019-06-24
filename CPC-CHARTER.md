@@ -44,12 +44,17 @@ direction of the policies set by the Board.
 
 ## Section 4. Establishment of the CPC.
 
-The CPC is an inclusive group with three types of participants:
+The CPC is an inclusive group with f types of participants:
 
 * Observers
 * Regular members
 * Voting members
+* Invited Guests
 
+### Invited Guests
+
+Guests are invited to attend either individual meetings or a set of meetings for a set
+period of time. They are not able to participate in the consensus seeking process.
 
 ### Observers
 
@@ -182,8 +187,9 @@ ensuring:
       from the mentorship program, Project issues and conflicts, opportunities
       for collaboration between Projects, opportunities for the Foundation in the
       greater JavaScript community, etc.
-  
-     
+
+### Guests
+
 ## Section 6. Non-Responsibilities of the CPC
 
 OpenJS Foundation Projects are self-governing entities. All policies and procedures for interacting with, contributing to and making decisions within a Project are defined, implemented, and documented by that Project’s maintainers and community during the mentorship process. Specific technical decisions within a Project will be the responsibility of the Project and establishment and implementation of the decision making process will be done within the guidelines as defined by CPC charter. Those Project decisions and responsibilities include but are not limited to:
