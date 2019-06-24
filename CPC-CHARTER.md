@@ -123,7 +123,7 @@ the community through accessible public postings.
 
 Voting members have the roles and responsibilities as outlined below.
 
-Section 5. Responsibilities and Expectations of the CPC
+## Section 5. Responsibilities and Expectations of the CPC
 
 Subject to such policies as may be set by the Board, the CPC is responsible for
 ensuring:
