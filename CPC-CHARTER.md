@@ -44,7 +44,7 @@ direction of the policies set by the Board.
 
 ## Section 4. Establishment of the CPC.
 
-The CPC is an inclusive group with f types of participants:
+The CPC is an inclusive group with four types of participants:
 
 * Observers
 * Regular members
