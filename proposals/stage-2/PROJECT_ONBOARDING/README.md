@@ -1,5 +1,5 @@
 # Project Onboarding Checklist Proposal
-> Stage 1
+> Stage 2
 
 ## Champion
 
@@ -35,9 +35,7 @@ We need to share a workflow and understanding of what steps are required to brin
 
 ## Unresolved Question
 
-* Should there be a quiet period?
-* Should all emeritus projects be expected to go through this process?
-* Should projects be able to enter as `Impact Level`?
+* Should all existing projects be expected to go through check list?
 
 ## What is necessary to complete this proposal
 
@@ -45,9 +43,9 @@ Agreement on the initial checklist items; interim owners/helpers for each of the
 
 - [x] [Template for Project Applications](./NEW_PROJECT_APPLICATION.md)
 - [x] [Onboarding Check List](./NEW_PROJECT_APPLICATION.md#onboarding-checklist)
-- [ ] [Update to Project Progression](https://github.com/openjs-foundation/bootstrap/pull/158)
+- [ ] [Update to Project Progression](https://github.com/openjs-foundation/cross-project-council/pull/165)
 - [ ] Potential changes to CPC Charter
-- [ ] Discussion/approval by bootstrap committee
+- [ ] Discussion/approval by the Cross Project Council
 - [ ] Discussion/approval by the Board
 - [ ] Adoption by the CPC
 - [ ] Run existing projects through the process
