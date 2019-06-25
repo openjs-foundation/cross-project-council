@@ -78,6 +78,8 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 
 <!-- ### Regular Members -->
 
+- Abraham Jr Agiri (@codeekage)
+
 <!-- ### Observers -->
 
 ## Policy Change Proposal Process
