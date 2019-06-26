@@ -71,7 +71,7 @@ Per the [CPC charter section 5](https://github.com/openjs-foundation/cross-proje
 charters and changes to them.
 
 Approval of the initial charter or changes to an existing charter will
-be approved by opening an issue requesting approvle in the cross-project-council
+be approved by opening an issue requesting approval in the cross-project-council
 [repository](https://github.com/openjs-foundation/cross-project-council/)
 
 The request will be approved through our standard concensus seeking process with the following
