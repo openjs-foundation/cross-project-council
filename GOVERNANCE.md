@@ -75,7 +75,6 @@ be requested by opening an issue requesting approval in the cross-project-counci
 [repository](https://github.com/openjs-foundation/cross-project-council/)
 
 The request is approved when:
-conditions:
 
 * there are no outstanding objections
 * there are two or more approvals by voting CPC members
