@@ -69,7 +69,6 @@ Members participate in a vote.
 
 Per the [CPC charter section 5](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc), the voting CPC members are responsible for approving project
 charters and changes to them.
-[5](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc).
 
 Approval of the initial charter or changes to an existing charter will
 be approved by opening an issue requesting approvle in the cross-project-council
