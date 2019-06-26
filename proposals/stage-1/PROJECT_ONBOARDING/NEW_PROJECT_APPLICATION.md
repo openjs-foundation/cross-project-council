@@ -6,7 +6,7 @@ Who is the main point of contact during the application process?
 
 ## CPC Champion (optional)
 
-If you have a champion from the Cross Council Project (CPC) please identify them. If you do not currently have one we will identify someone to support your project.
+If you have a champion from the Cross Project Council (CPC) please identify them. If you do not currently have one we will identify someone to support your project.
 
 ## Description
 
@@ -38,7 +38,7 @@ Full list of dependencies in your source tree including licenses.
 
 ## Release Methodology and mechanics
 
-How often do you release and where are the releases made. Do you have a Long-term support (LTS) program?
+How often do you release and where are the releases made. Do you have a Long-Term Support (LTS) program?
 
 ## List of Committers
 
