@@ -80,7 +80,7 @@ conditions:
 * there are no outstanding objections
 * there are two or more approvals by voting CPC members
 * the board has been consulted in the case of substantial changes
-* The PR has been open for at least 14 days
+* The issue has been open for at least 14 days
 
 ## Merging PRs into this Repository
 
