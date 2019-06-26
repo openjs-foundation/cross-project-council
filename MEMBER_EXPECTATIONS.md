@@ -1,7 +1,7 @@
 All participants in the OpenJS Foundation projects and groups must follow the
 [Code of Conduct](CODE_OF_CONDUCT.md). There are further expectations for
 members of leadership teams including the
-([CPC](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md).
+[CPC](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md).
 
 It is understood that members will have individual opinions and will express
 their individual opinions during discussions within the organization. All
