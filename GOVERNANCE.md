@@ -99,6 +99,7 @@ in addition to the ones listed for regular PRs.
 Pull requests that change the charter of the CPC must meet the following conditions
 in additon to the ones listed for changing CPC governance:
 
+* The text of the PR must be approved by a simple majority of the voting members.
 * The text of the PR must be approved by the board.
 
 If consensus cannot be reached, a pull request may still be landed after a vote
