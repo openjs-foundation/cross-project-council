@@ -67,9 +67,23 @@ Members participate in a vote.
 
 ## Merging PRs into this Repository
 
-This section does not apply to [the Node.js core repository](https://github.com/nodejs/node).
-It only applies to [the bootstrap repository](https://github.com/nodejs/bootstrap).
+Pull requests that do not change the charter or governance of the CPC can be merged into
+this repository provided the following conditions have been met:
 
-Pull requests must have no objections and have been open for at least 72 hours 
-in order to be merged into this repository. A pull request that is unable to
-reach consensus cannot be merged into this repository.
+* there are no outstanding objections
+* there are two approvals by CPC members
+* the PR has been open for at least 72 hours
+
+Pull requests that change governance of the CPC must meet the following conditions
+in addition to the ones listed for regular PRs.
+
+* The PR has been open for at least 14 days OR consensus is reached in a meeting
+  with quorum of voting members.
+
+Pull requests that change the charter of the CPC must meet the following conditions
+in additon to the ones listed for changing CPC governance:
+
+* The text of the PR must be approved by the board.
+
+If consensus cannot be reached, a pull request may still be landed after a vote
+by the Voting CPC members to override outstanding objections.
