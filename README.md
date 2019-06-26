@@ -8,49 +8,49 @@ The CPC's primary role is to foster an environment of collaboration. That enviro
 
 The CPC exercises autonomy in managing its responsibilities and seeks agreement from the OpenJS Foundation Board on any change to the scope of those responsibilities.
 
-### OpenJS Fondation Projects
+### OpenJS Foundation Projects
 
 #### Impact Project
 
-* Appium
-* Dojo
-* jQuery
-* Node.js
-* webpack
+* [Appium](https://appium.io/)
+* [Dojo](https://dojo.io/)
+* [jQuery](https://jquery.com/)
+* [Node.js](https://nodejs.org)
+* [webpack](https://webpack.js.org/)
 
 #### Growth Projects
 
-* architect
-* Intern
-* Mocha
-* Node-Red
-* WebdriverIO
-* webhint
+* [architect](https://arc.codes/)
+* [Intern](https://theintern.github.io/)
+* [Mocha](https://mochajs.org/)
+* [Node-Red](https://nodered.org/)
+* [WebdriverIO](https://webdriver.io/)
+* [webhint](https://webhint.io/)
 
 #### At-Large Projects
 
-* ESLint
-* Esprima
-* Express
-* Grunt
-* HospitalRun
-* Interledger.js
-* JerryScript
-* Libuv
-* Lodash
-* Marko
-* messageformat
-* Moment
-* PEP
-* QUnit
+* [ESLint](https://eslint.org/)
+* [Esprima](http://esprima.org/)
+* [Express](https://expressjs.com/)
+* [Grunt](https://gruntjs.com/)
+* [HospitalRun](https://hospitalrun.io/)
+* [Interledger.js](https://interledgerjs.org/)
+* [JerryScript](http://jerryscript.net/)
+* [Libuv](https://libuv.org/)
+* [Lodash](https://lodash.com/)
+* [Marko](https://markojs.com/)
+* [messageformat](https://messageformat.github.io/messageformat/)
+* [Moment](https://momentjs.com/)
+* [PEP](https://github.com/jquery/pep)
+* [QUnit](https://qunitjs.com/)
 
 #### Emeritus Projects
 
-* Chassis
-* jQuery Mobile
-* jQuery UI
-* RequireJS
-* Sizzle
+* [Chassis](https://github.com/jquery/css-chassis)
+* [jQuery Mobile](https://jquerymobile.com/)
+* [jQuery UI](https://jqueryui.com/)
+* [RequireJS](https://requirejs.org/)
+* [Sizzle](https://sizzlejs.com/)
 
 ## CPC Members
 
@@ -63,7 +63,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 - **Appium**: Dan Graham (@dpgraham) & Jonah Stiennon(@Jonahss)
 - **Dojo**: Matt Gadd (@matt-gadd) & Dylan Schiemann (@dylans)
 - **jQuery**: Dave Methvin (@dmethvin) & Timmy Willison (@timmywil)
-- **Node.js**: Matteo Collina (@mcollina ) & Joe Sepi (@joesepi)
+- **Node.js**: Matteo Collina (@mcollina) & Joe Sepi (@joesepi)
 - **webpack**: Sean Larkin (@TheLarkInn) & Even Stensberg (@evenstensberg)
 
 #### Growth & At Large Project Representatives
@@ -80,9 +80,9 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 
 According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#regular-members) anyone who has been a member of one of the projects under the OpenJS Foundation for at least three months may request to become a regular member by opening a PR to add themselves to the list of regular members
 
+- Jory Burson (@jorydotcom)
 - Michael Dawson (@mhdawson)
 - Myles Borins (@MylesBorins)
-- Jory Burson (@jorydotcom)
 
 <!-- ### Observers -->
 
@@ -96,3 +96,10 @@ The pull request can be labeled cross-project-council-agenda to request that it 
 
 The OpenJS Foundation Board of Directors retains certain rights (especially legal considerations). If the CPC endorses a proposal, they will escalate to the OpenJS Foundation Board of Directors when required to do so.
 
+## Communication Channels
+
+CPC discussion generally happens via GitHub issues and [during our regular public meetings](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), which are open to CPC members and observers.
+
+In addition, the OpenJS Foundation maintains a [number of mailing lists](https://lists.openjsf.org).  Project particpants are strongly encouraged to subscribe to the [projects@lists.openjsf.org](https://lists.openjsf.org/g/projects) list for technical updates and discussion.  
+
+Discussion should be held in the open whenever possible.  However, if you need to raise a private concern with the CPC and you feel it is inappropriate for public discussion, you can email the [cpc-private@lists.openjsf.org](mailto:cpc-private@lists.openjsf.org) list.  Depending upon the circumstances, the CPC may request that you resubmit the issue in a public forum.
