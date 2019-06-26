@@ -79,7 +79,7 @@ The request will be approved through our standard concensus seeking process with
 conditions:
 
 * there are no outstanding objections
-* there are two or more approvals by `voting` CPC members
+* there are two or more approvals by voting CPC members
 * the board has been consulted in the case of substantive changes
 * The PR has been open for at least 14 days
 
