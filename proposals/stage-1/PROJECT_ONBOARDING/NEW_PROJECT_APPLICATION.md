@@ -6,7 +6,7 @@ Who is the main point of contact during the application process?
 
 ## CPC Champion (optional)
 
-If you have a champion from the CPC please identify them. If you do not currently have one we will identify someone to support your project.
+If you have a champion from the Cross Project Council (CPC) please identify them. If you do not currently have one we will identify someone to support your project.
 
 ## Description
 
@@ -16,7 +16,7 @@ A rough description of the project
 
 Please refer to [TBD][]
 
-## Current Code of Conduct
+## Current Code of Conduct (CoC)
 
 Include a link
 
@@ -38,7 +38,7 @@ Full list of dependencies in your source tree including licenses.
 
 ## Release Methodology and mechanics
 
-How often do you release and where are the releases made. Do you have an LTS program?
+How often do you release and where are the releases made. Do you have a Long-Term Support (LTS) program?
 
 ## List of Committers
 
@@ -83,7 +83,8 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
 - [ ] Update project CoC reporting methods to include OpenJS Foundation escalation path
 - [ ] Transfer official domains to OpenJS Foundation
 - [ ] Identify and document other core project infrastructure
-- [ ] If choosing to use a CLA or DCO, make selection and implement appropriate tool
+- [ ] If choosing to use a Contributor License Agreement (CLA) or Developer Certificate of Origin (DCO),
+      make selection and implement appropriate tool
 - [ ] Add or Update Governance.md document (required for Impact stage)
 - [ ] Confirm required files in place (CODE_OF_CONDUCT.md, LICENSE.md)
 - [ ] Project Charter is published on website or github
