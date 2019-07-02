@@ -1,18 +1,19 @@
 ## I. Overview
+
 This governance policy describes how an open source project can formally join the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Project Proposal Process](). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
 
 Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources such as the travel fund.
 
-For more information about how your project can benefit from Foundation membership and services, please see [TBD Document]().
-
-This proposal has been modified from the [CNCF process documentation](https://github.com/cncf/toc/tree/master/process).
+<!-- For more information about how your project can benefit from Foundation membership and services, please see [TBD Document](). -->
 
 ## II. Project Proposal Process
 
 ### Introduction
+
 This governance policy sets forth the proposal process for projects to be accepted into the Foundation. The process is the same for both existing projects which seek to move into the Foundation, and new projects to be formed within the Foundation.
 
 ### Project Proposal Requirements
+
 Projects must be proposed via GitHub. Project proposals submitted to the Foundation must provide the following information to the best of their ability:
 
 * name of project
@@ -35,6 +36,7 @@ Projects must be proposed via GitHub. Project proposals submitted to the Foundat
 * infrastructure needs or requests 
 
 ### Project Acceptance Process
+
 * Projects are required to present their proposal at a CPC meeting
 * The CPC may ask for changes to bring the project into better alignment with the Foundation (adding a governance document to a repository or adopting a more stringent Code of Conduct, for example).
  * The project will need to make these changes in order to progress further.
@@ -43,13 +45,15 @@ Projects must be proposed via GitHub. Project proposals submitted to the Foundat
 * The CPC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process. 
 
 ## III. Stages - Definitions & Expectations
+
 Every Foundation project has an associated maturity level. Proposed Foundation projects should state their preferred maturity level. Projects of all maturities have access to Foundation resources.
 
 All Foundation projects may attend CPC meetings and contribute work regardless of their stage. 
 
 *note: all stage names are tbd pending outcome of [#44](https://github.com/nodejs/bootstrap/issues/44#issuecomment-440026298)*
 
-### At Large Projects (formerly 'Sandbox')
+### At Large Projects
+
 **Definition** 
 
 At Large projects are projects which the CPC believes are, or have the potential to be, important to the ecosystem of Top-Level Projects or the JS ecosystem as a whole. They may be early-stage projects just getting started, or they may be long-established projects with minimal resource needs. The At Large stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other Foundation projects via the graduation process.
@@ -73,7 +77,8 @@ To be considered for the At Large Stage, the project must meet the following req
 * Adherence to the Foundation IP Policy
 * Upon acceptance, At Large projects must list their status prominently on website/readme
 
-### Growth Stage (formerly 'Incubating')
+### Growth Stage
+
 **Definition** 
 
 The Growth Stage is for projects that are interested in reaching the Impact Stage, and have identified a growth plan for doing so. Growth Stage projects will receive mentorship from the CPC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor in to broad success and adoption.
@@ -102,7 +107,8 @@ To be considered for Growth Stage, the project must meet the At Large requiremen
  * Since these metrics can vary significantly depending on the type, scope and size of a project, the CPC has final judgement over the level of activity that is adequate to meet these criteria.
  * Receive a two-thirds supermajority vote of the CPC to move to Growth Stage. 
 
-### Impact Stage (formerly 'Top-Level')
+### Impact Stage
+
 **Definition**
 
 The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.     
@@ -133,6 +139,7 @@ To graduate from At Large or Growth status, or for a new project to join as an I
 
 
 ### Emeritus Stage
+
 **Definition**
 
 Emeritus projects are projects which the maintainers feel have reached or are nearing end-of-life. Emeritus projects have contributed to the ecosystem, but are not necessarily recommended for modern development as there may be more actively maintained choices. The Foundation appreciates the contributions of these projects and their communities, and the role they have played in moving the ecosystem forward. 
@@ -154,4 +161,3 @@ Projects may be granted Emeritus status via a 2/3 vote from the CPC and with app
 ## IV. Annual Review Process
 
 The CPC shall develop an annual review process to determine whether projects are in the stage that accurately reflects their needs and goals. 
-
