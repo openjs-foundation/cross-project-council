@@ -11,7 +11,7 @@ A rough description of the project in less than 100 words.
 ## Statement of alignment with OpenJS Foundation charter and mission
 
 Please refer to [the Cross Project Council's Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md).
-Keep answers to less than 250 words.
+Please keep your answer to less than 250 words.
 
 ## List of all repos that are part of the project
 
@@ -31,19 +31,13 @@ Full list of dependencies in the source tree of all repos. Please include licens
 A full audit of all vendored dependencies will be required before your project can officially
 join the foundation, but this can be done later with foundation support.
 
-## List of Committers (Optional)
-
-Full list of individuals with commit access to your project repos and their corporate affiliation
-if applicable. A full audit of all collaborators will be required before your project can officially
-join the foundation, but this can be done later with foundation support.
-
 ## Governance Structure
 
 * Is there a leadership team?
 * Who are the members of the leadership team?
-* How are members of the leadership team nominated
+* How are members of the leadership team nominated?
 * How are individuals outside of leadership given commit access?
-* Please share links to existing documentation e.g. GOVERNANCE.md or CONTRIBUTING.md
+* Please share links to all existing documentation e.g. GOVERNANCE.md / CONTRIBUTING.md
 
 ## Desired Initial Project Phase
 
