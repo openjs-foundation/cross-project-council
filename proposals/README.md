@@ -12,11 +12,10 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 * [Code of Conduct approach](./stage-1/CODE_OF_CONDUCT)
 * [Collab Summit](./stage-1/COLLAB_SUMMIT)
-* [Project Onboarding](./stage-1/PROJECT_ONBOARDING)
 
 ## Stage 2
 
-There are currently no Stage 2 proposals.
+* [Project Onboarding](./stage-2/PROJECT_ONBOARDING)
 
 ## Stage 3
 
