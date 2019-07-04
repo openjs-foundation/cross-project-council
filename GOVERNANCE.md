@@ -99,7 +99,11 @@ These members will be elected as follows:
 
 * Those candidates who receive the greatest number of votes will be confirmed as
   the winners. In the case of a tie between 2 or more candidates, the winner will be
-  chosen randomly.
+  chosen randomly unless:
+   * There are only 2 candiates tied for the largest number of votes, in which case those 2
+     candidates will be the winners, 
+   * all but one of the candidates that are tied for the number of votes choose to conceed.
+    
 
 ## Merging PRs into this Repository
 
