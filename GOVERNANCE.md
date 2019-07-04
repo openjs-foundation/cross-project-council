@@ -72,7 +72,7 @@ As per the [CPC charter](https://github.com/openjs-foundation/cross-project-coun
 > up to two (2) Voting members may be nominated by the non-impact projects
   based on a process set by the CPC.
 
-These members will be elected as follows:
+These members will be elected for a term of 1 year as follows:
 
 * Once a year an issue will be opened in the CPC repo announcing that the period for
   nominations is open.
