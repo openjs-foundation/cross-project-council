@@ -65,6 +65,22 @@ meeting. In both cases the decision must be seconded by a majority of the Team
 or else the discussion will continue. Simple majority wins. Only Active
 Members participate in a vote.
 
+## Aproving Project Charters
+
+Per the [CPC charter section 5](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc), the voting CPC members are responsible for approving project
+charters and changes to them.
+
+Approval of the initial charter or changes to an existing charter will
+be requested by opening an issue requesting approval in the cross-project-council
+[repository](https://github.com/openjs-foundation/cross-project-council/)
+
+The request is approved when:
+
+* there are no outstanding objections
+* there are two or more approvals by voting CPC members
+* the board has been consulted in the case of substantial changes
+* The issue has been open for at least 14 days
+
 ## Merging PRs into this Repository
 
 Pull requests that do not change the charter or governance of the CPC can be merged into
