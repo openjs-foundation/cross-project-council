@@ -1,4 +1,4 @@
-# Staging Process Proposal
+# Staging Process
 
 Anyone may submit an idea for a policy or program following the staging process outlined below. To submit an idea, create a folder in the appropriate
 directory found in `./proposals`, update [proposals/README.md](./README.md), submit a pull-request, and apply the appropriate staging label.
