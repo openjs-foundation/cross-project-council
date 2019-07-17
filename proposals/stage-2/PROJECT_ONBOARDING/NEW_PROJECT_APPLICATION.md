@@ -15,21 +15,13 @@ Please keep your answer to less than 250 words.
 
 ## List of all repos that are part of the project
 
-Include links and license information
+For each repository, please provide:
 
-## Issues Tracker
-
-Link to GitHub or other tracker
-
-## Current Code of Conduct
-
-Include a link
-
-## Vendored Dependencies (Optional)
-
-Full list of dependencies in the source tree of all repos. Please include licenses if you can.
-A full audit of all vendored dependencies will be required before your project can officially
-join the foundation, but this can be done later with foundation support.
+- link to repo,
+- license information,
+- link to issue tracker,
+- link to code of conduct (CoC),
+- optionally, the full list of vendored dependencies contained in the source tree, including license information. A full audit of all vendored dependencies will be required before your project can officially join the foundation, but this can be done later with foundation support.
 
 ## Governance Structure
 
