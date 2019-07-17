@@ -93,7 +93,17 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 - Myles Borins (@MylesBorins)
 - Sendil Kumar (@sendilkumarn)
 
-<!-- ### Observers -->
+### Observers
+
+Anyone can be an Observer.
+Observers are free to attend meetings and participate in the work of the CPC as well 
+as the consensus seeking process. Observers are encouraged to participate and 
+volunteer but should refrain from disrupting or blocking progress. Observers 
+are expected to participate in a positive and collaborative manner as well as 
+following the [code of conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) 
+and [member expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/MEMBER_EXPECTATIONS.md) 
+like other CPC participants. If an Observer fails to meet these expectations they can 
+be excluded from future CPC meetings based on a standard CPC motion.
 
 ## Policy Change Proposal Process
 
