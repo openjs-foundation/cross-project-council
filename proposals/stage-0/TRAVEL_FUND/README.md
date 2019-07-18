@@ -30,16 +30,15 @@ The treasurer will be a member of the CPC rather than the Node.js TSC or Communi
   - https://github.com/nodejs/admin/blob/master/reimbursement_process.pdf
 - Modify these files to account for OpenJS rather than Node.js organizations
 - Remove mentions from nodejs/admin README, add links to CPC README
-- Expensify account needs to be migrated to OpenJS if it is not already
-- Create new email address to take the place of travelapprovals@nodejs.org
 
 ## Required Resources
 
-Permissions to the services and financial accounts involved. I believe @brianwarner should already have access, in which case there is nothing more to be done.
+@brianwarner reports that everything can stay the same for the tools and accounts involved.
+No other resources required.
 
 ## How would success be measured?
 
-Success will be achieved if non-Node.js members use the travel fund to attend a Foundation-related event.
+Success will be achieved if Node.js and non-Node.js members use the travel fund to attend a Foundation-related event, and nobody notices the difference.
 
 ## Why this proposal is important
 
@@ -47,8 +46,7 @@ Organizationally, the Node.js project is at the same level as the other impact p
 
 ## Unresolved Questions
 
-- Which group is in charge of the actual budget?
-- Does this require Board approval?
+None at this time.
 
 ## What is necessary to complete this proposal
 
