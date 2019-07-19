@@ -9,6 +9,8 @@ assignees: ''
 
 ## Project Onboarding Checklist - ${Project Name}
 
+**Stage: ${Project Stage}
+
 - [ ] Adopt the [OpenJS Foundation Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) - update the project's Code of Conduct file
 - [ ] Update project CoC reporting methods to include OpenJS Foundation escalation path
 - [ ] Transfer official domains to OpenJS Foundation
