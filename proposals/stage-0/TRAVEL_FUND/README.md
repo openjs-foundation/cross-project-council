@@ -46,7 +46,7 @@ Organizationally, the Node.js project is at the same level as the other impact p
 
 ## Unresolved Questions
 
-None at this time.
+- Who is the current treasurer of the fund?
 
 ## What is necessary to complete this proposal
 
