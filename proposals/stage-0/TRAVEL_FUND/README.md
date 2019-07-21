@@ -50,5 +50,4 @@ Organizationally, the Node.js project is at the same level as the other impact p
 
 ## What is necessary to complete this proposal
 
-- Definition and wording of the travel fund mechanics
-- Transfer of the current travel fund and tools/accounts to the CPC
+- Definition and wording of the travel fund mechanics, mostly moving files and updating references.
