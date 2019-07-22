@@ -20,7 +20,7 @@ The current fund is used mostly for attending collaborator summits, and we do no
 The existing process requires approval from two members of the Node.js TSC and two members of the Node.js Community Committee.
 The new process will require approval from four members of the CPC.
 
-The treasurer will be a member of the CPC rather than the Node.js TSC or Community Committee.
+The role of fund "treasurer" will be removed, as it has been found to be redundant and is not currently filled (see https://github.com/openjs-foundation/cross-project-council/pull/268#issuecomment-513888283).
 
 ## Practical Specifics
 
@@ -32,6 +32,7 @@ The treasurer will be a member of the CPC rather than the Node.js TSC or Communi
   - https://github.com/nodejs/admin/blob/master/reimbursement_process.pdf
 - Modify these files to account for OpenJS rather than Node.js organizations
 - Remove mentions from nodejs/admin README, add links to CPC README
+- Remove the role of treasurer
 
 ## Required Resources
 
