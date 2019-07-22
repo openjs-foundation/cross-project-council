@@ -13,6 +13,8 @@ The Node.js organizations that existed prior to the formation of the OpenJS foun
 
 We shall review the process in this proposal, but the intent is to leave the mechanics of the fund unchanged, simply moving from the purview of the Node.js project into the domain of the OpenJS Foundation, overseen by the CPC. This operation can be viewed as a refactor which moves the travel fund up one level in the organizational tree.
 
+The current fund is used mostly for attending collaborator summits, and we do not expect this to change.
+
 ## Difference from the current process
 
 The existing process requires approval from two members of the Node.js TSC and two members of the Node.js Community Committee.
