@@ -18,7 +18,7 @@ The current fund is used mostly for attending collaborator summits, and we do no
 ## Difference from the current process
 
 The existing process requires approval from two members of the Node.js TSC and two members of the Node.js Community Committee.
-The new process will requiree approval from four members of the CPC.
+The new process will require approval from four members of the CPC.
 
 The treasurer will be a member of the CPC rather than the Node.js TSC or Community Committee.
 
