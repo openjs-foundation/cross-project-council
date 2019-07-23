@@ -53,4 +53,5 @@ Organizationally, the Node.js project is at the same level as the other impact p
 
 ## What is necessary to complete this proposal
 
+- Approval and buy-in from Node.js TSC and CommComm. 
 - Definition and wording of the travel fund mechanics, mostly moving files and updating references.
