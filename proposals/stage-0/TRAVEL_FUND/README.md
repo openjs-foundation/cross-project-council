@@ -45,7 +45,7 @@ Success will be achieved if Node.js and non-Node.js members use the travel fund 
 
 ## Why this proposal is important
 
-Organizationally, the Node.js project is at the same level as the other impact projects in the Foundation, and so the travel fund should benefit all projects equally in opportunity. Plus, the sponsorships which pay for the fund sponsor the entire Foundation, not just the Node.js project.
+The Node.js project has demonstrated the value of providing a travel fund which allows project members to get together at collaborator summits and to represent/advocate for the project at other events. It is important to expand the travel fund (both resource and usage) so that other projects can benefit as well.
 
 ## Unresolved Questions
 
