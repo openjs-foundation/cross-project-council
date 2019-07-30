@@ -4,12 +4,10 @@ This document describes the proposed process for handling reports and escalation
 Reporting to the OpenJS Foundation either concerns a matter with the Foundation or is considered an escalation where insufficient resolution was provided by a project, with regards to violations of the Code of Conduct.
 
 ## Channels
-* Email: report@openjsf.org
-  * This email address is for aliasing (like tsc@nodejs.org) to roles in handling reports and escalation.
-  *  We can use groups.io
-* Form: It would be easier on the reportee to have a form template to help them structure their report. The form submission could trigger an email
-* Repo: openjs/moderation (not provisioned)
-  * A form submission could open an issue in the repo, to allow folks to discuss in context
+* Email: report@openjsf.org.
+* Form: It would be easier on the reportee to have a form template to help them structure their report. The form submission could trigger an email.
+* Repo: openjs/moderation (not provisioned). As commented in PR review, hosting sensitive personal information on GitHub needs due consideration, review, and possibly legal consultation.
+  * A form submission could open an issue in the repo, to allow folks to discuss in context.
 ## Confidentiality and record-keeping
 Everything reported and discussed is confidential unless explicitly stated. For any facts to be made public, the reportee’s explicit permission is needed. All reports should be recorded, together with the discussion of it. A private moderation repo would satisfy the need for recordkeeping.
 ## Steps/Escalation
