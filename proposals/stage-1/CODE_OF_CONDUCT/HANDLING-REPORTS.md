@@ -15,8 +15,8 @@ Everything reported and discussed is confidential unless explicitly stated. For 
 2. The right people are alerted: See Roles.
 3. Contact person assigned: See Roles.
 4. Report is acknowledged: The contact person responds to let the reportee know that the report is being discussed.
-5. Facts are gathered: Time is allocated to collect information in one place to make sure everyone involved has access.
-6. Facts are discussed: The facts are discussed in context. Also see What to look forward to for guidelines on appropriate response.
+5. Facts and opinions are gathered: Time is allocated to collect information in one place to make sure everyone involved has access.
+6. Facts are discussed: The facts are discussed in context of opinions. Also see **What to look forward to** for guidelines on appropriate response.
 7. An action to be taken is arrived at: The action to be taken is decided by consensus.
 8. Resolution offered: The resolution is offered to the reportee by the contact person. The reportee needs to accept the resolution for the matter to be resolved. If they don’t accept, go back to step 5. If there isn't a clear way to resolve the report, the report can be reviewed by the moderation team representatives from OpenJS projects to ensure that the the action and resolution are appropriate.
 The report is resolved: The report is resolved when the reportee accepts the action.
