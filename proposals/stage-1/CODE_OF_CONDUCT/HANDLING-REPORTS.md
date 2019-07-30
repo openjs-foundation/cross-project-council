@@ -1,7 +1,7 @@
 # Handling reports and escalation
 This document describes the proposed process for handling reports and escalation, along with relevant roles in the OpenJS Foundation.
 
-Reporting to the OpenJS Foundation either concerns a matter with the Foundation or is considered an escalation where insufficient resolution was provided by a project.
+Reporting to the OpenJS Foundation either concerns a matter with the Foundation or is considered an escalation where insufficient resolution was provided by a project, with regards to violations of the Code of Conduct.
 
 ## Channels
 * Email: report@openjsf.org
