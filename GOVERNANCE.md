@@ -74,8 +74,8 @@ From: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC
   by the Voting CPC members each year.
 
 Due to the bootstrap process, the term for the first year will be
-shortened such that the initial term for all voting members ends April 30th, 2020.
-Subsequent terms wil be for a period of 1 year ending the following April 30th.
+shortened such that the initial term for all voting members ends March 31st, 2020.
+Subsequent terms wil be for a period of 1 year ending the following March 31st.
 
 ## Election process for Non-Impact Voting CPC members
 
