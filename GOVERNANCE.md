@@ -65,6 +65,18 @@ meeting. In both cases the decision must be seconded by a majority of the Team
 or else the discussion will continue. Simple majority wins. Only Active
 Members participate in a vote.
 
+## Term for voting members
+
+As per the CPC charter, the term for all voting members is normally 1 year.
+
+From: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members
+> Voting members serve for a term of 1 year and must be re-nominated and ratified
+  by the Voting CPC members each year.
+
+Due to the bootstrap process, the term for the first year will be
+shortened such that the initial term for all voting mebers ends April 30th.
+Subsequent terms wil be for a period of 1 year ending the following April 30th.
+
 ## Election process for Non-Impact Voting CPC members
 
 As per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md), the non-impact projects elect 2 voting CPC members:
