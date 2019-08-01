@@ -293,13 +293,13 @@ from the OpenJS Foundation board.
 ## Section 11. Definitions
 
 **Project**: a technical collaboration effort that is organized through the
-project mentorship process and approved by the TAC.
+project mentorship process and approved by the CPC.
 
 **Contributors**: contribute code or other artifacts, but do not have the right
 to commit to the code base. Contributors work with the Project's Collaborators
 to have code committed to the code base. A Contributor may be promoted to a
 Collaborator by the Project's Maintainers. Contributors should rarely be
-encumbered by the TAC or Board.
+encumbered by the CPC or Board.
 
 **Collaborator**: a Contributor within a Project that has made significant and
 valuable contributions and has been given commit-access to that Project
