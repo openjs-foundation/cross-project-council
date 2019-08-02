@@ -31,7 +31,6 @@ The role of fund "treasurer" will be removed, as it has been found to be redunda
   - https://github.com/nodejs/admin/blob/master/expense-report-template.xls
   - https://github.com/nodejs/admin/blob/master/reimbursement_process.pdf
 - Remove mentions from nodejs/admin README, add links to CPC README
-- Remove the role of treasurer
 
 ## Required Resources
 
