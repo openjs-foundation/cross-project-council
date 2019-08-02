@@ -73,7 +73,7 @@ For additional information on preparing your visa application or requesting a vi
 A request is approved when all of the following criteria are met:
 
 * The pull request has been open for at least 72 hours.
-* The request has approval from at least four members of @openjs-foundation/cpc, including a voting representative for your project.
+* The request has approval from at least four members of @openjs-foundation/cpc.
 * No members of @openjs-foundation/cpc have objected to the request.
 * The pull request has been merged. Any member may merge once other prerequisites have been met.
 
