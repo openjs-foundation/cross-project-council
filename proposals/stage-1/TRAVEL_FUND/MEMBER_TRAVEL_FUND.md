@@ -88,7 +88,7 @@ mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
 ### Considerations for approval of a request
 
 #### Impact
-* Preference is given to events hosted or sponsored by the OpenJSF Foundation. For example, OpenJSF collaboration summits and Diagnostics summits should be given precedence because they bring together members of the Foundation to help the Foundation projects advance.
+* Preference is given to events hosted or sponsored by the OpenJS Foundation. For example, OpenJS Collaboration summits and Diagnostics summits should be given precedence because they bring together members of the Foundation to help the Foundation projects advance.
 * Preference is given to speakers and panelists of a conference. Speaking and doing panels at a conference generates a more
 significant impact than attending. However, individuals applying for the travel fund to speak or participate in panels should confirm that the event organizers cannot cover the travel expenses before submitting a request.
 
