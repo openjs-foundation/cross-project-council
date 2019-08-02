@@ -70,7 +70,7 @@ plans.
 
 ## Need some assistance?
 
-We are adding all VISA related information in this document but If you need more assistance or you have any question for your application, feel free to email us at [visainfo@nodejs.org](mailto:visainfo@nodejs.org). We are not VISA experts but will try
+We are adding all VISA related information in this document but If you need more assistance or you have any question for your application, feel free to email us at [visainfo@openjsf.org ](mailto:visainfo@openjsf.org). We are not VISA experts but will try
 to assist as much as we can.
 
 [visa-request-form]: https://events.linuxfoundation.org/visa-request/ "visa request form"

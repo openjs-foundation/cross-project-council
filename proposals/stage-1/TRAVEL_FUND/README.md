@@ -36,6 +36,7 @@ The role of fund "treasurer" will be removed, as it has been found to be redunda
 ## Required Resources
 
 @brianwarner reports that everything can stay the same for the tools and accounts involved.
+ - add email: visainfo@openjsf.org and travelapprovals@openjsf.org
 Some data on past fund usage, and data from the OpenJS projects on predicted fund usage.
 
 ## How would success be measured?
@@ -48,7 +49,7 @@ The Node.js project has demonstrated the value of providing a travel fund which 
 
 ## Unresolved Questions
 
-- None at this time
+- Do we want to qualify membership in some way? Will this fund be open to contributors to OpenJS projects at all levels? How do we confirm membership?
 
 ## What is necessary to complete this proposal
 
