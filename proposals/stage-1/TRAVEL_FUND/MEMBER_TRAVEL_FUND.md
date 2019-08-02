@@ -82,7 +82,7 @@ to be approved is for that committee to decide to approve the request using what
 consensus is not reached.
 
 As examples, the purpose of prior sponsored travels includes attending TC39 meetings,
-attending [OpenJSF collaboration summits](https://github.com/nodejs/summit), and
+attending [OpenJS collaboration summits](https://github.com/nodejs/summit), and
 mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
 
 ### Considerations for approval of a request
