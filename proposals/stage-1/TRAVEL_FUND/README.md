@@ -18,7 +18,7 @@ The current fund is used mostly for attending collaborator summits, and we do no
 ## Difference from the current process
 
 The existing process requires approval from two members of the [Node.js TSC](https://github.com/nodejs/TSC) and two members of the [Node.js Community Committee](https://github.com/nodejs/community-committee).
-The new process will require approval from four members of the CPC.
+The new process will require approval from four members of the CPC, one of whom represents the applicant's project.
 
 The role of fund "treasurer" will be removed, as it has been found to be redundant and is not currently filled (see https://github.com/openjs-foundation/cross-project-council/pull/268#issuecomment-513888283).
 
