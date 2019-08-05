@@ -24,7 +24,7 @@ The role of fund "treasurer" will be removed, as it has been found to be redunda
 
 ## Practical Specifics
 
-- Modify these files to account for OpenJS rather than Node.js organizations
+- Modify these files to account for OpenJS Foundation rather than Node.js organizations
   - https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md
   - https://github.com/nodejs/admin/tree/master/TravelFunds
   - https://github.com/nodejs/admin/blob/master/travel-visas.md
