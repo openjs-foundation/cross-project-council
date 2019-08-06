@@ -15,7 +15,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 2
 
-* [Project Onboarding](./stage-2/PROJECT_ONBOARDING)
+There are currently no Stage 2 proposals.
 
 ## Stage 3
 
@@ -24,4 +24,5 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [Expectations](./stage-3/EXPECTATIONS)
 * [Governance](./stage-3/GOVERNANCE)
 * [Individual Membership program](./stage-3/INDIVIDUAL_MEMBERSHIP)
+* [Project Onboarding](./stage-3/PROJECT_ONBOARDING)
 * [Project Progression](./stage-3/PROJECT_PROGRESSION)

@@ -33,9 +33,8 @@ Initially we should measure this document's success by how well it helps us onbo
 
 We need to share a workflow and understanding of what steps are required to bring in projects to the OpenJS Foundation. This process is an attempt to organize our ideas and our work to make that happen effectively. This process should be explicit and consistent to make applications fair for all projects.
 
-## Unresolved Questions
+## Things we plan to iterate on
 
-* Should all existing projects be expected to go through check list?
 * Suggestion: group all the per-repo info we're looking for in one place (such as issue trackers, lists of committers, links to documentation such as Governance.md ) 
 * Clarification: to vendor dependencies include transitive dependencies as well? Also dev, prod dependencies or both?
 * Suggestion: include a tool such as https://www.npmjs.com/package/license-checker for grabbing dependency info
@@ -49,9 +48,7 @@ Agreement on the initial checklist items; interim owners/helpers for each of the
 
 - [x] [Template for Project Applications](./NEW_PROJECT_APPLICATION.md)
 - [x] [Onboarding Check List](./NEW_PROJECT_APPLICATION.md#onboarding-checklist)
-- [ ] [Update to Project Progression](https://github.com/openjs-foundation/cross-project-council/pull/165)
-- [ ] Potential changes to CPC Charter
-- [ ] Discussion/approval by the Cross Project Council
+- [x] [Update to Project Progression](https://github.com/openjs-foundation/cross-project-council/pull/165)
+- [x] Discussion/approval by the Cross Project Council
 - [ ] Discussion/approval by the Board
-- [ ] Adoption by the CPC
-- [ ] Run existing projects through the process
+- [x] Adoption by the CPC
