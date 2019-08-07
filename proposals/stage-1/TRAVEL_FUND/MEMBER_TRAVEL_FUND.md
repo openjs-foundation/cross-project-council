@@ -12,7 +12,7 @@ To establish and administer a fund for members of the OpenJS Foundation to trave
 
 ## Requirements
 
-* Candidates must be an individual member of one of the projects of the OpenJS Foundation. //TODO clarify?
+* Candidates must be an active participant of one of the projects of the OpenJS Foundation. //TODO clarify?
 * Those requesting funds must indicate that they do not have funding available from another source, such as an employer or
 the event itself that might cover costs for presenters.
 
@@ -22,10 +22,11 @@ Requests must be made prior to the start of travel. Requests submitted once trav
 
 It is strongly recommended that you submit your request far enough in advance to get approval before making relevant expenditures.
 Review of requests will take at least 72 hours and may take considerably longer. Note, with limited funds available, approval is not
-guaranteed. If a request is rejected, reimbursement will not be issued.The Foundation cannot pre-pay for travel expenditures.
+guaranteed. If a request is rejected, reimbursement will not be issued. The Foundation cannot pre-pay for travel expenditures.
 
 ## Visa Tips
 
+// TODO make email alias for visa help
 For all events, 3rd party or hosted Foundation events, it is recommended to apply for a visa at least 6 months prior to an event.
 
 ### For Industry Events
