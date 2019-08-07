@@ -26,6 +26,7 @@ guaranteed. If a request is rejected, reimbursement will not be issued.The Found
 
 ## Visa Tips
 
+// TODO make email alias for visa help
 For all events, 3rd party or hosted Foundation events, it is recommended to apply for a visa at least 6 months prior to an event.
 
 ### For Industry Events
