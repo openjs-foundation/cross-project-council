@@ -82,6 +82,8 @@ _tech lead, collaborator, contributor, maintainer, etc. and any responsibilities
 _rights such role confers. You can also include this information by_
 _reference to your governance.md document._
 
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-8-project-roles)
+
 ### Section 5: Definitions (optional)
 
 _directions: include any definitions that may help clarify terms or ideas found_
