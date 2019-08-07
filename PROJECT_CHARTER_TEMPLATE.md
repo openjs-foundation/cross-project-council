@@ -55,6 +55,8 @@ _the project and its respective organization and repositories. If there are_
 _specific rules for membership or participation in the group, list them here or_
 _by reference to a governance.md document._
 
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-3-establishment-of-the-tsc)
+
 ## Section 4: Roles & Responsibilities 
 
 _directions: describe the roles and responsibilities of the ${PROJECT TSC}._
