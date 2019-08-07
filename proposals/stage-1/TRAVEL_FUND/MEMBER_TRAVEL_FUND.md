@@ -22,7 +22,7 @@ Requests must be made prior to the start of travel. Requests submitted once trav
 
 It is strongly recommended that you submit your request far enough in advance to get approval before making relevant expenditures.
 Review of requests will take at least 72 hours and may take considerably longer. Note, with limited funds available, approval is not
-guaranteed. If a request is rejected, reimbursement will not be issued.The Foundation cannot pre-pay for travel expenditures.
+guaranteed. If a request is rejected, reimbursement will not be issued. The Foundation cannot pre-pay for travel expenditures.
 
 ## Visa Tips
 
