@@ -70,6 +70,9 @@ _directions: use this section to describe any other specific tasks the_
 _${PROJECT TSC} may be responsible for regarding process or project_
 _operations and management._
 
+ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/master/sig-architecture/charter.md#roles-and-organization-management)
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-5-nodejs-project-operations)
+
 ### Section 4.2: Decision-making, Voting, and/or Elections (optional)
 
 _directions: describe any provisions the project makes for decision-making_
