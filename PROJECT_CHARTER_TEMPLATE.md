@@ -38,6 +38,8 @@ _directions: list or bullet out areas that may be seen to be related but are_
 _not included in the scope of this project. This may help clarify the kind of_
 _features, contributions, issues or problems the project is looking for._
 
+ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/master/sig-architecture/charter.md#out-of-scope)
+
 ## Section 2: Relationship with OpenJS Foundation CPC.
 
 _directions: describe how the project intersects with the Cross Project_
