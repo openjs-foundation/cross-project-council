@@ -143,13 +143,11 @@ DocuSign.
 * We are unable to pre-pay for expenses.
 * The Cross Project Council representative to the Board of Directors will report back amounts consumed from the travel allocation on a monthly basis to the Board.
 
-## 2018 Board of Directors Allocation
-The request from Technical Steering Committee and the Community Committee for a 2018 joint travel fund was
-approved in the amount of $60,000. The $60,000 was fully utilized in 2018.
+## 2018 Node.js Foundation Board of Directors Allocation
+The request from the Node.js [Technical Steering Committee](https://github.com/nodejs/TSC) and the Node.js [Community Committee](https://github.com/nodejs/community-committee) for a 2018 joint travel fund was approved in the amount of $60,000. The $60,000 was fully utilized in 2018.
 
-## 2019 Board of Directors Allocation
+## 2019 Node.js Foundation Board of Directors Allocation
 
-The request from Technical Steering Committee and the Community Committee for a 2019 joint travel fund
-was approved in the amount of $60,000.
+The request from the Node.js [Technical Steering Committee](https://github.com/nodejs/TSC) and the Node.js [Community Committee](https://github.com/nodejs/community-committee) for a 2019 joint travel fund was approved in the amount of $60,000.
 
 Please direct any questions or concerns about the travel fund to [travelapprovals@openjsf.org](mailto:travelapprovals@openjsf.org).
