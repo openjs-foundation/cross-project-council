@@ -61,6 +61,9 @@ ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.
 
 _directions: describe the roles and responsibilities of the ${PROJECT TSC}._
 
+ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/master/sig-architecture/charter.md#roles-and-organization-management)
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-4-responsibilities-of-the-tsc)
+
 ### Section 4.1 Project Operations & Management (optional)
 
 _directions: use this section to describe any other specific tasks the_
