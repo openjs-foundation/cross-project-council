@@ -45,6 +45,8 @@ ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/
 _directions: describe how the project intersects with the Cross Project_
 _Council._ 
 
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-2-evolution-of-openjs-foundation-governance)
+
 ### 2.1 Other Formal Project Relationships (optional)
 
 _directions: describe any additional affiliations or groups that liaise with_
