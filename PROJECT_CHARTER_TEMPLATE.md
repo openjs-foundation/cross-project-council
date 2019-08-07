@@ -30,6 +30,8 @@ _or other projects which are included with the work but may not be readily_
 _apparent. This may help differentiate the project from other solutions in the_
 _space._
 
+ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/master/sig-architecture/charter.md#in-scope)
+
 ### 1.2: Out-of-Scope (optional)
 
 _directions: list or bullet out areas that may be seen to be related but are_
