@@ -12,7 +12,7 @@ To establish and administer a fund for members of the OpenJS Foundation to trave
 
 ## Requirements
 
-* Candidates must be an individual member of one of the projects of the OpenJS Foundation. //TODO clarify?
+* Candidates must be an active participant of one of the projects of the OpenJS Foundation. //TODO clarify?
 * Those requesting funds must indicate that they do not have funding available from another source, such as an employer or
 the event itself that might cover costs for presenters.
 
