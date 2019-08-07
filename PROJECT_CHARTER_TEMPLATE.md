@@ -88,3 +88,5 @@ ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.
 
 _directions: include any definitions that may help clarify terms or ideas found_
 _in this charter document._
+
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-9-definitions)
