@@ -11,6 +11,8 @@ _OpenJS Foundation's governance._
 _directions: provide a concise, high-level statement about_
 _the project's long-term principles, values, or mission._
 
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-1-guiding-principle)
+
 ## Section 1: Scope
 
 _directions: Include a 3-4 sentence summary of what the project does,_
