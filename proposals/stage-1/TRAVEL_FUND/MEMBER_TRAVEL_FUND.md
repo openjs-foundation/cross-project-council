@@ -23,7 +23,6 @@ Requests must be made prior to the start of travel. Requests submitted once trav
 It is strongly recommended that you submit your request far enough in advance to get approval before making relevant expenditures.
 Review of requests will take at least 72 hours and may take considerably longer. Note, with limited funds available, approval is not
 guaranteed. If a request is rejected, reimbursement will not be issued.The Foundation cannot pre-pay for travel expenditures.
-It is recommended to write a report after the trip.
 
 ## Visa Tips
 
@@ -142,20 +141,6 @@ DocuSign.
 * Disbursements are generally processed within 30 days.
 * We are unable to pre-pay for expenses.
 * The Cross Project Council representative to the Board of Directors will report back amounts consumed from the travel allocation on a monthly basis to the Board.
-
-## Trip report
-
-After the trip, it's recommend to write a report, and add a link in the document
-that contains their request. The report may include topics such as:
-
-1. Purpose of this travel.
-2. Sessions and/or talks they attended and/or gave, and a summary of those.
-3. Conversations that they think are appropriate to document in a public space
-  (with consent from other individuals involved in the conversation).
-4. What they have achieved in the events, e.g. if they have written code
-   or done other work for the project in the event with the others, or if
-   they have collected useful feedback from the community.
-5. Future work items that come out of the event.
 
 ## 2018 Board of Directors Allocation
 The request from Technical Steering Committee and the Community Committee for a 2018 joint travel fund was

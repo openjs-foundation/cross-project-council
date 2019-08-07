@@ -22,6 +22,8 @@ The new process will require approval from four members of the CPC.
 
 The role of fund "treasurer" will be removed, as it has been found to be redundant and is not currently filled (see https://github.com/openjs-foundation/cross-project-council/pull/268#issuecomment-513888283).
 
+The suggestion to submit a "trip report" after travel has been removed. No trip reports have been submitted in the past year.
+
 ## Practical Specifics
 
 - Modify these files to account for OpenJS Foundation rather than Node.js organizations
