@@ -21,6 +21,8 @@ _to a colleague who is familiar with related technical concepts but unfamiliar_
 _with the project. You may also want to describe the project's value to community_
 _and/or business stakeholders._
 
+ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/master/sig-architecture/charter.md#scope)
+
 ### 1.1: In-scope (optional)
 
 _directions: list or bullet out problem spaces, use cases, repositories_
