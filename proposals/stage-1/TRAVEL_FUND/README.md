@@ -57,3 +57,4 @@ The Node.js project has demonstrated the value of providing a travel fund which 
 - Approval and buy-in from Node.js TSC and CommComm.
 - OpenJS board approval
 - Definition and wording of the travel fund mechanics, mostly moving files and updating references.
+- Update 2019.md to include expenses made during this proposal process in nodejs/admin/travelfunds/2019.md
