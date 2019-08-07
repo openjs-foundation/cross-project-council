@@ -24,6 +24,7 @@ The report is resolved: The report is resolved if:
 * there is no communication for 21 days on behalf of the original reporter.
 * the Ombudsperson decides that the resolution as it stands is the best possible outcome within the constraints of all involved.
 ## Roles
+* CPC: The Cross Project Council must get involved in cases where a report has been escalated by a project or its team reponsible for enforcing their Code of Conduct.
 * Moderation team representatives: Each project in the CPC which has a moderation team should have representation here. https://github.com/openjs-foundation can ask these folks if any are willing to also moderate this org.
 * Ombudsperson: This person acts as an impartial intermediary between a reporter and the Foundation. They also serve to mediate between the moderation team representatives.
 * Contact person: This is a sensitive matter. Each reportee should only have to become comfortable talking with 1 person who represents them to the representatives.
