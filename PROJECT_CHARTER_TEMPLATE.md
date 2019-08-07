@@ -80,6 +80,8 @@ ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.
 _directions: describe any provisions the project makes for decision-making_
 _or include the information by reference your governance.md document._
 
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-6-elections)
+
 ### Section 4.3: Other Project Roles (optional)
 
 _directions: describe other roles within the project, such as chairperson,_
