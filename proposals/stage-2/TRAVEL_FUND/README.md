@@ -1,5 +1,5 @@
 # OpenJS Travel Fund
->  Stage 1
+>  Stage 2
 
 Tracked by https://github.com/openjs-foundation/cross-project-council/issues/172
 
