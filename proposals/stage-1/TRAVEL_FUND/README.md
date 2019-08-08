@@ -1,11 +1,11 @@
 # OpenJS Travel Fund
->  Stage 0
+>  Stage 1
 
 Tracked by https://github.com/openjs-foundation/cross-project-council/issues/172
 
 ## Champion
 
-Jonah Stiennon @jonahss
+Jonah Stiennon (@jonahss)
 
 ## Description
 
@@ -22,22 +22,23 @@ The new process will require approval from four members of the CPC.
 
 The role of fund "treasurer" will be removed, as it has been found to be redundant and is not currently filled (see https://github.com/openjs-foundation/cross-project-council/pull/268#issuecomment-513888283).
 
+The suggestion to submit a "trip report" after travel has been removed. No trip reports have been submitted in the past year.
+
 ## Practical Specifics
 
-- Move relevant files from nodejs/admin to openjs-foundation/cross-project-council such as:
+- Modify these files to account for OpenJS Foundation rather than Node.js organizations
   - https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md
   - https://github.com/nodejs/admin/tree/master/TravelFunds
   - https://github.com/nodejs/admin/blob/master/travel-visas.md
   - https://github.com/nodejs/admin/blob/master/expense-report-template.xls
   - https://github.com/nodejs/admin/blob/master/reimbursement_process.pdf
-- Modify these files to account for OpenJS rather than Node.js organizations
 - Remove mentions from nodejs/admin README, add links to CPC README
-- Remove the role of treasurer
 
 ## Required Resources
 
 @brianwarner reports that everything can stay the same for the tools and accounts involved.
-No other resources required.
+ - add email: visainfo@openjsf.org and travelapprovals@openjsf.org
+Some data on past fund usage, and data from the OpenJS projects on predicted fund usage.
 
 ## How would success be measured?
 
@@ -49,10 +50,11 @@ The Node.js project has demonstrated the value of providing a travel fund which 
 
 ## Unresolved Questions
 
-- Who is the current treasurer of the fund?
+- Do we want to qualify membership in some way? Will this fund be open to contributors to OpenJS projects at all levels? How do we confirm membership?
 
 ## What is necessary to complete this proposal
 
 - Approval and buy-in from Node.js TSC and CommComm.
 - OpenJS board approval
 - Definition and wording of the travel fund mechanics, mostly moving files and updating references.
+- Update 2019.md to include expenses made during this proposal process in nodejs/admin/travelfunds/2019.md
