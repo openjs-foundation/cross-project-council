@@ -10,7 +10,9 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 
 ### OpenJS Foundation Projects
 
-#### Impact Project
+The following projects are official OpenJS Foundation projects. If you are interested in bringing your project to the OpenJS Foundation, please read our [Project Progression](./PROJECT_PROGRESSION.md) and [New Project Application](./NEW_PROJECT_APPLICATION.md) documents, or contact any CPC member with questions. 
+
+#### Impact Projects
 
 * [Appium](https://appium.io/)
 * [Dojo](https://dojo.io/)
