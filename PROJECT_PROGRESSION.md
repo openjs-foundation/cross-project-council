@@ -34,22 +34,22 @@ All Foundation projects may attend CPC meetings and contribute work regardless o
 
 ### At Large Projects
 
-**Definition** 
+#### Definition
 
 At Large projects are projects which the CPC believes are, or have the potential to be, important to the ecosystem of Top-Level Projects or the JS ecosystem as a whole. They may be early-stage projects just getting started, or they may be long-established projects with minimal resource needs. The At Large stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other Foundation projects via the graduation process.
 
-**Examples**
+#### Examples
 
 1. New projects that are designed to extend one or more Foundation projects with functionality or interoperability libraries. 
 1. Independent projects that fit the Foundation mission and provide potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).
 1. Projects commissioned or sanctioned by the Foundation.
 1. Any project that realistically intends to join the Foundation Incubation or Top Level Stages in the future and wishes to lay the foundations for that transition.
 
-**Expectations**
+#### Expectations
 
 End users should evaluate At Large projects with care, as this stage does not set requirements for community size, governance, or production readiness. At Large projects will receive minimal marketing support from the Foundation. Projects will be reviewed on an annual basis; they may also request a status review by submitting a report to the CPC.
 
-**Acceptance Criteria**
+#### Acceptance Criteria
 
 To be considered for the At Large Stage, the project must meet the following requirements:
 * 2 CPC sponsors to champion the project & provide mentorship as needed
@@ -59,24 +59,24 @@ To be considered for the At Large Stage, the project must meet the following req
 
 ### Growth Stage
 
-**Definition** 
+#### Definition
 
 The Growth Stage is for projects that are interested in reaching the Impact Stage, and have identified a growth plan for doing so. Growth Stage projects will receive mentorship from the CPC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor in to broad success and adoption.
 
 In order to support their active development, projects in the Growth stage have a higher level of access to marketing and other resources, which will be agreed upon and reviewed on a yearly basis. A project's progress toward its growth plan goals will be reviewed on a yearly basis, and the CPC may ask the project to move to the At Large stage if progress on the plan drops off or stalls. 
 
-**Examples**
+#### Examples
 
 1. Projects that are on their way or very likely to become Top Level Projects.
 1. Projects that have developed new growth targets or other community metrics for success.
 1. Projects that are looking to create a lifecycle plan (maintainership succession, contributor programs, version planning, etc.)
 1. Projects that need more active support from the Foundation in the form of marketing or CPC mentorship in order to reach their goals. 
 
-**Expectations**
+#### Expectations
 
 Projects in the Growth Stage are generally expected to move out of the Growth stage within two years. Depending on their growth plans, projects may cycle through At Large, Growth, or Impact stage as needed.  
 
-**Acceptance Criteria**
+#### Acceptance Criteria
 
 To be considered for Growth Stage, the project must meet the At Large requirements as well as the following:
 
@@ -89,22 +89,22 @@ To be considered for Growth Stage, the project must meet the At Large requiremen
 
 ### Impact Stage
 
-**Definition**
+#### Definition
 
 The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.     
 
-**Examples**
+#### Examples
 
 1. Projects that have publicly documented release cycles and plans for "Long Term Support" (LTS).
 1. Projects that have themselves become platforms for other projects.
 1. Projects that are able to attract a healthy number of committers on the basis of its production usefulness (not simply 'developer popularity').
 1. Projects that have several, high-profile or well known end-user implementations.
 
-**Expectations**
+#### Expectations
 
 Impact Stage projects are expected to participate actively in CPC proceedings, and as such have a binding vote on CPC matters requiring a formal vote, such as the election of a CPC Director. They receive ongoing financial and marketing support from the Foundation, and are expected to cross promote the foundation along with their activities. 
 
-**Acceptance Criteria**
+#### Acceptance Criteria
 
 To graduate from At Large or Growth status, or for a new project to join as an Impact project, a project must meet the Growth stage criteria plus:
 
@@ -120,38 +120,38 @@ To graduate from At Large or Growth status, or for a new project to join as an I
 
 ### Emeritus Stage
 
-**Definition**
+#### Definition
 
 Emeritus projects are projects which the maintainers feel have reached or are nearing end-of-life. Emeritus projects have contributed to the ecosystem, but are not necessarily recommended for modern development as there may be more actively maintained choices. The Foundation appreciates the contributions of these projects and their communities, and the role they have played in moving the ecosystem forward. 
 
-**Examples**
+#### Examples
 
 1. Projects that are "complete" by the maintainers' standards.
 1. Projects that do not plan to release major versions in the future.
 
-**Expectations**
+#### Expectations
 
 Projects in this stage are not in active development. Their maintainers may infrequently monitor their repositories, and may only push updates to address security issues, if at all. Emeritus projects should clearly state their status and what any user or contributor should expect in terms of response or support. If there is an alternative project the maintainers recommend, it should be listed as well. The foundation will continue to hold the IP and any trademarks and domains, but the project does not draw on foundation resources. 
 
-**Acceptance Criteria**
+#### Acceptance Criteria
 
 Projects may be granted Emeritus status via a 2/3 vote from the CPC and with approval from project ownership. In cases where there is a lack of project ownership, only a 2/3 vote from the CPC is required.
 
 ### Incubating
 
-**Definition** 
+#### Definition
 
 Incubating projects are projects that are in the process of completing their on-boarding checklist to join the foundation. Projects in this phase may be looking to join the foundation as At-Large, Growth, or Impact Stage. Members of incubating projects are invited to join Cross Project Council meetings as a guest, please refer to the [CPC Charter](./CPC-CHARTER.md) for details on how guests may participate in the meetings.
 
-**Examples**
+#### Examples
 
 1. Projects that have been accepted into incubation process after silent period.
 
-**Expectations**
+#### Expectations
 
 It is expected that incubating project will make an active effort to work through the on-boarding process in a reasonable timeframe. They will be offered foundation support to help do so.
 
-**Acceptance Criteria**
+#### Acceptance Criteria
 
 1. Completion of the on-boarding checklist
 1. 2/3 cote from the CPC to accept project
