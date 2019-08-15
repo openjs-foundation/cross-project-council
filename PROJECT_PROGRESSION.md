@@ -153,7 +153,7 @@ It is expected that incubating project will make an active effort to work throug
 
 **Acceptance Criteria**
 
-1. 2/3 cote from the CPC to accept project during silent phase
+1. 2/3 vote from the CPC to accept project during silent phase
 
 #### Exit Criteria
 
