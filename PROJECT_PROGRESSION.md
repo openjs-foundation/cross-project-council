@@ -30,8 +30,6 @@ Every Foundation project has an associated maturity level. Proposed Foundation p
 
 All Foundation projects may attend CPC meetings and contribute work regardless of their stage. 
 
-*note: all stage names are tbd pending outcome of [#44](https://github.com/nodejs/bootstrap/issues/44#issuecomment-440026298)*
-
 ### At Large Projects
 
 #### Definition
