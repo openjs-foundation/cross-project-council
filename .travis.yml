@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - 10.16.3
+before_install:
+    - npm install -g remark-cli remark-preset-lint-recommended remark-preset-lint-markdown-style-guide remark-lint
+script:
+    - remark . -u remark-preset-lint-markdown-style-guide -u remark-preset-lint-recommended -f
