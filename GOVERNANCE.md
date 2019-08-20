@@ -154,7 +154,7 @@ changes to this repository:
 - Updates to the team lists.
 - Doc Fixes.
 
-Charter changes cannot be fast-tracked
+Charter changes cannot be fast-tracked.
 
 To propose fast-tracking a pull request, apply the fast-track label. Then add a comment that CPC members may upvote.
 
