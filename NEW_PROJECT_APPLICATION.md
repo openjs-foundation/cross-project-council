@@ -15,8 +15,7 @@ Please keep your answer to less than 250 words.
 
 ## Impact and consumers of the project
 - What is the ecosystem impact of the project? 
-- Who are the biggest consumers of the project? 
-_if they are not JavaScript space, then will it ever expand to JavaScript space_.
+- Who are the biggest consumers of the project? (_if they are not JavaScript space, then will it ever expand to JavaScript space_)
 - What is the potential long term impact and adoption? 
 - How does it differ from other projects?
 
