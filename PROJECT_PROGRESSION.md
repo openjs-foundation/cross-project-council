@@ -20,6 +20,7 @@ New projects should express interest to join the OpenJS Foundation via an email 
 
 1. Initial email sent to new-projects@lists.openjsf.org with filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
 1. Silent period. Internal only discussion.
+1. CPC champion is identified.
 1. Initial acceptance as [Incubating][] Project.
 1. Project goes through process of adhering to on-boarding checklist from [Project Application Template](./NEW_PROJECT_APPLICATION.md).
 1. Project presents to CPC for final acceptance via 2/3 supermajority vote and appropriate initial stage is determined.
@@ -149,7 +150,7 @@ Incubating projects are projects that are in the process of completing their on-
 
 #### Expectations
 
-It is expected that incubating project will make an active effort to work through the on-boarding process in a reasonable timeframe. They will be offered foundation support to help do so.
+It is expected that incubating project will make an active effort to work through the on-boarding process in a reasonable timeframe. They will be offered foundation support to help do so. All incubating projects will have a CPC champion.
 
 #### Acceptance Criteria
 
