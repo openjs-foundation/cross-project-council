@@ -81,8 +81,8 @@ Subsequent terms wil be for a period of 1 year ending the following March 31st.
 
 As per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md), the non-impact projects elect 2 voting CPC members:
 
-> up to two (2) Voting members may be nominated by the non-impact projects
-  based on a process set by the CPC.
+> up to two (2) Voting members may be nominated by the non-impact projects based on a process set by the CPC.
+
 These members will be elected for a term of 1 year as follows:
 
 * Once a year an issue will be opened in the CPC repo announcing that the period for
