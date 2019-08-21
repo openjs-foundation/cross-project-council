@@ -57,7 +57,7 @@ _the project in a formal way (such as a W3C Community Group, for example)._
 _If you are not using this section, please indicate your intent with the_
 _phrase, 'Section Intentionally Left Blank'._
 
-## Section 3: Establishment of the ${PROJECT TSC}.
+## Section 3: ${PROJECT TSC} Governing Body
 
 _directions: describe the structure of the group responsible for managing_
 _the project and its respective organization and repositories. If there are_
