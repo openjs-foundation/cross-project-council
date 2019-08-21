@@ -68,7 +68,7 @@ ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.
 
 ## Section 4: Roles & Responsibilities 
 
-_directions: describe the roles and responsibilities of the ${PROJECT TSC}._
+_directions: describe the roles and responsibilities of the ${PROJECT} Governing Body._
 
 ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/master/sig-architecture/charter.md#roles-and-organization-management)
 ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-4-responsibilities-of-the-tsc)
@@ -76,7 +76,7 @@ ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.
 ### Section 4.1 Project Operations & Management (optional)
 
 _directions: use this section to describe any other specific tasks the_
-_${PROJECT TSC} may be responsible for regarding process or project_
+_${PROJECT} Governing Body may be responsible for regarding process or project_
 _operations and management. If you are not using this section, please indicate_
 _your intent with the phrase, 'Section Intentionally Left Blank'._
 
@@ -103,7 +103,7 @@ _phrase, 'Section Intentionally Left Blank'._
 
 ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-8-project-roles)
 
-### Section 5: Definitions (optional)
+## Section 5: Definitions (optional)
 
 _directions: include any definitions that may help clarify terms or ideas found_
 _in this charter document. If you are not using this section, please indicate_ 
