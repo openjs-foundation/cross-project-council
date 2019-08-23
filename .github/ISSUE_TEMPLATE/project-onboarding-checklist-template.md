@@ -9,7 +9,7 @@ assignees: ''
 
 ## Project Onboarding Checklist - ${Project Name}
 
-<!--Copied from ../../NEW_PROJECT_APPLICATION.md on 2019-08-23 -->
+<!--Copied from ../../PROJECT_PROGRESSION.md on 2019-08-23 -->
 
 **Stage: ${Project Stage}
 
