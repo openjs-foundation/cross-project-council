@@ -163,6 +163,3 @@ If someone disagrees with the fast-tracking request, remove the label. Do not fa
 The pull request may be fast-tracked if two CPC members approve the fast-tracking request. To land, the pull request itself still needs two CPC member approvals.
 
 CPC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
-
-
-To propose fast-tracking a pull request, apply the fast-track label. Then add a comment that CPC members may upvote.
