@@ -26,6 +26,8 @@ New projects should express interest to join the OpenJS Foundation via an email 
 
 ## Onboarding Checklist
 
+<!--If this checklist is updated please ensure `.github/ISSUE_TEMPLATE/project-onboarding-checklist-template.md` is updated as well -->
+
 This is an informational checklist to help projects onboard into the OpenJS Foundation - tasks we will complete together after your project has been accepted into the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
 - [ ] Adopt the OpenJS Foundation Code of Conduct
