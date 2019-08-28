@@ -118,7 +118,7 @@ The PR to add a regular member is approved when:
 
 Once a PR is ready to be landed, the CPC member who lands the pull request should:
 
-* Send a notification to the project contacts for the project indentified in the PR
+* Send a notification to the project contacts for the project identified in the PR
   indicating that a new regular CPC member has joined the CPC on behalf of the project.
 * Add the member to the github `cpc-regular-members` [team](https://github.com/orgs/openjs-foundation/teams/cpc-regular-members)
 * Introduce the new member at the next CPC meeting.
