@@ -115,7 +115,7 @@ These members will be elected for a term of 1 year as follows:
      candidates will be the winners, 
    * all but one of the candidates that are tied for the number of votes choose to conceed.
 
-## Aproving Project Charters
+## Approving Project Charters
 
 Per the [CPC charter section 5](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc), the voting CPC members are responsible for approving project
 charters and changes to them.
