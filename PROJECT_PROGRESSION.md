@@ -151,8 +151,12 @@ It is expected that incubating project will make an active effort to work throug
 
 #### Acceptance Criteria
 
+1. consensus within private mailing list to move into incubation process
+
+#### Graduation Criteria
+
 1. Completion of the on-boarding checklist
-1. 2/3 cote from the CPC to accept project
+1. 2/3 vote from the CPC to accept project
 1. Completion of the entrance criteria for desired stage
 
 ## IV. Annual Review Process
