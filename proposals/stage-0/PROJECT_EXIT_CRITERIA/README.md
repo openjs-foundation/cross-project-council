@@ -39,6 +39,4 @@ The foundation should:
 
 Other questions:
 * What should we if the project is in any investigation (like Code of Conduct breach)?
-* How we should educate the users about this removal? 
-* Do we have to remove the project completely from all of our other projects?
-   - For example, Project A wants to leave and Project B has Project A as one of its dependency. Do we have to ask Project B to look for an alternative?
+* How we should educate the users about this removal?
