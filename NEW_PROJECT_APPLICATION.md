@@ -25,7 +25,7 @@ For each repository, please provide:
 
 - link to repo,
 - license information,
-- who owns the IP
+- who owns the Intellectual Property (IP),
 - link to issue tracker,
 - link to code of conduct (CoC),
 - optionally, the full list of vendored dependencies contained in the source tree, including license information. A full audit
