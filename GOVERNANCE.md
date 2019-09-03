@@ -174,3 +174,24 @@ in additon to the ones listed for changing CPC governance:
 
 If consensus cannot be reached, a pull request may still be landed after a vote
 by the Voting CPC members to override outstanding objections.
+
+### Fast-Tracking PRs
+
+Special exception is made for pull requests seeking to make any of the following
+changes to this repository:
+
+- Errata fixes.
+- Editorial changes.
+- Meeting minutes.
+- Updates to the team lists.
+- Doc Fixes.
+
+Charter changes cannot be fast-tracked.
+
+To propose fast-tracking a pull request, apply the fast-track label. Then add a comment that CPC members may upvote.
+
+If someone disagrees with the fast-tracking request, remove the label. Do not fast-track the pull request in that case.
+
+The pull request may be fast-tracked if two CPC members approve the fast-tracking request. To land, the pull request itself still needs two CPC member approvals.
+
+CPC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
