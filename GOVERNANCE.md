@@ -111,7 +111,7 @@ These members will be elected for a term of 1 year as follows:
 * Those candidates who receive the greatest number of votes will be confirmed as
   the winners. In the case of a tie between 2 or more candidates, the winner will be
   chosen randomly unless:
-   * There are only 2 candiates tied for the largest number of votes, in which case those 2
+   * There are only 2 candidates tied for the largest number of votes, in which case those 2
      candidates will be the winners, 
    * all but one of the candidates that are tied for the number of votes choose to conceed.
 
@@ -167,7 +167,7 @@ in addition to the ones listed for regular PRs.
   with quorum of voting members.
 
 Pull requests that change the charter of the CPC must meet the following conditions
-in additon to the ones listed for changing CPC governance:
+in addition to the ones listed for changing CPC governance:
 
 * The text of the PR must be approved by a simple majority of the voting members.
 * The text of the PR must be approved by the board.
