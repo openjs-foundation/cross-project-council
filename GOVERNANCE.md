@@ -81,8 +81,8 @@ Subsequent terms wil be for a period of 1 year ending the following March 31st.
 
 As per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md), the non-impact projects elect 2 voting CPC members:
 
-> up to two (2) Voting members may be nominated by the non-impact projects
-  based on a process set by the CPC.
+> up to two (2) Voting members may be nominated by the non-impact projects based on a process set by the CPC.
+
 These members will be elected for a term of 1 year as follows:
 
 * Once a year an issue will be opened in the CPC repo announcing that the period for
@@ -115,7 +115,27 @@ These members will be elected for a term of 1 year as follows:
      candidates will be the winners, 
    * all but one of the candidates that are tied for the number of votes choose to conceed.
 
-## Approving Project Charters
+## Approving and Onboarding Regular Members
+
+Regular members can self-nominate by opening a PR to add themselves to the Regular
+member list in the [README.md](https://github.com/openjs-foundation/cross-project-council/blob/master/README.md). 
+The PR should include an indication of which project they have been active in for
+3 months as per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#regular-members).
+
+The PR to add a regular member is approved when:
+
+* there are no outstanding objections
+* there are two or more approvals by voting CPC members
+* the PR has been opened for at least 1 week
+
+Once a PR is ready to be landed, the CPC member who lands the pull request should:
+
+* Send a notification to the project contacts for the project identified in the PR
+  indicating that a new regular CPC member has joined the CPC on behalf of the project.
+* Add the member to the github `cpc-regular-members` [team](https://github.com/orgs/openjs-foundation/teams/cpc-regular-members)
+* Introduce the new member at the next CPC meeting.
+
+## Aproving Project Charters
 
 Per the [CPC charter section 5](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc), the voting CPC members are responsible for approving project
 charters and changes to them.
@@ -154,3 +174,24 @@ in addition to the ones listed for changing CPC governance:
 
 If consensus cannot be reached, a pull request may still be landed after a vote
 by the Voting CPC members to override outstanding objections.
+
+### Fast-Tracking PRs
+
+Special exception is made for pull requests seeking to make any of the following
+changes to this repository:
+
+- Errata fixes.
+- Editorial changes.
+- Meeting minutes.
+- Updates to the team lists.
+- Doc Fixes.
+
+Charter changes cannot be fast-tracked.
+
+To propose fast-tracking a pull request, apply the fast-track label. Then add a comment that CPC members may upvote.
+
+If someone disagrees with the fast-tracking request, remove the label. Do not fast-track the pull request in that case.
+
+The pull request may be fast-tracked if two CPC members approve the fast-tracking request. To land, the pull request itself still needs two CPC member approvals.
+
+CPC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
