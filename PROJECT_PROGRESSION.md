@@ -21,8 +21,33 @@ New projects should express interest to join the OpenJS Foundation via an email 
 1. Initial email sent to new-projects@lists.openjsf.org with filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
 1. Silent period. Internal only discussion.
 1. Initial acceptance as [Incubating][] Project.
-1. Project goes through process of adhering to on-boarding checklist from [Project Application Template](./NEW_PROJECT_APPLICATION.md).
+1. Project goes through process of adhering to [on-boarding checklist](#onboarding-checklist).
 1. Project presents to CPC for final acceptance via 2/3 supermajority vote and appropriate initial stage is determined.
+
+## Onboarding Checklist
+
+<!--If this checklist is updated please ensure `.github/ISSUE_TEMPLATE/project-onboarding-checklist-template.md` is updated as well -->
+
+This is an informational checklist to help projects onboard into the OpenJS Foundation - tasks we will complete together after your project has been accepted into the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+
+- [ ] Adopt the OpenJS Foundation Code of Conduct
+- [ ] Update project CoC reporting methods to include OpenJS Foundation escalation path
+- [ ] Transfer official domains to OpenJS Foundation
+- [ ] Identify and document other core project infrastructure
+- [ ] If choosing to use a Contributor License Agreement (CLA) or Developer Certificate of Origin (DCO), make selection and implement appropriate tool
+- [ ] Add or Update Governance.md document (required for Impact stage)
+- [ ] Confirm required files in place (CODE_OF_CONDUCT.md, LICENSE.md)
+- [ ] Project Charter is published on website or github
+- [ ] Update legal copyright notice on project website and github
+- [ ] Add OpenJS Foundation logo to project website
+- [ ] Add Project logo to OpenJS Foundation website; update PROJECTS.md file
+- [ ] Transfer logomark to the OpenJS Foundation
+- [ ] If project is using crowdfunding platforms, add disclaimer to platforms
+- [ ] Identify individuals from the project to join the CPC
+- [ ] Document project and foundation contacts for:
+  * marketing & social media
+  * infrastructure
+  * legal/governance help
 
 ## III. Stages - Definitions & Expectations
 
