@@ -115,6 +115,26 @@ These members will be elected for a term of 1 year as follows:
      candidates will be the winners, 
    * all but one of the candidates that are tied for the number of votes choose to conceed.
 
+## Approving and Onboarding Regular Members
+
+Regular members can self-nominate by opening a PR to add themselves to the Regular
+member list in the [README.md](https://github.com/openjs-foundation/cross-project-council/blob/master/README.md). 
+The PR should include an indication of which project they have been active in for
+3 months as per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#regular-members).
+
+The PR to add a regular member is approved when:
+
+* there are no outstanding objections
+* there are two or more approvals by voting CPC members
+* the PR has been opened for at least 1 week
+
+Once a PR is ready to be landed, the CPC member who lands the pull request should:
+
+* Send a notification to the project contacts for the project identified in the PR
+  indicating that a new regular CPC member has joined the CPC on behalf of the project.
+* Add the member to the github `cpc-regular-members` [team](https://github.com/orgs/openjs-foundation/teams/cpc-regular-members)
+* Introduce the new member at the next CPC meeting.
+
 ## Aproving Project Charters
 
 Per the [CPC charter section 5](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc), the voting CPC members are responsible for approving project
