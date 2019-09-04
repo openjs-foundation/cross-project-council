@@ -186,7 +186,7 @@ ensuring:
 
 ## Section 6. Non-Responsibilities of the CPC
 
-OpenJS Foundation Projects are self-governing entities. All policies and procedures for interacting with, contributing to and making decisions within a Project are defined, implemented, and documented by that Project’s maintainers and community during the mentorship process. Specific technical decisions within a Project will be the responsibility of the Project and establishment and implementation of the decision making process will be done within the guidelines as defined by CPC charter. Those Project decisions and responsibilities include but are not limited to:
+OpenJS Foundation Projects are self-governing entities. All policies and procedures for interacting with, contributing to and making decisions within a Project are defined, implemented, and documented by that Project’s Governing Body and community during the mentorship process. Specific technical decisions within a Project will be the responsibility of the Project and establishment and implementation of the decision making process will be done within the guidelines as defined by CPC charter. Those Project decisions and responsibilities include but are not limited to:
 
 * Setting release dates.
 * Release quality standards.
@@ -298,14 +298,14 @@ project mentorship process and approved by the CPC.
 **Contributors**: contribute code or other artifacts, but do not have the right
 to commit to the code base. Contributors work with the Project's Collaborators
 to have code committed to the code base. A Contributor may be promoted to a
-Collaborator by the Project's Maintainers. Contributors should rarely be
+Collaborator by the Project's Governing Body. Contributors should rarely be
 encumbered by the CPC or Board.
 
 **Collaborator**: a Contributor within a Project that has made significant and
 valuable contributions and has been given commit-access to that Project
 repository.
 
-**Maintainer**: a Collaborator within a Project elected to represent the Project
+**Governing Body**: a  group of Collaborators within a Project elected to represent the Project
 in an official decision making role as defined in the Project's governance
 policies.
 
