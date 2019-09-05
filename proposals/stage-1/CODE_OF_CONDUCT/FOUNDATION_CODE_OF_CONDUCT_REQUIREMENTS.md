@@ -16,19 +16,19 @@ as its code of conduct and it applies to all foundation activities and spaces. I
 addition, projects joining the foundation are required to adopt this code of conduct
 within 3 months of joining the foundation.
 
-The foundation has chosen to require a common Code of Conduct. This will allow a common
+A common Code of Conduct will allow a common
 escalation process and will allow the Foundation to better support projects in their efforts to apply
 the Code of Conduct.
 
 ## Enforcement
 
-For spaces managed by the foundation complaints can be forwarded to report@xxxx.org and will
-be investigated by the Cross Project Council(CPC) or its delegates. All complaints will be reviewed, 
+For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will
+be investigated by the Cross Project Council (CPC) or its delegates. All complaints will be reviewed, 
 investigated, and will result in a response that is deemed necessary and appropriate
 to the circumstances. The CPC is obligated to maintain confidentiality with regard
 to the reporter of an incident.
 
-For spaces managed by each project, the project must provide an email to which complaints 
+For spaces managed by member projects, the project must provide an email to which complaints 
 can be forwarded and document that complaints will be investigated and will result in a
 response that is deemed appropriate for the circumstances. Each project is free to
 implement enforcement of the Code of Conduct using processes appropriate for the size
