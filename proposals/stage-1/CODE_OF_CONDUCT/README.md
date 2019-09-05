@@ -7,8 +7,11 @@ Michael Dawson (@mhdawson)
 
 ## Description
 
-This document captures a proposed approach for
+These documents capture a proposed approach for implementing and handling Code of Conducts within the Foundation.
+
+* FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md: a proposed approach for
 managing Code of Conducts within the Foundation.
+* HANDLING-REPORTS.md: a proposed framework for handling reports and escalation.
 
 ## Required Resources
 
@@ -18,11 +21,11 @@ Discussion/approval by bootstrap committee
 
 In current proposals for the groups within a merged
 foundation, the responsibility would be a joint
-responsibility of the Foundation, Board, CPC and projects.
+responsibility of the Foundation, Board, CPC, and projects.
 
 ## How would success be measured?
 
-Success is incorporate of the content within this document
+Success is incorporation of the content within this document
 either as the document itself or incorporate into one
 of the other Governance documents for the foundation.
 
@@ -34,4 +37,20 @@ foundation.
 
 ## What is neccessary to complete this proposal
 
+* Aligned language within the documents of the proposal
 
+## Further questions
+
+* How do we protect privacy?
+* How do we investigate?
+* What are the conflicts of interest?
+* How to avoid conflicts of interest?
+* Does this relate to the work of the Node.js and other projects’ moderation team?
+
+### Implementation details for channels
+* Form: It would be easier on the reportee to have a form template to help them structure their report. The form submission could trigger an email. TODO: copy for a form.
+* Repo: openjs/moderation (not provisioned). As commented in PR review, hosting sensitive personal information on GitHub needs due consideration, review, and possibly legal consultation.
+
+### What to look forward to
+* Beacon project
+* Code of Conduct Project: A cross-project collaboration between multiple open source tech communities RxJS, AngularJS, Node.js, Vue.js etc to find consensus on Code of Conducts. Progress is rapid and can add definition to our own process (where possible) within 6 months. Recommend incorporating the findings and avoid duplication of effort.
