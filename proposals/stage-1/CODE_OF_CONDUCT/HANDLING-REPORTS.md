@@ -8,7 +8,7 @@ Reporting to the OpenJS Foundation either concerns a matter with the Foundation 
 * Form: It would be easier on the reportee to have a form template to help them structure their report. The form submission could trigger an email.
 * Repo: Discussion of the reports happen in [private repo](TBD).
 ## Confidentiality and record-keeping
-Everything reported and discussed is confidential unless explicitly stated. For any facts to be made public, the reportee’s explicit permission is needed. All reports should be recorded, together with the discussion of it. A private moderation repo would satisfy the need for recordkeeping.
+Personal information is confidential. All reports should be recorded, together with the discussion of it. A private moderation repo would satisfy the need for recordkeeping.
 ## Steps/Escalation
 1. A report is filed: This is the first step, mostly defined in [Channels](#Channels) above.
 2. On call staff are alerted: See [Roles](#Roles).
