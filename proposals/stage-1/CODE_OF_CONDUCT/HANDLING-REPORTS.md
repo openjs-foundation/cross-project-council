@@ -6,11 +6,11 @@ This process covers two types of reports based on ./FOUNDATION_CODE_OF_CONDUCT_R
 * Reports for spaces managed by the Cross Project Council (CPC) which come in through `report@opensjsf.org`
 * Escalations which come in through `coc-escalation@openjsf.org`.   
 
-Generall, reports to coc-escalation should refer to a report that was already submitted to:
+Generally, reports to coc-escalation should refer to a report that was already submitted to:
 
 * report@openjsf.org or
 * one of the projects reporting emails 
-* explaination of why the reportee does not feel comfortable using the previous reporting emails for the initial report
+* explanation of why the reportee does not feel comfortable using the previous reporting emails for the initial report
 
 If a report to coc-esclation do not include one of those, the reportee will be asked to to provide one of those three as the 
 reason for reporting to coc-escalation.
