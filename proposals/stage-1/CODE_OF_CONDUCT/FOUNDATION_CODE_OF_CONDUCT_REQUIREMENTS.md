@@ -44,7 +44,7 @@ in place by a project (for reports made to a project) or the CPC (in the
 case of reports relating to spaces within the scope of the foundation versus a project).
 In exceptional cases where a reporter wishes to challenge the response from the CPC or
 project, or does not feel comfortable reporting through the standard processes, an escalation
-report can be made to coc-escalation@xxx.org.
+report can be made to coc-escalation@openjsf.org.
 
 All escalations will be reviewed and investigated by the Code of Conduct Panel (CoCP)
 and will result in a response that is deemed necessary and appropriate to the circumstances.
