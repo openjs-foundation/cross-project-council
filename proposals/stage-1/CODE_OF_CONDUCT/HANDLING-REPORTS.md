@@ -23,6 +23,10 @@ Personal information is confidential. All reports should be recorded, together w
 
 For each report there should be an issue which captures the report, discussion and final conclusion.  The report should NOT contain identifying details of the reporter.
 
+## Conflict of Interest
+
+Any member of the CPC or CoCP who is involved in the report should recuse themselves from the discussions.
+
 ## Reports to report@openjsf.org
 
 All members of the CPC are subscribed to the `report@openjsf.org` mailing list.  When a report is received the following actions will be taken:
