@@ -1,32 +1,84 @@
 # Handling reports and escalation
 This document describes the proposed process for handling reports and escalation, along with relevant roles in the OpenJS Foundation.
 
-Reporting to the OpenJS Foundation either concerns a matter with the Foundation or is considered an escalation where insufficient resolution was provided by a project, with regards to violations of the Code of Conduct.
+This process covers two types of reports based on ./FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md:
 
-## Channels
-* Email: report@openjsf.org
-* Form: It would be easier on the reportee to have a form template to help them structure their report. The form submission could trigger an email.
-* Repo: Discussion of the reports happen in [private repo](TBD).
+* Reports for spaces managed by the Cross Project Council (CPC) which come in through `report@opensjsf.org`
+* Escalations which come in through `coc-escalation@openjsf.org`.   
+
+Generall, reports to coc-escalation should refer to a report that was already submitted to:
+
+* report@openjsf.org or
+* one of the projects reporting emails 
+* explaination of why the reportee does not feel comfortable using the previous reporting emails for the initial report
+
+If a report to coc-esclation do not include one of those, the reportee will be asked to to provide one of those three as the 
+reason for reporting to coc-escalation.
+
 ## Confidentiality and record-keeping
-Personal information is confidential. All reports should be recorded, together with the discussion of it. A private moderation repo would satisfy the need for recordkeeping.
-## Steps/Escalation
-1. A report is filed: This is the first step, mostly defined in [Channels](#Channels) above.
-2. On call staff are alerted: See [Roles](#Roles).
-3. Contact person assigned: See [Roles](#Roles).
-4. Report is acknowledged: The contact person responds to let the reportee know that the report is being discussed.
-5. Information gathering: Time is allocated to collect information in one place to make sure everyone involved has access.
-6. Information is discussed: The facts are discussed in context of opinions. Also see **What to look forward to** for guidelines on appropriate response.
-7. An action to be taken is arrived at: The action to be taken is decided by consensus (see section on [Consensus process](#Consensus-process)) involving the roles listed in the next section.
-8. Resolution offered: The resolution is offered to the reportee by the contact person. The reportee needs to accept the resolution for the matter to be resolved. If they don’t accept, go back to step 5. If there isn't a clear way to resolve the report, the report can be reviewed by the moderation team representatives from OpenJS projects to ensure that the the action and resolution are appropriate.
+Personal information is confidential. All reports should be recorded, together with the discussion of it. The following private repos will be used to record and discuss reports.
 
-The report is resolved if:
-* the reportee accepts the action.
-* there is no communication for 21 days on behalf of the original reporter.
-* the Ombudsperson decides that the resolution as it stands is the best possible outcome within the constraints of all involved.
-## Roles
-* CPC: The Cross Project Council must get involved in cases where a report has been escalated by a project or its team reponsible for enforcing their Code of Conduct. (TBD: role of regular and voting members)
-* Moderation team representatives: Each project in the CPC which has a moderation team should have representation here. [OpenJS Foundation](https://github.com/openjs-foundation) can ask these folks if any are willing to also moderate this org.
-* Ombudsperson: This person acts as an impartial intermediary between a reporter and the Foundation. They also serve to mediate between the moderation team representatives.
-* Contact person: This is a sensitive matter. Each reportee should only have to become comfortable talking with 1 person who represents them to the representatives.
-## Consensus process
-_To be added after deliberation in CPC._
+report@openjsf.org -> github.com/openjs-foundation/moderation
+coc-escalation@openjsf.org -> github.com/openjs-foundation/coc-escalation
+
+For each report there should be an issue which captures the report, discussion and final conclusion.  The report should NOT contain identifying details of the reporter.
+
+## Reports to report@openjsf.org
+
+All members of the CPC are subscribed to the `report@openjsf.org` mailing list.  When a report is received the following actions will be taken:
+   * One of the CPC members will respond to the reportee confirming that the report has been received. When possible the same person
+     who responds initially will act as the point of contact for future conversations.
+   * If no respose has been send by the next CPC meeeting the CPC chair will ensure there is a private session in which the one of the
+     CPC members is identified as the point of contact.
+   * The point of contact will then ensure the following steps are completed:
+     1. Report is acknowledged: The contact person responds to let the reportee know that the report is being discussed.
+     2. Information gathering: Time is allocated to collect information in one place to make sure everyone involved has access.
+     3. Information is discussed: The facts are discussed in context of opinions. This can be done in the issue for the report, or
+        in a meeting in which case the key discussion points should then be added to the issue.
+     4. An action to be taken is arrived at: The action to be taken is decided by consensus as per the standard CPC
+        [Decision Making](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-9-decision-making) process.
+     5. Resolution offered: The resolution is offered to the reportee by the contact person. If the resolution is accepted as
+        reasonable or there is no response the process moves to the next step.  If the reportee expreses concerns then the
+        contact person will bring these back to the CPC members for further discussion. This cycle can continue until the 
+        CPC members reach consensus that the reportee's concerns have been adquately addressed.
+     6. Final resolution: the resolution agreed by the CPC members is implemented and the outcome back to the reportee by
+        the main contact.
+        
+## Reports to coc-escalation@openjsf.org
+
+The following members are subscribed to the coc-escalation@openjsf.org mailing list:
+
+* The Foundation Executive Director 
+* 1 member from the Board
+* 1 member from the CPC
+* each top-level project may optionally provide 1 member
+* the non top-level projects may optionally provide 1 member
+* optionally 1 invited outside expert as agreed by the other CoCP members.
+
+The current list of members is documented in ./CODE_OF_CONDUCT_PANEL_MEMERS.md
+     
+When a report is received the following actions will be taken:
+
+  * One of the Code of Conduct Panel (CoCP) members will respond to the reportee confirming that the report has been received.
+    When possible the same person who responds initially will act as the point of contact for future conversations.
+  * If no respose has been send within 1 day the Foundation Executive Director will ensure a member of the Code of Conduct
+    Panel is identified as the main point of contact either through email or shceduling an meeting for the CoCP.
+  * The main point of contact will then ensure the following steps are completed:
+     1. Report is acknowledged: The contact person responds to let the reportee know that the report is being discussed.
+     2. Information gathering: Time is allocated to collect information in one place to make sure all CoCP members have access.
+     3. Information is discussed: The facts are discussed in context of opinions. This can be done in the issue for the report, or
+        in a meeting in which case the key discussion points should then be added to the issue.
+     4. An action to be taken is arrived at: The action to be taken is decided by consensus as per the standard CPC
+        [Decision Making](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-9-decision-making) process substituting in CoCP for references to the CPC.
+     5. The proposed action is discussed with the leadership for the space to which the report applies (ex CPC or member
+        project leadership). If the leadership representatives expreses concerns then the
+        contact person will bring these back to the CoCP members for further discussion.  This cycle can continue  until the 
+        CoPC members reach consensus that the leadership representatives concerns have been adquately addressed.
+     6. Resolution offered: The resolution is offered to the reportee by the contact person. If the resolution is accepted as
+        reasonable or there is no response the process moves to the next step.  If the reportee expreses concerns then the
+        contact person will bring these back to the CoCP members for further discussion. This cycle can continue until the 
+        CoPC members reach consensus that the reportee's concerns have been adquately addressed. This may also require that
+        step 5 be repeated as well if the proposed action is modified.
+     6. Final resolution: the resolution agreed by the CoCP members is implemented and the outcome reported back to the reportee by
+        the main contact.
+      
