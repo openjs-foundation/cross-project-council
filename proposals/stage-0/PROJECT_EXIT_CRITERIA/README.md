@@ -38,5 +38,5 @@ The foundation should:
 * revoke access to any assets provided by the foundation.
 
 Other questions:
-* What should we if the project is in any investigation (like Code of Conduct breach)?
+* What should we do if the project is in any investigation (like Code of Conduct breach)?
 * How we should educate the users about this removal?
