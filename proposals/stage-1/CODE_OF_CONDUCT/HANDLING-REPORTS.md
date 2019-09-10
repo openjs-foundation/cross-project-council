@@ -81,7 +81,7 @@ When a report is received the following actions will be taken:
      6. Resolution offered: The resolution is offered to the reportee by the contact person. If the resolution is accepted as
         reasonable or there is no response within 7 days the process moves to the next step.  If the reportee expresses concerns then the
         contact person will bring these back to the CoCP members for further discussion. This cycle can continue until the 
-        CoPC members reach consensus that the reportee's concerns have been adquately addressed. This may also require that
+        CoPC members reach consensus that the reportee's concerns have been adequately addressed. This may also require that
         step 5 be repeated as well if the proposed action is modified.
      6. Final resolution: the resolution agreed by the CoCP members is implemented and the outcome reported back to the reportee by
         the main contact.
