@@ -75,7 +75,7 @@ When a report is received the following actions will be taken:
      4. An action to be taken is arrived at: The action to be taken is decided by consensus as per the standard CPC
         [Decision Making](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-9-decision-making) process substituting in CoCP for references to the CPC.
      5. The proposed action is discussed with the leadership for the space to which the report applies (ex CPC or member
-        project leadership). If the leadership representatives expreses concerns then the
+        project leadership). If the leadership representatives expresses concerns then the
         contact person will bring these back to the CoCP members for further discussion.  This cycle can continue  until the 
         CoPC members reach consensus that the leadership representatives concerns have been adequately addressed.
      6. Resolution offered: The resolution is offered to the reportee by the contact person. If the resolution is accepted as
