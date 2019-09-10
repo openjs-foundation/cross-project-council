@@ -32,7 +32,7 @@ Any member of the CPC or CoCP who is involved in the report should recuse themse
 All members of the CPC are subscribed to the `report@openjsf.org` mailing list.  When a report is received the following actions will be taken:
    * One of the CPC members will respond to the reportee confirming that the report has been received. When possible the same person
      who responds initially will act as the point of contact for future conversations.
-   * If no respose has been send by the next CPC meeeting the CPC chair will ensure there is a private session in which the one of the
+   * If no response has been sent by the next CPC meeting, the CPC chair will ensure there is a private session in which the one of the
      CPC members is identified as the point of contact.
    * The point of contact will then ensure the following steps are completed:
      1. Report is acknowledged: The contact person responds to let the reportee know that the report is being discussed.
