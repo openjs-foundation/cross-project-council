@@ -65,7 +65,7 @@ When a report is received the following actions will be taken:
 
   * One of the Code of Conduct Panel (CoCP) members will respond to the reportee confirming that the report has been received.
     When possible the same person who responds initially will act as the point of contact for future conversations.
-  * If no respose has been sent within 1 day the Foundation Executive Director will ensure a member of the Code of Conduct
+  * If no response has been sent within 1 day the Foundation Executive Director will ensure a member of the Code of Conduct
     Panel is identified as the main point of contact either through email or scheduling a meeting for the CoCP.
   * The main point of contact will then ensure the following steps are completed:
      1. Report is acknowledged: The contact person responds to let the reportee know that the report is being discussed.
