@@ -9,7 +9,7 @@ This process covers two types of reports based on ./FOUNDATION_CODE_OF_CONDUCT_R
 Generally, reports to coc-escalation should refer to a report that was already submitted to:
 
 * report@openjsf.org or
-* one of the projects reporting emails 
+* one of the project's reporting emails 
 * explanation of why the reportee does not feel comfortable using the previous reporting emails for the initial report
 
 If a report to coc-esclation does not include one of those, the reportee will be asked to to provide one of those three as the 
@@ -25,14 +25,14 @@ For each report there should be an issue which captures the report, discussion a
 
 ## Conflict of Interest
 
-Any member of the CPC or CoCP who is involved in the report should recuse themselves from the discussions.
+Any member of the CPC or Code of Conduct Panel(CoCP) who is involved in the report should recuse themselves from the discussions.
 
 ## Reports to report@openjsf.org
 
 All members of the CPC are subscribed to the `report@openjsf.org` mailing list.  When a report is received the following actions will be taken:
    * One of the CPC members will respond to the reportee confirming that the report has been received. When possible the same person
      who responds initially will act as the point of contact for future conversations.
-   * If no response has been sent by the next CPC meeting, the CPC chair will ensure there is a private session in which the one of the
+   * If no response has been sent by the next CPC meeting, the CPC chair will ensure there is a private session in which one of the
      CPC members is identified as the point of contact.
    * The point of contact will then ensure the following steps are completed:
      1. Report is acknowledged: The contact person responds to let the reportee know that the report is being discussed.
