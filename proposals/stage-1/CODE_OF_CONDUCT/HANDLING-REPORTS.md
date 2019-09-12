@@ -50,16 +50,8 @@ All members of the CPC are subscribed to the `report@openjsf.org` mailing list. 
         
 ## Reports to coc-escalation@openjsf.org
 
-The following members are subscribed to the coc-escalation@openjsf.org mailing list:
-
-* The Foundation Executive Director 
-* 1 member from the Board
-* 1 member from the CPC
-* each top-level project may optionally provide 1 member
-* the non top-level projects may optionally provide 1 member
-* optionally 1 invited outside expert as agreed by the other CoCP members.
-
-The current list of members is documented in ./CODE_OF_CONDUCT_PANEL_MEMERS.md
+All members of the [Code of Conduct Panel (CoCP)](.FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel)
+are subscribed to the coc-escalation@openjsf.org mailing list. The current list of members is documented in ./CODE_OF_CONDUCT_PANEL_MEMERS.md.
      
 When a report is received the following actions will be taken:
 
