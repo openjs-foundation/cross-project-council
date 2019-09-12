@@ -48,6 +48,7 @@ The application champion is a member of the CPC who commits to do the following:
    * Private email to the CPC members which asks for +1 or objections to the application becoming public. This email will include:
      * The name of the application manager for the application
      * The name of the application chamption for the application
+     * Completed application 
      * Completed application fit checklist.
      * Confirmation that the board has had an FYI and there were no objections.
      * Confirmation that there are no existing objections from CPC members.
