@@ -62,11 +62,11 @@ The application champion is a member of the CPC who commits to do the following:
 1. Licences are campatible with Foundation requirements.
 1. No red flags from website, social media accounts etc.
 1. Fit with OpenJS Foundation (not all of these need to met, but provide different ways of sessing strategic fit)
-  1. Impact on JavaScript Community.
-  1. How much and how broad is usage within the JavaScript Community.
-  1. Level of activity and progress within the project.
-  1. Synergy or overlap with existing projects in the Foundation.
-  1. Level of comfort that project will be successful.  
+   1. Impact on JavaScript Community.
+   1. How much and how broad is usage within the JavaScript Community.
+   1. Level of activity and progress within the project.
+   1. Synergy or overlap with existing projects in the Foundation.
+   1. Level of comfort that project will be successful.  
   
 ## Onboarding Checklist
 
