@@ -44,14 +44,14 @@ The application champion is a member of the CPC who commits to do the following:
 1. An acknowledgement is sent to the application by Foundation staff within 48 hours (striving to reply within 24hours when possible).
 1. Silent period. Internal only discussion.
 1. Initial acceptance as [Incubating][] Project. Before public announcement there will be:
-  1. Go/no go confirmation to the applicant that they are ready to have their application become public.
-  1. Private email to the CPC members which asks for +1 or objections to the application becoming public. This email will include:
-    1. The name of the application manager for the application
-    1. The name of the application chamption for the application
-    1. Completed application fit checklist.
-    1. Confirmation that the board has had an FYI and there were no objections.
-    1. Confirmation that there are no existing objections from CPC members.
-    This is not a formal vote just the process to ensure we have regular CPC concensus to move forward.
+   * Go/no go confirmation to the applicant that they are ready to have their application become public.
+   * Private email to the CPC members which asks for +1 or objections to the application becoming public. This email will include:
+     * The name of the application manager for the application
+     * The name of the application chamption for the application
+     * Completed application fit checklist.
+     * Confirmation that the board has had an FYI and there were no objections.
+     * Confirmation that there are no existing objections from CPC members.
+     This is not a formal vote just the process to ensure we have regular CPC concensus to move forward.
 1. Project goes through process of adhering to [on-boarding checklist](#onboarding-checklist).
 1. Project presents to CPC for final acceptance via 2/3 supermajority vote and appropriate initial stage is determined.
 
