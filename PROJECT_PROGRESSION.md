@@ -16,14 +16,58 @@ This governance policy sets forth the proposal process for projects to be accept
 
 New projects should express interest to join the OpenJS Foundation via an email to new-projects@lists.openjsf.org with a filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, projects will given an `incubation` status and begin the on-boarding process. **Note** the `incubation` status is temporary as we determine if the project is a good fit. At any time during the `incubation` process a project can withdraw either voluntarily or at the request of the CPC.
 
-#### Application Phases
+#### Roles
+
+##### Applicant
+
+Individual or group who submits the application on behalf of a project to join the OpenJS Foundation.
+
+##### Application Manager
+
+The application manager ensures progress through the process, helps project understand the work to be completed to move though the
+application process. Typically the application manager will be one of the Foundation staff members.
+
+##### Application Champion
+
+The application champion is a member of the CPC who will commits to do the following:
+
+1. Provide weekly update to the applicant on progression through the process.
+1. Be available to answer questions from the applicant.
+1. Advocate on behalf of the project applying.
+1. Help to explain why the project is a good fit.
+1. Help the application manager when needed.
+
+
+#### Process
 
 1. Initial email sent to new-projects@lists.openjsf.org with filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
+1. An acknowledgement is sent to the application by Foundation staff within 48 hours (striving to reply within 24hours when possible).
 1. Silent period. Internal only discussion.
-1. Initial acceptance as [Incubating][] Project.
+1. Initial acceptance as [Incubating][] Project. Before public announcement there will be:
+  1. Go/no go confirmation to the applicant that they are ready to have their application become public.
+  1. Private email to the CPC members which asks for +1 or objections to the application becoming public. This email will include:
+    1. The name of the application manager for the application
+    1. The name of the application chamption for the application
+    1. Completed application fit checklist.
+    1. Confirmation that the board has had an FYI and there were no objections.
+    1. Confirmation that there are no existing objections from CPC members.
+    This is not a formal vote just the process to ensure we have regular CPC concensus to move forward.
 1. Project goes through process of adhering to [on-boarding checklist](#onboarding-checklist).
 1. Project presents to CPC for final acceptance via 2/3 supermajority vote and appropriate initial stage is determined.
 
+##### Initial fit checklist
+
+1. Is project open/willing to move to more open governance?
+1. Will project adopt the OpenJS CoC?
+1. Licences are campatible with Foundation requirements.
+1. No red flags from website, social media accounts etc.
+1. Fit with OpenJS Foundation (not all of these need to met, but provide different ways of sessing strategic fit)
+  1. Impact on JavaScript Community.
+  1. How much and how broad is usage within the JavaScript Community.
+  1. Level of activity and progress within the project.
+  1. Synergy or overlap with existing projects in the Foundation.
+  1. Level of comfort that project will be successful.  
+  
 ## Onboarding Checklist
 
 <!--If this checklist is updated please ensure `.github/ISSUE_TEMPLATE/project-onboarding-checklist-template.md` is updated as well -->
