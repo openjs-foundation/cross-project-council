@@ -29,7 +29,7 @@ application process. Typically the application manager will be one of the Founda
 
 ##### Application Champion
 
-The application champion is a member of the CPC who will commits to do the following:
+The application champion is a member of the CPC who commits to do the following:
 
 1. Provide weekly update to the applicant on progression through the process.
 1. Be available to answer questions from the applicant.
