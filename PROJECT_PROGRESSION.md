@@ -60,7 +60,7 @@ The application champion is a member of the CPC who commits to do the following:
 
 1. Is project open/willing to move to more open governance?
 1. Will project adopt the OpenJS CoC?
-1. Licences are campatible with Foundation requirements.
+1. Licences are compatible with Foundation requirements.
 1. No red flags from website, social media accounts etc.
 1. Fit with OpenJS Foundation (not all of these need to met, but provide different ways of sessing strategic fit)
    1. Impact on JavaScript Community.
