@@ -24,8 +24,8 @@ Individual or group who submits the application on behalf of a project to join t
 
 ##### Application Manager
 
-The application manager ensures progress through the process, helps project understand the work to be completed to move though the
-application process. Typically the application manager will be one of the Foundation staff members.
+The application manager ensures progress through the process, helps the project understand the work to be completed and
+to move though the application process. Typically the application manager will be one of the Foundation staff members.
 
 ##### Application Champion
 
