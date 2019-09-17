@@ -4,6 +4,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 0
 
+* [Project Exit Criteria](./stage-0/PROJECT_EXIT_CRITERIA)
 * [Regular Town Halls](./stage-0/REGULAR_TOWN_HALLS)
 * [Standards Outreach](./stage-0/STANDARDS_OUTREACH)
 * [Shared Interfaces](./stage-0/SHARED_INTERFACES)
