@@ -49,7 +49,7 @@ The application champion is a member of the CPC who commits to do the following:
      * The name of the application manager for the application
      * The name of the application chamption for the application
      * Completed application 
-     * Completed application fit checklist.
+     * Completed application-fit checklist.
      * Confirmation that the board has had an FYI and there were no objections.
      * Confirmation that there are no existing objections from CPC members.
      This is not a formal vote just the process to ensure we have regular CPC concensus to move forward.
