@@ -53,6 +53,7 @@ The application champion is a member of the CPC who commits to do the following:
      * Confirmation that there are no existing objections from CPC members.
      This is not a formal vote just the process to ensure we have regular CPC concensus to move forward.
    * Go/no go confirmation to the applicant that they are ready to have their application become public.
+   * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date.
 1. Project goes through process of adhering to [on-boarding checklist](#onboarding-checklist).
 1. Project presents to CPC for final acceptance via 2/3 supermajority vote and appropriate initial stage is determined.
 
