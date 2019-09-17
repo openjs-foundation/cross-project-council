@@ -52,18 +52,25 @@ The application champion is a member of the CPC who commits to do the following:
      * Confirmation that the board has had an FYI and there were no objections.
      * Confirmation that there are no existing objections from CPC members.
      This is not a formal vote just the process to ensure we have regular CPC concensus to move forward.
-   * Go/no go confirmation to the applicant that they are ready to have their application become public.
+   * If there is agreement to move forward:
+     * Confirmation to the applicant that they are ready to have their application become public.
+     * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date.
+       Confirm next steps beyond announcement.  
+   * If lack of consensus to move forward:
+      * Correspondence from foundation staff to applicant about non-acceptance.
+      * If possible, give guidance to the project in their quest to find a foundation home
+        (ex. perhaps a different foundation would be a more suitable endeavor.)
    * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date.
 1. Project goes through process of adhering to [on-boarding checklist](#onboarding-checklist).
 1. Project presents to CPC for final acceptance via 2/3 supermajority vote and appropriate initial stage is determined.
 
 ##### Initial fit checklist
 
-1. Is project open/willing to move to more open governance?
+1. Is project open/willing to move to open governance?
 1. Will project adopt the OpenJS CoC?
 1. Licences are compatible with Foundation requirements.
 1. No red flags from website, social media accounts, etc.
-1. Fit with OpenJS Foundation (not all of these need to met, but provide different ways of assessing strategic fit).
+1. Fit with OpenJS Foundation (not all of these need to be met, but provide different ways of assessing strategic fit).
    1. Impact on JavaScript Community.
    1. How much and how broad is usage within the JavaScript Community.
    1. Level of activity and progress within the project.
