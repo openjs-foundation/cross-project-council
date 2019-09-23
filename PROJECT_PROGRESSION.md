@@ -69,6 +69,9 @@ The application champion is a member of the CPC who commits to do the following:
 1. Is project open/willing to move to open governance?
 1. Will project adopt the OpenJS CoC?
 1. Licences are compatible with Foundation requirements.
+1. What Trade Marks will be transferred
+1. What domains will be transferred
+1. What IP currently exists and how was it licensed
 1. No red flags from website, social media accounts, etc.
 1. Confirmation that application is authorized to represent the project.
 1. Fit with OpenJS Foundation (not all of these need to be met, but provide different ways of assessing strategic fit).
