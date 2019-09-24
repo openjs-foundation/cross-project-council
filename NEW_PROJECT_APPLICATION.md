@@ -32,7 +32,7 @@ For each repository, please provide:
 * How are members of the leadership team nominated?
 * How are individuals outside of leadership given commit access?
 * Is the project open/willing to move to open governance, if not already in place?
-* Is the project willing to adopt the OpenJS Code of Conduct (CoC)?
+* Is the project willing to adopt the OpenJS Foundation Code of Conduct (CoC)?
 * Please share links to all existing documentation e.g. GOVERNANCE.md / CONTRIBUTING.md
 
 ## Desired Initial Project Phase
