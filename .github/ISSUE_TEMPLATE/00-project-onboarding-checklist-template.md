@@ -1,5 +1,5 @@
 ---
-name: Project Onboarding Checklist Template
+name: "\U0001F680 Project Onboarding Checklist Template"
 about: For capturing action items related to onboarding new / incubating projects
 title: "[ONBOARDING] ${Project Name}"
 labels: onboarding
@@ -31,3 +31,4 @@ assignees: ''
   * marketing & social media
   * infrastructure
   * legal/governance help
+
