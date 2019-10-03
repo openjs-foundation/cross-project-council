@@ -32,12 +32,11 @@ member of the OpenJS Foundation staff, CPC Member, or other person approved by t
 
 The Application Champion is a member of the CPC who commits to do the following:
 
-1. Provide weekly update to the applicant on progression through the process.
-1. Be available to answer questions from the applicant.
-1. Advocate on behalf of the project applying.
-1. Help to explain why the project is a good fit.
-1. Help the application manager when needed.
-
+1. Provide weekly update to the Applicant on progression through the process.
+1. Be available to answer questions from the Applicant.
+1. Advocate on behalf of the Project applying.
+1. Help to explain why the Project is a good fit.
+1. Help the Application Manager when needed.
 
 #### Process
 
