@@ -43,6 +43,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 * [Marko](https://markojs.com/)
 * [messageformat](https://messageformat.github.io/messageformat/)
 * [Moment](https://momentjs.com/)
+* [nvm](https://nvm.sh/)
 * [PEP](https://github.com/jquery/pep)
 * [QUnit](https://qunitjs.com/)
 
