@@ -24,7 +24,7 @@ Individual or group who submits the application on behalf of a project to join t
 
 ##### Application Manager
 
-he Application Manager ensures progress through the process, helps the project understand the work to be 
+The Application Manager ensures progress through the process, helps the project understand the work to be 
 completed along with explaining where they are in the application process. Applications Managers can be a
 member of the OpenJS Foundation staff, CPC Member, or other person approved by the CPC.
 
