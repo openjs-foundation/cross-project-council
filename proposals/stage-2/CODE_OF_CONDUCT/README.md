@@ -1,5 +1,5 @@
 # CPC Charter Proposal
-> Stage 1
+> Stage 2
 
 ## Champion
 
