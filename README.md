@@ -54,6 +54,10 @@ The following projects are official OpenJS Foundation projects. If you are inter
 * [RequireJS](https://requirejs.org/)
 * [Sizzle](https://sizzlejs.com/)
 
+#### Incubating Projects
+
+* [nvm](https://nvm.sh/)
+
 ## CPC Meetings
 
 The CPC meets weekly. We publish meeting agendas as [issues](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), and also [publish meetings on our calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com). ([iCal](https://calendar.google.com/calendar/ical/linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com/public/basic.ics)) ([Add to Google Calendar](https://calendar.google.com/calendar?cid=bGludXhmb3VuZGF0aW9uLm9yZ19mdW9wNHVmdjc2NmY5YXZjNTE3dWpzNGkwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
