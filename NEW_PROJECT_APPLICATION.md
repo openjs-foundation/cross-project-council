@@ -13,6 +13,32 @@ A rough description of the project in less than 100 words.
 Please refer to [the Cross Project Council's Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md).
 Please keep your answer to less than 250 words.
 
+## Desired Initial Project Phase
+
+Please refer to [Section III, Stages - Definitions & Expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#iii-stages---definitions--expectations) of PROJECT_PROGRESSION.md.
+
+At Large / Growth / Impact
+
+## Project Website
+
+Include link
+
+## Social Media Accounts
+
+Links to social media accounts
+
+## Official Communication Channels
+
+List current channels e.g.: Slack / IRC / Mailing lists
+
+## Governance Structure
+
+* Is there a leadership team?
+* Who are the members of the leadership team?
+* How are members of the leadership team nominated?
+* How are individuals outside of leadership given commit access?
+* Please share links to all existing documentation e.g. GOVERNANCE.md / CONTRIBUTING.md
+
 ## List of all repos that are part of the project
 
 For each repository, please provide:
@@ -24,32 +50,6 @@ For each repository, please provide:
 - optionally, the full list of vendored dependencies contained in the source tree, including license information. A full audit
   of all vendored dependencies will be required before your project can officially join the foundation, but this can be done
   later with foundation support.
-
-## Governance Structure
-
-* Is there a leadership team?
-* Who are the members of the leadership team?
-* How are members of the leadership team nominated?
-* How are individuals outside of leadership given commit access?
-* Please share links to all existing documentation e.g. GOVERNANCE.md / CONTRIBUTING.md
-
-## Desired Initial Project Phase
-
-Please refer to [Section III, Stages - Definitions & Expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#iii-stages---definitions--expectations) of PROJECT_PROGRESSION.md.
-
-At Large / Growth / Impact
-
-## Official Communication Channels
-
-List current channels e.g.: Slack / IRC / Mailing lists
-
-## Project Website
-
-Include link
-
-## Social Media Accounts
-
-Links to social media accounts
 
 ## Existing Financial Sponsorship
 
