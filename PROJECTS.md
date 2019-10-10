@@ -50,5 +50,5 @@ For information on the stages, please see the [Project Progression Document](/PR
 ## Incubating Projects
 
 * [AMP](https://amp.dev/)
-* [nvm](https://nvm.sh/)
+* [nvm](http://nvm.sh/)
 
