@@ -57,7 +57,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 #### Incubating Projects
 
 * [AMP](https://amp.dev/)
-* [nvm](https://nvm.sh/)
+* [nvm](http://nvm.sh/)
 
 ## CPC Meetings
 
