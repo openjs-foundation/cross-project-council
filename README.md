@@ -127,6 +127,45 @@ The OpenJS Foundation Board of Directors retains certain rights (especially lega
 
 CPC discussion generally happens via GitHub issues and [during our regular public meetings](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), which are open to CPC members and observers.
 
-In addition, the OpenJS Foundation maintains a [number of mailing lists](https://lists.openjsf.org).  Project participants are strongly encouraged to subscribe to the [projects@lists.openjsf.org](https://lists.openjsf.org/g/projects) list for technical updates and discussion.  
+In addition, the OpenJS Foundation maintains a [number of mailing lists](https://lists.openjsf.org).  Project participants are strongly encouraged to subscribe to the [projects@lists.openjsf.org](https://lists.openjsf.org/g/projects) list for technical updates and discussion.
 
 Discussion should be held in the open whenever possible.  However, if you need to raise a private concern with the CPC and you feel it is inappropriate for public discussion, you can email the [cpc-private@lists.openjsf.org](mailto:cpc-private@lists.openjsf.org) list.  Depending upon the circumstances, the CPC may request that you resubmit the issue in a public forum.
+
+## Getting Help
+
+### Help with project infrastructure
+
+In almost all situations, the best way to get support is to email
+[operations@openjsf.org](mailto:operations@openjsf.org) with your request. For
+example:
+
+* Requesting DNS changes
+* Adding a project-specific mailing list to [lists.openjsf.org](https://lists.openjsf.org)
+* Updates to links on [https://openjsf.org](https://openjsf.org)
+* Storing/sharing credentials through LastPass
+* Third-party services which require payment (subject to Board approval)
+
+### Help with membership
+
+Members of the OpenJS Foundation can email
+[operations@openjsf.org](mailto:operations@openjsf.org) with any questions.
+
+### Help with legal questions (for existing projects only)
+
+Projects with questions on relevant legal topics are encouraged to email the
+[legal-questions](mailto:legal-questions@lists.openjsf.org) mailing list.  This
+is a private list, and we will route your question appropriately.
+
+In order to mail this list, you must be subscribed to at least one other [OpenJS
+Foundation mailing list](https://lists.openjsf.org).
+
+### Help with press and media
+
+The OpenJS Foundation has marketing staff which can provide guidance on inbound
+media requests.  Please reach out to [pr@openjsf.org](mailto:pr@openjsf.org).
+
+### All other topics
+
+For any other topics which aren't covered above, please email
+[operations@openjsf.org](mailto:operations@openjsf.org).
+
