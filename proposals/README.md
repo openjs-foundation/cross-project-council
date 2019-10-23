@@ -16,7 +16,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 2
 
-* [Code of Conduct approach](./stage-2/CODE_OF_CONDUCT)
+There are no stage 2 proposals
 
 ## Stage 3
 
@@ -28,4 +28,4 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [Project Onboarding](./stage-3/PROJECT_ONBOARDING)
 * [Project Progression](./stage-3/PROJECT_PROGRESSION)
 * [Travel Fund](./stage-3/TRAVEL_FUND)
-
+* [Code of Conduct approach](./stage-3/CODE_OF_CONDUCT)
