@@ -100,6 +100,7 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 - Myles Borins (@MylesBorins)
 - Sendil Kumar (@sendilkumarn)
 - Tierney Cyren (@bnb)
+- Christian Bromann (@christian-bromann)
 
 ### Observers
 
