@@ -13,17 +13,23 @@ A rough description of the project in less than 100 words.
 Please refer to [the Cross Project Council's Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md).
 Please keep your answer to less than 250 words.
 
-## List of all repos that are part of the project
+## Desired Initial Project Phase
 
-For each repository, please provide:
+Please refer to [Section III, Stages - Definitions & Expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#iii-stages---definitions--expectations) of PROJECT_PROGRESSION.md.
 
-- link to repo,
-- license information,
-- link to issue tracker,
-- link to code of conduct (CoC),
-- optionally, the full list of vendored dependencies contained in the source tree, including license information. A full audit
-  of all vendored dependencies will be required before your project can officially join the foundation, but this can be done
-  later with foundation support.
+At Large / Growth / Impact
+
+## Project Website
+
+Include link
+
+## Social Media Accounts
+
+Links to social media accounts
+
+## Official Communication Channels
+
+List current channels e.g.: Slack / IRC / Mailing lists
 
 ## Governance Structure
 
@@ -35,23 +41,17 @@ For each repository, please provide:
 * Is the project willing to adopt the OpenJS Foundation Code of Conduct (CoC)?
 * Please share links to all existing documentation e.g. GOVERNANCE.md / CONTRIBUTING.md
 
-## Desired Initial Project Phase
+## List of all repos that are part of the project
 
-Please refer to [Section III, Stages - Definitions & Expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#iii-stages---definitions--expectations) of PROJECT_PROGRESSION.md.
+For each repository, please provide:
 
-At Large / Growth / Impact
-
-## Official Communication Channels
-
-List current channels e.g.: Slack / IRC / Mailing lists
-
-## Project Website
-
-Include link
-
-## Social Media Accounts
-
-Links to social media accounts
+- link to repo,
+- license information,
+- link to issue tracker,
+- link to code of conduct (CoC),
+- optionally, the full list of vendored dependencies contained in the source tree, including license information. A full audit
+  of all vendored dependencies will be required before your project can officially join the foundation, but this can be done
+  later with foundation support.
 
 ## Existing Financial Sponsorship
 

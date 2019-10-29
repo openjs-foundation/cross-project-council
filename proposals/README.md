@@ -4,18 +4,18 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 0
 
+* [Project Exit Criteria](./stage-0/PROJECT_EXIT_CRITERIA)
 * [Regular Town Halls](./stage-0/REGULAR_TOWN_HALLS)
 * [Standards Outreach](./stage-0/STANDARDS_OUTREACH)
 * [Shared Interfaces](./stage-0/SHARED_INTERFACES)
 
 ## Stage 1
 
-* [Code of Conduct approach](./stage-1/CODE_OF_CONDUCT)
 * [Collab Summit](./stage-1/COLLAB_SUMMIT)
 
 ## Stage 2
 
-There are currently no Stage 2 proposals.
+* [Code of Conduct approach](./stage-2/CODE_OF_CONDUCT)
 
 ## Stage 3
 
