@@ -14,7 +14,7 @@ This governance policy sets forth the proposal process for projects to be accept
 
 ### Project Proposal Requirements
 
-New projects should express interest to join the OpenJS Foundation via an email to new-projects@lists.openjsf.org with a filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, projects will given an `incubation` status and begin the on-boarding process. **Note** the `incubation` status is temporary as we determine if the project is a good fit. At any time during the `incubation` process a project can withdraw either voluntarily or at the request of the CPC.
+New projects should express interest to join the OpenJS Foundation via an email to operations@openjsf.org with a filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, projects will given an `incubation` status and begin the on-boarding process. **Note** the `incubation` status is temporary as we determine if the project is a good fit. At any time during the `incubation` process a project can withdraw either voluntarily or at the request of the CPC.
 
 #### Roles
 
@@ -40,7 +40,7 @@ The Application Champion is a member of the CPC who commits to do the following:
 
 #### Process
 
-1. Initial email sent to new-projects@lists.openjsf.org with filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
+1. Initial email sent to operations@openjsf.org with filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
 1. Silent period. Internal only discussion.
 1. Initial acceptance as [Incubating] Project.
 1. An acknowledgement is sent to the applicant by Foundation staff within 48 hours (striving to reply within 24 hours when possible).
