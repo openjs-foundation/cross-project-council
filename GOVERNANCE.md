@@ -65,12 +65,24 @@ meeting. In both cases the decision must be seconded by a majority of the Team
 or else the discussion will continue. Simple majority wins. Only Active
 Members participate in a vote.
 
+## Term for voting members
+
+As per the CPC charter, the term for all voting members is normally 1 year.
+
+From: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members
+> Voting members serve for a term of 1 year and must be re-nominated and ratified
+  by the Voting CPC members each year.
+
+Due to the bootstrap process, the term for the first year will be
+shortened such that the initial term for all voting members ends March 31st, 2020.
+Subsequent terms wil be for a period of 1 year ending the following March 31st.
+
 ## Election process for Non-Impact Voting CPC members
 
 As per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md), the non-impact projects elect 2 voting CPC members:
 
-> up to two (2) Voting members may be nominated by the non-impact projects
-  based on a process set by the CPC.
+> up to two (2) Voting members may be nominated by the non-impact projects based on a process set by the CPC.
+
 These members will be elected for a term of 1 year as follows:
 
 * Once a year an issue will be opened in the CPC repo announcing that the period for
@@ -99,9 +111,29 @@ These members will be elected for a term of 1 year as follows:
 * Those candidates who receive the greatest number of votes will be confirmed as
   the winners. In the case of a tie between 2 or more candidates, the winner will be
   chosen randomly unless:
-   * There are only 2 candiates tied for the largest number of votes, in which case those 2
+   * There are only 2 candidates tied for the largest number of votes, in which case those 2
      candidates will be the winners, 
    * all but one of the candidates that are tied for the number of votes choose to conceed.
+
+## Approving and Onboarding Regular Members
+
+Regular members can self-nominate by opening a PR to add themselves to the Regular
+member list in the [README.md](https://github.com/openjs-foundation/cross-project-council/blob/master/README.md). 
+The PR should include an indication of which project they have been active in for
+3 months as per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#regular-members).
+
+The PR to add a regular member is approved when:
+
+* there are no outstanding objections
+* there are two or more approvals by voting CPC members
+* the PR has been opened for at least 1 week
+
+Once a PR is ready to be landed, the CPC member who lands the pull request should:
+
+* Send a notification to the project contacts for the project identified in the PR
+  indicating that a new regular CPC member has joined the CPC on behalf of the project.
+* Add the member to the github `cpc-regular-members` [team](https://github.com/orgs/openjs-foundation/teams/cpc-regular-members)
+* Introduce the new member at the next CPC meeting.
 
 ## Aproving Project Charters
 
@@ -135,10 +167,31 @@ in addition to the ones listed for regular PRs.
   with quorum of voting members.
 
 Pull requests that change the charter of the CPC must meet the following conditions
-in additon to the ones listed for changing CPC governance:
+in addition to the ones listed for changing CPC governance:
 
 * The text of the PR must be approved by a simple majority of the voting members.
 * The text of the PR must be approved by the board.
 
 If consensus cannot be reached, a pull request may still be landed after a vote
 by the Voting CPC members to override outstanding objections.
+
+### Fast-Tracking PRs
+
+Special exception is made for pull requests seeking to make any of the following
+changes to this repository:
+
+- Errata fixes.
+- Editorial changes.
+- Meeting minutes.
+- Updates to the team lists.
+- Doc Fixes.
+
+Charter changes cannot be fast-tracked.
+
+To propose fast-tracking a pull request, apply the fast-track label. Then add a comment that CPC members may upvote.
+
+If someone disagrees with the fast-tracking request, remove the label. Do not fast-track the pull request in that case.
+
+The pull request may be fast-tracked if two CPC members approve the fast-tracking request. To land, the pull request itself still needs two CPC member approvals.
+
+CPC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.

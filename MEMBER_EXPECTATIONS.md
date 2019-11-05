@@ -7,7 +7,8 @@ It is understood that members will have individual opinions and will express
 their individual opinions during discussions within the organization. All
 contributors are expected to be respectful of these different viewpoints,
 and to work collaboratively with one another in a manner that constructively
-elevates all contributors.
+elevates all contributors. If a member has an objection or dissent they should express it as
+early as possible to ensure there is ample time to discuss and reach consensus.
 
 When decisions are made within the established guidelines and policies of the
 OpenJS Foundation projects or groups, those in leadership roles have a
