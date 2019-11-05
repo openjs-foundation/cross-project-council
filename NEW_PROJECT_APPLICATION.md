@@ -19,19 +19,6 @@ Please keep your answer to less than 250 words.
 - What is the potential long term impact and adoption? 
 - How does it differ from other projects?
 
-## List of all repos that are part of the project
-
-For each repository, please provide:
-
-- link to repo,
-- license information,
-- who owns the Intellectual Property (IP),
-- link to issue tracker,
-- link to code of conduct (CoC),
-- optionally, the full list of vendored dependencies contained in the source tree, including license information. A full audit
-  of all vendored dependencies will be required before your project can officially join the foundation, but this can be done
-  later with foundation support.
-
 ## Desired Initial Project Phase
 
 Please refer to [Section III, Stages - Definitions & Expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#iii-stages---definitions--expectations) of PROJECT_PROGRESSION.md.
@@ -66,6 +53,7 @@ For each repository, please provide:
 
 - link to repo,
 - license information,
+- who owns the Intellectual Property (IP),
 - link to issue tracker,
 - link to code of conduct (CoC),
 - optionally, the full list of vendored dependencies contained in the source tree, including license information. A full audit
