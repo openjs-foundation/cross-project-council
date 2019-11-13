@@ -35,7 +35,7 @@ and direction of the policies as described in the CPC Policy document and
 approved by the Board.
 
 The Board sets the overall CPC policy through [Foundation mission and vision
-statements][] as well as within the [Foundation bylaws][]. The policy describes
+statements][https://openjsf.org/about/] as well as within the [Foundation bylaws][https://bylaws.openjsf.org]. The policy describes
 the overarching scope of the OpenJS Foundation initiatives , technical vision,
 and direction. The Board uses the CPC as a delegate body for governing
 high-level technical policy and procedures while remaining within the scope and
