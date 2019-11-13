@@ -1,6 +1,6 @@
 # OpenJS Foundation Project Infrastructure Services
 
-The OpenJS Foundation provides works with a number of services to provide critical infrastructure services to hosted projects.  We expect projects to be respectful of these services, to abide by their terms of use, and to use the for the good of the project and the OpenJS Foundation.
+The OpenJS Foundation provides a number of services to support critical infrastructure for hosted projects.  We expect projects to be respectful of these services, to abide by their terms of use, and to be put into use for the good of the project and the OpenJS Foundation.
 
 ## Billing for services and mitigating the bus factor
 **For all project services, please add an OpenJS Foundation account at an owner or highest-level of permission access.**  This helps ensure continuity by reducing the bus factor on the project, and ensures you are never locked out.  It is also **required** in order for the OpenJS Foundation to pay service fees on behalf of your project.  Access to the OpenJS Foundation administrator/owner account will never be shared with others, and will only be granted to operations, IT, and finance staff at the Linux Foundation.
@@ -19,7 +19,7 @@ The OpenJS Foundation will register and manage each project’s primary domain, 
 The OpenJS Foundation can either manage your DNS for you, or delegate to one of your own nameservers.  This is often required if you use a CDN (see below).
 
 ## SSL Certificates
-The OpenJS Foundation will purchase 2-year wildcard SSL certs for each projects’ managed domains as needed.
+The OpenJS Foundation will purchase 2-year wildcard SSL certs for each project's managed domains as needed.
 
 ## Source Control
 By default all OpenJS Foundation projects have open source repositories in their own GitHub Organizations.  The OpenJS Foundation admin account must be added as administrator for each repository.  Two-factor authentication must be required for everyone in the organization.
@@ -51,7 +51,7 @@ Projects are welcome to create channels on the OpenJS Foundation Slack (https://
 ## Zoom
 Projects may request that standing meetings be added to the OpenJS Foundation calendar.  The OpenJS Foundation currently has two Zoom Pro meeting accounts, and one Zoom Webinar account which is capable of livestreaming.  Please be mindful of conflicts with other projects by requesting your meeting be scheduled on the shared calendar via email to operations@openjsf.org.   
 
-All OpenJS Foundation Zoom accounts have can host up to 300 participants, and meetings can be recorded as an .mp4 for posting to a project’s YouTube channel.
+All OpenJS Foundation Zoom accounts can host up to 300 participants, and meetings can be recorded as an .mp4 for posting to a project’s YouTube channel.
 
 Impact and Growth projects with extensive meeting requests can request a dedicated Zoom Pro account.  Projects may also request a Webinar license for livestreaming, but please be aware it is a significant expense and is subject to budget approval.
 
