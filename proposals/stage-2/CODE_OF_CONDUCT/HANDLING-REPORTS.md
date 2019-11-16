@@ -62,12 +62,12 @@ When a report is received the following actions will be taken:
     Panel is identified as the main point of contact either through email or scheduling a meeting for the CoCP.
   * The main point of contact will then ensure the following steps are completed:
      1. Report is acknowledged: The contact person responds to let the reporter or target know that the report is being discussed.
-     2. Information gathering: Time is allocated to collect information in one place to make sure all CoCP members have access.
-     3. Information is discussed: The facts are discussed in context of opinions. This can be done in the issue for the report, or in a meeting in which case the key discussion points should then be added to the issue.
-     4. An action to be taken is arrived at: The action to be taken is decided by consensus as per the standard CPC
+     1. Information gathering: Time is allocated to collect information in one place to make sure all CoCP members have access.
+     1. Information is discussed: The facts are discussed in context of opinions. This can be done in the issue for the report, or in a meeting in which case the key discussion points should then be added to the issue.
+     1. An action to be taken is arrived at: The action to be taken is decided by consensus as per the standard CPC
         [Decision Making](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-9-decision-making) process substituting in CoCP for references to the CPC.
-     5. The proposed action is discussed with the leadership for the space to which the report applies (ex CPC or member
+     1. The proposed action is discussed with the leadership for the space to which the report applies (ex CPC or member
         project leadership). If the leadership representatives expresses concerns then the contact person will bring these back to the CoCP members for further discussion.  This cycle can continue until the CoCP members reach consensus that the leadership representatives concerns have been adequately addressed.
-     6. Resolution shared: The resolution is shared with the reporter or target by the contact person. If the reporter or target expresses concerns then the contact person will bring these back to the CPC members for further discussion. This cycle can continue until the CPC members reach consensus that the reporter or target's concerns have been adquately addressed. If no feedback is received within 7 days the resolution is considered as accepted. 
-     7. Final resolution: the resolution agreed by the CoCP members is implemented and the outcome reported back to the reporter or target bythe main contact.
+     1. Resolution shared: The resolution is shared with the reporter or target by the contact person. If the reporter or target expresses concerns then the contact person will bring these back to the CPC members for further discussion. This cycle can continue until the CPC members reach consensus that the reporter or target's concerns have been adquately addressed. If no feedback is received within 7 days the resolution is considered as accepted. 
+     1. Final resolution: the resolution agreed by the CoCP members is implemented and the outcome reported back to the reporter or target bythe main contact.
       
