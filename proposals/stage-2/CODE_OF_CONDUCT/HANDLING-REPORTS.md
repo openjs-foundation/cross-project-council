@@ -41,12 +41,12 @@ All members of the CPC are subscribed to the `report@openjsf.org` mailing list. 
    * If no response has been sent by the next CPC meeting, the CPC chair will ensure there is a private session in which one of the CPC members is identified as the point of contact.
    * The point of contact will then ensure the following steps are completed:
      1. Report is acknowledged: The contact person responds to let the reporter or target know that the report is being discussed.
-     2. Information gathering: Time is allocated to collect information in one place to make sure everyone involved has access.
-     3. Information is discussed: The facts are discussed in context of opinions. This can be done in the issue for the report, or in a meeting in which case the key discussion points should then be added to the issue.
-     4. An action to be taken is arrived at: The action to be taken is decided by consensus as per the standard CPC
+     1. Information gathering: Time is allocated to collect information in one place to make sure everyone involved has access.
+     1. Information is discussed: The facts are discussed in context of opinions. This can be done in the issue for the report, or in a meeting in which case the key discussion points should then be added to the issue.
+     1. An action to be taken is arrived at: The action to be taken is decided by consensus as per the standard CPC
         [Decision Making](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-9-decision-making) process.
-     5. Resolution shared: The resolution is shared with the reporter or target by the contact person. If the reporter or target expresses concerns then the contact person will bring these back to the CPC members for further discussion. This cycle can continue until the CPC members reach consensus that the reporter or target's concerns have been adquately addressed. If no feedback is received within 7 days the resolution is considered as accepted. 
-     6. Final resolution: the resolution agreed by the CPC members is implemented and the outcome reported to the reporter or target by the main contact.
+     1. Resolution shared: The resolution is shared with the reporter or target by the contact person. If the reporter or target expresses concerns then the contact person will bring these back to the CPC members for further discussion. This cycle can continue until the CPC members reach consensus that the reporter or target's concerns have been adquately addressed. If no feedback is received within 7 days the resolution is considered as accepted. 
+     1. Final resolution: the resolution agreed by the CPC members is implemented and the outcome reported to the reporter or target by the main contact.
         
 ## Reports to coc-escalation@openjsf.org
 
