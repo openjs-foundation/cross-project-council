@@ -166,6 +166,10 @@ Foundation mailing list](https://lists.openjsf.org).
 The OpenJS Foundation has marketing staff which can provide guidance on inbound
 media requests.  Please reach out to [pr@openjsf.org](mailto:pr@openjsf.org).
 
+If you have project-related news that you wish to share, please contact [marketing@openjsf.org](mailto:marketing@openjsf.org).  If you need a place to post your news, Foundation staff can review whether it is appropriate for the [OpenJS Foundation blog](https://openjsf.org/blog).  If it makes sense, Foundation staff can also include your news in the summaries sent to the [projects mailing list](https://lists.openjsf.org/g/projects), or schedule posts on Foundation social channels.
+
+If you run your project's social media and would like the Foundation to share or retweet project news, please DM the Foundation's account or send an email with a link to [marketing@openjsf.org](mailto:marketing@openjsf.org).
+
 ### All other topics
 
 For any other topics which aren't covered above, please email
