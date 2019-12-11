@@ -50,5 +50,7 @@ For information on the stages, please see the [Project Progression Document](/PR
 ## Incubating Projects
 
 * [AMP](https://amp.dev/)
+* [Electron](https://electronjs.org)
+* [Fastify](https://fastify.io)
 * [nvm](http://nvm.sh/)
 

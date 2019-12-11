@@ -57,6 +57,8 @@ The following projects are official OpenJS Foundation projects. If you are inter
 #### Incubating Projects
 
 * [AMP](https://amp.dev/)
+* [Electron](https://electronjs.org)
+* [Fastify](https://fastify.io)
 * [nvm](http://nvm.sh/)
 
 ## CPC Meetings
