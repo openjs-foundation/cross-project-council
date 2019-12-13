@@ -27,9 +27,9 @@ The suggestion to submit a "trip report" after travel has been removed. No trip 
 ## Who qualifies for using the Travel Fund?
 
 As the document currently states:
->* Candidates must be an active participant of one of the projects of the OpenJS Foundation.
->* Those requesting funds must indicate that they do not have funding available from another source, such as an employer or
-the event itself that might cover costs for presenters.
+> * Candidates must be an active participant of one of the projects of the OpenJS Foundation.
+> * Those requesting funds must indicate that they do not have funding available from another source, such as an employer or
+>   the event itself that might cover costs for presenters.
 
 This means, any project in the Foundation, no matter the level.
 For each project, any active participant is welcome to apply for funds. This would mean any contributor or someone active in the community. Their participation should be self-evident (github activity, etc), and if in doubt their project representative can be asked to confirm.
