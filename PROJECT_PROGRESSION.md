@@ -97,7 +97,7 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
 - [ ] If choosing to use a Contributor License Agreement (CLA) or Developer Certificate of Origin (DCO), make selection and implement appropriate tool
 - [ ] Add or Update Governance.md document (required for Impact stage)
 - [ ] Confirm required files in place (CODE_OF_CONDUCT.md, LICENSE.md)
-- [ ] Publish Project Charter on website or github
+- [ ] Publish Project Charter on website or GitHub
 - [ ] Update legal copyright notice on project website and github
 - [ ] Add OpenJS Foundation logo to project website
 - [ ] Add Project logo to OpenJS Foundation website; update PROJECTS.md file
