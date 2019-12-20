@@ -98,7 +98,7 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
 - [ ] Add or Update Governance.md document (required for Impact stage)
 - [ ] Confirm required files in place (CODE_OF_CONDUCT.md, LICENSE.md)
 - [ ] Publish Project Charter on website or GitHub
-- [ ] Update legal copyright notice on project website and github
+- [ ] Update legal copyright notice on project website and GitHub
 - [ ] Add OpenJS Foundation logo to project website
 - [ ] Add Project logo to OpenJS Foundation website; update PROJECTS.md file
 - [ ] Transfer logomark to the OpenJS Foundation
