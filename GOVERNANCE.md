@@ -39,7 +39,7 @@ group of Collaborators.
 Any community member or contributor can ask that something be added to
 the next meeting's agenda by logging a GitHub Issue. Any Collaborator,
 Team member or the moderator can add the item to the agenda by adding
-the ***cross-project-council-agenda*** tag to the issue.
+the ***cross-project-council-agenda*** label to the issue.
 
 Prior to each Team meeting the moderator will share the agenda with
 members of the Team. Team members can add any items they like to the
@@ -65,7 +65,7 @@ meeting. In both cases the decision must be seconded by a majority of the Team
 or else the discussion will continue. Simple majority wins. Only Active
 Members participate in a vote.
 
-## Term for voting members
+## Term for Voting Members
 
 As per the CPC charter, the term for all voting members is normally 1 year.
 
@@ -75,7 +75,7 @@ From: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC
 
 Due to the bootstrap process, the term for the first year will be
 shortened such that the initial term for all voting members ends March 31st, 2020.
-Subsequent terms wil be for a period of 1 year ending the following March 31st.
+Subsequent terms will be for a period of 1 year ending the following March 31st.
 
 ## Election process for Non-Impact Voting CPC members
 
@@ -97,7 +97,7 @@ These members will be elected for a term of 1 year as follows:
 * Each of the candidates listed will be asked to open an issue in the CPC repo which includes the following:
   * Projects they are part of
   * Description of their background
-  * The reasons they would like to act as the non-impact CPC voting member
+  * The reasons they would like to act as a non-impact CPC voting member
   * Confirmation that they can devote the required time/effort.
   * Their employer (if applicable). This is needed due to the limitations
     on maximum employer representation in the CPC voting members.
@@ -112,21 +112,21 @@ These members will be elected for a term of 1 year as follows:
   the winners. In the case of a tie between 2 or more candidates, the winner will be
   chosen randomly unless:
    * There are only 2 candidates tied for the largest number of votes, in which case those 2
-     candidates will be the winners,
+     candidates will be the winners, or
    * all but one of the candidates that are tied for the number of votes choose to conceed.
 
 ## Approving and Onboarding Regular Members
 
-Regular members can self-nominate by opening a PR to add themselves to the Regular
-member list in the [README.md](https://github.com/openjs-foundation/cross-project-council/blob/master/README.md).
+Regular members can self-nominate by opening a PR to add themselves to the regular
+member list in the [README.md](https://github.com/openjs-foundation/cross-project-council/blob/master/README.md). 
 The PR should include an indication of which project they have been active in for
 3 months as per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#regular-members).
 
 The PR to add a regular member is approved when:
 
-* there are no outstanding objections
-* there are two or more approvals by voting CPC members
-* the PR has been opened for at least 1 week
+* There are no outstanding objections
+* There are two or more approvals by voting CPC members
+* The PR has been opened for at least 1 week
 
 Once a PR is ready to be landed, the CPC member who lands the pull request should:
 
@@ -146,9 +146,9 @@ be requested by opening an issue requesting approval in the cross-project-counci
 
 The request is approved when:
 
-* there are no outstanding objections
-* there are two or more approvals by voting CPC members
-* the board has been consulted in the case of substantial changes
+* There are no outstanding objections
+* There are two or more approvals by voting CPC members
+* The board has been consulted in the case of substantial changes
 * The issue has been open for at least 14 days
 
 ## Merging PRs into this Repository
@@ -156,9 +156,9 @@ The request is approved when:
 Pull requests that do not change the charter or governance of the CPC can be merged into
 this repository provided the following conditions have been met:
 
-* there are no outstanding objections
-* there are two approvals by CPC members
-* the PR has been open for at least 72 hours
+* There are no outstanding objections
+* There are two approvals by CPC members
+* The PR has been open for at least 72 hours
 
 Pull requests that change governance of the CPC must meet the following conditions
 in addition to the ones listed for regular PRs.
@@ -188,7 +188,7 @@ changes to this repository:
 
 Charter changes cannot be fast-tracked.
 
-To propose fast-tracking a pull request, apply the fast-track label. Then add a comment that CPC members may upvote.
+To propose fast-tracking a pull request, apply the ***fast-track*** label. Then add a comment that CPC members may upvote.
 
 If someone disagrees with the fast-tracking request, remove the label. Do not fast-track the pull request in that case.
 
