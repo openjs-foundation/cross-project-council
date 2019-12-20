@@ -104,7 +104,7 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
 - [ ] Transfer logomark to the OpenJS Foundation
 - [ ] If project is using crowdfunding platforms, add disclaimer to platforms
 - [ ] Identify individuals from the project to join the CPC
-- [ ] The champion remains the main point of contact with the CPC, but also document project and foundation contacts for:
+- [ ] Document project and foundation contacts for:
   * marketing & social media
   * infrastructure
   * legal/governance help
