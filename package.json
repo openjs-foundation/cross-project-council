@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "OpenJS Foundation Cross Project Council",
   "scripts": {
-    "lint-md": "remark . -f"
+    "lint-md": "remark . -f",
+    "test": "npm run lint-md"
   },
   "repository": {
     "type": "git",
