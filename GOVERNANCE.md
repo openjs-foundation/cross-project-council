@@ -81,7 +81,7 @@ Subsequent terms will be for a period of 1 year ending the following March 31st.
 
 As per the CPC charter, the term for CPC Board representatives is 1 year. Due to the bootstrap
 process, the term for the first year will be adjusted such that the initial term for all CPC
-Board representatives will end June 30th, 2020. Subsequent terms swill be for a period
+Board representatives will end June 30th, 2020. Subsequent terms will be for a period
 of 1 year ending the following June 30th. 
 
 ## Election process for Non-Impact Voting CPC members
