@@ -97,13 +97,13 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 
 - Abraham Jr Agiri (@codeekage)
 - Ben Michel (@obensource)
+- Christian Bromann (@christian-bromann)
 - Jordan Harband (@ljharb)
 - Jory Burson (@jorydotcom)
 - Michael Dawson (@mhdawson)
 - Myles Borins (@MylesBorins)
 - Sendil Kumar (@sendilkumarn)
 - Tierney Cyren (@bnb)
-- Christian Bromann (@christian-bromann)
 - Waleed Ashraf (@waleedashraf)
 
 ### Observers
