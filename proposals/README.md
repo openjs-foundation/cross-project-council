@@ -26,4 +26,3 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [Individual Membership program](./stage-3/INDIVIDUAL_MEMBERSHIP)
 * [Project Onboarding](./stage-3/PROJECT_ONBOARDING)
 * [Project Progression](./stage-3/PROJECT_PROGRESSION)
-* [Travel Fund](./stage-3/TRAVEL_FUND)
