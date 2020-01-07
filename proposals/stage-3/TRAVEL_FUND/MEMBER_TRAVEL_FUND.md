@@ -5,9 +5,9 @@
 To establish and administer a fund for members of the OpenJS Foundation to travel
 and spread knowledge about and support the Javascript ecosystem and the Foundation.
 
-### [Current Year Fund](https://github.com/openjs-foundation/cross-project-council/blob/master/travelfunds/2019.md)
+### [Current Year Fund](https://github.com/openjs-foundation/cross-project-council/blob/master/proposals/stage-3/TRAVEL_FUND/2020.md)
 
-### [2019 funds](https://github.com/openjs-foundation/cross-project-council/blob/master/travelfunds/archived/2019.md)
+### [2019 funds](https://github.com/openjs-foundation/cross-project-council/blob/master/proposals/stage-3/TRAVEL_FUND/Achived_Travel_Fund_Records/2019.md)
 
 ## Requirements
 
@@ -28,19 +28,17 @@ Foundation cannot pre-pay for travel expenditures.
 
 ## Visa Tips
 
-// TODO make email alias for visa help
 For all events, 3rd party or hosted Foundation events, it is recommended to apply for
 a visa at least 6 months prior to an event.
 
 ### For Industry Events
 
 If you need a visa for the country in which the OpenJS Foundation event you are
-attending is being held, [see the document on preparing for a visa application](https://github.com/openjs-foundation/cross-project-council/blob/master/travelfunds/travel-visas.md). //TODO update link
+attending is being held, [see the document on preparing for a visa application](https://github.com/openjs-foundation/cross-project-council/blob/master/proposals/stage-3/TRAVEL_FUND/travel-visas.md). //TODO update link
 
 ### What The Foundation Can Do To Help:
 
-//TODO update link
-The Foundation [provides guidance on preparing your visa application](https://github.com/openjs-foundation/cross-project-council/blob/master/travel-visas.md),
+The Foundation [provides guidance on preparing your visa application](https://github.com/openjs-foundation/cross-project-council/blob/master/proposals/stage-3/TRAVEL_FUND/travel-visas.md),
 including information on visa processing times and a checklist of items that a
 visa application could require.
 
@@ -127,8 +125,9 @@ mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
 
 ## Reimbursement
 
-So that we can reimburse you more quickly, we strongly encourage you to use [Expensify](https://expensify.com)
-to organize and submit your receipts. Please see our [guide to creating and configuring a free Expensify account](./reimbursement_process.pdf).
+So that we can reimburse you more quickly, we strongly encourage you to use
+[Expensify](https://expensify.com) to organize and submit your receipts. Please see our
+[guide to creating and configuring a free Expensify account](./reimbursement_process.pdf).
 
 ### Here are the highlights of the process:
 
@@ -148,8 +147,9 @@ your payment details. At that point, you're done.
 ### Alternate process
 
 If you decide not to use Expensify, the reimbursement process is manual and may take longer
-for us to process. You can email a zip file of your receipts and the completed [Expense Report](./expense-report-template.xls?raw=true),
-renamed as ExpenseReport-OpenJS-EVENTNAME-YOURNAME-YYYYMM.xls, to [operations@openjsf.org](mailto:operations@openjsf.org).
+for us to process. You can email a zip file of your receipts and the completed
+[Expense Report](./expense-report-template.xls?raw=true), renamed as
+ExpenseReport-OpenJS-EVENTNAME-YOURNAME-YYYYMM.xls, to [operations@openjsf.org](mailto:operations@openjsf.org).
 Please send the file as a spreadsheet, not as a PDF.  We will send it back to you for
 signature in DocuSign.
 
