@@ -37,6 +37,7 @@ The Application Champion is a member of the CPC who commits to do the following:
 1. Advocate on behalf of the Project applying.
 1. Help to explain why the Project is a good fit.
 1. Help the Application Manager when needed.
+1. Be available as a primary point of contact through the incubation period if reached.
 
 #### Process
 
@@ -96,8 +97,8 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
 - [ ] If choosing to use a Contributor License Agreement (CLA) or Developer Certificate of Origin (DCO), make selection and implement appropriate tool
 - [ ] Add or Update Governance.md document (required for Impact stage)
 - [ ] Confirm required files in place (CODE_OF_CONDUCT.md, LICENSE.md)
-- [ ] Project Charter is published on website or github
-- [ ] Update legal copyright notice on project website and github
+- [ ] Publish Project Charter on website or GitHub
+- [ ] Update legal copyright notice on project website and GitHub
 - [ ] Add OpenJS Foundation logo to project website
 - [ ] Add Project logo to OpenJS Foundation website; update PROJECTS.md file
 - [ ] Transfer logomark to the OpenJS Foundation
