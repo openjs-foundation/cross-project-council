@@ -36,7 +36,7 @@ Project Charters are the responsibility of the CPC. When reviewing a charter, th
 1. The accuracy of the document - the document should reflect the reality of the project. It should avoid hyperbolic language (e.g. "world's best developer experience"). 
 1. The lifespan of the document - the CPC should take note of what factors may cause the charter document to change. If data that may change frequently appears in the charter - such as a list of names - the CPC may ask to remove it. 
 
-If the project handles PII, deals with a new intersection between technology and law, or would simply feel more comfortable, they or the CPC Board Representative may request review from Foundation legal counsel. This is an optional step.
+If the project handles Personally Identifiable Information (PII), deals with a new intersection between technology and law, or would simply feel more comfortable, they or the CPC Board Representative may request review from Foundation legal counsel. This is an optional step.
 
 CPC members should add themselves as reviewers to the associated charter issue. Comments or suggested edits to the charter document should be captured on the Pull Request. 
 
@@ -44,9 +44,4 @@ CPC members should add themselves as reviewers to the associated charter issue. 
 
 Project Charters should be reviewed and approved within two weeks of submission. An exception may be made if the charter is submitted during a holiday period (such as the end of the year) or in the event either the project or CPC has requested legal review. 
 
-Charters are approved when:
-
-* Reviewing CPC members have added themselves as reviewers on the issue and approved.
-* More than 50% of voting CPC members have approved, OR 
-* More than 2/3 of all CPC members have approved, OR
-* A period of 14 days has elapsed with no concerns or objections raised. 
+Charters are approved when they meet the requirements outlined in the 'Approving Charters' section of [GOVERNANCE.md](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#approving-project-charters).
