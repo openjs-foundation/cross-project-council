@@ -51,7 +51,7 @@ page under `Attend > Visa Request`.
 Please note that unless the Foundation is specifically hosting the event, we cannot
 help with visa letters. The Foundation is also not able to contact consulates. When
 the Foundation has done this in the past, our efforts have been unsuccessful and/or
-we’ve lacked the expertise to be effective.  
+we’ve lacked the expertise to be effective.
 
 For additional information on preparing your visa application or requesting a visa
 letter, please email [visainfo@openjsf.org](mailto:visainfo@openjsf.org).
@@ -69,10 +69,11 @@ letter, please email [visainfo@openjsf.org](mailto:visainfo@openjsf.org).
         transportation, and so on. The total amount should be your stipend
         request.
       * In the PR description, mention @openjs-foundation/cpc.
-    * Once the final amount spent is known, update the table again with that information.
-    * Certain details of your request (such as the column for date sent to finance) may
-      be unknown initially; these can be filled in and updated during the process of
-      reconciliation.
+    * Once the final amount spent is known, update the table again with
+      that information.
+    * Certain details of your request (such as the column for date sent to
+      finance) may be unknown initially; these can be filled in and updated
+      during the process of reconciliation.
 
 ## Approval
 
@@ -90,8 +91,8 @@ request using whatever decision-making process the committee uses when consensus
 reached.
 
 As examples, the purpose of prior sponsored travels includes attending TC39 meetings,
-attending [OpenJS collaboration summits](https://github.com/nodejs/summit), and
-mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
+attending [OpenJS collaboration summits](https://github.com/openjs-foundation/summit),
+and mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
 
 ### Considerations for approval of a request
 
