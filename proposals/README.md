@@ -6,11 +6,12 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 * [Project Exit Criteria](./stage-0/PROJECT_EXIT_CRITERIA)
 * [Regular Town Halls](./stage-0/REGULAR_TOWN_HALLS)
-* [Standards Outreach](./stage-0/STANDARDS_OUTREACH)
 * [Shared Interfaces](./stage-0/SHARED_INTERFACES)
+* [Standards Outreach](./stage-0/STANDARDS_OUTREACH)
 
 ## Stage 1
 
+* [Charter Review](./stage-1/CHARTER_REVIEW)
 * [Collab Summit](./stage-1/COLLAB_SUMMIT)
 
 ## Stage 2
@@ -26,3 +27,5 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [Individual Membership program](./stage-3/INDIVIDUAL_MEMBERSHIP)
 * [Project Onboarding](./stage-3/PROJECT_ONBOARDING)
 * [Project Progression](./stage-3/PROJECT_PROGRESSION)
+* [Travel Fund](./stage-3/TRAVEL_FUND)
+
