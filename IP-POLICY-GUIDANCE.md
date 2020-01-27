@@ -57,7 +57,7 @@ project, the copyrights in those contributions remain owned by the original
 copyright holders.
 
 The copyrights are not _assigned_ to OpenJS Foundation. Instead, they are _licensed_ for
-distribution as part of the project. Whether a project uses the DCO or a CLA,
+distribution as part of the project. Whether a project uses the <abbr title="Developer Certificate of Origin">[DCO](https://developercertificate.org)</abbr> or the <abbr title="Contributor License Agreement">[OpenJS Foundation CLA](https://cla.openjsf.org)</abbr>,
 the original copyright holders retain their copyrights.
 
 ### Copyright Notices
