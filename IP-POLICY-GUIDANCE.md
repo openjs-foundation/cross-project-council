@@ -1,8 +1,52 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 
-# Copyrights and OpenJS Foundation projects
+# OpenJS Foundation IP Policy Guidance
 
-## Ownership of Copyrights in OpenJS Foundation Contributions
+The purpose of this document is to provide an introduction to various aspects
+of the [OpenJS Foundation IP Policy](https://ip-policy.openjsf.org). Please
+note, if something appears inconsistent between the two documents, the IP
+Policy is always the canonical source of information. This document is merely
+meant to be interpretive, and changes to this document have no effect upon the
+[IP Policy](https://ip-policy.openjsf.org) unless the Board of Directors votes
+to accept them.
+
+## Essential Guidance
+
+We encourage everyone to [read the IP Policy](https://ip-policy.openjsf.org).
+It is intentionally short and to the point.
+
+At a high level, you will find the following key themes:
+
+1. _DO NOT_ change copyright lines unless you put them there _AND_ have the right
+to update them.  If you feel a need to add a _new_ copyright line, see the
+[copyright guidance](#copyrights-and-openjs-foundation-projects).
+1. You can use any of the open source licenses that are pre-approved in the
+[IP Policy](https://ip-policy.openjsf.org) without any additional approvals.
+1. If you need to use a license which isn't in the list, please ask the board.
+1. Your project website needs to have a
+[standard website footer](#copyright-notices-for-website-footers).
+1. If in doubt about anything related to IP, first read the
+[IP Policy](https://ip-policy.openjsf.org), and then
+[ask for help](#getting-help).
+
+There are also some optional things that projects can do which, while not
+mandatory, are referenced in the IP Policy or in this guidance. For example:
+
+1. You may update copyright lines that say "JS Foundation" or
+"Node.js Foundation" to "OpenJS Foundation".  This is a factual update
+reflecting the merged status of the organizations.
+1. You may decide to use the [CLA](https://cla.openjsf.org), or decide to stop
+using one.  This is optional under the OpenJS Foundation IP Policy, and is a
+decision that is to be made by the project's maintainers.
+1. Inserting [SPDX IDs](https://spdx.org/ids-how): While projects decide the
+manner in which they communicate license information, SPDX short identifiers
+are a good option because they improve the accuracy of automated license
+scanners. If you are updating header information anyhow, they are a simple
+one-line addition.
+
+Please reach out to the Foundation with any questions on topics related to the
+IP Policy by emailing
+[legal-questions@lists.openjsf.org](mailto:legal-questions@lists.openjsf.org).
 
 When source code, documentation and other content is contributed to an Open JS Foundation
 project, the copyrights in those contributions remain owned by the original
