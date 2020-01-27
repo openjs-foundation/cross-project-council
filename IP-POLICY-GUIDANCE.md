@@ -48,6 +48,10 @@ Please reach out to the Foundation with any questions on topics related to the
 IP Policy by emailing
 [legal-questions@lists.openjsf.org](mailto:legal-questions@lists.openjsf.org).
 
+## Copyrights and OpenJS Foundation projects
+
+### Ownership of Copyrights in OpenJS Foundation Contributions
+
 When source code, documentation and other content is contributed to an Open JS Foundation
 project, the copyrights in those contributions remain owned by the original
 copyright holders.
@@ -56,7 +60,7 @@ The copyrights are not _assigned_ to OpenJS Foundation. Instead, they are _licen
 distribution as part of the project. Whether a project uses the DCO or a CLA,
 the original copyright holders retain their copyrights.
 
-## Copyright Notices
+### Copyright Notices
 
 OpenJS Foundation does not require or recommend that every contributor include their
 copyright notice in contributed files. [See below for more details on why
@@ -79,7 +83,7 @@ copyright holders, years or ranges of years, and variations on the (c) symbol.
 This aims to minimize the burden on developers and maintainers as well as
 redistributors of the code.
 
-## What if I want my copyright notice included?
+### What if I want my copyright notice included?
 
 Please note that it is _not wrong_, and it is acceptable, if a contributor
 wishes to keep their own copyright notices on their contributions. The above is
@@ -89,7 +93,7 @@ If you are contributing on behalf of your employer, you may wish to discuss with
 your legal department about whether they will require you to include a copyright
 notice identifying them as the copyright holder in contributions.
 
-## What about Third Party Code?
+### What about Third Party Code?
 
 If a file only contains code that originates from a third party source who
 didn't contribute it themselves, then you would _not_ want to add the notices
@@ -107,7 +111,7 @@ You _should not_ change or remove someone else's copyright notice unless they
 have expressly permitted you to do so. This includes third parties' notices in
 pre-existing code.
 
-## Why not list every copyright holder?
+### Why not list every copyright holder?
 
 There are several reasons why OpenJS Foundation doesn't require or recommend trying to list
 every copyright holder for contributions to every file:
@@ -127,56 +131,60 @@ every copyright holder for contributions to every file:
 - The specific individual or legal entity that owns the copyright might not be
   known to the contributor; it could be you, your employer, or some other entity.
 
-## Copyright notices for website footers
+### Copyright notices for website footers
 
 Please use one of these standard footers, which have been approved by OpenJS
 Foundation legal counsel and the Board of Directors:
 
-### For nodejs.org, and projects which reference Node.js
+#### For nodejs.org, and projects which reference Node.js
 
-> Copyright [OpenJS Foundation](https://openjsf.org) and \[project
-name\] contributors. All rights reserved. The [OpenJS
-Foundation](https://openjsf.org) has registered trademarks and uses
-trademarks.  For a list of trademarks of the [OpenJS
-Foundation](https://openjsf.org), please see our [Trademark
-Policy](https://trademark-policy.openjsf.org/) and [Trademark
-List](https://trademark-list.openjsf.org/).  Node.js is a trademark of
-Joyent, Inc. and is used with its permission.  Trademarks and logos not
-indicated on the [list of OpenJS Foundation
-trademarks](https://trademark-list.openjsf.org) are trademarks™ or
-registered® trademarks of their respective holders. Use of them does not
-imply any affiliation with or endorsement by them.
+##### Text
+
+> Copyright [OpenJS Foundation](https://openjsf.org) and [project name] contributors. All rights reserved. The [OpenJS Foundation](https://openjsf.org) has registered trademarks and uses trademarks.  For a list of trademarks of the [OpenJS Foundation](https://openjsf.org), please see our [Trademark Policy](https://trademark-policy.openjsf.org/) and [Trademark List](https://trademark-list.openjsf.org/).  Node.js is a trademark of Joyent, Inc. and is used with its permission.  Trademarks and logos not indicated on the [list of OpenJS Foundation trademarks](https://trademark-list.openjsf.org) are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 > 
-> [The OpenJS Foundation](https://openjsf.org/) \| [Terms of
-Use](https://terms-of-use.openjsf.org/) \| [Privacy
-Policy](https://privacy-policy.openjsf.org/) \| [OpenJS Foundation
-Bylaws](https://bylaws.openjsf.org/) \| [Trademark
-Policy](https://trademark-policy.openjsf.org/) \| [Trademark
-List](https://trademark-list.openjsf.org/) \| [Cookie
-Policy](https://www.linuxfoundation.org/cookies/)
+> [The OpenJS Foundation](https://openjsf.org/) | [Terms of Use](https://terms-of-use.openjsf.org/) | [Privacy Policy](https://privacy-policy.openjsf.org/) | [OpenJS Foundation Bylaws](https://bylaws.openjsf.org/) | [Trademark Policy](https://trademark-policy.openjsf.org/) | [Trademark List](https://trademark-list.openjsf.org/) | [Cookie Policy](https://www.linuxfoundation.org/cookies/)
 
-### For projects unrelated to Node.js:
+##### Markdown
 
-> Copyright [OpenJS Foundation](https://openjsf.org) and \[project
-name\] contributors. All rights reserved. The [OpenJS
-Foundation](https://openjsf.org) has registered trademarks and uses
-trademarks.  For a list of trademarks of the [OpenJS
-Foundation](https://openjsf.org), please see our [Trademark
-Policy](https://trademark-policy.openjsf.org/) and [Trademark
-List](https://trademark-list.openjsf.org/).  Trademarks and logos not
-indicated on the [list of OpenJS Foundation
-trademarks](https://trademark-list.openjsf.org) are trademarks™ or
-registered® trademarks of their respective holders. Use of them does not
-imply any affiliation with or endorsement by them.
+```
+Copyright [OpenJS Foundation](https://openjsf.org) and [project name] contributors. All rights reserved. The [OpenJS Foundation](https://openjsf.org) has registered trademarks and uses trademarks.  For a list of trademarks of the [OpenJS Foundation](https://openjsf.org), please see our [Trademark Policy](https://trademark-policy.openjsf.org/) and [Trademark List](https://trademark-list.openjsf.org/).  Node.js is a trademark of Joyent, Inc. and is used with its permission.  Trademarks and logos not indicated on the [list of OpenJS Foundation trademarks](https://trademark-list.openjsf.org) are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+
+[The OpenJS Foundation](https://openjsf.org/) | [Terms of Use](https://terms-of-use.openjsf.org/) | [Privacy Policy](https://privacy-policy.openjsf.org/) | [OpenJS Foundation Bylaws](https://bylaws.openjsf.org/) | [Trademark Policy](https://trademark-policy.openjsf.org/) | [Trademark List](https://trademark-list.openjsf.org/) | [Cookie Policy](https://www.linuxfoundation.org/cookies/)
+```
+
+##### HTML
+
+```
+<p>Copyright <a href="https://openjsf.org">OpenJS Foundation</a> and [project name] contributors. All rights reserved. The <a href="https://openjsf.org">OpenJS Foundation</a> has registered trademarks and uses trademarks.  For a list of trademarks of the <a href="https://openjsf.org">OpenJS Foundation</a>, please see our <a href="https://trademark-policy.openjsf.org">Trademark Policy</a> and <a href="https://trademark-list.openjsf.org">Trademark List</a>.  Node.js is a trademark of Joyent, Inc. and is used with its permission. Trademarks and logos not indicated on the <a href="https://trademark-list.openjsf.org">list of OpenJS Foundation trademarks</a> are trademarks&trade; or registered&reg; trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.</p>
+
+<p><a href="https://openjsf.org">The OpenJS Foundation</a> | <a href="https://terms-of-use.openjsf.org">Terms of Use</a> | <a href="https://privacy-policy.openjsf.org">Privacy Policy</a> | <a href="https://bylaws.openjsf.org">OpenJS Foundation Bylaws</a> | <a href="https://trademark-policy.openjsf.org">Trademark Policy</a> | <a href="https://trademark-list.openjsf.org">Trademark List</a> | <a href="https://www.linuxfoundation.org/cookies">Cookie Policy</a></p>
+```
+
+#### For projects unrelated to Node.js:
+
+##### Text
+
+> Copyright [OpenJS Foundation](https://openjsf.org) and [project name] contributors. All rights reserved. The [OpenJS Foundation](https://openjsf.org) has registered trademarks and uses trademarks.  For a list of trademarks of the [OpenJS Foundation](https://openjsf.org), please see our [Trademark Policy](https://trademark-policy.openjsf.org/) and [Trademark List](https://trademark-list.openjsf.org/).  Trademarks and logos not indicated on the [list of OpenJS Foundation trademarks](https://trademark-list.openjsf.org) are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 > 
-> [The OpenJS Foundation](https://openjsf.org/) \| [Terms of
-Use](https://terms-of-use.openjsf.org/) \| [Privacy
-Policy](https://privacy-policy.openjsf.org/) \| [OpenJS Foundation
-Bylaws](https://bylaws.openjsf.org/) \| [Trademark
-Policy](https://trademark-policy.openjsf.org/) \| [Trademark
-List](https://trademark-list.openjsf.org/) \| [Cookie
-Policy](https://www.linuxfoundation.org/cookies/)
+> [The OpenJS Foundation](https://openjsf.org/) | [Terms of Use](https://terms-of-use.openjsf.org/) | [Privacy Policy](https://privacy-policy.openjsf.org/) | [OpenJS Foundation Bylaws](https://bylaws.openjsf.org/) | [Trademark Policy](https://trademark-policy.openjsf.org/) | [Trademark List](https://trademark-list.openjsf.org/) | [Cookie Policy](https://www.linuxfoundation.org/cookies/)
+
+##### Markdown
+
+```
+Copyright [OpenJS Foundation](https://openjsf.org) and [project name] contributors. All rights reserved. The [OpenJS Foundation](https://openjsf.org) has registered trademarks and uses trademarks.  For a list of trademarks of the [OpenJS Foundation](https://openjsf.org), please see our [Trademark Policy](https://trademark-policy.openjsf.org/) and [Trademark List](https://trademark-list.openjsf.org/).  Trademarks and logos not indicated on the [list of OpenJS Foundation trademarks](https://trademark-list.openjsf.org) are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+
+[The OpenJS Foundation](https://openjsf.org/) | [Terms of Use](https://terms-of-use.openjsf.org/) | [Privacy Policy](https://privacy-policy.openjsf.org/) | [OpenJS Foundation Bylaws](https://bylaws.openjsf.org/) | [Trademark Policy](https://trademark-policy.openjsf.org/) | [Trademark List](https://trademark-list.openjsf.org/) | [Cookie Policy](https://www.linuxfoundation.org/cookies/)
+```
+
+##### HTML
+
+```
+<p>Copyright <a href="https://openjsf.org">OpenJS Foundation</a> and [project name] contributors. All rights reserved. The <a href="https://openjsf.org">OpenJS Foundation</a> has registered trademarks and uses trademarks.  For a list of trademarks of the <a href="https://openjsf.org">OpenJS Foundation</a>, please see our <a href="https://trademark-policy.openjsf.org">Trademark Policy</a> and <a href="https://trademark-list.openjsf.org">Trademark List</a>.  Trademarks and logos not indicated on the <a href="https://trademark-list.openjsf.org">list of OpenJS Foundation trademarks</a> are trademarks&trade; or registered&reg; trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.</p>
+
+<p><a href="https://openjsf.org">The OpenJS Foundation</a> | <a href="https://terms-of-use.openjsf.org">Terms of Use</a> | <a href="https://privacy-policy.openjsf.org">Privacy Policy</a> | <a href="https://bylaws.openjsf.org">OpenJS Foundation Bylaws</a> | <a href="https://trademark-policy.openjsf.org">Trademark Policy</a> | <a href="https://trademark-list.openjsf.org">Trademark List</a> | <a href="https://www.linuxfoundation.org/cookies">Cookie Policy</a></p>
+```
 
 ## Getting help
 
 If you have a question about this policy or how to implement it, please reach out to [legal-questions@lists.openjsf.org](mailto:legal-questions@lists.openjsf.org).
+
