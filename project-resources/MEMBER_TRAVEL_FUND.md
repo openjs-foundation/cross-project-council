@@ -94,6 +94,32 @@ As examples, the purpose of prior sponsored travels includes attending TC39 meet
 attending [OpenJS collaboration summits](https://github.com/openjs-foundation/summit),
 and mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
 
+## Event/Project specific requests
+
+While members from any OpenJS project can request approval for travel through
+the process outlined in the `Approval` section, there may be situations in which 
+a project wishes to manage the approvals an event or purpose instead of
+leveraging this process.
+
+A project may request an allocation from the travel fund as follows:
+
+* Open a PR in the
+  [cross-project-council](https://github.com/openjs-foundation/cross-project-council)
+  repo with the following info:
+  * Name of event or purpose for allocation
+  * Who will be approvers for request (for example Node.js TSC and CommComm)
+  * Repo/process through which approvals will be made. This process should capture
+    at least the information in the "Requesting Travel Funds" section
+  * Time period for which the allocation will be in use
+  * Brief description
+* The CPC will review and approve if appropriate
+* At the completion of the event/allocation period or when re-imbursement
+  is to be paid out the project will PR in the approvals into the
+  appropriate year's file. This PR will be approved and landed by CPC
+  members. Due to the pre-approval of the request from the project
+  the only validation should be against the total that had been
+  previouly approved by the CPC.
+
 ### Considerations for approval of a request
 
 #### Impact
