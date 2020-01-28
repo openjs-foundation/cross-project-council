@@ -142,7 +142,8 @@ So that we can reimburse you more quickly, we strongly encourage you to use
   it with [operations@openjsf.org](mailto:operations@openjsf.org) on cc, and the
   Memo field set to "YOURNAME - TRIPNAME".
 
-When we receive your report, we will send you a form via DocuSign to collect your payment details. At that point, you're done.
+When we receive your report, we will send you a form via DocuSign to collect
+your payment details. At that point, you're done.
 
 ### Alternate process
 
