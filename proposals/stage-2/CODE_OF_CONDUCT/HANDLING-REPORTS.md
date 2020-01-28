@@ -17,8 +17,7 @@ reason for reporting to coc-escalation.
 
 ## Code of Conduct
 
-The OpenJS Foundation and its member projects use the Contributor Covenant v1.4.1 as its Code of Conduct. Refer to the [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) for the link to the full text of the CoC and the text for the reporting and esclation procedures. 
-
+The OpenJS Foundation and its member projects use the Contributor Covenant v2.0 as its Code of Conduct. Refer to the [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) for the full text of the CoC and the reporting and esclation procedures.
 
 ## Confidentiality and record-keeping
 Personal information is confidential. All reports should be recorded, together with the discussion of it. The following private repos will be used to record and discuss reports.
