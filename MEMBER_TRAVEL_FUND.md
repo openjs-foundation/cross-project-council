@@ -142,8 +142,7 @@ So that we can reimburse you more quickly, we strongly encourage you to use
   it with [operations@openjsf.org](mailto:operations@openjsf.org) on cc, and the
   Memo field set to "YOURNAME - TRIPNAME".
 
-When we receive your report, we will send you a form via DocuSign to collect
-your payment details. At that point, you're done.
+When we receive your report, we will send you a form via DocuSign to collect your payment details. At that point, you're done.
 
 ### Alternate process
 
@@ -174,5 +173,11 @@ joint travel fund was approved in the amount of $60,000. The $60,000 was fully u
 The request from the Node.js [Technical Steering Committee](https://github.com/nodejs/TSC) and
 the Node.js [Community Committee](https://github.com/nodejs/community-committee) for a 2019
 joint travel fund was approved in the amount of $60,000.
+
+## 2020 OpenJS Foundation Board of Directors Allocation
+
+The request from the
+[Cross Project council](https://github.com/openjs-foundation/cross-project-council)
+for a 2020 joint travel fund was approved in the amount of $60,000.
 
 Please direct any questions or concerns about the travel fund to [travelapprovals@openjsf.org](mailto:travelapprovals@openjsf.org).
