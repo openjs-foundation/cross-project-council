@@ -138,6 +138,12 @@ Discussion should be held in the open whenever possible.  However, if you need t
 
 ## Getting Help
 
+### Project Resources & Travel Fund
+
+OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](./project-resources/MEMBER_TRAVEL_FUND.md).
+
+Details can be found in the [/project-resources](./project-resources) directory.
+
 ### Help with project infrastructure
 
 In almost all situations, the best way to get support is to email
