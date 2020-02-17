@@ -1,5 +1,5 @@
 # CPC Charter Proposal
-> Stage 2
+> Stage 3
 
 ## Champion
 
@@ -9,9 +9,9 @@ Michael Dawson (@mhdawson)
 
 These documents capture a proposed approach for implementing and handling Code of Conducts within the Foundation.
 
-* FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md: a proposed approach for
+* [FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md](../../../FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md): a proposed approach for
 managing Code of Conducts within the Foundation.
-* HANDLING-REPORTS.md: a proposed framework for handling reports and escalation.
+* [HANDLING_CODE_OF_CONDUCT_REPORTS.md](../../../HANDLING_CODE_OF_CONDUCT_REPORTS.md): a proposed framework for handling reports and escalation.
 
 ## Required Resources
 
