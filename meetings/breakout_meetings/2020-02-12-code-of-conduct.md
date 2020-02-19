@@ -97,7 +97,7 @@ Brian: Projects should only have their own if they plan on maintaining a more st
 
 Myles: I'm not sure that's the way we're going to set this up. There needs to be a central authority for generating the CoC.
 
-Micael: It's more work for maintainers to manually update, but worth it.
+Michael: It's more work for maintainers to manually update, but worth it.
 
 Myles: Tooling can help us. A github action for instance to keep repos in sync. It seems like an automatable problem.
 
@@ -125,7 +125,7 @@ Jory: Then the answer is yes. Hooray!
 
 Jory: Now we need to figure out how to create this empowered team. As a matter of process, we should likely open these things as separate issues. I definitely feel that at least we should capture everything as a summary as we do this.
 
-Micael: As we start to work on this we can create separate sub-issues.
+Michael: As we start to work on this we can create separate sub-issues.
 
 Jory: Does this specific group need to meet then? Has the need of the ad-hoc group been answered? Can we leave the rest to the new CoC task force?
 
