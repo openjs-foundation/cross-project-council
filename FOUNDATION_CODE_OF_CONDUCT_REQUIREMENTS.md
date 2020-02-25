@@ -59,6 +59,7 @@ and code of conduct issues. The makeup of this team is as follows:
 * The Foundation Executive director
 * 1 member from the Board
 * 1 member from the CPC
+* 1 member of the OpenJS marketing committee
 * each top-level project may optionally provide 1 member
 * the non top-level projects may optionally provide 1 member
 * optionally 1 invited outside expert as agreed by the other CoCP members.
