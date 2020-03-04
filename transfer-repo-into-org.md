@@ -37,7 +37,7 @@ the repository into the OpenJS GitHub organization. The person can be made a
 member of the OpenJS GitHub organization so they have the necessary permissions
 to complete the transfer.
 
-See [GitHub's documentation on transferring repos](https://help.github.com/articles/about-repository-transfers/) on how to perform the necessary actions.
+See [GitHub's documentation on transferring repos][] on how to perform the necessary actions.
 
 ## Step 4. Managing releases
 
