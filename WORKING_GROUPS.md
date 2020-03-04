@@ -96,8 +96,7 @@ The moderator is responsible for summarizing the discussion of each agenda item,
 
 The Working Group follows a [Consensus Seeking][] decision-making model.
 
-When an agenda item has appeared to reach a consensus, the moderator will ask "Does anyone object?" as a final call for dissent from the
-group consensus.
+When an agenda item has appeared to reach a consensus, the moderator will ask "Does anyone object?" as a final call for dissent from the group consensus.
 
 If an agenda item cannot reach a consensus: a WG member can call for either a closing vote, or a vote to table the issue until the next
 meeting. The call for a vote must be seconded by a majority of the WG, or else the discussion will continue. A simple majority wins.
