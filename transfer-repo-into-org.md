@@ -6,7 +6,7 @@ Ideally, the repository should have the following documents in place:
 
 - `CODE_OF_CONDUCT.md`: it can be a reference to
   [the OpenJS Foundation's Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md).
-- `CONTRIBUTING.md`: if there isn't one already, [the contributing guide](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md)
+- `CONTRIBUTING.md`: if there isn't one already, [the contributing guide][]
   of Node.js core could be a good example. Consider including the Developer's
   Certificate of Origin section in the document to avoid potential copyright
   conflicts.
