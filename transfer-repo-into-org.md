@@ -21,8 +21,7 @@ so they can ping the relevant GitHub teams to discuss the request.
 If the person who wants to initiate the request is not a member, they could ask
 an existing member to open the issue._
 
-Go to [the issue tracker of the Cross Project Council repository](https://github.com/openjs-foundation/cross-project-council/issues), open an issue
-to request moving the repository into the organization. The issue should include:
+Go to [the issue tracker of the Cross Project Council repository](https://github.com/openjs-foundation/cross-project-council/issues), open an issue to request moving the repository into the organization. The issue should include:
 
 - The owner and the name of the repository, and a link to it.
 - What the repository is for, why it should be transferred into the organization.
