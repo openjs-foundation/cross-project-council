@@ -28,7 +28,7 @@ Go to [the issue tracker of the Cross Project Council repository][], open an iss
 - Mention `@openjs-foundation/cpc` so the Cross Project Council members can be
   notified about the request and weigh in.
 
-See the [OpenJS Foundation GitHub Organization Management Policy](https://github.com/openjs-foundation/cross-project-council/blob/master/GITHUB_ORG_MANGEMENT_POLICY.md) on how the request is approved.
+See the [OpenJS Foundation GitHub Organization Management Policy][] on how the request is approved.
 
 ## Step 3. Transfer the repository
 
