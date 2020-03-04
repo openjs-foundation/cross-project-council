@@ -119,7 +119,7 @@ By making a contribution to this project, I certify that:
 
 ### Moderation Policy
 
-The [OpenJS Moderation Policy] applies to this Working Group.
+The [OpenJS Moderation Policy]() applies to this Working Group.
 
 ### Code of Conduct
 
