@@ -134,4 +134,3 @@ The [OpenJS Code of Conduct][] applies to this Working Group.
 None currently
 
 [Cross Project Council (CPC)]: ./CPC-CHARTER.md
-[Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
