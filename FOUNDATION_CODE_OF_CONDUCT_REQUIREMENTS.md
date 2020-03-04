@@ -11,7 +11,7 @@ of the foundation.
 ## Code of Conduct
 
 The Foundation has adopted the
-[Contributor Covenant v1.4.1](https://www.contributor-covenant.org/version/1/4/code-of-conduct.md)
+[Contributor Covenant v2.0](https://www.contributor-covenant.org/version/2/0/code-of-conduct.md)
 as its code of conduct and it applies to all foundation activities and spaces. In
 addition, projects joining the foundation are required to adopt this code of conduct
 within 3 months of joining the foundation.
@@ -59,6 +59,7 @@ and code of conduct issues. The makeup of this team is as follows:
 * The Foundation Executive director
 * 1 member from the Board
 * 1 member from the CPC
+* 1 member of the OpenJS marketing committee
 * each top-level project may optionally provide 1 member
 * the non top-level projects may optionally provide 1 member
 * optionally 1 invited outside expert as agreed by the other CoCP members.

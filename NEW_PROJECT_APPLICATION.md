@@ -1,6 +1,6 @@
 # ${Project Name}
 
-## Project Champion
+## Applicant 
 
 Who is the main point of contact during the application process?
 
@@ -12,6 +12,12 @@ A rough description of the project in less than 100 words.
 
 Please refer to [the Cross Project Council's Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md).
 Please keep your answer to less than 250 words.
+
+## Impact and users of the project
+- What is the ecosystem impact of the project? 
+- Who are the biggest users of the project? (_if they are not JavaScript space, then will it ever expand to JavaScript space_)
+- What is the potential long term impact and adoption? 
+- How does it differ from other projects?
 
 ## Desired Initial Project Phase
 
@@ -37,6 +43,8 @@ List current channels e.g.: Slack / IRC / Mailing lists
 * Who are the members of the leadership team?
 * How are members of the leadership team nominated?
 * How are individuals outside of leadership given commit access?
+* Is the project open/willing to move to open governance, if not already in place?
+* Is the project willing to adopt the OpenJS Foundation Code of Conduct (CoC)?
 * Please share links to all existing documentation e.g. GOVERNANCE.md / CONTRIBUTING.md
 
 ## List of all repos that are part of the project
@@ -45,6 +53,7 @@ For each repository, please provide:
 
 - link to repo,
 - license information,
+- who owns the Intellectual Property (IP),
 - link to issue tracker,
 - link to code of conduct (CoC),
 - optionally, the full list of vendored dependencies contained in the source tree, including license information. A full audit

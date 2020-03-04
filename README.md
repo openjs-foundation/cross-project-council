@@ -57,6 +57,8 @@ The following projects are official OpenJS Foundation projects. If you are inter
 #### Incubating Projects
 
 * [AMP](https://amp.dev/)
+* [Electron](https://electronjs.org)
+* [Fastify](https://fastify.io)
 * [nvm](http://nvm.sh/)
 
 ## CPC Meetings
@@ -94,12 +96,16 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#regular-members) anyone who has been a member of one of the projects under the OpenJS Foundation for at least three months may request to become a regular member by opening a PR to add themselves to the list of regular members
 
 - Abraham Jr Agiri (@codeekage)
+- Ben Michel (@obensource)
+- Christian Bromann (@christian-bromann)
+- Dhruv Jain (@maddhruv)
 - Jordan Harband (@ljharb)
 - Jory Burson (@jorydotcom)
 - Michael Dawson (@mhdawson)
 - Myles Borins (@MylesBorins)
 - Sendil Kumar (@sendilkumarn)
 - Tierney Cyren (@bnb)
+- Waleed Ashraf (@waleedashraf)
 
 ### Observers
 
@@ -133,6 +139,12 @@ Discussion should be held in the open whenever possible.  However, if you need t
 
 ## Getting Help
 
+### Project Resources & Travel Fund
+
+OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](./project-resources/MEMBER_TRAVEL_FUND.md).
+
+Details can be found in the [/project-resources](./project-resources) directory.
+
 ### Help with project infrastructure
 
 In almost all situations, the best way to get support is to email
@@ -163,6 +175,10 @@ Foundation mailing list](https://lists.openjsf.org).
 
 The OpenJS Foundation has marketing staff which can provide guidance on inbound
 media requests.  Please reach out to [pr@openjsf.org](mailto:pr@openjsf.org).
+
+If you have project-related news that you wish to share, please contact [marketing@openjsf.org](mailto:marketing@openjsf.org).  If you need a place to post your news, Foundation staff can review whether it is appropriate for the [OpenJS Foundation blog](https://openjsf.org/blog).  If it makes sense, Foundation staff can also include your news in the summaries sent to the [projects mailing list](https://lists.openjsf.org/g/projects), or schedule posts on Foundation social channels.
+
+If you run your project's social media and would like the Foundation to share or retweet project news, please DM the Foundation's account or send an email with a link to [marketing@openjsf.org](mailto:marketing@openjsf.org).
 
 ### All other topics
 
