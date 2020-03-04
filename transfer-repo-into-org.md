@@ -45,7 +45,6 @@ If the transferred repository has one or more associated npm packages for releas
 
 See [NPM Management](./npm-management.md) on more about the OpenJS Foundation npm account.
 
-[coc]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
 [GitHub's documentation on transferring repos]: https://help.github.com/articles/about-repository-transfers/
 [OpenJS Foundation GitHub Organization Management Policy]: https://github.com/openjs-foundation/cross-project-council/blob/master/GITHUB_ORG_MANGEMENT_POLICY.md
 [the contributing guide]: https://github.com/nodejs/node/blob/master/CONTRIBUTING.md
