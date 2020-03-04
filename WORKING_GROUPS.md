@@ -94,7 +94,7 @@ The moderator is responsible for summarizing the discussion of each agenda item,
 
 ### Consensus Seeking Process
 
-The Working Group follows a [Consensus Seeking][] decision-making model.
+The Working Group follows a [Consensus Seeking](http://en.wikipedia.org/wiki/Consensus-seeking_decision-making) decision-making model.
 
 When an agenda item has appeared to reach a consensus, the moderator will ask "Does anyone object?" as a final call for dissent from the group consensus.
 
