@@ -46,8 +46,7 @@ When making a request to create a new repository: specify the team(s) that will 
 
 ## Removing or Blocking Individuals
 
-Only OpenJS GitHub Organization owners may remove or block an individual from membership within the OpenJS Foundation. This is due largely to
-limitations in the way GitHub permissions are structured.
+Only OpenJS GitHub Organization owners may remove or block an individual from membership within the OpenJS Foundation. This is due largely to limitations in the way GitHub permissions are structured.
 
 To remove any current member from the GitHub organization, an issue must be opened in the [OpenJS CPC repository][]. If, after 72 hours, there are no objections from any CPC members: removal occurs automatically. If there are objections: then a simple majority vote of the Cross Project Council in favor of removal is required.
 
