@@ -39,7 +39,7 @@ to complete the transfer.
 
 See [GitHub's documentation on transferring repos](https://help.github.com/articles/about-repository-transfers/) on how to perform the necessary actions.
 
-## Step 4. Manage releases
+## Step 4. Managing releases
 
 If the transferred repository has one or more associated npm packages for releases, [the OpenJS Foundation npm account] should be added to the list of the npm collaborators of the packages.
 
