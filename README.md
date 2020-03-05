@@ -75,7 +75,7 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members)
 
-- **Appium**: Dan Graham (@dpgraham) & Jonah Stiennon(@Jonahss)
+- **Appium**: Isaac Murchie (@imurchie) & Jonah Stiennon(@Jonahss)
 - **Dojo**: Matt Gadd (@matt-gadd) & Dylan Schiemann (@dylans)
 - **jQuery**: Dave Methvin (@dmethvin) & Timmy Willison (@timmywil)
 - **Node.js**: Matteo Collina (@mcollina) & Joe Sepi (@joesepi)
