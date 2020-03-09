@@ -74,11 +74,9 @@ Changes to WG membership should be posted in the WG's meeting agenda, and may be
 
 If a membership addition or removal is proposed during a meeting, and the full WG is not in attendance to participate, then the addition or removal is added to the agenda for the subsequent meeting. This is to ensure that all members are given the opportunity to participate in all membership decisions. If a WG member is unable to attend a meeting where a planned membership decision is being made, then their consent is assumed.
 
-No more than 1/3 of the WG members may be affiliated with the same employer. If the removal or resignation of a WG member, or a change of employment by a WG member, creates a situation where more than 1/3 of the WG membership shares an employer: then the situation must be immediately remedied by the resignation or removal of one or more WG members who are affiliated with the over-represented employer(s).
-
 ### Working Group Meetings
 
-The WG meets weekly on a Zoom Webinar. A designated moderator approved by the WG runs the meeting. Each meeting should be published to the [OpenJS YouTube Channel](https://www.youtube.com/channel/UCjxM1d3fv_mSEBsyp5MTFrg).
+The WG meets regularly on a webinar platform. A designated moderator approved by the WG runs the meeting. Each meeting should be published to the [OpenJS YouTube Channel](https://www.youtube.com/channel/UCjxM1d3fv_mSEBsyp5MTFrg).
 
 Items are added to the WG agenda that are considered contentious, or are modifications of governance, contribution policy, WG membership, or release processes.
 
@@ -119,7 +117,7 @@ By making a contribution to this project, I certify that:
 
 ### Moderation Policy
 
-The [OpenJS Moderation Policy][] applies to this Working Group.
+The [OpenJS Moderation Policy][] applies to this Working Group. Moderation Policy TBD.
 
 ### Code of Conduct
 
