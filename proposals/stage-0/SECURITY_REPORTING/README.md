@@ -16,11 +16,12 @@ See also:
 ## Required Resources
 
 - Generic security policy template that projects can easily adopt
+- Vulnerability handling playbook for project maintainers
 - Optionally: vulnerability disclosure platform (VDP)
 
 ## Who would be responsible?
 
-The responsibility for adoption of security reporting standards would be jointly owned by the projects and the CPC.
+The responsibility for adoption of security reporting standards would be owned by the projects. The CPC would be responsible for providing guidance and necessary shared resources.
 
 ## How would success be measured?
 
@@ -38,7 +39,7 @@ Open source projects that can responsibly accept security reports and respond wi
 - Do we leave it to projects to coordinate disclosure?
     - Some projects are already prepared, have infrastructure and processes in place. Others don't.
 - Do we need to offer additional resources to projects?
-    - Vulnerability disclosure platform (e.g. HackerOne)?
+    - Vulnerability disclosure platform?
     - Staff triage team?
 - Do we need to have a coordinating body?
     - Security working group at the Foundation level?
