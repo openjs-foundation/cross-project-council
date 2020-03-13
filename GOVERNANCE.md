@@ -1,7 +1,6 @@
 # OpenJS Cross Project Council
 
-For the current list of Team members, see the project
-[README.md](./README.md).
+For the current list of Team members, see the project [README.md][README].
 
 ## Members
 
@@ -67,9 +66,8 @@ Members participate in a vote.
 
 ## Term for Voting Members
 
-As per the CPC charter, the term for all voting members is normally 1 year.
+As per the [CPC charter][cpc charter term], the term for all voting members is normally 1 year:
 
-From: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members
 > Voting members serve for a term of 1 year and must be re-nominated and ratified
 > by the Voting CPC members each year.
 
@@ -86,7 +84,7 @@ of 1 year ending the following June 30th.
 
 ## Election process for Non-Impact Voting CPC members
 
-As per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md), the non-impact projects elect 2 voting CPC members:
+As per the [CPC charter][cpc charter], the non-impact projects elect 2 voting CPC members:
 
 > up to two (2) Voting members may be nominated by the non-impact projects based on a process set by the CPC.
 
@@ -124,10 +122,7 @@ These members will be elected for a term of 1 year as follows:
 
 ## Approving and Onboarding Regular Members
 
-Regular members can self-nominate by opening a PR to add themselves to the regular
-member list in the [README.md](https://github.com/openjs-foundation/cross-project-council/blob/master/README.md). 
-The PR should include an indication of which project they have been active in for
-3 months as per the [CPC charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#regular-members).
+Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include an indication of which project they have been active in for 3 months as per the [CPC charter][cpc charter regular members].
 
 The PR to add a regular member is approved when:
 
@@ -139,13 +134,13 @@ Once a PR is ready to be landed, the CPC member who lands the pull request shoul
 
 * Send a notification to the project contacts for the project identified in the PR
   indicating that a new regular CPC member has joined the CPC on behalf of the project.
-* Add the member to the github `cpc-regular-members` [team](https://github.com/orgs/openjs-foundation/teams/cpc-regular-members)
+* Add the member to the github `cpc-regular-members` [team][cpc regular members team]
 * Add the member to the `cpc-private` email list
 * Introduce the new member at the next CPC meeting.
 
 ## Approving Project Charters
 
-Per the [CPC charter section 5](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc), the voting CPC members are responsible for approving project
+Per the [CPC charter section 5][], the voting CPC members are responsible for approving project
 charters and changes to them.
 
 Approval of the initial charter or changes to an existing charter will
@@ -203,3 +198,10 @@ If someone disagrees with the fast-tracking request, remove the label. Do not fa
 The pull request may be fast-tracked if two CPC members approve the fast-tracking request. To land, the pull request itself still needs two CPC member approvals.
 
 CPC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
+
+[cpc charter]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md
+[cpc charter term]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members
+[CPC charter section 5]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
+[cpc charter regular members]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#regular-members
+[cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
+[README]: ./README.md
