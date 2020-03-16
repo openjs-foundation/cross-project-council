@@ -12,6 +12,8 @@ and spread knowledge about and support the Javascript ecosystem and the Foundati
 ## Requirements
 
 * Candidates must be an active participant of one of the projects of the OpenJS Foundation.
+  * An active member of a project community is someone who has had recent, sustained contributions
+  to the project for the past 90 days.
 * Those requesting funds must indicate that they do not have funding available from another
   source, such as an employer or the event itself that might cover costs for presenters.
 * All projects in the foundation, regardless of stage or incubation status, are eligible to use the travel fund.
