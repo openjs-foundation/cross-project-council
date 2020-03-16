@@ -4,7 +4,7 @@ The OpenJS Foundation Cross Project Council (CPC) is the technical governing bod
 
 ## CPC Scope
 
-The CPC's primary role is to foster an environment of collaboration. That environment extends within and between OpenJS Foundation Projects. It also extends between the Projects and the larger community.
+The CPC's primary role is to foster an environment of collaboration. That environment extends within and between OpenJS Foundation Projects, OpenJS Collaboration spaces, and the larger community.
 
 The CPC exercises autonomy in managing its responsibilities and seeks agreement from the OpenJS Foundation Board on any change to the scope of those responsibilities.
 
@@ -61,6 +61,12 @@ The following projects are official OpenJS Foundation projects. If you are inter
 * [Fastify](https://fastify.io)
 * [nvm](http://nvm.sh/)
 
+
+### OpenJS Collaboration spaces
+
+The following are official OpenJS Collaboration sapces. If you are interested in fostering collaboration with the 
+support of the OpenJS foundation through a collaboration space, plear read our [Collaboration Space Progression](./proposals/stage-0/COLLABORATION_NETWORK/COLLABORATION_SPACE_PROGRESSION.md) document, or contact any CPC member with questions.
+
 ## CPC Meetings
 
 The CPC meets weekly. We publish meeting agendas as [issues](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), and also [publish meetings on our calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com). ([iCal](https://calendar.google.com/calendar/ical/linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com/public/basic.ics)) ([Add to Google Calendar](https://calendar.google.com/calendar?cid=bGludXhmb3VuZGF0aW9uLm9yZ19mdW9wNHVmdjc2NmY5YXZjNTE3dWpzNGkwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
@@ -87,6 +93,11 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 
 - Christopher Hiller (@boneskull, IBM)
 - Tobie Langel (@tobie, UnlockOpen)
+
+
+#### Collaboration space representatives
+
+Members of the Collaboration spaces at the `Core` stage may nominate a candiate for one of the voting seats on the CPC which represents the Collaboration spaces.Currently there are no spaces at the `Core` stage and therefore no representative.
 
 ### Regular Members
 
@@ -122,7 +133,7 @@ be excluded from future CPC meetings based on a standard CPC motion.
 
 ## Policy Change Proposal Process
 
-The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projects and Working Groups under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects. Projects have broad powers of self-governance.
+The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projecta, Collaboration spacess and Working Groups under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Collaboration spaces. Projects have broad powers of self-governance.
 
 Anyone may submit an idea for a policy or program following the [staging process](STAGING_PROCESS.md).
 
@@ -142,9 +153,10 @@ Discussion should be held in the open whenever possible.  However, if you need t
 
 ### Project Resources & Travel Fund
 
-OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](./project-resources/MEMBER_TRAVEL_FUND.md).
+OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](./project-resources/MEMBER_TRAVEL_FUND.md). Details can be found in the [/project-resources](./project-resources) directory.
 
-Details can be found in the [/project-resources](./project-resources) directory.
+OpenJS Foundation Collaboration spaces are able to take advantage of serveral services and benefits as outlined in [Collaboration Space Progression](./proposals/stage-0/COLLABORATION_NETWORK/COLLABORATION_SPACE_PROGRESSION.md). 
+
 
 ### Help with project infrastructure
 
