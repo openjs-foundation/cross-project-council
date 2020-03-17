@@ -144,6 +144,6 @@ Responsibilities include:
 * make recommendations to the Cross Project Council regarding standards organization membership
 * managing ongoing relationships with standards ogranizations
 * ensuring that OpenJS representatives are aware of the responsibility of being a delegate of the foundation as outlined in [the membership expectations](https://github.com/openjs-foundation/standards/blob/master/MEMBER_EXPECTATIONS.md)
-* facilitate when different projects' needs conflict
+* facilitate when different projects' needs conflict resolution
 
 [Cross Project Council (CPC)]: ./CPC-CHARTER.md
