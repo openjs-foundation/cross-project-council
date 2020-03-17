@@ -111,7 +111,7 @@ removal of one or more voting CPC members.
 
 If a Voting CPC member connected to an impact or non impact project is being
 replaced by someone from the same project, a sign off from the current active
-CPC member is required with an approval of the new member.
+CPC member is required with an approval.
 
 The public portion of the CPC discussions and meetings will be open to all
 observers and members.
