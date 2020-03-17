@@ -10,7 +10,7 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 
 ### OpenJS Foundation Projects
 
-The following projects are official OpenJS Foundation projects. If you are interested in bringing your project to the OpenJS Foundation, please read our [Project Progression](./PROJECT_PROGRESSION.md) and [New Project Application](./NEW_PROJECT_APPLICATION.md) documents, or contact any CPC member with questions. 
+The following projects are official OpenJS Foundation projects. If you are interested in bringing your project to the OpenJS Foundation, please read our [Project Progression](./PROJECT_PROGRESSION.md) and [New Project Application](./NEW_PROJECT_APPLICATION.md) documents, or contact any CPC member with questions.
 
 #### Impact Projects
 
@@ -65,7 +65,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 The CPC meets weekly. We publish meeting agendas as [issues](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), and also [publish meetings on our calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com). ([iCal](https://calendar.google.com/calendar/ical/linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com/public/basic.ics)) ([Add to Google Calendar](https://calendar.google.com/calendar?cid=bGludXhmb3VuZGF0aW9uLm9yZ19mdW9wNHVmdjc2NmY5YXZjNTE3dWpzNGkwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
 
-CPC members should attend as many meetings as possible, and non-members are welcome to join as observers.  To add an item to the agenda, [create an issue and add the cross-project-council-agenda label](https://github.com/openjs-foundation/cross-project-council/issues?q=is%3Aissue+is%3Aopen+label%3Across-project-council-agenda).  
+CPC members should attend as many meetings as possible, and non-members are welcome to join as observers.  To add an item to the agenda, [create an issue and add the cross-project-council-agenda label](https://github.com/openjs-foundation/cross-project-council/issues?q=is%3Aissue+is%3Aopen+label%3Across-project-council-agenda).
 
 ## CPC Members
 
@@ -103,6 +103,7 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 - Jory Burson (@jorydotcom)
 - Michael Dawson (@mhdawson)
 - Myles Borins (@MylesBorins)
+- Sagir Khan (@sagirk)
 - Sendil Kumar (@sendilkumarn)
 - Tierney Cyren (@bnb)
 - Waleed Ashraf (@waleedashraf)
@@ -110,13 +111,13 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 ### Observers
 
 Anyone can be an Observer.
-Observers are free to attend meetings and participate in the work of the CPC as well 
-as the consensus seeking process. Observers are encouraged to participate and 
-volunteer but should refrain from disrupting or blocking progress. Observers 
-are expected to participate in a positive and collaborative manner as well as 
-following the [code of conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) 
-and [member expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/MEMBER_EXPECTATIONS.md) 
-like other CPC participants. If an Observer fails to meet these expectations they can 
+Observers are free to attend meetings and participate in the work of the CPC as well
+as the consensus seeking process. Observers are encouraged to participate and
+volunteer but should refrain from disrupting or blocking progress. Observers
+are expected to participate in a positive and collaborative manner as well as
+following the [code of conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md)
+and [member expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/MEMBER_EXPECTATIONS.md)
+like other CPC participants. If an Observer fails to meet these expectations they can
 be excluded from future CPC meetings based on a standard CPC motion.
 
 ## Policy Change Proposal Process
@@ -184,4 +185,3 @@ If you run your project's social media and would like the Foundation to share or
 
 For any other topics which aren't covered above, please email
 [operations@openjsf.org](mailto:operations@openjsf.org).
-
