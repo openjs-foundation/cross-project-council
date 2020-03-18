@@ -16,11 +16,11 @@ and spread knowledge about and support the Javascript ecosystem and the Foundati
   to the project for the past 90 days.
 * Those requesting funds must indicate that they do not have funding available from another
   source, such as an employer or the event itself that might cover costs for presenters.
-* All projects in the foundation, regardless of stage or incubation status, are eligible to use the travel fund.
+* All projects in the foundation, regardless of stage or incubation status, are eligible to use the travel fund, this included employees of the foundation member
+  companies as well. 
 * The fund can cover the costs, in whole or in part, of a contributor's hotel, airfare, and event registration (for OpenJS World and the Collab Summit)
 * Fund Applicants should seek to use employer funds as a first resort. Need is a factor.
-* Employees of Foundation Member companies are eligible, but we encourage the use of internal funds that may be available to them first.
-* Any member of a project community, who has had recent, sustained contributions to the project for the past 90 days or more is eligible.
+
 
 ## Process
 
