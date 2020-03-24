@@ -90,7 +90,7 @@ A request is approved when all of the following criteria are met:
 
 If a request is blocked by an objection from a member of @openjs*foundation/cpc, then the
 only way for the request to be approved is for that committee to decide to approve the
-request using whatever decision*making process the committee uses when consensus is not
+request using whatever decision-making process the committee uses when consensus is not
 reached.
 
 As examples, the purpose of prior sponsored travels includes attending TC39 meetings,
