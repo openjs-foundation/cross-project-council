@@ -119,7 +119,7 @@ A project may request an allocation from the travel fund as follows:
 * At the completion of the event/allocation period or when re-imbursement
   is to be paid out the project will PR in the approvals into the
   appropriate year's file. This PR will be approved and landed by CPC
-  members. Due to the pre*approval of the request from the project
+  members. Due to the pre-approval of the request from the project
   the only validation should be against the total that had been
   previouly approved by the CPC.
 
