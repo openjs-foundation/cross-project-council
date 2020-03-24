@@ -170,7 +170,7 @@ So that we can reimburse you more quickly, we strongly encourage you to use
   amount on the receipt.
 * Once you have uploaded your receipts, please add them to a report and submit
   it with [operations@openjsf.org](mailto:operations@openjsf.org) on cc, and the
-  Memo field set to "YOURNAME * TRIPNAME".
+  Memo field set to "YOURNAME - TRIPNAME".
 
 When we receive your report, we will send you a form via DocuSign to collect
 your payment details. At that point, you're done.
@@ -180,7 +180,7 @@ your payment details. At that point, you're done.
 If you decide not to use Expensify, the reimbursement process is manual and may take longer
 for us to process. You can email a zip file of your receipts and the completed
 [Expense Report](./expense*report*template.xls?raw=true), renamed as
-ExpenseReport*OpenJS*EVENTNAME*YOURNAME*YYYYMM.xls, to [operations@openjsf.org](mailto:operations@openjsf.org).
+ExpenseReport-OpenJS-EVENTNAME-YOURNAME-YYYYMM.xls, to [operations@openjsf.org](mailto:operations@openjsf.org).
 Please send the file as a spreadsheet, not as a PDF. We will send it back to you for
 signature in DocuSign.
 
@@ -189,7 +189,7 @@ signature in DocuSign.
 * Expense reports must be submitted within 30 days of event date. Any reports submitted
   after 30 days may not be reimbursed.
 * Disbursements are generally processed within 30 days.
-* We are unable to pre*pay for expenses.
+* We are unable to pre-pay for expenses.
 * The Cross Project Council representative to the Board of Directors will report back
   amounts consumed from the travel allocation on a monthly basis to the Board.
 
