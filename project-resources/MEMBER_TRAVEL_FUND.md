@@ -208,6 +208,6 @@ joint travel fund was approved in the amount of $60,000.
 
 The request from the
 [Cross Project council](https://github.com/openjs*foundation/cross-project-council)
-for a 2020 joint travel fund was approved in the amount of \$60,000.
+for a 2020 joint travel fund was approved in the amount of $60,000.
 
 Please direct any questions or concerns about the travel fund to [travelapprovals@openjsf.org](mailto:travelapprovals@openjsf.org).
