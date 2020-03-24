@@ -28,7 +28,7 @@ It is strongly recommended that you submit your request far enough in advance to
 approval before making relevant expenditures. Review of requests will take at least 72
 hours and may take considerably longer. Note, with limited funds available, approval
 is not guaranteed. If a request is rejected, reimbursement will not be issued. The
-Foundation cannot pre*pay for travel expenditures.
+Foundation cannot pre-pay for travel expenditures.
 
 ## Visa Tips
 
@@ -83,8 +83,8 @@ letter, please email [visainfo@openjsf.org](mailto:visainfo@openjsf.org).
 A request is approved when all of the following criteria are met:
 
 * The pull request has been open for at least 72 hours.
-* The request has approval from at least four members of @openjs*foundation/cpc.
-* No members of @openjs*foundation/cpc have objected to the request.
+* The request has approval from at least four members of @openjs-foundation/cpc.
+* No members of @openjs-foundation/cpc have objected to the request.
 * The pull request has been merged. Any member may merge once other prerequisites have
   been met.
 
