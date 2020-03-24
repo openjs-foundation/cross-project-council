@@ -38,15 +38,14 @@ a visa at least 6 months prior to an event.
 ### For Industry Events
 
 If you need a visa for the country in which the OpenJS Foundation event you are
-attending is being held, [see the document on preparing for a visa application](https://github.com/openjs*foundation/cross*project*council/blob/master/TRAVEL_FUND/travel*visas.md).
+attending is being held, [see the document on preparing for a visa application](https://github.com/openjs-foundation/cross-project-council/blob/master/TRAVEL_FUND/travel-visas.md).
 
 ### What The Foundation Can Do To Help:
 
-The Foundation [provides guidance on preparing your visa application](https://github.com/openjs*foundation/cross*project*council/blob/master/TRAVEL_FUND/travel*visas.md),
-including information on visa processing times and a checklist of items that a
-visa application could require.
+The Foundation [provides guidance on preparing your visa application](https://github.com/openjs-foundation/cross-project-council/blob/master/TRAVEL_FUND/travel-visas.md),
+including information on visa processing times and a checklist of items that a visa application could require.
 
-For Foundation*hosted events, the OpenJS Foundation provides a visa letter by The
+For Foundation-hosted events, the OpenJS Foundation provides a visa letter by The
 Linux Foundation (does not guarantee visa approval). You can find the Visa Request
 page under `Attend > Visa Request`.
 
@@ -72,7 +71,7 @@ letter, please email [visainfo@openjsf.org](mailto:visainfo@openjsf.org).
         stipend. For example, include estimates for airfare, hotel, other
         transportation, and so on. The total amount should be your stipend
         request.
-      * In the PR description, mention @openjs*foundation/cpc.
+      * In the PR description, mention @openjs-foundation/cpc.
     * Once the final amount spent is known, update the table again with
       that information.
     * Certain details of your request (such as the column for date sent to
@@ -95,8 +94,8 @@ request using whatever decision*making process the committee uses when consensus
 reached.
 
 As examples, the purpose of prior sponsored travels includes attending TC39 meetings,
-attending [OpenJS collaboration summits](https://github.com/openjs*foundation/summit),
-and mentoring [Code and Learn](https://github.com/nodejs/code*and*learn).
+attending [OpenJS collaboration summits](https://github.com/openjs-foundation/summit),
+and mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
 
 ## Event/Project specific requests
 
@@ -108,7 +107,7 @@ leveraging this process.
 A project may request an allocation from the travel fund as follows:
 
 * Open a PR in the
-  [cross*project*council](https://github.com/openjs*foundation/cross*project*council)
+  [cross-project-council](https://github.com/openjs-foundation/cross-project-council)
   repo with the following info:
   * Name of event or purpose for allocation
   * Who will be approvers for request (for example Node.js TSC and CommComm)
@@ -117,7 +116,7 @@ A project may request an allocation from the travel fund as follows:
   * Time period for which the allocation will be in use
   * Brief description
 * The CPC will review and approve if appropriate
-* At the completion of the event/allocation period or when re*imbursement
+* At the completion of the event/allocation period or when re-imbursement
   is to be paid out the project will PR in the approvals into the
   appropriate year's file. This PR will be approved and landed by CPC
   members. Due to the pre*approval of the request from the project
@@ -170,7 +169,7 @@ So that we can reimburse you more quickly, we strongly encourage you to use
   amount on the receipt.
 * Once you have uploaded your receipts, please add them to a report and submit
   it with [operations@openjsf.org](mailto:operations@openjsf.org) on cc, and the
-  Memo field set to "YOURNAME - TRIPNAME".
+  Memo field set to "YOURNAME-TRIPNAME".
 
 When we receive your report, we will send you a form via DocuSign to collect
 your payment details. At that point, you're done.
@@ -179,7 +178,7 @@ your payment details. At that point, you're done.
 
 If you decide not to use Expensify, the reimbursement process is manual and may take longer
 for us to process. You can email a zip file of your receipts and the completed
-[Expense Report](./expense*report*template.xls?raw=true), renamed as
+[Expense Report](./expense-report-template.xls?raw=true), renamed as
 ExpenseReport-OpenJS-EVENTNAME-YOURNAME-YYYYMM.xls, to [operations@openjsf.org](mailto:operations@openjsf.org).
 Please send the file as a spreadsheet, not as a PDF. We will send it back to you for
 signature in DocuSign.
@@ -196,19 +195,19 @@ signature in DocuSign.
 ## 2018 Node.js Foundation Board of Directors Allocation
 
 The request from the Node.js [Technical Steering Committee](https://github.com/nodejs/TSC) and
-the Node.js [Community Committee](https://github.com/nodejs/community*committee) for a 2018
+the Node.js [Community Committee](https://github.com/nodejs/community-committee) for a 2018
 joint travel fund was approved in the amount of $60,000. The $60,000 was fully utilized in 2018.
 
 ## 2019 Node.js Foundation Board of Directors Allocation
 
 The request from the Node.js [Technical Steering Committee](https://github.com/nodejs/TSC) and
-the Node.js [Community Committee](https://github.com/nodejs/community*committee) for a 2019
+the Node.js [Community Committee](https://github.com/nodejs/community-committee) for a 2019
 joint travel fund was approved in the amount of \$60,000.
 
 ## 2020 OpenJS Foundation Board of Directors Allocation
 
 The request from the
-[Cross Project council](https://github.com/openjs*foundation/cross*project*council)
+[Cross Project council](https://github.com/openjs*foundation/cross-project-council)
 for a 2020 joint travel fund was approved in the amount of \$60,000.
 
 Please direct any questions or concerns about the travel fund to [travelapprovals@openjsf.org](mailto:travelapprovals@openjsf.org).
