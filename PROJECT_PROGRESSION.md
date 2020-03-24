@@ -115,9 +115,9 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
 
 This is a checklist to help projects complete the post-graduation tasks they committed to during onboarding - tasks we will complete together after your project has graduated from the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
-- [ ] Transfer official domains to OpenJS Foundation
+- [ ] Transfer previously indicated official domains to OpenJS Foundation, if any
 - [ ] If relevant, implement the appropriate tool to enforce CLA or DCO
-- [ ] Transfer trademarks to the OpenJS Foundation
+- [ ] Transfer previously indicated trademarks to the OpenJS Foundation, if any
 
 ## III. Stages - Definitions & Expectations
 
