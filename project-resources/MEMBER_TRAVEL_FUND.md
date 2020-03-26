@@ -41,7 +41,7 @@ attending is being held, [see the document on preparing for a visa application](
 ### What The Foundation Can Do To Help:
 
 The Foundation [provides guidance on preparing your visa application](https://github.com/openjs-foundation/cross-project-council/blob/master/TRAVEL_FUND/travel-visas.md),
-including information on visa processing times and a checklist of items that a 
+including information on visa processing times and a checklist of items that a
 visa application could require.
 
 For Foundation-hosted events, the OpenJS Foundation provides a visa letter by The
