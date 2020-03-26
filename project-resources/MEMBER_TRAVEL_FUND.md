@@ -41,7 +41,8 @@ attending is being held, [see the document on preparing for a visa application](
 ### What The Foundation Can Do To Help:
 
 The Foundation [provides guidance on preparing your visa application](https://github.com/openjs-foundation/cross-project-council/blob/master/TRAVEL_FUND/travel-visas.md),
-including information on visa processing times and a checklist of items that a visa application could require.
+including information on visa processing times and a checklist of items that a 
+visa application could require.
 
 For Foundation-hosted events, the OpenJS Foundation provides a visa letter by The
 Linux Foundation (does not guarantee visa approval). You can find the Visa Request
@@ -98,7 +99,7 @@ and mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
 ## Event/Project specific requests
 
 While members from any OpenJS project can request approval for travel through
-the process outlined in the `Approval` section, there may be situations in which
+the process outlined in the `Approval` section, there may be situations in which 
 a project wishes to manage the approvals an event or purpose instead of
 leveraging this process.
 
@@ -161,7 +162,7 @@ So that we can reimburse you more quickly, we strongly encourage you to use
 
 * A free [Expensify](https://www.expensify.com/) account is sufficient.
 * You can use the Android and iOS apps to capture receipts while you are
-  traveling. If you do not use the app, you will need to upload photos of your
+  traveling.  If you do not use the app, you will need to upload photos of your
   receipts after you return.
 * When you add an expense, please use local currency so that it matches the
   amount on the receipt.
@@ -178,7 +179,7 @@ If you decide not to use Expensify, the reimbursement process is manual and may 
 for us to process. You can email a zip file of your receipts and the completed
 [Expense Report](./expense-report-template.xls?raw=true), renamed as
 ExpenseReport-OpenJS-EVENTNAME-YOURNAME-YYYYMM.xls, to [operations@openjsf.org](mailto:operations@openjsf.org).
-Please send the file as a spreadsheet, not as a PDF. We will send it back to you for
+Please send the file as a spreadsheet, not as a PDF.  We will send it back to you for
 signature in DocuSign.
 
 ### Important:
