@@ -200,12 +200,12 @@ joint travel fund was approved in the amount of $60,000. The $60,000 was fully u
 
 The request from the Node.js [Technical Steering Committee](https://github.com/nodejs/TSC) and
 the Node.js [Community Committee](https://github.com/nodejs/community-committee) for a 2019
-joint travel fund was approved in the amount of \$60,000.
+joint travel fund was approved in the amount of $60,000.
 
 ## 2020 OpenJS Foundation Board of Directors Allocation
 
 The request from the
 [Cross Project council](https://github.com/openjs-foundation/cross-project-council)
-for a 2020 joint travel fund was approved in the amount of \$60,000.
+for a 2020 joint travel fund was approved in the amount of $60,000.
 
 Please direct any questions or concerns about the travel fund to [travelapprovals@openjsf.org](mailto:travelapprovals@openjsf.org).
