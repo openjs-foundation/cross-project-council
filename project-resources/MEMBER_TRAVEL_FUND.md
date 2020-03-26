@@ -11,11 +11,11 @@ and spread knowledge about and support the Javascript ecosystem and the Foundati
 
 ## Requirements
 
-- Candidates must be an active participant of one of the projects of the OpenJS Foundation.
-  - An active member of a project community is someone who has had recent, sustained contributions to the project during the past 90 days.
-- All projects in the foundation, regardless of stage or incubation status, are eligible to use the travel fund, this includes employees of the foundation member companies as well.
-- The fund can cover the costs, in whole or in part, of a contributor's hotel, airfare, and event registration (for OpenJS World and the Collab Summit)
-- Fund Applicants should seek to use employer funds as a first resort. Need is a factor.
+* Candidates must be an active participant of one of the projects of the OpenJS Foundation.
+  * An active member of a project community is someone who has had recent, sustained contributions to the project during the past 90 days.
+* All projects in the foundation, regardless of stage or incubation status, are eligible to use the travel fund, this includes employees of the foundation member companies as well.
+* The fund can cover the costs, in whole or in part, of a contributor's hotel, airfare, and event registration (for OpenJS World and the Collab Summit)
+* Fund Applicants should seek to use employer funds as a first resort. Need is a factor.
 
 ## Process
 
@@ -59,20 +59,20 @@ letter, please email [visainfo@openjsf.org](mailto:visainfo@openjsf.org).
 
 ## Requesting Travel Funds
 
-- Open a pull request that adds an entry to the appropriate year's file
-  - Include as many fields as possible:
-    - The name of the event you plan to attend.
-    - The location, dates of the event and where you will be traveling from.
-    - The presentation you intend to give, if applicable.
-    - The size of the stipend you wish to receive.
-      - In the pull request description, explain how you calculated your
+* Open a pull request that adds an entry to the appropriate year's file
+  * Include as many fields as possible:
+    * The name of the event you plan to attend.
+    * The location, dates of the event and where you will be traveling from.
+    * The presentation you intend to give, if applicable.
+    * The size of the stipend you wish to receive.
+      * In the pull request description, explain how you calculated your
         stipend. For example, include estimates for airfare, hotel, other
         transportation, and so on. The total amount should be your stipend
         request.
-      - In the PR description, mention @openjs-foundation/cpc.
-    - Once the final amount spent is known, update the table again with
+      * In the PR description, mention @openjs-foundation/cpc.
+    * Once the final amount spent is known, update the table again with
       that information.
-    - Certain details of your request (such as the column for date sent to
+    * Certain details of your request (such as the column for date sent to
       finance) may be unknown initially; these can be filled in and updated
       during the process of reconciliation.
 
@@ -80,10 +80,10 @@ letter, please email [visainfo@openjsf.org](mailto:visainfo@openjsf.org).
 
 A request is approved when all of the following criteria are met:
 
-- The pull request has been open for at least 72 hours.
-- The request has approval from at least four members of @openjs-foundation/cpc.
-- No members of @openjs-foundation/cpc have objected to the request.
-- The pull request has been merged. Any member may merge once other prerequisites have
+* The pull request has been open for at least 72 hours.
+* The request has approval from at least four members of @openjs-foundation/cpc.
+* No members of @openjs-foundation/cpc have objected to the request.
+* The pull request has been merged. Any member may merge once other prerequisites have
   been met.
 
 If a request is blocked by an objection from a member of @openjs-foundation/cpc, then the
@@ -104,17 +104,17 @@ leveraging this process.
 
 A project may request an allocation from the travel fund as follows:
 
-- Open a PR in the
+* Open a PR in the
   [cross-project-council](https://github.com/openjs-foundation/cross-project-council)
   repo with the following info:
-  - Name of event or purpose for allocation
-  - Who will be approvers for request (for example Node.js TSC and CommComm)
-  - Repo/process through which approvals will be made. This process should capture
+  * Name of event or purpose for allocation
+  * Who will be approvers for request (for example Node.js TSC and CommComm)
+  * Repo/process through which approvals will be made. This process should capture
     at least the information in the "Requesting Travel Funds" section
-  - Time period for which the allocation will be in use
-  - Brief description
-- The CPC will review and approve if appropriate
-- At the completion of the event/allocation period or when re-imbursement
+  * Time period for which the allocation will be in use
+  * Brief description
+* The CPC will review and approve if appropriate
+* At the completion of the event/allocation period or when re-imbursement
   is to be paid out the project will PR in the approvals into the
   appropriate year's file. This PR will be approved and landed by CPC
   members. Due to the pre-approval of the request from the project
@@ -125,17 +125,17 @@ A project may request an allocation from the travel fund as follows:
 
 #### Impact
 
-- Preference is given to events hosted or sponsored by the OpenJS Foundation. For example,
+* Preference is given to events hosted or sponsored by the OpenJS Foundation. For example,
   OpenJS Collaboration summits and Diagnostics summits should be given precedence because
   they bring together members of the Foundation to help the Foundation projects advance.
-- Preference is given to speakers and panelists of a conference. Speaking and doing panels
+* Preference is given to speakers and panelists of a conference. Speaking and doing panels
   at a conference generates a more significant impact than attending. However, individuals
   applying for the travel fund to speak or participate in panels should confirm that the
   event organizers cannot cover the travel expenses before submitting a request.
 
 #### Outreach
 
-- Preference is given to underserved communities. More specifically, within a subject the
+* Preference is given to underserved communities. More specifically, within a subject the
   foundation is trying to promote awareness about (e.g. general knowledge about the Foundation)
   there are people, communities, and geographies where that knowledge is not very widespread.
   This is where preference will be given. For instance, an event in San Francisco would be
@@ -143,12 +143,12 @@ A project may request an allocation from the travel fund as follows:
 
 #### Cost
 
-- The larger the stipend the more critically the travel fund admins will consider the request
+* The larger the stipend the more critically the travel fund admins will consider the request
   and application. The budget for this program is a finite resource.
 
 #### Equity
 
-- Preference is given to individuals who cannot receive travel funding from their employers
+* Preference is given to individuals who cannot receive travel funding from their employers
   or individuals who have not previously received a stipend.
 
 ## Reimbursement
@@ -159,13 +159,13 @@ So that we can reimburse you more quickly, we strongly encourage you to use
 
 ### Here are the highlights of the process:
 
-- A free [Expensify](https://www.expensify.com/) account is sufficient.
-- You can use the Android and iOS apps to capture receipts while you are
+* A free [Expensify](https://www.expensify.com/) account is sufficient.
+* You can use the Android and iOS apps to capture receipts while you are
   traveling. If you do not use the app, you will need to upload photos of your
   receipts after you return.
-- When you add an expense, please use local currency so that it matches the
+* When you add an expense, please use local currency so that it matches the
   amount on the receipt.
-- Once you have uploaded your receipts, please add them to a report and submit
+* Once you have uploaded your receipts, please add them to a report and submit
   it with [operations@openjsf.org](mailto:operations@openjsf.org) on cc, and the
   Memo field set to "YOURNAME - TRIPNAME".
 
@@ -183,11 +183,11 @@ signature in DocuSign.
 
 ### Important:
 
-- Expense reports must be submitted within 30 days of event date. Any reports submitted
+* Expense reports must be submitted within 30 days of event date. Any reports submitted
   after 30 days may not be reimbursed.
-- Disbursements are generally processed within 30 days.
-- We are unable to pre-pay for expenses.
-- The Cross Project Council representative to the Board of Directors will report back
+* Disbursements are generally processed within 30 days.
+* We are unable to pre-pay for expenses.
+* The Cross Project Council representative to the Board of Directors will report back
   amounts consumed from the travel allocation on a monthly basis to the Board.
 
 ## 2018 Node.js Foundation Board of Directors Allocation
