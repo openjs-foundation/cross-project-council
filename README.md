@@ -133,7 +133,7 @@ be excluded from future CPC meetings based on a standard CPC motion.
 
 ## Policy Change Proposal Process
 
-The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projecta, Collaboration spacess and Working Groups under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Collaboration spaces. Projects have broad powers of self-governance.
+The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projects, Collaboration spaces and Working Groups under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Collaboration spaces. Projects have broad powers of self-governance.
 
 Anyone may submit an idea for a policy or program following the [staging process](STAGING_PROCESS.md).
 
