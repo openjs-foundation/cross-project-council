@@ -113,6 +113,8 @@ These members will be elected for a term of 1 year as follows:
 
 * Each voter will be able to vote for as many or as few candidates as they wish.
 
+* Voting will start a week after the nomination period ends, and be open for two weeks.
+
 * Those candidates who receive the greatest number of votes will be confirmed as
   the winners. In the case of a tie between 2 or more candidates, the winner will be
   chosen randomly unless:
