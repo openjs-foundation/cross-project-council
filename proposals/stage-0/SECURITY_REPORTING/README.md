@@ -28,7 +28,7 @@ The responsibility for adoption of security reporting standards would be owned b
 - 100% of Impact, Growth, and At-Large projects have:
     - Security policy on GitHub
     - Vulnerability reporting mechanism (email or VDP)
-- 100% projects graduating from Incubation have a security policy on GitHub
+- 100% of projects graduating from Incubation have a security policy on GitHub
 
 ## Why this proposal is important
 
