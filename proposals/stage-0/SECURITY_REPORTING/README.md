@@ -34,7 +34,7 @@ The responsibility for adoption of security reporting standards would be owned b
 
 Open source projects that can responsibly accept security reports and respond with a coordinated vulnerability disclosure have a higher chance of being treated as trustworthy by adopters.
 
-## Unresolved Question
+## Unresolved questions
 
 - Do we leave it to projects to coordinate disclosure?
     - Some projects are already prepared, have infrastructure and processes in place. Others don't.
@@ -46,8 +46,11 @@ Open source projects that can responsibly accept security reports and respond wi
 - How to coordinate with similar industry initiatives?
     - Open Source Security Coalition (https://securitylab.github.com/)
     - Node.js Ecosystem Security WG (https://github.com/nodejs/security-wg)
-- Should we offer bounties?
-    - What about corporate sponsors that want to do it for selected programs (e.g. Google / AMP case)?
+
+## What is out of scope?
+
+- This proposal does not cover bug bounties
+    - The decision whether to offer bounties or not is left to individual projects
 
 ## What is necessary to complete this proposal
 
