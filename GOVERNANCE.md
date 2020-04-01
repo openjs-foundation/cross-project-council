@@ -163,8 +163,9 @@ this repository provided the following conditions have been met:
 * There are two approvals by CPC members
 * The PR has been open for at least 72 hours
 
-Pull requests that change governance of the CPC must meet the following conditions
-in addition to the ones listed for regular PRs.
+Pull requests that change governance of the CPC (including approving changes to
+Working Groups) must meet the following conditions in addition to the ones
+listed for regular PRs.
 
 * The PR has been open for at least 14 days OR consensus is reached in a meeting
   with quorum of voting members.
