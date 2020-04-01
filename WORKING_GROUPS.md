@@ -129,6 +129,21 @@ The [OpenJS Code of Conduct][] applies to this Working Group.
 
 ## Current Working Groups
 
-None currently
+* [Standards](#standards)
+
+### [Standards](https://github.com/openjs-foundation/standards/)
+
+The purpose of the Standards Working Group is to act as a facilitator for OpenJS Foundation projects to support their engagement in various Standards Organizations, Working Groups, Technical Committees, and other spaces where internationally recognized standards are collaborated upon.
+
+Responsibilities include:
+* approve and support OpenJS Foundation project contributors in attending meetings held by standards organizations
+* make OpenJS Foundation project contributors aware of developments in relevant standards
+* help OpenJS Foundation projects formulate a standards strategy 
+* support new contributors to standards-making activities
+* mentor project contributors who are unfamiliar with standards-making processes
+* make recommendations to the Cross Project Council regarding standards organization membership
+* managing ongoing relationships with standards ogranizations
+* ensuring that OpenJS representatives are aware of the responsibility of being a delegate of the foundation as outlined in [the membership expectations](https://github.com/openjs-foundation/standards/blob/master/MEMBER_EXPECTATIONS.md)
+* facilitate when different projects' needs conflict resolution
 
 [Cross Project Council (CPC)]: ./CPC-CHARTER.md
