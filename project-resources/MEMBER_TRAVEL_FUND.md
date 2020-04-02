@@ -12,8 +12,10 @@ and spread knowledge about and support the Javascript ecosystem and the Foundati
 ## Requirements
 
 * Candidates must be an active participant of one of the projects of the OpenJS Foundation.
-* Those requesting funds must indicate that they do not have funding available from another
-  source, such as an employer or the event itself that might cover costs for presenters.
+  * An active member of a project community is someone who has had recent, sustained contributions to the project during the past 90 days.
+* All projects in the foundation, regardless of stage or incubation status, are eligible to use the travel fund, this includes employees of the foundation member companies as well.
+* The fund can cover the costs, in whole or in part, of a contributor's hotel, airfare, and event registration (for OpenJS World and the Collab Summit)
+* Fund Applicants should seek to use employer funds as a first resort. Need is a factor.
 
 ## Process
 
