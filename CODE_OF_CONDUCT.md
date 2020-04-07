@@ -11,11 +11,18 @@ Refer to the sections on reporting and escalation in this document for the speci
 
 ### Project Spaces
 
-For reporting issues in spaces related to a member project please use the email provided by the project for reporting. Projects handle CoC issues related to the spaces that they maintain. Projects maintainers commit to:
+For reporting issues in spaces related to a member project, please use the email provided by the project for reporting which has been provided below. Projects handle CoC issues related to the spaces that they maintain. Projects maintainers commit to:
 
 - maintain the confidentiality with regard to the reporter of an incident
 - to participate in the path for escalation as outlined in
   the section on Escalation when required.
+
+#### Project Reporting Emails
+If a project has not provided a reporting path, you may use the escalation email.
+
+* AMP Project - `amphtml-coc@googlegroups.com`
+* Electron - `coc@electronjs.org`
+* Node.js - `report@nodejs.org`
 
 ### Foundation Spaces
 
