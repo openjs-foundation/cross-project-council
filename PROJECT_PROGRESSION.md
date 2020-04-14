@@ -86,28 +86,38 @@ The Application Champion is a member of the CPC who commits to do the following:
   
 ## Onboarding Checklist
 
-<!--If this checklist is updated please ensure `.github/ISSUE_TEMPLATE/project-onboarding-checklist-template.md` is updated as well -->
+<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-onboarding/blob/master/ISSUE_TEMPLATE/00-project-onboarding-checklist-template.md` is updated as well -->
 
 This is an informational checklist to help projects onboard into the OpenJS Foundation - tasks we will complete together after your project has been accepted into the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
 - [ ] Adopt the OpenJS Foundation Code of Conduct
 - [ ] Update project CoC reporting methods to include OpenJS Foundation escalation path
-- [ ] Transfer official domains to OpenJS Foundation
+- [ ] List official domains that the project commits to transfer to the OpenJS Foundation following graduation
 - [ ] Identify and document other core project infrastructure
-- [ ] If choosing to use a Contributor License Agreement (CLA) or Developer Certificate of Origin (DCO), make selection and implement appropriate tool
+- [ ] If choosing to use a Contributor License Agreement (CLA) or Developer Certificate of Origin (DCO), make selection
 - [ ] Add or Update Governance.md document (required for Impact stage)
 - [ ] Confirm required files in place (CODE_OF_CONDUCT.md, LICENSE.md)
 - [ ] Publish Project Charter on website or GitHub
 - [ ] Update legal copyright notice on project website and GitHub
 - [ ] Add OpenJS Foundation logo to project website
 - [ ] Add Project logo to OpenJS Foundation website; update PROJECTS.md file
-- [ ] Transfer logomark to the OpenJS Foundation
+- [ ] List trademarks the project commits to transfer to the OpenJS Foundation following graduation
 - [ ] If project is using crowdfunding platforms, add disclaimer to platforms
 - [ ] Identify individuals from the project to join the CPC
 - [ ] Document project and foundation contacts for:
   * marketing & social media
   * infrastructure
   * legal/governance help
+
+## Post-graduation Checklist
+
+<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-onboarding/blob/master/ISSUE_TEMPLATE/01-project-post-graduation-checklist-template.md` is updated as well -->
+
+This is a checklist to help projects complete the post-graduation tasks they committed to during onboarding - tasks we will complete together after your project has graduated from the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+
+- [ ] Transfer previously indicated official domains to OpenJS Foundation, if any
+- [ ] If relevant, implement the appropriate tool to enforce CLA or DCO
+- [ ] Transfer previously indicated trademarks to the OpenJS Foundation, if any
 
 ## III. Stages - Definitions & Expectations
 
