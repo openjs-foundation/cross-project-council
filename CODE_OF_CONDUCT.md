@@ -20,7 +20,7 @@ For reporting issues in spaces related to a member project, please use the email
 #### Project Reporting Emails
 If a project has not provided a reporting path, you may use the escalation email.
 
-* AMP Project - `amphtml-coc@googlegroups.com`
+* AMP Project - `code-of-conduct@amp.dev`
 * Electron - `coc@electronjs.org`
 * Node.js - `report@nodejs.org`
 
