@@ -79,7 +79,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 - **Dojo**: Dylan Schiemann (@dylans, Site Pen)
 - **jQuery**: Dave Methvin (@dmethvin, USDS) & Timmy Willison (@timmywil, Spokestack)
 - **Node.js**: Matteo Collina (@mcollina, NearForm) & Joe Sepi (@joesepi, IBM)
-- **webpack**: Sean Larkin (@TheLarkInn, Microsoft) & Tobias Koppers (@sokra, EMPLOYER UNKNOWN)
+- **webpack**: Sean Larkin (@TheLarkInn, Microsoft) & Tobias Koppers (@sokra, self-employed)
 
 #### Growth & At Large Project Representatives
 
