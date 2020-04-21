@@ -98,6 +98,7 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 - Dhruv Jain (@maddhruv)
 - Jordan Harband (@ljharb)
 - Jory Burson (@jorydotcom)
+- Kris Borchers (@kborchers)
 - Michael Dawson (@mhdawson)
 - Myles Borins (@MylesBorins)
 - Sendil Kumar (@sendilkumarn)
