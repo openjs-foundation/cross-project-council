@@ -18,7 +18,6 @@ For reporting issues in spaces related to a member project, please use the email
   the section on Escalation when required.
 
 #### Project Reporting Emails
-If a project has not provided a reporting path, you may use the escalation email.
 
 * AMP Project - `code-of-conduct@amp.dev`
 * Electron - `coc@electronjs.org`
