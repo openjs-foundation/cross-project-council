@@ -75,21 +75,18 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members)
 
-- **Appium**: Dan Graham (@dpgraham) & Jonah Stiennon(@Jonahss)
-- **Dojo**: Matt Gadd (@matt-gadd) & Dylan Schiemann (@dylans)
-- **jQuery**: Dave Methvin (@dmethvin) & Timmy Willison (@timmywil)
-- **Node.js**: Matteo Collina (@mcollina) & Joe Sepi (@joesepi)
-- **webpack**: Sean Larkin (@TheLarkInn) & Even Stensberg (@evenstensberg)
+- **Appium**: Isaac Murchie (@imurchie, Sauce Labs) & Jonah Stiennon(@Jonahss, Origin Labs)
+- **Dojo**: Dylan Schiemann (@dylans, Site Pen)
+- **jQuery**: Dave Methvin (@dmethvin, USDS) & Timmy Willison (@timmywil, Spokestack)
+- **Node.js**: Matteo Collina (@mcollina, NearForm) & Joe Sepi (@joesepi, IBM)
+- **webpack**: Sean Larkin (@TheLarkInn, Microsoft) & Tobias Koppers (@sokra, self-employed)
 
 #### Growth & At Large Project Representatives
 
-According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), each of the Growth and At Large Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. Currently, the five individuals listed below were nominated during the bootstrap process and [the bootstrap committee decided](https://github.com/openjs-foundation/cross-project-council/issues/152) that all nominees would be given a voting seat until a process for nomination and election of these representatives was formalized.
+According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), each of the Growth, At Large, and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
-- **Architect**: Kris Borchers (@kborchers)
-- **messageformat**: Eemeli Aro (@eemeli)
-- **Mocha**: Christopher Hiller (@boneskull)
-- **Node-RED**: Nick O'Leary (@knolleary)
-- **webhint**: Antón Molleda (@molant)
+- Christopher Hiller (@boneskull, IBM)
+- Tobie Langel (@tobie, UnlockOpen)
 
 ### Regular Members
 
