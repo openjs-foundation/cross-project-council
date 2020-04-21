@@ -97,6 +97,7 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 - Ben Michel (@obensource)
 - Christian Bromann (@christian-bromann)
 - Dhruv Jain (@maddhruv)
+- Eemeli Aro (@eemeli)
 - Jordan Harband (@ljharb)
 - Jory Burson (@jorydotcom)
 - Kris Borchers (@kborchers)
