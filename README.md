@@ -101,6 +101,7 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 - Kris Borchers (@kborchers)
 - Michael Dawson (@mhdawson)
 - Myles Borins (@MylesBorins)
+- Nick O'Leary (@knolleary)
 - Sendil Kumar (@sendilkumarn)
 - Tierney Cyren (@bnb)
 - Waleed Ashraf (@waleedashraf)
