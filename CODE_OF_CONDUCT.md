@@ -20,8 +20,34 @@ For reporting issues in spaces related to a member project, please use the email
 #### Project Reporting Emails
 
 * AMP Project - `code-of-conduct@amp.dev`
+* Appium - [email maintainers]
+* Architect - 
+* Dojo - [reporting form](https://docs.google.com/forms/d/1ZiCUv3FsarWetoQ8J5QnCdIrHLj0xMmwNSLCyBkio7c/viewform?edit_requested=true)
 * Electron - `coc@electronjs.org`
+* ESLint - 
+* Esprima - 
+* Express.js - `express-coc@lists.openjsf.org`
+* Fastify - `hello@matteocollina.com` or `tommydelved@gmail.com`
+* Grunt - 
+* HospitalRun - `hello@hospitalrun.io`
+* Interledger.js - 
+* Intern - 
+* JerryScript - 
+* jQuery - 
+* libuv - 
+* LoDash - 
+* messageformat - 
+* Marko - 
+* Mocha - `report@lists.openjsf.org`
+* Moment.js - 
 * Node.js - `report@nodejs.org`
+* Node-RED - `team@nodered.org`
+* nvm - 
+* Pep - 
+* QUnit - 
+* Webdriver.io - [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/master/AUTHORS.md)
+* Webhint - `support@webhint.io`
+* webpack - [redirects here]
 
 ### Foundation Spaces
 
@@ -34,6 +60,7 @@ For reporting issues in spaces managed by the OpenJS Foundation, for example, re
 ## Escalation
 
 The OpenJS Foundation maintains a Code of Conduct Panel (CoCP). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled. In order to escalate to the CoCP send an email to `coc-escalation@lists.openjsf.org`.
+
 
 For more information, refer to the full
 [Code of Conduct governance document](https://github.com/openjs-foundation/bootstrap/blob/master/proposals/stage-2/CODE_OF_CONDUCT/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
