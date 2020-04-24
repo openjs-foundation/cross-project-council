@@ -215,6 +215,5 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [cpc charter]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md
 [cpc charter term]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members
 [CPC charter section 5]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
-[cpc charter regular members]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#regular-members
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
 [README]: ./README.md
