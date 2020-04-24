@@ -122,9 +122,19 @@ These members will be elected for a term of 1 year as follows:
 
 ## Approving and Onboarding Regular Members
 
-Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include an indication of which project they have been active in for 3 months as per the [CPC charter][cpc charter regular members].
+### Requirements to become a regular member: (one of the following is required)
 
-The PR to add a regular member is approved when:
+- An active member of a project community or collaboration space which is defined as having recent, sustained contributions to the project during the past 90 days.
+- A demonstrated level of contribution to the CPC's work (meetings, issues, pull-requests) as an observer during the past 30 days.
+
+### Means for approval/rejection, if citing project affiliation: (one of the following approvals is required)
+
+- Project representatives from the project the user is claiming affiliation with have the ability to approve/reject the nomination.
+- Voting members from the project the user is claiming affiliation with have the ability to approve/reject the nomination.
+
+Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include information about how the potential new member has been active in the foundation or its member projects as described above in the requirements section of this document.
+
+In addition to the requirements above, the PR to add a regular member is approved when:
 
 * There are no outstanding objections
 * There are two or more approvals by voting CPC members

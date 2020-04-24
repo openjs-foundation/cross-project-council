@@ -60,9 +60,9 @@ CPC as well as the consensus seeking process.
 Regular members have made a commitment to be involved in an ongoing manner
 and take on roles and responsibilities as outlined below.
 Regular member is implied when membership type is not
-specified. Anyone who has been a member of one of the projects under the
-OpenJS Foundation for at least three months may request to
-become a regular member by opening a PR to add themselves to the list of
+specified. Anyone who has been active in the work of the OpenJS Foundation, 
+one of its member projects or other related activity as described in the CPC Governance 
+may request to become a regular member by opening a PR to add themselves to the list of
 regular members. Regular members remain for as long as they are active
 within the work of the CPC. Regular members who have not been active
 in GitHub, participated in meetings, or other work of the CPC for 3 months may be
