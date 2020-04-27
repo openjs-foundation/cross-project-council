@@ -122,7 +122,7 @@ These members will be elected for a term of 1 year as follows:
 
 ## Approving and Onboarding Regular Members
 
-While our goal in the OpenJS Foundation is to do as much or our work in the public, on occasion, there are private matters and private materials. Voting and Regular members are included in these private matters and have access to private materials. Therefore, we have some requirements in place to ensure a level of involvement in our work and to hold an expectation of professionalism.
+Our goal in the OpenJS Foundation is to do most of our work in public. On occasion, there are matters and materials that must be kept private and shared only with Voting and Regular members. As a result we have requirements in place in order to ensure that Voting and Regular members are known and active in the the projects they represent or known to the CPC and active in its work. Observers can participate in almost all aspects of the work of the CPC except those infrequent matters related to private information.
 
 ### Requirements to become a regular member: (one of the following is required)
 
