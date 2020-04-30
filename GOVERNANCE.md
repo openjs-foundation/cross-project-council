@@ -122,9 +122,9 @@ These members will be elected for a term of 1 year as follows:
 
 ## Approving and Onboarding Regular Members
 
-Our goal in the OpenJS Foundation is to do most of our work in public. On occasion, there are matters and materials that must be kept private and shared only with Voting and Regular members. As a result we have requirements in place in order to ensure that Voting and Regular members are known and active in the the projects they represent or known to the CPC and active in its work. Observers can participate in almost all aspects of the work of the CPC except those infrequent matters related to private information.
+Our goal in the OpenJS Foundation is to do most of our work in public. On occasion, there are matters and materials that must be kept private and shared only with Voting and Regular members. As a result we have requirements in place in order to ensure that Voting and Regular members are known and active in the projects they represent or known to the CPC and active in its work. Observers can participate in almost all aspects of the work of the CPC except those infrequent matters related to private information.
 
-### Requirements to become a regular member: (one of the following is required)
+### Requirements to become a Regular member: (one of the following is required)
 
 - An active member of a project community or collaboration space which is defined as having recent, sustained contributions to the project during the past 90 days.
 - A demonstrated level of contribution to the CPC's work (meetings, issues, pull-requests) as an observer during the past 30 days.
@@ -136,7 +136,7 @@ Our goal in the OpenJS Foundation is to do most of our work in public. On occasi
 
 Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include information about how the potential new member has been active in the foundation or its member projects as described above in the [requirements section](#requirements-to-become-a-regular-member-one-of-the-following-is-required) of this document.
 
-In addition to the [requirements above](#requirements-to-become-a-regular-member-one-of-the-following-is-required), the PR to add a regular member is approved when:
+In addition to the [requirements above](#requirements-to-become-a-regular-member-one-of-the-following-is-required), the PR to add a Regular member is approved when:
 
 * There are no outstanding objections
 * There are two or more approvals by voting CPC members
@@ -145,7 +145,7 @@ In addition to the [requirements above](#requirements-to-become-a-regular-member
 Once a PR is ready to be landed, the CPC member who lands the pull request should:
 
 * Send a notification to the project contacts for the project identified in the PR
-  indicating that a new regular CPC member has joined the CPC on behalf of the project.
+  indicating that a new Regular CPC member has joined the CPC on behalf of the project.
 * Add the member to the github `cpc-regular-members` [team][cpc regular members team]
 * Add the member to the `cpc-private` email list
 * Introduce the new member at the next CPC meeting.
