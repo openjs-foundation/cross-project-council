@@ -12,19 +12,19 @@ If you have any questions, please reach out on the [OpenJS Foundation Slack](htt
 
 Here is a list of our proposals, as well as some resources to help you learn about the OpenJS Foundation.
 
-### 1. Proposal (easy/medium)
+### 1. Proposal (medium)
 
-**Project name**
+**Project name**: Node.js
 
-**Proposal Title**
+**Proposal Title**: ES Modules Documentation
 
-**Description**
+**Description**: The Node.js ECMAScript modules support is gradually working its way towards stability, with the major features of the implementation now finally largely set. The documentation has evolved to document each new feature as it has been added, but at this point a wholistic approach is needed to consolidate the information in a way that is easily accessible to users based on what they are seeking to understand or accomplish. Reworking, structuring or polishing the documentation as a single piece of technical writing is critical to ensuring users are able to achieve their goals with modules in Node.js quickly and easily.
 
-**Expected outcomes:** 
+**Expected outcomes**: Ensure Node.js documentation on modules is accessible to all users, from a new user writing their first application and publishing their first package to a seasoned OS developer maintaining a package for many JS environments.
 
-**Skills required/preferred:** JavaScript
+**Skills required/preferred**: JavaScript, Webpack, npm package publishing experience.
 
-**Mentor:** 
+**Mentor**: Guy Bedford
 
 ---
 
