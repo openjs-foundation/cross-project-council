@@ -18,13 +18,13 @@ Here is a list of our proposals, as well as some resources to help you learn abo
 
 **Proposal Title**: ES Modules Documentation
 
-**Description**: The Node.js ECMAScript modules support is gradually working its way towards stability, with the major features of the implementation now finally largely set. The documentation has evolved to document each new feature as it has been added that would now benefit from a top-down consolidation of the information in a way that is easily accessible to users based on what they are seeking to understand or accomplish. Reworking, structuring or polishing the documentation as a single piece of technical writing is critical to ensuring users are able to achieve their goals with modules in Node.js quickly and easily.
+**Description**: The Node.js ECMAScript modules support is gradually working its way towards stability, with the major features of the implementation now finally largely set. The documentation has evolved to document each new feature as it has been added that would now benefit from some consolidation of the information in a way that is easily accessible to users. We are looking to guide a technical writer in refining the existing documentation while also creating high-level guides ensuring users are able to easily achieve their goals with modules in Node.js.
 
-**Expected outcomes**: Ensure Node.js documentation on modules is accessible to all users, from a new user writing their first application and publishing their first package to a seasoned OS developer maintaining a package for many JS environments.
+**Expected outcomes**: Ensure the Node.js documentation on ES modules is accessible to all users, from a new user writing their first application and publishing their first package to a seasoned OS developer migrating from CommonJS to ES modules and maintaining a package for many JS environments.
 
-**Skills required/preferred**: JavaScript, Webpack, npm package publishing experience.
+**Skills required/preferred**: JavaScript, Node.js, npm package experience. Experience publishing packages or using JS build tools is a plus.
 
-**Mentor**: Guy Bedford
+**Mentors**: Guy Bedford, Geoffrey Booth
 
 ---
 
