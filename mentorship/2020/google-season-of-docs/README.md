@@ -28,6 +28,51 @@ Here is a list of our proposals, as well as some resources to help you learn abo
 
 ---
 
+
+**Project name**
+
+Fastify
+
+**Proposal Title**
+
+Overhaul Fastify Docs
+
+**Description**
+
+Fastify docs grew organically and they were never planned from a user
+perspective.
+The current documentation is comprehensive about all the features
+Fastify has,
+but it does not provide the right information at the right time.
+Moreover, different pages use different pronouns!
+
+Taking example from other amazing Open Source frameworks docs,
+Fastify needs to establish a Style Guideline (see
+[Gatsby's](https://www.gatsbyjs.org/contributing/gatsby-style-guide/),
+and then proceed with creating a new structure for the our docs that is
+focused on the users.
+
+**Expected outcomes:**
+
+1. Style guideline for Fastify
+2. Glossary of terms
+3. Overhauled doc structure
+4. Reword the docs to follow the syle guide
+
+Bonus points:
+
+Add a few official tutorials and walkthrough on our website.
+
+
+**Skills required/preferred:**
+
+JavaScript, Node.js, git, github, markdown, HTTP, npm
+
+**Mentor:**
+
+Matteo Collina, Tomas Della Vedova
+
+
 ## Submitting Documentation Proposals (for prospective mentors)
 
 If you would like to submit a proposal for an initiative that you would like to mentor, feel free to open a PR to add another section to this document above.
