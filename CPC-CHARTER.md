@@ -108,6 +108,12 @@ one-fourth of the Voting CPC membership to be affiliated with the same employer.
 Such a situation must be immediately remedied by the resignation or
 removal of one or more voting CPC members.
 
+If a voting CPC member steps down before the end of their one year term or they
+are removed from the CPC by a CPC motion they may be replaced using the same
+process by which they were elected. In this case the member will serve out the
+remainder of the term and must be re-confirmed at the end of the original one
+year term as if they had served for the full year.
+
 The public portion of the CPC discussions and meetings will be open to all
 observers and members.
 
