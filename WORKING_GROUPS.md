@@ -129,7 +129,23 @@ The [OpenJS Code of Conduct][] applies to this Working Group.
 
 ## Current Working Groups
 
+* [Code of Conduct](#code-of-conduct)
 * [Standards](#standards)
+
+### [Code of Conduct](https://github.com/openjs-foundation/code-of-conduct/)
+
+The purpose of the Code of Conduct Working Group is to define and maintain a set of resources/processes for use by the Foundation, its teams and its projects.
+
+Responsibilities include:
+
+* Define and maintain overarching Code of Conduct and moderation processes, documentation and resources as they pertain to the Foundation and the Cross Project Council.
+* Define minimum Code of Conduct and moderation requirements for projects as part of Foundation membership and provide guidance/resources to help them implement those requirements.
+* Define and maintain template Code of Conduct and moderation processes and documentation as resources for the Foundation’s projects to use in whole or as guidance to develop their own processes, documentation and resources, including training materials
+* Define and maintain Code of Conduct and moderation processes on handling violations within Foundation and its teams and groups (excluding Foundation projects).
+* Define and maintain Code of Conduct and moderation processes on handling escalations from Foundation projects, including communication
+* Identify, nominate, and approve team members on Foundations’s reporting list
+* Ensure engagement and input from projects on CoC policies and resources
+
 
 ### [Standards](https://github.com/openjs-foundation/standards/)
 
