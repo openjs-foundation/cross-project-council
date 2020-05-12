@@ -12,9 +12,7 @@ If you have any questions, please reach out on the [OpenJS Foundation Slack](htt
 
 Here is a list of our proposals, as well as some resources to help you learn about the OpenJS Foundation.
 
-### 1. Proposal (medium)
-
-**Project name**: Node.js
+### Proposal 1. Node.js (medium)
 
 **Proposal Title**: ES Modules Documentation
 
@@ -26,12 +24,7 @@ Here is a list of our proposals, as well as some resources to help you learn abo
 
 **Mentors**: Guy Bedford, Geoffrey Booth
 
----
-
-
-**Project name**
-
-Fastify
+### Proposal 2. Fastify (medium)
 
 **Proposal Title**
 
