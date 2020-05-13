@@ -33,6 +33,6 @@ necessarily represent the views of the Foundation) but is instead fostered
 and supported by the Foundation. In this sense the relationship is more like that
 of projects to the Foundation versus Working Groups.
 
-The [Collaboration Space Progression](./proposals/stage-0/COLLABORATION_NETWORK/COLLABORATION_SPACE_PROGRESSION.md)
+The [Collaboration Space Progression](./proposals/stage-1/COLLABORATION_NETWORK/COLLABORATION_SPACE_PROGRESSION.md)
 document explains how a proposal for a new Collaboration space may be submitted
 and how Collaboration spaces move between stages.

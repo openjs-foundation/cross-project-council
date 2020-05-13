@@ -8,12 +8,12 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [Regular Town Halls](./stage-0/REGULAR_TOWN_HALLS)
 * [Shared Interfaces](./stage-0/SHARED_INTERFACES)
 * [Standards Outreach](./stage-0/STANDARDS_OUTREACH)
-* [Collaboration Network](./stage-0/COLLABORATION_NETWORK)
 
 ## Stage 1
 
 * [Charter Review](./stage-1/CHARTER_REVIEW)
 * [Collab Summit](./stage-1/COLLAB_SUMMIT)
+* [Collaboration Network](./stage-0/COLLABORATION_NETWORK)
 
 ## Stage 2
 
