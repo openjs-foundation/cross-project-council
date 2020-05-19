@@ -11,6 +11,7 @@ A rough description of the project in less than 100 words.
 ## Reason for Applying
 
 A short description of the reasons why your project is applying to join the foundation, and your expectations from the foundation.
+Please keep your answer to less than 100 words.
 
 ## Statement of alignment with OpenJS Foundation charter and mission
 
