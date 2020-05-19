@@ -65,7 +65,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 ### OpenJS Collaboration spaces
 
 The following are official OpenJS Collaboration spaces. If you are interested in fostering collaboration with the 
-support of the OpenJS foundation through a collaboration space, plear read our [Collaboration Space Progression](./proposals/stage-0/COLLABORATION_NETWORK/COLLABORATION_SPACE_PROGRESSION.md) document, or contact any CPC member with questions.
+support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression]
 
 ## CPC Meetings
 
@@ -196,4 +196,3 @@ If you run your project's social media and would like the Foundation to share or
 
 For any other topics which aren't covered above, please email
 [operations@openjsf.org](mailto:operations@openjsf.org).
-
