@@ -156,8 +156,8 @@ ensuring:
       substantial changes before final approval by CPC.
    1. Voting members are responsible for approving funds for budgets delegated
       to the project.
-   1. Voting members are responsible for approving new `collaboration spaces` within the scope
-      for OpenJS Foundation set by the Governing Board, as outlined in the OpenJS Collaboration Network process. 
+   1. Voting members are responsible for approving new `collaboration spaces` as outlined in the OpenJS 
+   Collaboration Network process. 
    1. Voting members are responsible for making final decisions on aligning `collaboration spaces`,
       removing or archiving `collaboration spaces`, as outlined in the OpenJS Collaboration Network process.
    1. Following and be up to date on Board/OpenJS Foundation initiatives and communicate them to the projects.
