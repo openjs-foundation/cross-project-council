@@ -90,7 +90,7 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 
 ### Regular Members
 
-Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members.
+Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
 
 - Abraham Jr Agiri (@codeekage)
 - Antón Molleda (@molant)
