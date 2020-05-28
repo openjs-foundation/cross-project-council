@@ -1,6 +1,6 @@
 # OpenJS Cross Project Council
 
-For the current list of Team members, see the project [README.md][README] and the [OpenJS Foundation Directory](https://github.com/openjs-foundation/directory-private/blob/master/cpc-private.md).
+For the current list of Team members, see the project [README.md][README] and the [OpenJS Foundation Directory](https://github.com/openjs-foundation/directory-private/blob/master/cpc-private.md) (restricted access for privacy reasons).
 
 ## Members
 
