@@ -54,11 +54,12 @@ Open source projects that can responsibly accept security reports and respond wi
 
 ## What is necessary to complete this proposal
 
-- Input from projects on their commitment to accepting security reports
-- Providing projects with generic:
+- [x] Input from projects on their commitment to accepting security reports
+- [ ] Providing projects with generic:
+    - Minimum requirements for security reporting: [REQUIREMENTS](REQUIREMENTS.md)
     - Security policy template
     - Recommendation how to handle security reports
-- Updating CPC processes and documentation to include security reporting and disclosure in:
+- [ ] Updating CPC processes and documentation to include security reporting and disclosure in:
     - Project onboarding
     - Project progression
-- Agreement on level of support the Foundation can offer to projects
+- [ ] Agreement on level of support the Foundation can offer to projects
