@@ -25,7 +25,7 @@ The responsibility for adoption of security reporting standards would be owned b
 
 ## How would success be measured?
 
-- 100% of Impact, Growth, and At-Large projects have:
+- 100% of Impact, Growth, and more than 50% of At-Large projects have:
     - Security policy on GitHub
     - Vulnerability reporting mechanism (email or VDP)
 - 100% of projects graduating from Incubation have a security policy on GitHub
