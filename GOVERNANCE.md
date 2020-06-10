@@ -1,6 +1,6 @@
 # OpenJS Cross Project Council
 
-For the current list of Team members, see the project [README.md][README].
+For the current list of Team members, see the project [README.md][README] and the [OpenJS Foundation Directory](https://github.com/openjs-foundation/directory-private/blob/master/cpc-private.md) (restricted access for privacy reasons).
 
 ## Members
 
@@ -130,6 +130,7 @@ Our goal in the OpenJS Foundation is to do most of our work in public. On occasi
 
 - An active member of a project community or collaboration space which is defined as having recent, sustained contributions to the project during the past 90 days.
 - A demonstrated level of contribution to the CPC's work (meetings, issues, pull-requests) as an observer during the past 30 days.
+- A former Voting member whose term has just ended.
 
 ### Means for approval/rejection, if citing project affiliation: (one of the following approvals is required)
 
@@ -149,8 +150,10 @@ Once a PR is ready to be landed, the CPC member who lands the pull request shoul
 * Send a notification to the project contacts for the project identified in the PR
   indicating that a new Regular CPC member has joined the CPC on behalf of the project.
 * Add the member to the github `cpc-regular-members` [team][cpc regular members team]
-* Add the member to the `cpc-private` email list
+* Add the member to the `cpc-private` email list and directory by opening a PR against the [OpenJS Foundation directory](https://github.com/openjs-foundation/directory-private/blob/master/groups/cross-project-council.yml)
 * Introduce the new member at the next CPC meeting.
+
+Former Voting members whose terms have just ended will automatically become Regular members, unless they indicate otherwise.
 
 ## Approving Project Charters
 
