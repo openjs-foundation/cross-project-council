@@ -1,4 +1,4 @@
-# My New Proposal
+# Security Reporting for OpenJS Foundation Projects
 >  Stage 0
 
 ## Champion
