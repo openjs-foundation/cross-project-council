@@ -104,10 +104,10 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Michael Dawson (@mhdawson)
 - Myles Borins (@MylesBorins)
 - Nick O'Leary (@knolleary)
+- Sara Chipps (@sarajo)
 - Sendil Kumar (@sendilkumarn)
 - Tierney Cyren (@bnb)
 - Waleed Ashraf (@waleedashraf)
-- Sara Chipps (@sarajo)
 
 ### Observers
 
