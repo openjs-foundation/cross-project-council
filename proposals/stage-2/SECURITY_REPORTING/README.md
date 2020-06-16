@@ -1,5 +1,6 @@
 # Security Reporting for OpenJS Foundation Projects
->  Stage 0
+
+>  Stage 2
 
 ## Champion
 
@@ -55,7 +56,7 @@ Open source projects that can responsibly accept security reports and respond wi
 ## What is necessary to complete this proposal
 
 - [x] Input from projects on their commitment to accepting security reports
-- [ ] Providing projects with generic:
+- [x] Providing projects with generic:
     - Minimum requirements for security reporting: [REQUIREMENTS](REQUIREMENTS.md)
     - Security policy template
     - Recommendation how to handle security reports
