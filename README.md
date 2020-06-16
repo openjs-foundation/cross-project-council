@@ -107,6 +107,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Sendil Kumar (@sendilkumarn)
 - Tierney Cyren (@bnb)
 - Waleed Ashraf (@waleedashraf)
+- Sara Chipps (@sarajo)
 
 ### Observers
 
