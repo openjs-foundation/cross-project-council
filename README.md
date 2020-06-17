@@ -92,8 +92,8 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), up to two regular
 members can be elected as votring members. The two regular members elected as voting members are currently:
 
-- Michael Dawson (@mhdawson)
 - Eemeli Aro (@eemeli)
+- Michael Dawson (@mhdawson)
 
 ### Regular Members
 
@@ -192,4 +192,3 @@ If you run your project's social media and would like the Foundation to share or
 
 For any other topics which aren't covered above, please email
 [operations@openjsf.org](mailto:operations@openjsf.org).
-
