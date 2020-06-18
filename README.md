@@ -90,7 +90,7 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 
 #### Elected by Regular Members
 According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), up to two regular
-members can be elected as votring members. The two regular members elected as voting members are currently:
+members can be elected as voting members. The two regular members elected as voting members are currently:
 
 - Eemeli Aro (@eemeli)
 - Michael Dawson (@mhdawson)
