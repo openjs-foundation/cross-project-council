@@ -16,12 +16,14 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 * [Appium](https://appium.io/)
 * [Dojo](https://dojo.io/)
+* [Electron](https://electronjs.org)
 * [jQuery](https://jquery.com/)
 * [Node.js](https://nodejs.org)
 * [webpack](https://webpack.js.org/)
 
 #### Growth Projects
 
+* [AMP](https://amp.dev/)
 * [architect](https://arc.codes/)
 * [Intern](https://theintern.github.io/)
 * [Mocha](https://mochajs.org/)
@@ -56,8 +58,6 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 #### Incubating Projects
 
-* [AMP](https://amp.dev/)
-* [Electron](https://electronjs.org)
 * [Fastify](https://fastify.io)
 * [nvm](http://nvm.sh/)
 
