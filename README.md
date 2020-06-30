@@ -97,6 +97,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Ben Michel (@obensource)
 - Christian Bromann (@christian-bromann)
 - Dhruv Jain (@maddhruv)
+- Divy Tolia (@designmoreweb)
 - Eemeli Aro (@eemeli)
 - Jordan Harband (@ljharb)
 - Jory Burson (@jorydotcom)
@@ -185,4 +186,3 @@ If you run your project's social media and would like the Foundation to share or
 
 For any other topics which aren't covered above, please email
 [operations@openjsf.org](mailto:operations@openjsf.org).
-
