@@ -88,6 +88,13 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 - Christopher Hiller (@boneskull, IBM)
 - Tobie Langel (@tobie, UnlockOpen)
 
+#### Elected by Regular Members
+According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), up to two regular
+members can be elected as voting members. The two regular members elected as voting members are currently:
+
+- Eemeli Aro (@eemeli, Vincit)
+- Michael Dawson (@mhdawson, IBM)
+
 ### Regular Members
 
 Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
