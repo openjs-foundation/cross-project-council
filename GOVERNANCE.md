@@ -126,20 +126,18 @@ These members will be elected for a term of 1 year as follows:
 
 Our goal in the OpenJS Foundation is to do most of our work in public. On occasion, there are matters and materials that must be kept private and shared only with Voting and Regular members. As a result we have requirements in place in order to ensure that Voting and Regular members are known and active in the projects they represent or known to the CPC and active in its work. Observers can participate in almost all aspects of the work of the CPC except those infrequent matters related to private information.
 
-### Requirements to become a Regular member: (one of the following is required)
+### Eligibility to become a Regular member
 
-- An active member of a project community or collaboration space which is defined as having recent, sustained contributions to the project during the past 90 days.
-- A demonstrated level of contribution to the CPC's work (meetings, issues, pull-requests) as an observer during the past 30 days.
-- A former Voting member whose term has just ended.
+One must already be an [Active OpenJS Collaborator](#definition-of-an-active-openjs-collaborator), as described below, to be eligible to become a Regular Member of the CPC.
 
 ### Means for approval/rejection, if citing project affiliation: (one of the following approvals is required)
 
 - Project representatives from the project the user is claiming affiliation with have the ability to approve/reject the nomination.
 - Voting members from the project the user is claiming affiliation with have the ability to approve/reject the nomination.
 
-Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include information about how the potential new member has been active in the foundation or its member projects as described above in the [requirements section](#requirements-to-become-a-regular-member-one-of-the-following-is-required) of this document.
+Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include information about how the potential new member has been active in the foundation or its member projects as described below in the [Active OpenJS Collaborator section](#definition-of-an-active-openjs-collaborator) of this document.
 
-In addition to the [requirements above](#requirements-to-become-a-regular-member-one-of-the-following-is-required), the PR to add a Regular member is approved when:
+In addition to the [Active OpenJS Collaborator requirement](#definition-of-an-active-openjs-collaborator), the PR to add a Regular member is approved when:
 
 * There are no outstanding objections
 * There are two or more approvals by voting CPC members
@@ -153,7 +151,14 @@ Once a PR is ready to be landed, the CPC member who lands the pull request shoul
 * Add the member to the `cpc-private` email list and directory by opening a PR against the [OpenJS Foundation directory](https://github.com/openjs-foundation/directory-private/blob/master/groups/cross-project-council.yml)
 * Introduce the new member at the next CPC meeting.
 
-Former Voting members whose terms have just ended will automatically become Regular members, unless they indicate otherwise.
+_Note: Former Voting members whose terms have just ended will automatically become Regular members, unless they indicate otherwise._
+
+## Definition of an Active OpenJS Collaborator
+
+### To be considered An active OpenJS Collaborator, one of the following is required:
+
+- An active member of a project community or collaboration space which is defined as having recent, sustained contributions to the project during the past 90 days.
+- A demonstrated level of contribution to the CPC's work (meetings, issues, pull-requests) as an observer during the past 30 days.
 
 ## Approving Project Charters
 
