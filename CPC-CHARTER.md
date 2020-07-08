@@ -226,7 +226,7 @@ the candidates election. Elections shall be done within the Projects by
 the Collaborators active in the Project.
 
 
-The CPC will elect from amongst voting CPC members a CPC Chairperson to
+The CPC will elect from amongst CPC members a CPC Chairperson to
 work on building an agenda for CPC meetings and a CPC Director to represent
 the CPC to the Board for a term of one year according to the OpenJS Foundation’s
 By-laws. The Chair and Director may be (but are not required to be)
@@ -237,26 +237,31 @@ CPC Chairperson or Director may serve.
 ## Section 8. Board Representation
 
 There are 3 Board seats earmarked for representation from the
-OpenJS Foundation projects.  The first of these board seats is filled by
-the CPC Director as outlined in Section 7 on [Elections][] and is
-always in place.  
+OpenJS Foundation projects.
 
-The second board seat requires 2 Platinum board members to activate
-and will be filled based on processes defined
+### CPC Director
+
+The first of these board seats is filled by the CPC Director as outlined in Section 7 on [Elections][] and is always in place.
+
+**CPC Director eligibility:** The CPC Director must be a current CPC Member
+
+**CPC Director voting:** CPC Members will vote on candidates
+
+### Community Director
+
+The second board seat will be filled based on processes defined
 by the CPC and approved by the Voting CPC members and then the Board. The
 CPC members will review and either re-confirm or update the
 processes once per year.
 
-For the first year after the formation of the OpenJS Foundation, the
-processes for filling this seat will be as follows:
+**Community Director eligibility:** The Community Director must be an Active OpenJS Collaborator as defined in the CPC's Governance document.
 
-* As a constellation member of the OpenJS Foundation, the Node.js project
-  will elect one Board representative from either the Technical Steering Committee (TSC) or
-  Community Committee (CommComm). The representative will be selected according to a process
-  defined by the TSC and CommComm.
+**Community Director voting:** CPC Members will vote on candidates
 
 As described in the [Elections][] section a multiple candidate method
 will be be used for the voting for the first and second board members.
+
+### At-Large Director
 
 The third board seat is earmarked to represent the Individual membership
 program. 3 Platinum board members as well as 2000 members registered in the
