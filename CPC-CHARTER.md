@@ -254,7 +254,7 @@ by the CPC and approved by the Voting CPC members and then the Board. The
 CPC members will review and either re-confirm or update the
 processes once per year.
 
-**Community Director eligibility:** The Community Director must be an Active OpenJS Collaborator as defined in the CPC's Governance document.
+**Community Director eligibility:** The Community Director must be an [Active OpenJS Collaborator][] as defined in the CPC's Governance document.
 
 **Community Director voting:** CPC Members will vote on candidates
 
@@ -326,3 +326,4 @@ policies.
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
+[Active OpenJS Collaborator]: https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#definition-of-an-active-openjs-collaborator

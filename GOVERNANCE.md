@@ -1,10 +1,10 @@
 # OpenJS Cross Project Council
 
-For the current list of Team members, see the project [README.md][README] and the [OpenJS Foundation Directory](https://github.com/openjs-foundation/directory-private/blob/master/cpc-private.md) (restricted access for privacy reasons).
+For the current list of Team members, see the project [README.md][README] and the [OpenJS Foundation Directory][] (restricted access for privacy reasons).
 
 ## Members
 
-The [openjs-foundation/cross-project-council](https://github.com/openjs-foundation/cross-project-council) GitHub
+The [openjs-foundation/cross-project-council][cpc repo] GitHub
 repository is maintained by the Team and additional Members who are
 added on an ongoing basis.
 
@@ -50,9 +50,7 @@ agenda item and sends it as a pull request after the meeting.
 
 ## Consensus Seeking Process
 
-The Team follows a
-[Consensus Seeking](http://en.wikipedia.org/wiki/Consensus-seeking_decision-making)
-decision-making model.
+The Team follows a [Consensus Seeking][] decision-making model.
 
 When an agenda item has appeared to reach a consensus, the moderator
 will ask "Does anyone object?" as a final call for dissent from the
@@ -128,16 +126,16 @@ Our goal in the OpenJS Foundation is to do most of our work in public. On occasi
 
 ### Eligibility to become a Regular member
 
-One must already be an [Active OpenJS Collaborator](#definition-of-an-active-openjs-collaborator), as described below, to be eligible to become a Regular Member of the CPC.
+One must already be an [Active OpenJS Collaborator][], as described below, to be eligible to become a Regular Member of the CPC.
 
 ### Means for approval/rejection, if citing project affiliation: (one of the following approvals is required)
 
 - Project representatives from the project the user is claiming affiliation with have the ability to approve/reject the nomination.
 - Voting members from the project the user is claiming affiliation with have the ability to approve/reject the nomination.
 
-Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include information about how the potential new member has been active in the foundation or its member projects as described below in the [Active OpenJS Collaborator section](#definition-of-an-active-openjs-collaborator) of this document.
+Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include information about how the potential new member has been active in the foundation or its member projects as described below in the [Active OpenJS Collaborator][] of this document.
 
-In addition to the [Active OpenJS Collaborator requirement](#definition-of-an-active-openjs-collaborator), the PR to add a Regular member is approved when:
+In addition to the [Active OpenJS Collaborator][], the PR to add a Regular member is approved when:
 
 * There are no outstanding objections
 * There are two or more approvals by voting CPC members
@@ -148,7 +146,7 @@ Once a PR is ready to be landed, the CPC member who lands the pull request shoul
 * Send a notification to the project contacts for the project identified in the PR
   indicating that a new Regular CPC member has joined the CPC on behalf of the project.
 * Add the member to the github `cpc-regular-members` [team][cpc regular members team]
-* Add the member to the `cpc-private` email list and directory by opening a PR against the [OpenJS Foundation directory](https://github.com/openjs-foundation/directory-private/blob/master/groups/cross-project-council.yml)
+* Add the member to the `cpc-private` email list and directory by opening a PR against the [OpenJS Foundation directory][]
 * Introduce the new member at the next CPC meeting.
 
 _Note: Former Voting members whose terms have just ended will automatically become Regular members, unless they indicate otherwise._
@@ -167,7 +165,7 @@ charters and changes to them.
 
 Approval of the initial charter or changes to an existing charter will
 be requested by opening an issue requesting approval in the cross-project-council
-[repository](https://github.com/openjs-foundation/cross-project-council/).
+[repository][cpc repo].
 
 The request is approved when:
 
@@ -222,8 +220,13 @@ The pull request may be fast-tracked if two CPC members approve the fast-trackin
 
 CPC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
 
+[cpc repo]: https://github.com/openjs-foundation/cross-project-council
 [cpc charter]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md
 [cpc charter term]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members
 [CPC charter section 5]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
 [README]: ./README.md
+[OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/master/cpc-private.md
+[Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
+[Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
+[OpenJS Foundation directory]: https://github.com/openjs-foundation/directory-private/blob/master/groups/cross-project-council.yml
