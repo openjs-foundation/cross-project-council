@@ -146,7 +146,7 @@ Once a PR is ready to be landed, the CPC member who lands the pull request shoul
 * Send a notification to the project contacts for the project identified in the PR
   indicating that a new Regular CPC member has joined the CPC on behalf of the project.
 * Add the member to the github `cpc-regular-members` [team][cpc regular members team]
-* Add the member to the `cpc-private` email list and directory by opening a PR against the [OpenJS Foundation directory][]
+* Add the member to the `cpc-private` email list and private directory by opening a PR against the [OpenJS Foundation CPC directory][]
 * Introduce the new member at the next CPC meeting.
 
 _Note: Former Voting members whose terms have just ended will automatically become Regular members, unless they indicate otherwise._
@@ -231,4 +231,4 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/master/cpc-private.md
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
-[OpenJS Foundation directory]: https://github.com/openjs-foundation/directory-private/blob/master/groups/cross-project-council.yml
+[OpenJS Foundation CPC directory]: https://github.com/openjs-foundation/directory-private/blob/master/groups/cross-project-council.yml
