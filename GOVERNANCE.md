@@ -158,7 +158,7 @@ _Note: Former Voting members whose terms have just ended will automatically beco
 - An active member of a project community or collaboration space which is defined as having recent, sustained contributions to the project during the past 90 days.
 - A demonstrated level of contribution to the CPC's work (meetings, issues, pull-requests) as an observer during the past 30 days.
 
-_Note: Contributions can include, but are not limited to, participation in meetings, issues or pull-requests, editing documentation, community management, marketing, organizing events, etc._
+_Note: Contributions can include, but are not limited to, participation in meetings, issues or pull-requests, editing documentation, community management, marketing, organizing events, as well as similar activities as they relate to the OpenJS Foundation and its member projects._
 
 ## Approving Project Charters
 
