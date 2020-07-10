@@ -245,7 +245,7 @@ The first of these board seats is filled by the CPC Director as outlined in Sect
 
 **CPC Director eligibility:** The CPC Director must be a current CPC Member
 
-**CPC Director voting:** CPC Members will vote on candidates
+**CPC Director voting:** CPC Members (Voting and Regular) will vote on candidates
 
 ### Community Director
 
@@ -256,7 +256,7 @@ processes once per year.
 
 **Community Director eligibility:** The Community Director must be an [Active OpenJS Collaborator][] at the time of their selection, as defined in the CPC's Governance document.
 
-**Community Director voting:** CPC Members will vote on candidates
+**Community Director voting:** CPC Members (Voting and Regular) will vote on candidates
 
 As described in the [Elections][] section a multiple candidate method
 will be be used for the voting for the first and second board members.
