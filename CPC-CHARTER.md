@@ -254,7 +254,7 @@ by the CPC and approved by the Voting CPC members and then the Board. The
 CPC members will review and either re-confirm or update the
 processes once per year.
 
-**Community Director eligibility:** The Community Director must be an [Active OpenJS Collaborator][] as defined in the CPC's Governance document.
+**Community Director eligibility:** The Community Director must be an [Active OpenJS Collaborator][] at the time of their selection, as defined in the CPC's Governance document.
 
 **Community Director voting:** CPC Members will vote on candidates
 

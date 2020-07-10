@@ -133,9 +133,9 @@ One must already be an [Active OpenJS Collaborator][], as described below, to be
 - Project representatives from the project the user is claiming affiliation with have the ability to approve/reject the nomination.
 - Voting members from the project the user is claiming affiliation with have the ability to approve/reject the nomination.
 
-Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include information about how the potential new member has been active in the foundation or its member projects as described below in the [Active OpenJS Collaborator][] of this document.
+Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include information about how the potential new member has been active in the foundation or its member projects as described below in the [Active OpenJS Collaborator][] section of this document.
 
-In addition to the [Active OpenJS Collaborator][], the PR to add a Regular member is approved when:
+In addition to being an [Active OpenJS Collaborator][], the PR to add a Regular member is approved when:
 
 * There are no outstanding objections
 * There are two or more approvals by voting CPC members
