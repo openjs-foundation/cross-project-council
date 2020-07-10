@@ -261,7 +261,7 @@ processes once per year.
 As described in the [Elections][] section a multiple candidate method
 will be be used for the voting for the first and second board members.
 
-### At-Large Director
+### Individual Membership Director
 
 The third board seat is earmarked to represent the Individual membership
 program. 3 Platinum board members as well as 2000 members registered in the
