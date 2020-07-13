@@ -17,7 +17,7 @@ Space` will only be approved by the CPC with the support and approval from the `
  
 `Collaboration Space` applications must include the champions who will lead the effort and the credentials of the champion and
 those initially involved will be a key part of the evaluation process to ensure that the work of the spaces is
-aligned/respectful of the foudation vision and expectations.
+aligned/respectful of the foundation vision and expectations.
 
 Collaboration space progression - movement from one stage to another - allows spaces to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all Foundation spaces benefit from access to some level of  mentorship, support, and foundation resources.
 
