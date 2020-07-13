@@ -20,8 +20,9 @@ Why is the proposed area/topic important to the JavaScript Ecosystem?
 
 ## Resources
 
-Which resources would the space need from those listed as available to
-Collaboration spaces?
+Which [resources](./COLLABORATION_SPACE_PROGRESSION.md#expectations)
+would the space need from those listed as available to
+Collaboration spaces? 
 
 ## Existing assets
 
