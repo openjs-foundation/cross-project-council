@@ -7,7 +7,7 @@ Who is the champion proposing the Collaboration Space ?
 ## Initial participants
 
 Please provide a list of initial participants and their
-background/knowledge of the space prposed.
+background/knowledge of the space proposed.
 
 ## Description
 
