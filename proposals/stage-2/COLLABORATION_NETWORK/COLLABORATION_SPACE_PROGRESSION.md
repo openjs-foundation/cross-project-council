@@ -10,10 +10,10 @@ This governance policy describes how a new `Collaboration Space` can be establis
   expand the group of contributors to the work of the OpenJS Foundation's work by allowing people outside the OpenJS
   member projects to propose/collaborate on areas of importance to the JavaScript ecosytem.
  
- `Collaboration Spaces` may graduate between levels as outlined in this documented. In addition,  it may make more sense for them
- to be converted into a `Working group` if formal delegation of responsibility is beneficial or most of the contributions/leadership
- is being made from those who are active in the CPC. If there is an existing `Working Group` in a particular area a `Collaboration
- Space` will only be approved by the CPC with the support and approval from the `Working Group` that the space is complimentary.
+`Collaboration Spaces` may graduate between levels as outlined in this documented. In addition,  it may make more sense for them
+to be converted into a `Working group` if formal delegation of responsibility is beneficial or most of the contributions/leadership
+is being made from those who are active in the CPC. If there is an existing `Working Group` in a particular area a `Collaboration
+Space` will only be approved by the CPC with the support and approval from the `Working Group` that the space is complimentary.
  
 `Collaboration Space` applications must include the champions who will lead the effort and the credentials of the champion and
 those initially involved will be a key part of the evaluation process to ensure that the work of the spaces is
