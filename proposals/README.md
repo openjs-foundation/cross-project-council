@@ -18,6 +18,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [Individual Supporter Program](./stage-1/SUPPORTER_PROGRAM)
 
 ## Stage 2
+* [Collaboration Network](./stage-2/COLLABORATION_NETWORK)
 
 There are no stage 2 proposals
 

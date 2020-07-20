@@ -16,12 +16,14 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 * [Appium](https://appium.io/)
 * [Dojo](https://dojo.io/)
+* [Electron](https://electronjs.org)
 * [jQuery](https://jquery.com/)
 * [Node.js](https://nodejs.org)
 * [webpack](https://webpack.js.org/)
 
 #### Growth Projects
 
+* [AMP](https://amp.dev/)
 * [architect](https://arc.codes/)
 * [Intern](https://theintern.github.io/)
 * [Mocha](https://mochajs.org/)
@@ -56,8 +58,6 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 #### Incubating Projects
 
-* [AMP](https://amp.dev/)
-* [Electron](https://electronjs.org)
 * [Fastify](https://fastify.io)
 * [nvm](http://nvm.sh/)
 
@@ -88,6 +88,13 @@ According to the [CPC Charter](https://github.com/openjs-foundation/cross-projec
 - Christopher Hiller (@boneskull, IBM)
 - Tobie Langel (@tobie, UnlockOpen)
 
+#### Elected by Regular Members
+According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), up to two regular
+members can be elected as voting members. The two regular members elected as voting members are currently:
+
+- Eemeli Aro (@eemeli, Vincit)
+- Michael Dawson (@mhdawson, IBM)
+
 ### Regular Members
 
 Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
@@ -97,6 +104,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Ben Michel (@obensource)
 - Christian Bromann (@christian-bromann)
 - Dhruv Jain (@maddhruv)
+- Divy Tolia (@designmoreweb)
 - Eemeli Aro (@eemeli)
 - Jordan Harband (@ljharb)
 - Jory Burson (@jorydotcom)
@@ -104,6 +112,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Michael Dawson (@mhdawson)
 - Myles Borins (@MylesBorins)
 - Nick O'Leary (@knolleary)
+- Sara Chipps (@sarajo)
 - Sendil Kumar (@sendilkumarn)
 - Tierney Cyren (@bnb)
 - Waleed Ashraf (@waleedashraf)
@@ -185,4 +194,3 @@ If you run your project's social media and would like the Foundation to share or
 
 For any other topics which aren't covered above, please email
 [operations@openjsf.org](mailto:operations@openjsf.org).
-
