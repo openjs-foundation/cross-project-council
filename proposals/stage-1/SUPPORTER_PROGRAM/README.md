@@ -1,4 +1,4 @@
-# Individual Supporter Program Proposal
+# Individual Membership Representation Proposal
 >  Stage 1
 
 ## Champion
@@ -7,12 +7,7 @@
  
 ## Description
 
-The goals of the Individual Supporter Program are to help bring awareness about both large and small projects to possible contributors. A way for individuals to show support and be a part of the OpenJS foundation, as well as providing an opportunity for community with the other members. 
-
-While one goal of this group is introducing supporters to projects and helping the projects find the contributors they need; the supporter program will also be an opportunity to welcome an inclusive group of coders from around the world that love the projects that are part of the OpenJS foundation. This also brings in new perspectives and feedback from the vast community of JavaScript developers.
-
-Additionally, becoming and individual supporter should help people understand that their projects too can get support from the foundation, and the OpenJS foundation is their foundation. 
-A tertiary goal is to establish a pool from which an ambassador program can be started. Recognizing people that evangelize and recruit for OpenJS projects. 
+Membership program for OpenJS individual supporters. 
 
 ## Required Resources
 
@@ -47,7 +42,6 @@ Approval of this proposal from project members of the NF and JSF, the Node.js Bo
 
 * Should the newsletter become a benefit of this program? If not, what are some ways we can incentivize membership? Will people join just to show their support for our projects?
 * What should the income from the supporter program go towards? 
-* Is there a way we could incentivize members through the ability to have a way to directly contact the maintainers of each individual project? Or possibly a Slack group? 
 
 
 
