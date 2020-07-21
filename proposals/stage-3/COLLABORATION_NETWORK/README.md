@@ -1,5 +1,5 @@
 # JavaScript Outreach Groups
->  Stage 0
+>  Stage 3
 
 ## Champion
 
@@ -80,4 +80,3 @@ See description above
 
 ## What is necessary to complete this proposal
 
-Approval of proposed process and governance changes
