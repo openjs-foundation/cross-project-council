@@ -4,6 +4,8 @@
 
 Each OpenJS Foundation project must publish a security policy in an easily accessible place. The recommended approach is to [publish the security policy in each GitHub repository](https://help.github.com/en/github/managing-security-vulnerabilities/adding-a-security-policy-to-your-repository).
 
+Projects that have their own organization on GitHub are advised to place the `SECURITY.md` file in the `.github` repository for the organization.
+
 The [Node.js Ecosystem Security WG Template](https://github.com/nodejs/security-wg/blob/master/processes/responsible_disclosure_template.md) can be used by projects that do not have their own security reporting infrastructure.
 
 ## Reporting
