@@ -237,31 +237,31 @@ CPC Chairperson or Director may serve.
 ## Section 8. Board Representation
 
 There are 3 Board seats earmarked for representation from the
-OpenJS Foundation projects.
+OpenJS Foundation, the Foundation's projects, and related communities.
 
-### CPC Director
+### The Primary CPC Director (as defined in §4.3(d) in the [OpenJS Foundation bylaws][])
 
-The first of these board seats is filled by the CPC Director as outlined in Section 7 on [Elections][] and is always in place.
+The first of these board seats is filled as outlined in Section 7 on [Elections][] and is always in place.
 
-**CPC Director eligibility:** The CPC Director must be a current CPC Member
+**Primary CPC Director eligibility:** The Primary CPC Director must be a current CPC Member
 
-**CPC Director voting:** CPC Members (Voting and Regular) will vote on candidates
+**Primary CPC Director voting:** CPC Voting Members will vote on candidates
 
-### Community Director
+### The Secondary CPC Director (as defined in §4.3(e) in the[OpenJS Foundation bylaws][])
 
 The second board seat will be filled based on processes defined
 by the CPC and approved by the Voting CPC members and then the Board. The
 CPC members will review and either re-confirm or update the
 processes once per year.
 
-**Community Director eligibility:** The Community Director must be an [Active OpenJS Collaborator][] at the time of their selection, as defined in the CPC's Governance document.
+**Secondary Director eligibility:** The Second CPC Director must be an [Active OpenJS Collaborator][] at the time of their selection, as defined in the CPC's Governance document.
 
-**Community Director voting:** CPC Members (Voting and Regular) will vote on candidates
+**Secondary Director voting:** CPC Voting Members will vote on candidates
 
 As described in the [Elections][] section a multiple candidate method
 will be be used for the voting for the first and second board members.
 
-### Individual Membership Director
+### The Tertiary CPC Director (as defined in §4.3(f) in the [OpenJS Foundation bylaws][])
 
 The third board seat is earmarked to represent the Individual membership
 program. 3 Platinum board members as well as 2000 members registered in the
@@ -327,3 +327,4 @@ policies.
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
 [Active OpenJS Collaborator]: https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#definition-of-an-active-openjs-collaborator
+[OpenJS Foundation bylaws]: https://bylaws.openjsf.org/

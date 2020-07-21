@@ -153,12 +153,12 @@ _Note: Former Voting members whose terms have just ended will automatically beco
 
 ## Definition of an Active OpenJS Collaborator
 
-### To be considered An active OpenJS Collaborator, one of the following is required:
+### To be considered an active OpenJS Collaborator, one of the following is required:
 
-- An active member of a project community or collaboration space which is defined as having recent, sustained contributions to the project during the past 90 days.
-- A demonstrated level of contribution to the CPC's work (meetings, issues, pull-requests) as an observer during the past 30 days.
+- Activity within a project, community, or collaboration space.
+- A demonstrated level of contribution to the CPC's work during the past 30 days.
 
-_Note: Contributions can include, but are not limited to, participation in meetings, issues or pull-requests, editing documentation, community management, marketing, organizing events, as well as similar activities as they relate to the OpenJS Foundation and its member projects._
+_Note: "Activity" is defined as recent, sustained contributions during the past 90 days. Contributions can include, but are not limited to, participation in meetings, issues or pull-requests, editing documentation, community management, marketing, organizing events, as well as similar activities as they relate to the OpenJS Foundation and its member projects._
 
 ## Approving Project Charters
 
