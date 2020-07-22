@@ -130,8 +130,7 @@ Voting members have the roles and responsibilities as outlined below.
 
 ## Section 5. Responsibilities and Expectations of the CPC
 
-Subject to such policies as may be set by the Board, the CPC is responsible for
-ensuring:
+Subject to such policies as may be set by the Board, the CPC is responsible for:
 
    1. When needed, members of the CPC will be expected to create subcommittees
       or working groups. The CPC will delegate responsibilities and empower
@@ -170,8 +169,7 @@ ensuring:
    1. Managing the Individual membership program.
    1. Managing programs to improve inclusivity and diversity.
    1. Guiding projects into appropriate Foundation paths.
-   1. Shared resources, tooling and funding for projects and Commons.js (Events
-      Collaborator Summit, Travel fund).
+   1. Shared resources, tooling and funding for projects (Collaborator Summit Events, Travel fund).
    1. Supporting projects in their enforcement of Code of Conduct
       violations and escalation.
    1. Developing a framework for community end-user feedback.
