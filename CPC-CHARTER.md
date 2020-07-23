@@ -321,8 +321,8 @@ policies.
 
 [Foundation mission and vision statements]:  https://openjsf.org/about/
 [Foundation bylaws]:  https://bylaws.openjsf.org
-[Voting]:  #section-10.-voting
-[Elections]: #section-7.-elections
+[Voting]:  #section-10-voting
+[Elections]: #section-7-elections
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
