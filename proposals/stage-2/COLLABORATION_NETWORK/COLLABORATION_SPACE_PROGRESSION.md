@@ -2,6 +2,23 @@
 
 This governance policy describes how a new `Collaboration Space` can be established wthin the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Collaboration Space Proposal Process](). It describes the [Stages]() a collaboration space may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a space to move from one stage to another.
 
+`Collaboration Spaces` are different than `Working Groups` in a number of ways:
+* `Working Groups` are formally delegated responsibility from the scope of the Cross Project Council so that they
+  can make autonomous decisions with respect to the delegated scope.  The subject of a `Collaboration Space` may be completely
+  outside of the existing scope of the Cross Project Council.
+* `Working Groups` are generally made up of an existing OpenJS members project contributors. `Collaboration Spaces` are intended to
+  expand the group of contributors to the work of the OpenJS Foundation's work by allowing people outside the OpenJS
+  member projects to propose/collaborate on areas of importance to the JavaScript ecosytem.
+ 
+`Collaboration Spaces` may graduate between levels as outlined in this documented. In addition,  it may make more sense for them
+to be converted into a `Working group` if formal delegation of responsibility is beneficial or most of the contributions/leadership
+is being made from those who are active in the CPC. If there is an existing `Working Group` in a particular area a `Collaboration
+Space` will only be approved by the CPC with the support and approval from the `Working Group` that the space is complimentary.
+ 
+`Collaboration Space` applications must include the champions who will lead the effort and the credentials of the champion and
+those initially involved will be a key part of the evaluation process to ensure that the work of the spaces is
+aligned/respectful of the foundation vision and expectations.
+
 Collaboration space progression - movement from one stage to another - allows spaces to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all Foundation spaces benefit from access to some level of  mentorship, support, and foundation resources.
 
 ## II. Collaboration Space Proposal Process
