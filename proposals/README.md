@@ -14,6 +14,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 * [Charter Review](./stage-1/CHARTER_REVIEW)
 * [Collab Summit](./stage-1/COLLAB_SUMMIT)
+* [Individual Supporter Program](./stage-1/SUPPORTER_PROGRAM)
 
 ## Stage 2
 * [Collaboration Network](./stage-2/COLLABORATION_NETWORK)
