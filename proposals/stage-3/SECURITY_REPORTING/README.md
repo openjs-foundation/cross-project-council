@@ -1,6 +1,6 @@
 # Security Reporting for OpenJS Foundation Projects
 
->  Stage 2
+>  Stage 3
 
 ## Champion
 
