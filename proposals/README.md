@@ -6,7 +6,6 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 * [Project Exit Criteria](./stage-0/PROJECT_EXIT_CRITERIA)
 * [Regular Town Halls](./stage-0/REGULAR_TOWN_HALLS)
-* [Security Reporting](./stage-0/SECURITY_REPORTING)
 * [Shared Interfaces](./stage-0/SHARED_INTERFACES)
 * [Standards Outreach](./stage-0/STANDARDS_OUTREACH)
 
@@ -18,8 +17,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 
 ## Stage 2
 * [Collaboration Network](./stage-2/COLLABORATION_NETWORK)
-
-There are no stage 2 proposals
+* [Security Reporting](./stage-2/SECURITY_REPORTING)
 
 ## Stage 3
 
