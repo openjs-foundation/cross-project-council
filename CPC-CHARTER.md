@@ -226,7 +226,7 @@ the candidates election. Elections shall be done within the Projects by
 the Collaborators active in the Project.
 
 
-The CPC will elect from amongst voting CPC members a CPC Chairperson to
+The CPC will elect from amongst CPC members a CPC Chairperson to
 work on building an agenda for CPC meetings and a CPC Director to represent
 the CPC to the Board for a term of one year according to the OpenJS Foundation’s
 By-laws. The Chair and Director may be (but are not required to be)
@@ -237,26 +237,31 @@ CPC Chairperson or Director may serve.
 ## Section 8. Board Representation
 
 There are 3 Board seats earmarked for representation from the
-OpenJS Foundation projects.  The first of these board seats is filled by
-the CPC Director as outlined in Section 7 on [Elections][] and is
-always in place.  
+OpenJS Foundation, the Foundation's projects, and related communities.
 
-The second board seat requires 2 Platinum board members to activate
-and will be filled based on processes defined
+### The Primary CPC Director (as defined in §4.3(d) in the [OpenJS Foundation bylaws][])
+
+The first of these board seats is filled as outlined in Section 7 on [Elections][] and is always in place.
+
+**Primary CPC Director eligibility:** The Primary CPC Director must be a current CPC Member
+
+**Primary CPC Director voting:** CPC Voting Members will vote on candidates
+
+### The Secondary CPC Director (as defined in §4.3(e) in the[OpenJS Foundation bylaws][])
+
+The second board seat will be filled based on processes defined
 by the CPC and approved by the Voting CPC members and then the Board. The
 CPC members will review and either re-confirm or update the
 processes once per year.
 
-For the first year after the formation of the OpenJS Foundation, the
-processes for filling this seat will be as follows:
+**Secondary Director eligibility:** The Second CPC Director must be an [Active OpenJS Collaborator][] at the time of their selection, as defined in the CPC's Governance document.
 
-* As a constellation member of the OpenJS Foundation, the Node.js project
-  will elect one Board representative from either the Technical Steering Committee (TSC) or
-  Community Committee (CommComm). The representative will be selected according to a process
-  defined by the TSC and CommComm.
+**Secondary Director voting:** CPC Voting Members will vote on candidates
 
 As described in the [Elections][] section a multiple candidate method
 will be be used for the voting for the first and second board members.
+
+### The Tertiary CPC Director (as defined in §4.3(f) in the [OpenJS Foundation bylaws][])
 
 The third board seat is earmarked to represent the Individual membership
 program. 3 Platinum board members as well as 2000 members registered in the
@@ -316,8 +321,10 @@ policies.
 
 [Foundation mission and vision statements]:  https://openjsf.org/about/
 [Foundation bylaws]:  https://bylaws.openjsf.org
-[Voting]:  #section-10.-voting
-[Elections]: #section-7.-elections
+[Voting]:  #section-10-voting
+[Elections]: #section-7-elections
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
+[Active OpenJS Collaborator]: https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#definition-of-an-active-openjs-collaborator
+[OpenJS Foundation bylaws]: https://bylaws.openjsf.org/
