@@ -73,8 +73,8 @@ The Application Champion is a member of the CPC or Foundation staff who commits 
 ##### Initial fit checklist
 
 1. Are the existing members/space leaders agreed to managing the space under open governance?
-1. Have the existing members/space leaders agreed that all IP developed will be assigned to the OpenJS Foundation.
-1. Have the existing members/space leaders agreed that the collaboration space will adopt the OpenJS CoC?
+1. Have the existing members/space leaders agreed that all work will happen under the [OpenJS Foundation IP Policy](https://ip-policy.openjsf.org)?
+1. Have the existing members/space leaders agreed that the collaboration space will adopt the [OpenJS CoC](https://code-of-conduct.openjsf.org)?
 1. Are licences for any existing material that will be added to the collaboration space repo compatible with Foundation requirements?
 1. Fit with OpenJS Foundation (not all of these need to be met, but provide different ways of assessing strategic fit).
    1. Impact on JavaScript Community.
