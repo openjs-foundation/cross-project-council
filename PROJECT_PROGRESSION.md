@@ -65,7 +65,8 @@ The Application Champion is a member of the CPC who commits to do the following:
         (ex. perhaps a different foundation would be a more suitable endeavor.)
    * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date.
 1. Project goes through process of adhering to [on-boarding checklist](#onboarding-checklist).
-1. Project presents to CPC for final acceptance via 2/3 supermajority vote and appropriate initial stage is determined.
+1. Project completes a charter review process by the CPC as outlined in the [CPC Governance](./GOVERNANCE.md#approving-project-charters). NOTE: this process takes two weeks to complete
+1. Project graduates from incubation by a pull request adding the project to the [README.md](./README.md) file at its appropriate initial stage. The merging of this pull request proceeds as any other pull request to the README.md file.
 
 ##### Initial fit checklist
 
@@ -100,7 +101,8 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
 - [ ] Publish Project Charter on website or GitHub
 - [ ] Update legal copyright notice on project website and GitHub
 - [ ] Add OpenJS Foundation logo to project website
-- [ ] Add Project logo to OpenJS Foundation website; update PROJECTS.md file
+- [ ] Add Project logo to OpenJS Foundation website
+- [ ] Add Project to this repo's README.md as an Incubating project
 - [ ] List trademarks the project commits to transfer to the OpenJS Foundation following graduation
 - [ ] If project is using crowdfunding platforms, add disclaimer to platforms
 - [ ] Identify individuals from the project to join the CPC
@@ -247,12 +249,6 @@ It is expected that incubating project will make an active effort to work throug
 #### Acceptance Criteria
 
 1. consensus within private mailing list to move into incubation process
-
-#### Graduation Criteria
-
-1. Completion of the on-boarding checklist
-1. 2/3 vote from the CPC to accept project
-1. Completion of the entrance criteria for desired stage
 
 ## IV. Annual Review Process
 
