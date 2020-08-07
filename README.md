@@ -77,6 +77,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 
 - **Appium**: Isaac Murchie (@imurchie, Sauce Labs) & Jonah Stiennon(@Jonahss, Origin Labs)
 - **Dojo**: Dylan Schiemann (@dylans, Site Pen)
+- **Electron**: Shelley Vohr (@codebytere, Microsoft) & Tierney Cyren (@bnb, Microsoft)
 - **jQuery**: Dave Methvin (@dmethvin, USDS) & Timmy Willison (@timmywil, Spokestack)
 - **Node.js**: Matteo Collina (@mcollina, NearForm) & Joe Sepi (@joesepi, IBM)
 - **webpack**: Sean Larkin (@TheLarkInn, Microsoft) & Tobias Koppers (@sokra, self-employed)
@@ -114,7 +115,6 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Nick O'Leary (@knolleary)
 - Sara Chipps (@sarajo)
 - Sendil Kumar (@sendilkumarn)
-- Tierney Cyren (@bnb)
 - Waleed Ashraf (@waleedashraf)
 
 ### Observers
