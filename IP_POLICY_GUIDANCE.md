@@ -68,7 +68,7 @@ right to make the contribution under the open source license.
 Alternately, projects may decide to adopt a CLA. In this case each contributor
 must be covered by a signed CLA, either as an individual contributor on their
 own behalf or from their employer. The OpenJS Foundation Board of Directors has
-pre-approved an [Individual CLA](ICLA) and a [Corporate CLA](CCLA) which
+pre-approved an [Individual CLA][ICLA] and a [Corporate CLA][CCLA] which
 projects can adopt without any further review. The decision to adopt a CLA is
 left to each project's governing body.
 
