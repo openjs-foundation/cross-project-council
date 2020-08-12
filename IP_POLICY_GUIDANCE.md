@@ -15,7 +15,7 @@ There are four key requirements for all OpenJS Foundation projects:
 1. [Licensing](#1-licensing)
 2. [Copyright notices](#2-copyright-notices)
 3. Displaying the [standard website footer](#3-standard-website-footer) on the project's website
-4. Choose between the [DCO]() or a [Contributor License Agreement (CLA)](#4-contributor-license-agreement-cla)
+4. Choose between the [DCO][] or a [Contributor License Agreement (CLA)](#4-contributor-license-agreement-cla)
 
 ### 1. Licensing
 
@@ -59,7 +59,7 @@ All project websites need to have a [standard website footer][].
 
 ### 4. Contributor License Agreement (CLA)
 
-By default the OpenJS Foundation uses the [DCO](), which means contributors
+By default the OpenJS Foundation uses the [DCO][], which means contributors
 submit their contributions under the project's designated open source license.
 Every commit must contain a Signed-off-by line in the commit message (e.g.,
 `Signed-off-by: Authorname <author@email.com>`), indicating the author has the
