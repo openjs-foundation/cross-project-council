@@ -15,7 +15,7 @@ There are four key requirements for all OpenJS Foundation projects:
 1. [Licensing](#1-licensing)
 2. [Copyright notices](#2-copyright-notices)
 3. Displaying the [standard website footer](#3-standard-website-footer) on the project's website
-4. Choose between the [DCO][] or a [Contributor License Agreement (CLA)](#4-contributor-license-agreement-cla)
+4. [Adopting the DCO or a CLA](#4-adopting-the-dco-or-a-cla)
 
 ### 1. Licensing
 
@@ -30,7 +30,9 @@ Documentation may be licensed under:
   * [MIT](https://opensource.org/licenses/MIT)
 
 If you need to use a license which isn't in the [IP Policy],
-you will need to obtain permission from the Board to do so. Please [open an issue in the CPC repo](https://github.com/openjs-foundation/cross-project-council/issues), and assign it to brianwarner.
+you will need to obtain permission from the Board to do so.
+Please [open an issue in the CPC repository][new cpc issue],
+and assign it to @brianwarner.
 
 ### 2. Copyright notices
 
@@ -57,27 +59,29 @@ as this simply reflects the merged status of the organizations._
 
 All project websites need to have a [standard website footer][].
 
-### 4. Contributor License Agreement (CLA)
+### 4. Adopting the DCO or a CLA
 
-By default the OpenJS Foundation uses the [DCO][], which means contributors
-submit their contributions under the project's designated open source license.
-Every commit must contain a Signed-off-by line in the commit message (e.g.,
-`Signed-off-by: Authorname <author@email.com>`), indicating the author has the
-right to make the contribution under the open source license.
+Each project much adopt either the [Developer Certificate of Origin (DCO)](DCO)
+or Contributor License Agreement (CLA).
 
-Alternately, projects may decide to adopt a CLA. In this case each contributor
-must be covered by a signed CLA, either as an individual contributor on their
-own behalf or from their employer. The OpenJS Foundation Board of Directors has
-pre-approved an [Individual CLA][ICLA] and a [Corporate CLA][CCLA] which
-projects can adopt without any further review. The decision to adopt a CLA is
-left to each project's governing body.
+The Board has pre-approved an [Individual CLA (ICLA)][ICLA]
+and a [Corporate CLA (CCLA)][CCLA]
+which projects can adopt without any further review.
 
-When a contributor signs the default OpenJS Foundation CLA in one project, they
-will automatically be covered for any other project which uses the same CLA.
+If you need to use a different CLA, you will need to
+[require an exemption from the board](#requiring-an-exemption-from-the-board).
 
-To use the CLA with your project, or if there are special circumstances that
-may require a different CLA, please contact
-[legal-questions@lists.openjsf.org](mailto:legal-questions@lists.openjsf.org).
+To setup the CLA infrastructure, [reach out to the foundation staff](#getting-help).
+
+## Requiring an exemption from the Board
+
+If your project requires an exemption from the [IP Policy][],
+you will need to obtain special permission from the Board.
+To do so, please [open an issue in the Cross Project Council repository](https://github.com/openjs-foundation/cross-project-council/issues/new?title=Board%20exemption%20request%20for),
+and assign or @-mention [@brianwarner](https://github.com/brianwarner) and 
+[your Project Represenatives](https://github.com/openjs-foundation/cross-project-council#impact-project-representatives) if your are an Impact project,
+the [Growth & At Large Project Representatives](https://github.com/openjs-foundation/cross-project-council#growth--at-large-project-representatives)  if your are a Growth or At Large project,
+or [your Champion](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#application-champion) if you are an Incubating project.
 
 ## Getting help
 
@@ -88,3 +92,5 @@ If you have a question about this policy or how to implement it, please reach ou
 [ICLA]: https://individual-cla.openjsf.org
 [CCLA]: https://corporate-cla.openjsf.org
 [standard website footer]: https://github.com/openjs-foundation/artwork#copyright-notices-for-project-website-footers
+
+
