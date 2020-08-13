@@ -30,7 +30,7 @@ Documentation may be licensed under:
   * [MIT](https://opensource.org/licenses/MIT)
 
 If you need to use a license which isn't in the [IP Policy],
-you will need to obtain permission from the Board to do so.
+you will need to obtain permission from the Board to do so. Please [open an issue in the CPC repo](https://github.com/openjs-foundation/cross-project-council/issues), and assign it to brianwarner.
 
 ### 2. Copyright notices
 
@@ -47,7 +47,7 @@ and variations on the (c) symbol.
 
 _Please note that you **must not** change or remove existing copyright lines
 unless you put them there **and** have the right to do so.
-If there are existing copyright lines just
+If there are existing copyright lines
 add the recommended copyright statement below the existing copyright lines.
 You may however update copyright lines that say
 "JS Foundation" or "Node.js Foundation" to "OpenJS Foundation"
