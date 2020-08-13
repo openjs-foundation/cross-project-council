@@ -62,7 +62,7 @@ All project websites need to have a [standard website footer][].
 ### 4. Adopting the DCO or a CLA
 
 Each project much adopt either the [Developer Certificate of Origin (DCO)][DCO]
-or Contributor License Agreement (CLA).
+or a Contributor License Agreement (CLA).
 
 The Board has pre-approved an [Individual CLA (ICLA)][ICLA]
 and a [Corporate CLA (CCLA)][CCLA]
@@ -92,4 +92,3 @@ If you have a question about this policy or how to implement it, please reach ou
 [ICLA]: https://individual-cla.openjsf.org
 [CCLA]: https://corporate-cla.openjsf.org
 [standard website footer]: https://github.com/openjs-foundation/artwork#copyright-notices-for-project-website-footers
-
