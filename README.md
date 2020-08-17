@@ -110,6 +110,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Jordan Harband (@ljharb)
 - Jory Burson (@jorydotcom)
 - Kris Borchers (@kborchers)
+- Mary Marchini (@mmarchini)
 - Michael Dawson (@mhdawson)
 - Myles Borins (@MylesBorins)
 - Nick O'Leary (@knolleary)
