@@ -104,6 +104,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Antón Molleda (@molant)
 - Ben Michel (@obensource)
 - Christian Bromann (@christian-bromann)
+- Darcy Clarke (@darcyclarke)
 - Dhruv Jain (@maddhruv)
 - Divy Tolia (@designmoreweb)
 - Eemeli Aro (@eemeli)
