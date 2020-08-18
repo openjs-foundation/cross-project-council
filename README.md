@@ -75,48 +75,48 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members)
 
-- **Appium**: Isaac Murchie (@imurchie, Sauce Labs) & Jonah Stiennon(@Jonahss, Origin Labs)
-- **Dojo**: Dylan Schiemann (@dylans, Site Pen)
-- **Electron**: Shelley Vohr (@codebytere, Microsoft) & Tierney Cyren (@bnb, Microsoft)
-- **jQuery**: Dave Methvin (@dmethvin, USDS) & Timmy Willison (@timmywil, Spokestack)
-- **Node.js**: Matteo Collina (@mcollina, NearForm) & Joe Sepi (@joesepi, IBM)
-- **webpack**: Sean Larkin (@TheLarkInn, Microsoft) & Tobias Koppers (@sokra, self-employed)
+- **Appium**: Isaac Murchie ([@imurchie](https://github.com/imurchie), Sauce Labs) & Jonah Stiennon([@Jonahss](https://github.com/Jonahss), Origin Labs)
+- **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Site Pen)
+- **Electron**: Shelley Vohr ([@codebytere](https://github.com/codebytere), Microsoft) & Tierney Cyren ([@bnb](https://github.com/bnb), Microsoft)
+- **jQuery**: Dave Methvin ([@dmethvin](https://github.com/dmethvin), USDS) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
+- **Node.js**: Matteo Collina ([@mcollina](https://github.com/mcollina), NearForm) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+- **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Tobias Koppers ([@sokra](https://github.com/sokra), self-employed)
 
 #### Growth & At Large Project Representatives
 
 According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), each of the Growth, At Large, and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
-- Christopher Hiller (@boneskull, IBM)
-- Tobie Langel (@tobie, UnlockOpen)
+- Christopher Hiller ([@boneskull](https://github.com/boneskull), IBM)
+- Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
 
 #### Elected by Regular Members
 According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), up to two regular
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
-- Eemeli Aro (@eemeli, Vincit)
-- Michael Dawson (@mhdawson, IBM)
+- Eemeli Aro ([@eemeli](https://github.com/eemeli), Vincit)
+- Michael Dawson ([@mhdawson](https://github.com/mhdawson), IBM)
 
 ### Regular Members
 
 Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
 
-- Abraham Jr Agiri (@codeekage)
-- Antón Molleda (@molant)
-- Ben Michel (@obensource)
-- Christian Bromann (@christian-bromann)
-- Dhruv Jain (@maddhruv)
-- Divy Tolia (@designmoreweb)
-- Eemeli Aro (@eemeli)
-- Jordan Harband (@ljharb)
-- Jory Burson (@jorydotcom)
-- Kris Borchers (@kborchers)
-- Mary Marchini (@mmarchini)
-- Michael Dawson (@mhdawson)
-- Myles Borins (@MylesBorins)
-- Nick O'Leary (@knolleary)
-- Sara Chipps (@sarajo)
-- Sendil Kumar (@sendilkumarn)
-- Waleed Ashraf (@waleedashraf)
+- Abraham Jr Agiri ([@codeekage](https://github.com/codeekage))
+- Antón Molleda ([@molant](https://github.com/molant))
+- Ben Michel ([@obensource](https://github.com/obensource))
+- Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
+- Dhruv Jain ([@maddhruv](https://github.com/maddhruv))
+- Divy Tolia ([@designmoreweb](https://github.com/designmoreweb))
+- Eemeli Aro ([@eemeli](https://github.com/eemeli))
+- Jordan Harband ([@ljharb](https://github.com/ljharb))
+- Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
+- Kris Borchers ([@kborchers](https://github.com/kborchers))
+- Mary Marchini ([@mmarchini](https://github.com/mmarchini)
+- Michael Dawson ([@mhdawson](https://github.com/mhdawson))
+- Myles Borins ([@MylesBorins](https://github.com/MylesBorins))
+- Nick O'Leary ([@knolleary](https://github.com/knolleary))
+- Sara Chipps ([@sarajo](https://github.com/sarajo))
+- Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
+- Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
 
 ### Observers
 
