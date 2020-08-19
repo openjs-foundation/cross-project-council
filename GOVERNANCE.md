@@ -76,9 +76,14 @@ Subsequent terms will be for a period of 1 year ending the following March 31st.
 ## Term for CPC Board representatives
 
 As per the CPC charter, the term for CPC Board representatives is 1 year. Due to the bootstrap
-process, the term for the first year will be adjusted such that the initial term for all CPC
-Board representatives will end June 30th, 2020. Subsequent terms will be for a period
-of 1 year ending the following June 30th. 
+process and the decision to stagger CPC representative terms by 6 months, the initial term for the
+[Primary CPC Director][] will end February 28, 2021 and the initial term for the
+[Secondary CPC Director][] will end August 31, 2020. Subsequent terms will be for a period
+of 1 year ending the last day of February for the Primary CPC Director and August 31 for the
+Secondary CPC Director.
+
+In the event that the [Tertiary CPC Director][] seat is activated and a start date is determined,
+the Tertiary CPC Director will then serve for a term of 1 year from that start date.
 
 ## Election process for Non-Impact Voting CPC members
 
@@ -232,3 +237,6 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
 [OpenJS Foundation CPC directory]: https://github.com/openjs-foundation/directory-private/blob/master/groups/cross-project-council.yml
+[Primary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#the-primary-cpc-director-as-defined-in-43d-in-the-openjs-foundation-bylaws
+[Secondary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#the-secondary-cpc-director-as-defined-in-43e-in-theopenjs-foundation-bylaws
+[Tertiary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#the-tertiary-cpc-director-as-defined-in-43f-in-the-openjs-foundation-bylaws
