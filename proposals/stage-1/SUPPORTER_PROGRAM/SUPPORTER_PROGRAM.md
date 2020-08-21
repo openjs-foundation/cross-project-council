@@ -49,3 +49,4 @@ What resources would be needed to execute it?
     * Support for the members of the program (questions, emails, updates)
     * Ensuring that the membership program is continually promoted and growing
     * Help with running periodic satisfaction surveys (NPS or related)
+    
