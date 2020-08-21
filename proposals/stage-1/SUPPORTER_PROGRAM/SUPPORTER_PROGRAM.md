@@ -31,3 +31,21 @@ Membership is charged at $25/year. Membership is renewed 1 year from the date of
 
 Members will be required to comply with the Code of Conduct, and may be subject to removal upon violation. 
 
+## Required Resources
+
+What resources would be needed to execute it?
+* Workflow to add new supporters to monthly email 
+    * Existing subscribers will not be removed
+    * They can request removal at any time
+    * Optional additional email content, such as “What is the CPC and how can I get involved” can be set up via an email drip campaign for new supporters. 
+* Design
+    * JavaScriptlandia logo, passports, avatars, and swag
+* Web
+    * A page to reflect current membership on the website
+    * A swag store for supporters (turnkey)
+    * A sign up page for membership with a payment gateway that allows for subscriptions
+    * Possibly a page with a passport that you can add stamps to?
+* Foundation
+    * Support for the members of the program (questions, emails, updates)
+    * Ensuring that the membership program is continually promoted and growing
+    * Help with running periodic satisfaction surveys (NPS or related)
