@@ -17,11 +17,16 @@ What resources would be needed to execute it?
     * They can request removal at any time
     * Optional additional email content, such as “What is the CPC and how can I get involved” can be set up via an email drip campaign for new supporters. 
 * Design
-    * OpenJS Member badges, avatars, and swag
+    * JavaScriptlandia logo, passports, avatars, and swag
 * Web
     * A page to reflect current membership on the website
     * A swag store for supporters (turnkey)
     * A sign up page for membership with a payment gateway that allows for subscriptions
+    * Possibly a page with a passport that you can add stamps to?
+* Foundation
+    * Support for the members of the program (questions, emails, updates)
+    * Ensuring that the membership program is continually promoted and growing
+    * Help with running periodic satisfaction surveys (NPS or related)
 
 ## Who would be responsible?
 
@@ -32,6 +37,7 @@ The CPC would own the maintenance and sustainability of the program with OpenJS 
 * Growth of the membership list
 * Quantifiable public advocacy from supporters for the OpenJS foundation and projects
 * An increase in contributors to projects from small to large
+* More attendees at weekly CPC meetings, and additional CPC members
 
 ## What is necessary to complete this proposal
 
@@ -40,8 +46,14 @@ Approval of this proposal from project members of the NF and JSF, the Node.js Bo
 ##Open Questions
 
 * What should the income from the supporter program go towards? 
-* How should this be implemented? By who?
-* When should this be announced? 
+* What should the landing page be like, can we give members "passports"? 
+
+##Timeline
+
+Our goal to roll out this program will be Q4, permitting everything goes smoothly. 
+
+ 
+
 
 
 
