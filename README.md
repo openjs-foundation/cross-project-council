@@ -79,7 +79,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 - **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Site Pen)
 - **Electron**: Shelley Vohr ([@codebytere](https://github.com/codebytere), Microsoft) & Tierney Cyren ([@bnb](https://github.com/bnb), Microsoft)
 - **jQuery**: Dave Methvin ([@dmethvin](https://github.com/dmethvin), USDS) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
-- **Node.js**: Matteo Collina ([@mcollina](https://github.com/mcollina), NearForm) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+- **Node.js**: Mary Marchini([@mmarchini](https://github.com/mmarchini), Netflix) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
 - **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Tobias Koppers ([@sokra](https://github.com/sokra), self-employed)
 
 #### Growth & At Large Project Representatives
@@ -112,7 +112,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Kris Borchers ([@kborchers](https://github.com/kborchers))
 - Marcin Hoppe ([@MarcinHoppe](https://github.com/MarcinHoppe))
-- Mary Marchini ([@mmarchini](https://github.com/mmarchini)
+- Matteo Collina ([@mcollina](https://github.com/mcollina)
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Myles Borins ([@MylesBorins](https://github.com/MylesBorins))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
