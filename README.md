@@ -25,6 +25,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 * [AMP](https://amp.dev/)
 * [architect](https://arc.codes/)
+* [Fastify](https://fastify.io)
 * [Intern](https://theintern.github.io/)
 * [Mocha](https://mochajs.org/)
 * [Node-Red](https://nodered.org/)
@@ -58,7 +59,6 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 #### Incubating Projects
 
-* [Fastify](https://fastify.io)
 * [nvm](http://nvm.sh/)
 
 ## CPC Meetings
