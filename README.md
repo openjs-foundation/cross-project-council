@@ -111,6 +111,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Kris Borchers ([@kborchers](https://github.com/kborchers))
+- Marcin Hoppe ([@MarcinHoppe](https://github.com/MarcinHoppe))
 - Mary Marchini ([@mmarchini](https://github.com/mmarchini)
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Myles Borins ([@MylesBorins](https://github.com/MylesBorins))
