@@ -61,7 +61,7 @@ All project websites need to have a [standard website footer][].
 
 ### 4. Adopting the DCO or a CLA
 
-Each project much adopt either the [Developer Certificate of Origin (DCO)][DCO]
+Each project must adopt either the [Developer Certificate of Origin (DCO)][DCO]
 or a Contributor License Agreement (CLA).
 
 The Board has pre-approved an [Individual CLA (ICLA)][ICLA]
