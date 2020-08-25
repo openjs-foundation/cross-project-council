@@ -71,7 +71,13 @@ which projects can adopt without any further review.
 If you need to use a different CLA, you will need to
 [require an exemption from the board](#requiring-an-exemption-from-the-board).
 
-To setup the CLA infrastructure, [reach out to the foundation staff](#getting-help).
+We are preparing additional guidance documentation on how to implement the DCO or a CLA,
+what infrastructure the foundation provides to help with this,
+what steps maintainers need to make when merging pull requests,
+and how to fix common issues that arise when using either solution.
+
+To setup the CLA infrastructure until this additional documentation is ready,
+please [reach out to foundation staff](#getting-help).
 
 ## Requiring an exemption from the Board
 
