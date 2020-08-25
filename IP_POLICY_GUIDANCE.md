@@ -29,10 +29,8 @@ Documentation may be licensed under:
   * [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
   * [MIT](https://opensource.org/licenses/MIT)
 
-If you need to use a license which isn't in the [IP Policy][],
-you will need to obtain permission from the Board to do so.
-Please [open an issue in the CPC repository](https://github.com/openjs-foundation/cross-project-council/issues/new),
-and assign it to @brianwarner.
+If you need to use a license which isn't in the [IP Policy][], you will
+[need to obtain permission from the Board to do so](#requiring-an-exemption-from-the-board).
 
 ### 2. Copyright notices
 
