@@ -42,6 +42,10 @@ Links to social media accounts
 
 List current channels e.g.: Slack / IRC / Mailing lists
 
+## Security Policy
+
+Link to security policy for the project, if applicable.
+
 ## Governance Structure
 
 * Is there a leadership team?

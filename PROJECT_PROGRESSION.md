@@ -110,6 +110,7 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
   * marketing & social media
   * infrastructure
   * legal/governance help
+- [ ] Publish security policy (see [PROJECT_SECURITY_REPORTING](PROJECT_SECURITY_REPORTING.md))
 
 ## Post-graduation Checklist
 
@@ -156,7 +157,7 @@ To be considered for the At Large Stage, the project must meet the following req
 
 #### Definition
 
-The Growth Stage is for projects that are interested in reaching the Impact Stage, and have identified a growth plan for doing so. Growth Stage projects will receive mentorship from the CPC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor in to broad success and adoption.
+The Growth Stage is for projects that are interested in reaching the Impact Stage, and have identified a growth plan for doing so. Growth Stage projects will receive mentorship from the CPC and are expected to actively develop their community of contributors, governance, project documentation, security practices, and other variables identified in the growth plan that factor in to broad success and adoption.
 
 In order to support their active development, projects in the Growth stage have a higher level of access to marketing and other resources, which will be agreed upon and reviewed on a yearly basis. A project's progress toward its growth plan goals will be reviewed on a yearly basis, and the CPC may ask the project to move to the At Large stage if progress on the plan drops off or stalls. 
 
@@ -181,6 +182,7 @@ To be considered for Growth Stage, the project must meet the At Large requiremen
  * Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan.
  * Since these metrics can vary significantly depending on the type, scope and size of a project, the CPC has final judgement over the level of activity that is adequate to meet these criteria.
  * Receive a two-thirds supermajority vote of the CPC to move to Growth Stage. 
+ * Accept security reports and publicly disclose them after the fix has been made available.
 
 ### Impact Stage
 
