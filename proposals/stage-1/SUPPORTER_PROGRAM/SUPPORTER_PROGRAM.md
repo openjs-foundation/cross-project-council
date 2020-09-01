@@ -8,7 +8,7 @@ While one goal of this group is introducing members to projects and helping the 
 
 We also want to grow awareness of OpenJS, our projects, and how to get involved. 
 
-Additionally, Individual membership should help people understand that their projects too can get support from the foundation, and the OpenJS foundation is their foundation. 
+Additionally, being an Individual supporter should help people understand that their projects can also get support from the foundation, and that the OpenJS Foundation is their Foundation. 
 
 A tertiary goal is to establish a pool from which an ambassador program can be started. Recognizing people that evangelize and recruit for OpenJS projects. 
 
