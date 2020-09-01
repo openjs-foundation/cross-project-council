@@ -22,7 +22,7 @@ There will be a repository for supporters, and they will be able to display thei
 
 Additionally, they will receive discounts for training, certification, conferences, and potentially exclusive offers from member organizations. 
 
-Lastly, members will have access to the member store where they can purchase OpenJS member swag to show their support for our projects. Revenue from swag will go towards furthering the reach of the foundation. 
+Lastly, supporters will have access to the supporter store where they can purchase OpenJS supporter swag to show their support for our projects. Revenue from swag will go towards furthering the reach of the foundation. 
 
 
 ## Membership Cost
