@@ -10,7 +10,7 @@ We also want to grow awareness of OpenJS, our projects, and how to get involved.
 
 Additionally, being an Individual supporter should help people understand that their projects can also get support from the foundation, and that the OpenJS Foundation is their foundation. 
 
-A tertiary goal is to establish a pool from which an ambassador program can be started. Recognizing people that evangelize and recruit for OpenJS projects. 
+A tertiary goal is to establish a pool from which an ambassador program can be started. Recognizing people that advocate and recruit for OpenJS projects. 
 
 ## Supporter Benefits
 
