@@ -25,7 +25,7 @@ Additionally, they will receive discounts for training, certification, conferenc
 Lastly, supporters will have access to the supporter store where they can purchase OpenJS supporter swag to show their support for our projects. Revenue from swag will go towards furthering the reach of the foundation. 
 
 
-## Membership Cost
+## Supporter Cost
 
 Membership is charged at $25/year. Membership is renewed 1 year from the date of your membership. Supporters can cancel at any time and not be charged for the next year. 
 
