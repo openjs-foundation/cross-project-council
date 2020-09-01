@@ -15,7 +15,7 @@ The CPC would own the maintenance and sustainability of the program with OpenJS 
 
 ## How would success be measured?
 
-* Growth of the membership list
+* Growth of the supporter list
 * Quantifiable public advocacy from supporters for the OpenJS foundation and projects
 * An increase in contributors to projects from small to large
 * More attendees at weekly CPC meetings, and additional CPC members
@@ -27,7 +27,8 @@ Approval of this proposal from project members of the NF and JSF, the Node.js Bo
 ##Open Questions
 
 * What should the income from the supporter program go towards? 
-* What should the landing page be like, can we give members "passports"?
+* What should the landing page be like, can we give supporters "passports"?
+* Should we auutomatically re-charge supporters at the end of a calendar year? 
 
 ##Timeline
 
