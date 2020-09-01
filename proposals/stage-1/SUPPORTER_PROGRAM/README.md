@@ -16,7 +16,7 @@ The CPC would own the maintenance and sustainability of the program with OpenJS 
 ## How would success be measured?
 
 * Growth of the supporter list
-* Quantifiable public advocacy from supporters for the OpenJS foundation and projects
+* Quantifiable public advocacy from supporters for the OpenJS Foundation and projects
 * An increase in contributors to projects from small to large
 * More attendees at weekly CPC meetings, and additional CPC members
 
