@@ -12,7 +12,7 @@ Additionally, being an Individual supporter should help people understand that t
 
 A tertiary goal is to establish a pool from which an ambassador program can be started. Recognizing people that evangelize and recruit for OpenJS projects. 
 
-## Membership Benefits
+## Supporter Benefits
 
 Citizens of JavaScriptlandia will receive a supporters' weekly newsletter keeping them up to date on the last from OpenJS projects, the CPC, and the board. They will be invited to participate in discussions about governance and new initiatives. 
 
