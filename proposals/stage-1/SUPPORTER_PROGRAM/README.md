@@ -1,4 +1,4 @@
-# Individual Membership Representation Proposal
+# Individual Supporter Representation Proposal
 >  Stage 1
 
 ## Champion
@@ -7,7 +7,7 @@
  
 ## Description
 
-Membership program for OpenJS individual supporters. 
+Supporter program for OpenJS individual supporters. 
 
 ## Who would be responsible?
 
