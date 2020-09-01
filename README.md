@@ -156,7 +156,7 @@ Discussion should be held in the open whenever possible.  However, if you need t
 
 OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](./project-resources/MEMBER_TRAVEL_FUND.md). Details can be found in the [/project-resources](./project-resources) directory.
 
-OpenJS Foundation Collaboration spaces are able to take advantage of several services and benefits as outlined in [Collaboration 
+OpenJS Foundation Collaboration spaces are able to take advantage of several services and benefits as outlined in [OLLABORATION_NETWORK.md](COLLABORATION_NETWORK.md).
 
 
 ### Help with project infrastructure
