@@ -18,7 +18,7 @@ Citizens of JavaScriptlandia will receive a members weekly newsletter keeping th
 
 They will be featured on our global supporter page, and will be given a digital passport that they can put on an avatar, their blog, and/or personal website. Their passport will feature the libaries that they use the most, and the ones that are the biggest fans of. 
 
-There will be a repository for members, and they will be able to display their badge proudly on their Github profile. Members can incubate projects in that repository (this should have discussion).
+There will be a repository for supporters, and they will be able to display their badge proudly on their Github profile. Supporters can incubate projects in that repository (this should have discussion).
 
 Additionally, they will receive discounts for training, certification, conferences, and potentially exclusive offers from member organizations. 
 
