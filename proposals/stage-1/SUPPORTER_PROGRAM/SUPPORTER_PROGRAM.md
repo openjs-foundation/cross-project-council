@@ -2,13 +2,13 @@
 
 JavaScriptLandia is a place where all JavaScript developers, whether if you're all about TypeScript, a React evangelist, or you stick to Node.js, gather to declare their support for the JavaScript ecosystem and OpenJS. 
 
-It's an Individual Supporter Program whose goals are to help bring awareness about OpenJS projects to possible contributors. A way for individuals to show support and be a part of the OpenJS foundation, as well as providing an opportunity for community with the other members. 
+It's an Individual Supporter Program whose goals are to help bring awareness about OpenJS projects to possible contributors. A way for individuals to show support and be a part of the OpenJS Foundation, as well as providing an opportunity for community with the other supporters. 
 
-While one goal of this group is introducing members to projects and helping the projects find the support they need; the supporter program will also be an opportunity to welcome an inclusive group of coders from around the world that love the projects that are part of the OpenJS foundation. This also brings in new perspectives and feedback from the vast community of JavaScript developers.
+While one goal of this group is introducing supporter to projects and helping the projects find the support they need; the supporter program will also be an opportunity to welcome an inclusive group of coders from around the world that love the projects that are part of the OpenJS Foundation. This also brings in new perspectives and feedback from the vast community of JavaScript developers.
 
 We also want to grow awareness of OpenJS, our projects, and how to get involved. 
 
-Additionally, being an Individual supporter should help people understand that their projects can also get support from the foundation, and that the OpenJS Foundation is their Foundation. 
+Additionally, being an Individual supporter should help people understand that their projects can also get support from the foundation, and that the OpenJS Foundation is their foundation. 
 
 A tertiary goal is to establish a pool from which an ambassador program can be started. Recognizing people that evangelize and recruit for OpenJS projects. 
 
@@ -41,11 +41,11 @@ What resources would be needed to execute it?
 * Design
     * JavaScriptlandia logo, passports, avatars, and swag
 * Web
-    * A page to reflect current membership on the website
+    * A page to reflect current supporters on the website
     * A swag store for supporters (turnkey)
     * A sign up page for membership with a payment gateway that allows for subscriptions
     * Possibly a page with a passport that you can add stamps to?
 * Foundation
-    * Support for the members of the program (questions, emails, updates)
-    * Ensuring that the membership program is continually promoted and growing
+    * Support for the members of the supporter program (questions, emails, updates)
+    * Ensuring that the supporter program is continually promoted and growing
     * Help with running periodic satisfaction surveys (NPS or related)
