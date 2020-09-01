@@ -27,7 +27,7 @@ Lastly, supporters will have access to the supporter store where they can purcha
 
 ## Supporter Cost
 
-Membership is charged at $25/year. Membership is renewed 1 year from the date of your membership. Supporters can cancel at any time and not be charged for the next year. 
+OpenJS supporters are charged $25/year. Supporter status is renewed 1 year from the date of your initial support. Supporters can cancel at any time and not be charged for the next year. 
 
 Supporters will be required to comply with the Code of Conduct, and may be subject to removal upon violation. 
 
