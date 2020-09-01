@@ -1,6 +1,6 @@
 ## The People's Community of JavaScriptlandia 
 
-JavaScriptLandia is a place where all JavaScript developers, whether if you're all about TypeScript, a React evangelist, or you stick to Node.js gather to declare their support for the JavaScript ecosystem and OpenJS. 
+JavaScriptLandia is a place where all JavaScript developers, whether if you're all about TypeScript, a React evangelist, or you stick to Node.js, gather to declare their support for the JavaScript ecosystem and OpenJS. 
 
 It's an Individual Supporter Program whose goals are to help bring awareness about OpenJS projects to possible contributors. A way for individuals to show support and be a part of the OpenJS foundation, as well as providing an opportunity for community with the other members. 
 
