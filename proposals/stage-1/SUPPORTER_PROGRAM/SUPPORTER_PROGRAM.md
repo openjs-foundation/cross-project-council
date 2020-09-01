@@ -14,7 +14,7 @@ A tertiary goal is to establish a pool from which an ambassador program can be s
 
 ## Membership Benefits
 
-Citizens of JavaScriptlandia will receive a members weekly newsletter keeping them up to date on the last from OpenJS projects, the CPC, and the board. They will be invited to participate in discussions about governance and new initiatives. 
+Citizens of JavaScriptlandia will receive a supporters' weekly newsletter keeping them up to date on the last from OpenJS projects, the CPC, and the board. They will be invited to participate in discussions about governance and new initiatives. 
 
 They will be featured on our global supporter page, and will be given a digital passport that they can put on an avatar, their blog, and/or personal website. Their passport will feature the libaries that they use the most, and the ones that are the biggest fans of. 
 
