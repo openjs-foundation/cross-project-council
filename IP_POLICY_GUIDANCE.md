@@ -77,7 +77,7 @@ and how to fix common issues that arise when using either solution.
 To setup the CLA infrastructure until this additional documentation is ready,
 please [reach out to foundation staff](#getting-help).
 
-## Requiring an exemption from the Board
+## Obtaining an exemption from the Board
 
 If your project requires an exemption from the [IP Policy][],
 you will need to obtain special permission from the Board.
