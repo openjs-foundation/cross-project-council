@@ -67,7 +67,7 @@ and a [Corporate CLA (CCLA)][CCLA]
 which projects can adopt without any further review.
 
 If you need to use a different CLA, you will need to
-[require an exemption from the board](#requiring-an-exemption-from-the-board).
+[obtaining an exemption from the board](#obtaining-an-exemption-from-the-board).
 
 We are preparing additional guidance documentation on how to implement the DCO or a CLA,
 what infrastructure the foundation provides to help with this,
