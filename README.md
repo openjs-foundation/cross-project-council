@@ -65,7 +65,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 ### OpenJS Collaboration spaces
 
 The following are official OpenJS Collaboration spaces. If you are interested in fostering collaboration with the 
-support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression]
+support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression](./COLLABORATION_SPACE_PROGRESSION.md)
 
 * There are currently no collaboration spaces.
 
