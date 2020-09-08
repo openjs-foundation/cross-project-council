@@ -10,56 +10,68 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 
 ### OpenJS Foundation Projects
 
-The following projects are official OpenJS Foundation projects. If you are interested in bringing your project to the OpenJS Foundation, please read our [Project Progression](./PROJECT_PROGRESSION.md) and [New Project Application](./NEW_PROJECT_APPLICATION.md) documents, or contact any CPC member with questions. 
+The following projects are official OpenJS Foundation projects. If you are interested in bringing your project to the OpenJS Foundation, please read our [Project Progression](./PROJECT_PROGRESSION.md) and [New Project Application](./NEW_PROJECT_APPLICATION.md) documents, or contact any CPC member with questions.
 
 #### Impact Projects
 
-* [Appium](https://appium.io/)
-* [Dojo](https://dojo.io/)
-* [Electron](https://electronjs.org)
-* [jQuery](https://jquery.com/)
-* [Node.js](https://nodejs.org)
-* [webpack](https://webpack.js.org/)
+| | Project        | Charter           | Contributing       | Code of Conduct       |
+|-|----------------|:-----------------:|:------------------:|:---------------------:|
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/appium/appium-icon-color.png" width="30" /> | [Appium](https://appium.io/)       |      | [🔗](https://github.com/appium/appium/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/appium/appium/blob/master/CONDUCT.md) |  
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/dojo/dojo-icon-color.png" width="30" /> | [Dojo](https://dojo.io/)               |      | [🔗](https://github.com/dojo/framework/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/dojo/framework/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/electron/electron-icon-color.png" width="30" /> | [Electron](https://electronjs.org) |      | [🔗](https://github.com/electron/electron/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/electron/electron/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/jquery/jquery-icon-color.png" width="30" /> | [jQuery](https://jquery.com/)      |      | [🔗](https://github.com/jquery/jquery/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/nodejs/nodejs-icon-color.png" width="30" /> | [Node.js](https://nodejs.org)      |      | [🔗](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/nodejs/node/blob/master/doc/guides/contributing/code-of-conduct.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/webpack/webpack-icon-color.png" width="30" /> | [webpack](https://webpack.js.org/) |      | [🔗](https://github.com/webpack/webpack/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/webpack/webpack/blob/master/CODE_OF_CONDUCT.md) |
+
 
 #### Growth Projects
 
-* [AMP](https://amp.dev/)
-* [architect](https://arc.codes/)
-* [Fastify](https://fastify.io)
-* [Intern](https://theintern.github.io/)
-* [Mocha](https://mochajs.org/)
-* [Node-Red](https://nodered.org/)
-* [WebdriverIO](https://webdriver.io/)
-* [webhint](https://webhint.io/)
+| | Project        | Charter           | Contributing       | Code of Conduct       |
+|-|----------------|:-----------------:|:------------------:|:---------------------:|
+| | [AMP](https://amp.dev/)                |      |    | [🔗](https://github.com/ampproject/amphtml/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/architect/architect-icon-grayscale.png" width="30" /> | [architect](https://arc.codes/)         |   |  [🔗](https://github.com/architect/architect/blob/master/.github/contributing.md)   | [🔗](https://github.com/architect/architect/blob/master/.github/code_of_conduct.md) |
+| | [Fastify](https://fastify.io)          | |    | [🔗](https://github.com/fastify/fastify/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/fastify/fastify/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/intern/intern-icon-color.png" width="30" /> | [Intern](https://theintern.github.io/)  |    | [🔗](https://github.com/theintern/intern/blob/master/CONTRIBUTING.md) |  |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/mocha/mocha-icon-color.png" width="30" /> | [Mocha](https://mochajs.org/)           |    | [🔗](https://github.com/mochajs/mocha/blob/master/.github/CONTRIBUTING.md) | [🔗](https://github.com/mochajs/mocha/blob/master/.github/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/node_red/node_red-icon-color.png" width="30" /> | [Node-RED](https://nodered.org/)        |    | [🔗](https://nodered.org/about/contribute/) | [🔗](https://nodered.org/about/conduct/) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/webdriverio/webdriverio-icon-color.png" width="30" /> | [WebdriverIO](https://webdriver.io/)    |    | [🔗](https://github.com/webdriverio/webdriverio/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/webdriverio/webdriverio/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/webhint/webhint-icon-color.png" width="30" /> | [webhint](https://webhint.io/)          |    | [🔗](https://github.com/webhintio/hint/blob/main/.github/CONTRIBUTING.md) | [🔗](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
 
 #### At-Large Projects
 
-* [ESLint](https://eslint.org/)
-* [Esprima](https://esprima.org/)
-* [Express](https://expressjs.com/)
-* [Grunt](https://gruntjs.com/)
-* [HospitalRun](https://hospitalrun.io/)
-* [Interledger.js](https://interledger.org/)
-* [JerryScript](https://jerryscript.net/)
-* [Libuv](https://libuv.org/)
-* [Lodash](https://lodash.com/)
-* [Marko](https://markojs.com/)
-* [messageformat](https://messageformat.github.io/messageformat/)
-* [Moment](https://momentjs.com/)
-* [PEP](https://github.com/jquery/pep)
-* [QUnit](https://qunitjs.com/)
+| | Project        | Charter           | Contributing       | Code of Conduct       |
+|-|----------------|:-----------------:|:------------------:|:---------------------:|
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/eslint/eslint-icon-color.png" width="30" /> | [ESLint](https://eslint.org/)              |    | [🔗](https://github.com/eslint/eslint/blob/master/CONTRIBUTING.md) | [🔗](https://eslint.org/conduct) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/esprima/esprima-icon-color.png" width="30" /> | [Esprima](https://esprima.org/)            |    | [🔗](https://github.com/jquery/esprima/blob/master/CONTRIBUTING.md) |  |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/express/express-icon-black.png" width="30" /> | [Express](https://expressjs.com/)          |    | [🔗](https://expressjs.com/en/resources/contributing.html) | [🔗](https://github.com/expressjs/express/blob/master/Code-Of-Conduct.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/globalize/globalize-icon-color-dark_background.png" width="30" /> | [Globalize](https://github.com/jquery/globalize)  |    | [🔗](https://github.com/globalizejs/globalize/blob/master/CONTRIBUTING.md) | |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/grunt/grunt-icon-color.png" width="30" /> | [Grunt](https://gruntjs.com/)              |    | [🔗](https://github.com/gruntjs/grunt/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/gruntjs/grunt/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/hospitalrun/hospitalrun-icon-color-dark_background.png" width="30" /> | [HospitalRun](https://hospitalrun.io/)     |    | [🔗](https://github.com/HospitalRun/hospitalrun/blob/master/.github/CONTRIBUTING.md) | [🔗](https://github.com/HospitalRun/hospitalrun/blob/master/.github/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/interledgerjs/interledgerjs-icon-color.png" width="30" /> | [Interledger.js](https://interledger.org/) |    | [🔗](https://github.com/interledger/rfcs/blob/master/CONTRIBUTING.md) |  |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/jerryscript/jerryscript-icon-color.png" width="30" /> | [JerryScript](https://jerryscript.net/)    |    | [🔗](https://github.com/jerryscript-project/jerryscript/blob/master/CONTRIBUTING.md) | |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/libuv/libuv-icon-color.png" width="30" /> | [Libuv](https://libuv.org/)                |    | [🔗](https://github.com/libuv/libuv/blob/v1.x/CONTRIBUTING.md) | |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/lodash/lodash-icon-color.png" width="30" /> | [Lodash](https://lodash.com/)              |    | [🔗](https://github.com/lodash/lodash/blob/master/.github/CONTRIBUTING.md) |  |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/marko/marko-icon-color.png" width="30" /> | [Marko](https://markojs.com/)              |    | [🔗](https://github.com/marko-js/marko/blob/master/.github/CONTRIBUTING.md) | [🔗](https://github.com/marko-js/marko/blob/master/.github/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/messageformat/messageformat-icon-color.png" width="30" /> | [messageformat](https://messageformat.github.io/messageformat/)  |    | [🔗](https://github.com/messageformat/messageformat/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/moment/moment-icon-color.png" width="30" /> | [Moment](https://momentjs.com/)            |    | [🔗](https://github.com/moment/moment/blob/develop/CONTRIBUTING.md) |  |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/pep/pep-icon-color.png" width="30" /> | [PEP](https://github.com/jquery/pep)       |    | [🔗](https://github.com/jquery/PEP/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/qunit/qunit-icon-color.png" width="30" /> | [QUnit](https://qunitjs.com/)              |    | [🔗](https://github.com/qunitjs/qunit/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/qunitjs/qunit/blob/master/CODE_OF_CONDUCT.md) |
 
 #### Emeritus Projects
 
-* [Chassis](https://github.com/jquery/css-chassis)
-* [jQuery Mobile](https://jquerymobile.com/)
-* [jQuery UI](https://jqueryui.com/)
-* [RequireJS](https://requirejs.org/)
-* [Sizzle](https://sizzlejs.com/)
+| | Project        | Charter           | Contributing       | Code of Conduct       |
+|-|----------------|:-----------------:|:------------------:|:---------------------:|
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/chassis/chassis-icon-color.png" width="30" /> | [Chassis](https://github.com/jquery/css-chassis)  |    | [🔗](https://github.com/jquery/css-chassis/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/jquery_mobile/jquery_mobile-icon-color.png" width="30" /> | [jQuery Mobile](https://jquerymobile.com/)        |    | [🔗](https://github.com/jquery/jquery-mobile/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/jquery_ui/jquery_ui-icon-color.png" width="30" /> | [jQuery UI](https://jqueryui.com/)                |    | [🔗](https://github.com/jquery/jquery-ui/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/requirejs/requirejs-logo-stacked-color.png" width="30" /> | [RequireJS](https://requirejs.org/)               |    | [🔗](https://requirejs.org/docs/contributing.html) | [🔗](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img src="https://github.com/openjs-foundation/artwork/raw/main/projects/sizzle/sizzle-icon-color.png" width="30" /> | [Sizzle](https://sizzlejs.com/)                   |    | [🔗](https://github.com/jquery/sizzle/blob/master/CONTRIBUTING.md) | [🔗](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
 
 #### Incubating Projects
 
-* [nvm](http://nvm.sh/)
+| | Project        | Charter           | Contributing       | Code of Conduct       |
+|-|----------------|:-----------------:|:------------------:|:---------------------:|
+| | [nvm](http://nvm.sh/) |   | [🔗](https://github.com/nvm-sh/nvm/blob/master/CONTRIBUTING.md) |  |
 
 ## CPC Meetings
 
@@ -123,13 +135,13 @@ Anyone who has been active in the foundation or one of its member projects, as d
 ### Observers
 
 Anyone can be an Observer.
-Observers are free to attend meetings and participate in the work of the CPC as well 
-as the consensus seeking process. Observers are encouraged to participate and 
-volunteer but should refrain from disrupting or blocking progress. Observers 
-are expected to participate in a positive and collaborative manner as well as 
-following the [code of conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) 
-and [member expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/MEMBER_EXPECTATIONS.md) 
-like other CPC participants. If an Observer fails to meet these expectations they can 
+Observers are free to attend meetings and participate in the work of the CPC as well
+as the consensus seeking process. Observers are encouraged to participate and
+volunteer but should refrain from disrupting or blocking progress. Observers
+are expected to participate in a positive and collaborative manner as well as
+following the [code of conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md)
+and [member expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/MEMBER_EXPECTATIONS.md)
+like other CPC participants. If an Observer fails to meet these expectations they can
 be excluded from future CPC meetings based on a standard CPC motion.
 
 ## Policy Change Proposal Process
