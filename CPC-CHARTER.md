@@ -157,7 +157,7 @@ ensuring:
    1. Voting members are responsible for approving funds for budgets delegated
       to the project.
 1. Voting members are responsible for approving new `collaboration spaces` as outlined in the OpenJS
-[COLLABORATION_NETWORK.md](COLLABORATION_NETWORK.md) process.
+     [COLLABORATION_NETWORK.md](COLLABORATION_NETWORK.md) process.
    1. Voting members are responsible for making final decisions on aligning `collaboration spaces`,
       removing or archiving `collaboration spaces`, as outlined in the OpenJS Collaboration Network process.
    1. Following and be up to date on Board/OpenJS Foundation initiatives and communicate them to the projects.
