@@ -1,4 +1,4 @@
-# Individual Membership Representation Proposal
+# Individual Supporter Representation Proposal
 >  Stage 1
 
 ## Champion
@@ -7,21 +7,7 @@
  
 ## Description
 
-Membership program for OpenJS individual supporters. 
-
-## Required Resources
-
-What resources would be needed to execute it?
-* Workflow to add new supporters to monthly email 
-    * Existing subscribers will not be removed
-    * They can request removal at any time
-    * Optional additional email content, such as “What is the CPC and how can I get involved” can be set up via an email drip campaign for new supporters. 
-* Design
-    * OpenJS Member badges, avatars, and swag
-* Web
-    * A page to reflect current membership on the website
-    * A swag store for supporters (turnkey)
-    * A sign up page for membership with a payment gateway that allows for subscriptions
+Supporter program for OpenJS individual supporters. 
 
 ## Who would be responsible?
 
@@ -29,9 +15,10 @@ The CPC would own the maintenance and sustainability of the program with OpenJS 
 
 ## How would success be measured?
 
-* Growth of the membership list
-* Quantifiable public advocacy from supporters for the OpenJS foundation and projects
+* Growth of the supporter list
+* Quantifiable public advocacy from supporters for the OpenJS Foundation and projects
 * An increase in contributors to projects from small to large
+* More attendees at weekly CPC meetings, and additional CPC members
 
 ## What is necessary to complete this proposal
 
@@ -40,8 +27,15 @@ Approval of this proposal from project members of the NF and JSF, the Node.js Bo
 ##Open Questions
 
 * What should the income from the supporter program go towards? 
-* How should this be implemented? By who?
-* When should this be announced? 
+* What should the landing page be like, can we give supporters "passports"?
+* Should we auutomatically re-charge supporters at the end of a calendar year? 
+
+##Timeline
+
+Our goal to roll out this program will be Q4, permitting everything goes smoothly. 
+
+ 
+
 
 
 
