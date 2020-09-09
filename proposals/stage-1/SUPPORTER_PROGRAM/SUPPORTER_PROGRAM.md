@@ -4,7 +4,7 @@ JavaScriptLandia is a place where all JavaScript developers, whether if you're a
 
 It's an Individual Supporter Program whose goals are to help bring awareness about OpenJS projects to possible contributors. A way for individuals to show support and be a part of the OpenJS Foundation, as well as providing an opportunity for community with the other supporters. 
 
-While one goal of this group is introducing supporter to projects and helping the projects find the support they need; the supporter program will also be an opportunity to welcome an inclusive group of coders from around the world that love the projects that are part of the OpenJS Foundation. This also brings in new perspectives and feedback from the vast community of JavaScript developers.
+While one goal of this group is introducing supporter to projects and helping the projects find the support they need via new core commiters; the supporter program will also be an opportunity to welcome an inclusive group of coders from around the world that love the projects that are part of the OpenJS Foundation. This also brings in new perspectives and feedback from the vast community of JavaScript developers.
 
 We also want to grow awareness of OpenJS, our projects, and how to get involved. 
 
