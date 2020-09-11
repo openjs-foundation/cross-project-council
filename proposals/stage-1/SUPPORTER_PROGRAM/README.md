@@ -24,13 +24,13 @@ The CPC would own the maintenance and sustainability of the program with OpenJS 
 
 Approval of this proposal from project members of the NF and JSF, the Node.js Board of Directors, and the JSF Board of Directors
 
-##Open Questions
+## Open Questions
 
 * What should the income from the supporter program go towards? 
 * What should the landing page be like, can we give supporters "passports"?
 * Should we auutomatically re-charge supporters at the end of a calendar year? 
 
-##Timeline
+## Timeline
 
 Our goal to roll out this program will be Q4, permitting everything goes smoothly. 
 
