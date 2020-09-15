@@ -20,10 +20,10 @@ Design requrements:
 
 A signup page where supporters can become members and pay for their yearly membership. We plan to adopt the auto join functionality from the Linux Foundation. 
 
-An automated workflow to add new supporters to monthly email. 
-    * Existing subscribers will not be removed
-    * They can request removal at any time
-    * Zapier or IFTT can work if no other solution
+An automated workflow to add new supporters to monthly email
+* Existing subscribers will not be removed
+* They can request removal at any time
+* Zapier or IFTT can work if no other solution
 
 A new platform for the weekly emails, and a designed template. 
     
@@ -36,7 +36,6 @@ A swag store for supporters (turnkey)
 Inspirations and Suggestions:
 * An anthropromorphic passport, with JS branding
 * A little playful
-* Give him -
 * Binocs
 * Fanny pack
 * Tourguide flags
