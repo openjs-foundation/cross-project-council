@@ -1,6 +1,6 @@
 # Security Reporting for OpenJS Foundation Projects
 
->  Stage 2
+>  Stage 3
 
 ## Champion
 
@@ -57,10 +57,10 @@ Open source projects that can responsibly accept security reports and respond wi
 
 - [x] Input from projects on their commitment to accepting security reports
 - [x] Providing projects with generic:
-    - Minimum requirements for security reporting: [REQUIREMENTS](REQUIREMENTS.md)
+    - Minimum requirements for security reporting: [PROJECT_SECURITY_REPORTING](../../../PROJECT_SECURITY_REPORTING.md)
     - Security policy template
     - Recommendation how to handle security reports
-- [ ] Updating CPC processes and documentation to include security reporting and disclosure in:
+- [x] Updating CPC processes and documentation to include security reporting and disclosure in:
     - Project onboarding
     - Project progression
 - [ ] Agreement on level of support the Foundation can offer to projects
