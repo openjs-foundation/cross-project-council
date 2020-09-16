@@ -87,7 +87,7 @@ The Application Champion is a member of the CPC who commits to do the following:
   
 ## Onboarding Checklist
 
-<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/ISSUE_TEMPLATE/00-project-onboarding-checklist-template.md` is updated as well -->
+<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/00-project-onboarding-checklist-template.md` is updated as well -->
 
 This is an informational checklist to help projects onboard into the OpenJS Foundation - tasks we will complete together after your project has been accepted into the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
