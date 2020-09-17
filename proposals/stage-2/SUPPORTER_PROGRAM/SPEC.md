@@ -9,12 +9,12 @@ JavaScriptLandia is a place where all JavaScript developers, whether if you're a
 **Launch Announcement**
 
 This will be a blog post on the OpenJS Site
-Developed in partnership with the content team at the LF 
+Developed in partnership with the content team at the LF/OpenJSF
 We will determine the best date to post with the content team
 
 Design requirements:
 * Image of a country with multiple JS Libraries
-* Image will be created by LF internal team, we also can source iterations of it on Twitter or Github
+* Image will be created by LF/OpenJSF internal team, we also can source iterations of it on Twitter or Github
 
 **Website Changes**
 
