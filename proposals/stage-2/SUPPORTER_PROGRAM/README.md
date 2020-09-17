@@ -1,5 +1,9 @@
 # Individual Supporter Representation Proposal
->  Stage 1
+>  Stage 2
+
+## Directory
+[Spec](SPEC.md)
+[Supporter Program Details](SUPPORTER_PROGRAM.md)
 
 ## Champion
 
@@ -34,7 +38,6 @@ Approval of this proposal from project members of the NF and JSF, the Node.js Bo
 
 Our goal to roll out this program will be Q4, permitting everything goes smoothly. 
 
- 
 
 
 
