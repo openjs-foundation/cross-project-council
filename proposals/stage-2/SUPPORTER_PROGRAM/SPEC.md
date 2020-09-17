@@ -6,17 +6,17 @@ JavaScriptLandia is a place where all JavaScript developers, whether if you're a
 
 ### Phase 1 Components
 
-**Launch Announcement
+**Launch Announcement**
 
 This will be a blog post on the OpenJS Site
 Developed in partnership with the content team at the LF 
 We will determine the best date to post with the content team
 
-Design requrements:
+Design requirements:
 * Image of a country with multiple JS Libraries
 * Image will be created by LF internal team, we also can source iterations of it on Twitter or Github
 
-**Website Changes
+**Website Changes**
 
 A signup page where supporters can become members and pay for their yearly membership. We plan to adopt the auto join functionality from the Linux Foundation. 
 
@@ -31,7 +31,7 @@ A page to reflect current supporters on the website
 
 A swag store for supporters (turnkey)
 
-**A Logo and Badge
+**A Logo and Badge**
 
 Inspirations and Suggestions:
 * An anthropromorphic passport, with JS branding
