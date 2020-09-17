@@ -2,8 +2,8 @@
 >  Stage 2
 
 ## Directory
-[Spec](SPEC.md)
-[Supporter Program Details](SUPPORTER_PROGRAM.md)
+*[Spec](SPEC.md)
+*[Supporter Program Details](SUPPORTER_PROGRAM.md)
 
 ## Champion
 
