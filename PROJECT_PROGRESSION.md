@@ -18,7 +18,7 @@ New projects should express interest to join the OpenJS Foundation via an email 
 
 #### Previous Project Applications
 
-Some projects have decided to publicly share their application after being accepted for incubation. This can be helpful for new applicatns to get a sense of what is expected. Please bear in mind, however, that each project is different and that applications will vary accordingly. The CPC considers the resources that each project has available, and the expectations for the application of a large corporate-backed project going for Impact stage will not be the same as those of volunteer maintained effort aiming for the At Large stage.
+Some projects have decided to publicly share their application after being accepted for incubation. This can be helpful for new applicants to get a sense of what is expected. Please bear in mind, however, that each project is different and that applications will vary accordingly. The CPC considers the resources that each project has available, and the expectations for the application of a large corporate-backed project going for Impact stage will not be the same as those of volunteer maintained effort aiming for the At Large stage.
 
 * [AMP's application](https://gist.github.com/tobie/b5ce633d2622ca4f28e8374d9de8bdf5)
 
