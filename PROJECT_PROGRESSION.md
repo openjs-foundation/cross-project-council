@@ -206,10 +206,9 @@ Impact Stage projects are expected to participate actively in CPC proceedings, a
 To graduate from At Large or Growth status, or for a new project to join as an Impact project, a project must meet the Growth stage criteria plus:
 
  * Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than 1/3 is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer. 
- * Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
+ * Have a documented and publicly accessible description of the project's governance, decision-making, contribution, and release processes. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
  * Have a healthy number of committers from at least two organizations. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
  * Adopt the Foundation Code of Conduct.
- * Explicitly define a project governance and committer process. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
  * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
  * Other metrics as defined by the applying Project during the application process in cooperation with the CPC.
  * Receive a supermajority vote from the CPC to move to Impact stage. Projects can move directly from At Large to Impact, if they can demonstrate sufficient maturity and have met all requirements. 
