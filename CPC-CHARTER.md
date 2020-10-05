@@ -166,7 +166,7 @@ Subject to such policies as may be set by the Board, the CPC is responsible for:
       also responsible for ensuring that the OpenJS Foundation has appropriate technical
       participation in standards bodies by finding an encouraging members from
       individual projects to participate in these bodies.
-   1. Managing the Individual membership program.
+   1. Managing the Individual supporter program.
    1. Managing programs to improve inclusivity and diversity.
    1. Guiding projects into appropriate Foundation paths.
    1. Shared resources, tooling and funding for projects (Collaborator Summit Events, Travel fund).
@@ -261,12 +261,12 @@ will be be used for the voting for the first and second board members.
 
 ### The Tertiary CPC Director (as defined in §4.3(f) in the [OpenJS Foundation bylaws][])
 
-The third board seat is earmarked to represent the Individual membership
+The third board seat is earmarked to represent the Individual supporter program
 program. 3 Platinum board members as well as 2000 members registered in the
-Individual membership program are required for it to activate.
-Candidates for the Individual Membership Director are to be nominated by voting
+Individual supporter program are required for it to activate.
+Candidates for the Individual supporter Director are to be nominated by voting
 members of the top-level committees of all projects and the voting CPC members.
-Active members of the Individual Membership program would then vote on the
+Active members of the Individual Supporter program would then vote on the
 candidate of their choosing via an election system set by the CPC.
 
 ## Section 9. Decision Making
