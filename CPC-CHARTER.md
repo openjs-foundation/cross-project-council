@@ -259,16 +259,6 @@ processes once per year.
 As described in the [Elections][] section a multiple candidate method
 will be be used for the voting for the first and second board members.
 
-### The Tertiary CPC Director (as defined in §4.3(f) in the [OpenJS Foundation bylaws][])
-
-The third board seat is earmarked to represent the Individual supporter program.
-3 Platinum board members as well as 2000 members registered in the
-Individual supporter program are required for it to activate.
-Candidates for the Individual supporter Director are to be nominated by voting
-members of the top-level committees of all projects and the voting CPC members.
-Active members of the Individual Supporter program would then vote on the
-candidate of their choosing via an election system set by the CPC.
-
 ## Section 9. Decision Making
 
 For internal Project decisions, Collaborators shall operate under Lazy
