@@ -63,8 +63,9 @@ Each project must adopt either the [Developer Certificate of Origin (DCO)][DCO]
 or a Contributor License Agreement (CLA).
 
 The Board has pre-approved an [Individual CLA (ICLA)][ICLA]
-and a [Corporate CLA (CCLA)][CCLA]
-which projects can adopt without any further review.
+and a [Corporate CLA (CCLA)][CCLA].
+Project can adopt either the ICLA by itself or
+both the ICLA and CCLA without any further review.
 
 If you need to use a different CLA, you will need to
 [obtaining an exemption from the board](#obtaining-an-exemption-from-the-board).
