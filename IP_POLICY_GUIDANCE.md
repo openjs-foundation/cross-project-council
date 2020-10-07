@@ -62,10 +62,10 @@ All project websites need to have a [standard website footer][].
 Each project must adopt either the [Developer Certificate of Origin (DCO)][DCO]
 or a Contributor License Agreement (CLA).
 
-The Board has pre-approved an [Individual CLA (ICLA)][ICLA]
-and a [Corporate CLA (CCLA)][CCLA].
-Projects can adopt either the ICLA by itself or
-both the ICLA and CCLA without any further review.
+The Board has pre-approved an [individual CLA][ICLA]
+and a [corporate CLA][CCLA].
+Projects can choose to adopt either the individual CLA by itself or
+both the individual CLA and the corporate CLA without any further review.
 
 If you need to use a different CLA, you will need to
 [obtaining an exemption from the board](#obtaining-an-exemption-from-the-board).
