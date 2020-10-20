@@ -9,7 +9,7 @@ assignees: ''
 
 **Agenda:**
 
-** Facilitator:** 
+**Facilitator:** 
 **Related issue(s):** 
 **Doodle link:** 
 **Date:** 
