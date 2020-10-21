@@ -20,7 +20,7 @@ further, and to begin thinking about implementation ideas or process questions t
 The PR should include a new directory in the proposals directory titled for the proposal with a README.md with the outline 
 for the proposal.
 
-An incubating proposal can be updated through ss many PRs as you’d like, essentially providing snapshots
+An incubating proposal can be updated through as many PRs as you’d like, essentially providing snapshots
 
 ## Ready for Approval
 
@@ -37,4 +37,3 @@ The PR should include:
   * moving the directory the proposal into the Approved directory within the proposals directory
   
 Once the PR lands the proposal is considered complete and in place.
-
