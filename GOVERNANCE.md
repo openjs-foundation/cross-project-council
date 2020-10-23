@@ -87,7 +87,7 @@ the Tertiary CPC Director will then serve for a term of 1 year from that start d
 
 The election process will be started 1 month in advance of the end of the term for each Director
 with the goal of having it be complete 2 weeks before the term ends. We will not share the specific
-results in terms of votes received by each candidate as we feel this could discourage candidates.
+results in terms of votes received by each candidate as this could discourage candidates.
 Instead, general election data will be made available, for example the percentage of voter turnout.
 
 ## Election process for Non-Impact Voting CPC members
