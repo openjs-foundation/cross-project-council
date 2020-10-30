@@ -30,7 +30,7 @@ program idea or policy in action, with clear steps and guidelines. They include 
 initially implement the idea or policy. 
 
 The purpose of this stage is to refine the policy, make sure all
-stakeholders (including the board) have had a chance to review and request changes, and determine whether further iteration is needed. 
+stakeholders (potentially including the board) have had a chance to review and request changes, and determine whether further iteration is needed. 
 
 The PR should include:
   * moving the new artifacts into place (for example into the top level of the CPC repo). 
