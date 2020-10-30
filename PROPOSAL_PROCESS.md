@@ -5,8 +5,6 @@ directory found in `./proposals`, update [proposals/README.md](./README.md), sub
 
 For incubating proposals a README.md is sufficient, for later stages please include the appropriate supporting documents as well.
 
-The proposal will be evaluated at bootstrap committee meetings and stage changes will occur at those times.
-
 ## Incubating Proposal
 
 An initial PR is created to incubate/refine a proposal until it is ready to be approved adopted. Before landing it needs to have
