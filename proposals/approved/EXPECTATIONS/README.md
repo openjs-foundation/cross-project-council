@@ -21,7 +21,7 @@ The bootstrap committee to finalize for consideration of the Boards and Legal.
 
 The needs of the projects and ecosystem stakeholders being voiced through the governance of the foundation for which they are represented is vital for the foundation to succeed.
 
-## What is neccessary to get this proposal to approved
+## What is necessary to approve this proposal
 
 The Boards and Legal would review this proposal and Legal would then draft the expectations as language that would be folded into the Bylaws to be developed for the proposed foundation.
 
