@@ -14,7 +14,7 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [Collaboration Network](./incubating/COLLABORATION_NETWORK)
 * [Security Reporting](./incubating/SECURITY_REPORTING)
 
-## approved
+## Approved
 
 * [Community Board representation](./approved/COMMUNITY_BOARD_REPRESENTATION)
 * [CPC Charter](./approved/CPC_CHARTER)
