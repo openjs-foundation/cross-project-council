@@ -49,7 +49,7 @@ The Application Champion is a member of the CPC who commits to do the following:
 
 #### Process
 
-1. Initial email sent to new-projects@lists.openjsf.org  with filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
+1. Initial email sent to new-projects@lists.openjsf.org with filled-out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
 1. Silent period. Internal only discussion.
 1. Initial acceptance as [Incubating] Project.
 1. An acknowledgement is sent to the applicant by Foundation staff within 48 hours (striving to reply within 24 hours when possible).
