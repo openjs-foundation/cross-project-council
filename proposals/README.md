@@ -2,7 +2,7 @@
 
 Anyone may submit an idea for a policy or program following the [staging process](../STAGING_PROCESS.md).
 
-## incubating 
+## Incubating 
 
 * [Project Exit Criteria](./incubating/PROJECT_EXIT_CRITERIA)
 * [Regular Town Halls](./incubating/REGULAR_TOWN_HALLS)
