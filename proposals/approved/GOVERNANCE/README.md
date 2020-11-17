@@ -21,7 +21,7 @@ The bootstrap committee
 
 We need basic governance to operate
 
-## What is neccessary to get this proposal to approved
+## What is necessary to approve this proposal
 
 As this proposal does not need to be approved by either board and doesn't have any budgetary or legal requriements I believe
 that we can move immediately from Stage 2 to Stage 3 at the same time. (Note: based on old proposal process)
