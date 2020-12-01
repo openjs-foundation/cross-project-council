@@ -23,6 +23,10 @@ the OpenJS Foundation charter at any time, though the Board will not interfere
 with day-to-day discussions, votes or meetings
 of the CPC.
 
+The above notwithstanding, the CPC may make trivial changes to the charter
+without requiring board approval, including spelling and punctuation fixes,
+so long as they do not change the meaning of the text.
+
 ## Section 3. Board’s Role in Setting OpenJS Foundation’s Strategic Direction.
 
 The Board will set the overall CPC Policy. The policy will describe the
