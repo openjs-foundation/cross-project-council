@@ -1,5 +1,5 @@
 # Individual Supporter Representation Proposal
->  Stage 2
+Stage: Approved
 
 ## Directory
 * [Spec](SPEC.md)
