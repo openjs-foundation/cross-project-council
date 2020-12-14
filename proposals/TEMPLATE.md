@@ -1,5 +1,5 @@
 # My New Proposal
->  Stage 0
+>  incubating
 
 Below is simply a suggested template for drafting a proposal, it will not fit all potential proposals.
 
@@ -29,8 +29,8 @@ Why should we do this?
 
 ## Unresolved Question
 
-Current objections or concerns that will be required to reach stage 2
+Current objections or concerns that will be required to reach approved
 
 ## What is necessary to complete this proposal
 
-Everything required to reach stage 3
+Everything required to reach approved

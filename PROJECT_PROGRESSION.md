@@ -16,6 +16,14 @@ This governance policy sets forth the proposal process for projects to be accept
 
 New projects should express interest to join the OpenJS Foundation via an email to operations@openjsf.org with a filled out [Project Application Template](./NEW_PROJECT_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, projects will given an `incubation` status and begin the on-boarding process. **Note** the `incubation` status is temporary as we determine if the project is a good fit. At any time during the `incubation` process a project can withdraw either voluntarily or at the request of the CPC.
 
+#### Previous Project Applications
+
+Some projects have decided to publicly share their application after being accepted for incubation. This can be helpful for new applicants to get a sense of what is expected. Please bear in mind, however, that each project is different and that applications will vary accordingly. The CPC considers the resources that each project has available, and the expectations for the application of a large corporate-backed project going for Impact stage will not be the same as those of volunteer maintained effort aiming for the At Large stage.
+
+* [AMP's application](https://gist.github.com/tobie/b5ce633d2622ca4f28e8374d9de8bdf5)
+* [Fastify's application](https://gist.github.com/mcollina/beb83b8bc594ae506e11c83aef9c537d)
+
+
 #### Roles
 
 ##### Applicant
@@ -87,7 +95,7 @@ The Application Champion is a member of the CPC who commits to do the following:
   
 ## Onboarding Checklist
 
-<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-onboarding/blob/master/ISSUE_TEMPLATE/00-project-onboarding-checklist-template.md` is updated as well -->
+<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/00-project-onboarding-checklist-template.md` is updated as well -->
 
 This is an informational checklist to help projects onboard into the OpenJS Foundation - tasks we will complete together after your project has been accepted into the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
