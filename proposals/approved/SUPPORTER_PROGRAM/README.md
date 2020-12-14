@@ -1,5 +1,5 @@
 # Individual Supporter Representation Proposal
->  incubating
+Stage: Approved
 
 ## Directory
 * [Spec](SPEC.md)
