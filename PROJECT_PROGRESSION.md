@@ -177,7 +177,7 @@ To graduate from At Large stage or for a new project to join as an Impact projec
 
  * Document that it is being used successfully in production by at least two independent end users which, in the CPC’s judgement, are of adequate quality and scope.
  * Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than 1/3 is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer. 
- * Have a documented and publicly accessible description of the project's governance, decision-making, contribution, and release processes. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
+ * Have a documented and publicly accessible description of the project's governance, decision-making, contribution, and release processes. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and AUTHORS.md file showing the current and emeritus committers.
  * Demonstrate a substantial ongoing flow of commits and merged contributions.
  * Have a healthy number of committers from at least two organizations. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
  * Adopt the Foundation Code of Conduct.
