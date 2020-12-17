@@ -71,6 +71,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 | | Project        | Charter           | Contributing       | Code of Conduct       |
 |-|----------------|:-----------------:|:------------------:|:---------------------:|
+| | [NativeScript](https://nativescript.org/) |   | [Contributing Guide](https://github.com/NativeScript/NativeScript/blob/master/tools/notes/CONTRIBUTING.md) | [Code of Conduct](https://github.com/NativeScript/codeofconduct) |
 | | [nvm](http://nvm.sh/) |   | [Contributing Guide](https://github.com/nvm-sh/nvm/blob/master/CONTRIBUTING.md) |  |
 
 
