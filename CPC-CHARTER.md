@@ -254,7 +254,7 @@ The first of these board seats is filled as outlined in Section 7 on [Elections]
 
 **Primary CPC Director voting:** CPC Voting Members will vote on candidates
 
-### The Secondary CPC Director (as defined in §4.3(e) in the[OpenJS Foundation bylaws][])
+### The Secondary CPC Director (as defined in §4.3(e) in the [OpenJS Foundation bylaws][])
 
 The second board seat will be filled based on processes defined
 by the CPC and approved by the Voting CPC members and then the Board. The
