@@ -1,6 +1,6 @@
 ## I. Overview
 
-This governance policy describes how a new `Collaboration Space` can be established wthin the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Collaboration Space Proposal Process](#collaboration-space-proposal-process). It describes the [Stages](#stages) a collaboration space may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a space to move from one stage to another.
+This governance policy describes how a new `Collaboration Space` can be established wthin the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Collaboration Space Proposal Process](#ii-collaboration-space-proposal-process). It describes the [Stages](#stages) a collaboration space may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a space to move from one stage to another.
 
 `Collaboration Spaces` are different than `Working Groups` in a number of ways:
 * `Working Groups` are formally delegated responsibility from the scope of the Cross Project Council so that they
