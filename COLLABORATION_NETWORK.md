@@ -10,7 +10,7 @@ projects together in a single Foundation provides an easier path to collaboratio
 projects.
 
 The OpenJS Collaboration network provides the framework for people to collaborate on areas of
-importance to the JavaScript ecosystem in a netral space. In some cases, this may align with
+importance to the JavaScript ecosystem in a neutral space. In some cases, this may align with
 projects and in other cases be independent of the member projects.
 Regardless of the alignment with existing member projects, the OpenJS Foundation
 Collaboration Network provides support for collaboration in
