@@ -11,7 +11,7 @@ _OpenJS Foundation's governance._
 _directions: provide a concise, high-level statement about_
 _the project's long-term principles, values, or mission._
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-1-guiding-principle)
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-1-guiding-principle)
 
 ## Section 1: Scope
 
@@ -48,7 +48,7 @@ ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/
 _directions: describe how the project intersects with the Cross Project_
 _Council._ 
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-2-evolution-of-openjs-foundation-governance)
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-2-evolution-of-openjs-foundation-governance)
 
 ### 2.1 Other Formal Project Relationships (optional)
 
@@ -64,14 +64,14 @@ _the project and its respective organization and repositories. If there are_
 _specific rules for membership or participation in the group, list them here or_
 _by reference to a governance.md document._
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-3-establishment-of-the-tsc)
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-3-establishment-of-the-tsc)
 
 ## Section 4: Roles & Responsibilities 
 
 _directions: describe the roles and responsibilities of the ${PROJECT} Governing Body._
 
 ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/master/sig-architecture/charter.md#roles-and-organization-management)
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-4-responsibilities-of-the-tsc)
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-4-responsibilities-of-the-tsc)
 
 ### Section 4.1 Project Operations & Management (optional)
 
@@ -81,7 +81,7 @@ _operations and management. If you are not using this section, please indicate_
 _your intent with the phrase, 'Section Intentionally Left Blank'._
 
 ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/master/sig-architecture/charter.md#roles-and-organization-management)
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-5-nodejs-project-operations)
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-5-nodejs-project-operations)
 
 ### Section 4.2: Decision-making, Voting, and/or Elections (optional)
 
@@ -90,7 +90,7 @@ _or include the information by reference your governance.md document._
 _If you are not using this section, please indicate your intent with the_
 _phrase, 'Section Intentionally Left Blank'._
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-6-elections)
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-6-elections)
 
 ### Section 4.3: Other Project Roles (optional)
 
@@ -101,7 +101,7 @@ _reference to your governance.md document._
 _If you are not using this section, please indicate your intent with the_
 _phrase, 'Section Intentionally Left Blank'._
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-8-project-roles)
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-8-project-roles)
 
 ## Section 5: Definitions (optional)
 
@@ -109,4 +109,4 @@ _directions: include any definitions that may help clarify terms or ideas found_
 _in this charter document. If you are not using this section, please indicate_ 
 _your intent with the phrase, 'Section Intentionally Left Blank'._
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-9-definitions)
+ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-9-definitions)

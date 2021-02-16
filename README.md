@@ -19,7 +19,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project Appium" src="https://github.com/openjs-foundation/artwork/raw/main/projects/appium/appium-icon-color.svg" width="30" /> | [Appium](https://appium.io/)       |      | [Contributing Guide](https://github.com/appium/appium/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/appium/appium/blob/master/CONDUCT.md) |  
 | <img alt="logo of project Dojo" src="https://github.com/openjs-foundation/artwork/raw/main/projects/dojo/dojo-icon-color.svg" width="30" /> | [Dojo](https://dojo.io/)               |      | [Contributing Guide](https://github.com/dojo/framework/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/dojo/framework/blob/master/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project Electron" src="https://github.com/openjs-foundation/artwork/raw/main/projects/electron/electron-icon-color.svg" width="30" /> | [Electron](https://electronjs.org) |      | [Contributing Guide](https://github.com/electron/electron/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/electron/electron/blob/master/CODE_OF_CONDUCT.md) |
-| <img alt="logo of project jQuery" src="https://github.com/openjs-foundation/artwork/raw/main/projects/jquery/jquery-icon-color.svg" width="30" /> | [jQuery](https://jquery.com/)      |      | [Contributing Guide](https://github.com/jquery/jquery/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project jQuery" src="https://github.com/openjs-foundation/artwork/raw/main/projects/jquery/jquery-icon-color.svg" width="30" /> | [jQuery](https://jquery.com/)      |      | [Contributing Guide](https://github.com/jquery/jquery/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project Node.js" src="https://github.com/openjs-foundation/artwork/raw/main/projects/nodejs/nodejs-icon-color.svg" width="30" /> | [Node.js](https://nodejs.org)      |      | [Contributing Guide](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/nodejs/node/blob/master/doc/guides/contributing/code-of-conduct.md) |
 | <img alt="logo of project webpack" src="https://github.com/openjs-foundation/artwork/raw/main/projects/webpack/webpack-icon-color.svg" width="30" /> | [webpack](https://webpack.js.org/) |      | [Contributing Guide](https://github.com/webpack/webpack/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/webpack/webpack/blob/master/CODE_OF_CONDUCT.md) |
 
@@ -34,8 +34,8 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project Intern" src="https://github.com/openjs-foundation/artwork/raw/main/projects/intern/intern-icon-color.svg" width="30" /> | [Intern](https://theintern.github.io/)  |    | [Contributing Guide](https://github.com/theintern/intern/blob/master/CONTRIBUTING.md) |  |
 | <img alt="logo of project Mocha" src="https://github.com/openjs-foundation/artwork/raw/main/projects/mocha/mocha-icon-color.svg" width="30" /> | [Mocha](https://mochajs.org/)           |    | [Contributing Guide](https://github.com/mochajs/mocha/blob/master/.github/CONTRIBUTING.md) | [Code of Conduct](https://github.com/mochajs/mocha/blob/master/.github/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project Node-RED" src="https://github.com/openjs-foundation/artwork/raw/main/projects/node_red/node_red-icon-color.svg" width="30" /> | [Node-RED](https://nodered.org/)        |    | [Contributing Guide](https://nodered.org/about/contribute/) | [Code of Conduct](https://nodered.org/about/conduct/) |
-| <img alt="logo of project WebdriverIO" src="https://github.com/openjs-foundation/artwork/raw/main/projects/webdriverio/webdriverio-icon-color.svg" width="30" /> | [WebdriverIO](https://webdriver.io/)    |    | [Contributing Guide](https://github.com/webdriverio/webdriverio/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/webdriverio/webdriverio/blob/master/CODE_OF_CONDUCT.md) |
-| <img alt="logo of project webhint" src="https://github.com/openjs-foundation/artwork/raw/main/projects/webhint/webhint-icon-color.svg" width="30" /> | [webhint](https://webhint.io/)          |    | [Contributing Guide](https://github.com/webhintio/hint/blob/main/.github/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project WebdriverIO" src="https://github.com/openjs-foundation/artwork/raw/main/projects/webdriverio/webdriverio-icon-color.svg" width="30" /> | [WebdriverIO](https://webdriver.io/)    |    | [Contributing Guide](https://github.com/webdriverio/webdriverio/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/webdriverio/webdriverio/blob/HEAD/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project webhint" src="https://github.com/openjs-foundation/artwork/raw/main/projects/webhint/webhint-icon-color.svg" width="30" /> | [webhint](https://webhint.io/)          |    | [Contributing Guide](https://github.com/webhintio/hint/blob/HEAD/.github/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
 
 #### At-Large Projects
 
@@ -52,20 +52,20 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project Libuv" src="https://github.com/openjs-foundation/artwork/raw/main/projects/libuv/libuv-icon-color.svg" width="30" /> | [Libuv](https://libuv.org/)                |    | [Contributing Guide](https://github.com/libuv/libuv/blob/v1.x/CONTRIBUTING.md) | |
 | <img alt="logo of project Lodash" src="https://github.com/openjs-foundation/artwork/raw/main/projects/lodash/lodash-icon-color.svg" width="30" /> | [Lodash](https://lodash.com/)              |    | [Contributing Guide](https://github.com/lodash/lodash/blob/master/.github/CONTRIBUTING.md) |  |
 | <img alt="logo of project Marko" src="https://github.com/openjs-foundation/artwork/raw/main/projects/marko/marko-icon-color.svg" width="30" /> | [Marko](https://markojs.com/)              |    | [Contributing Guide](https://github.com/marko-js/marko/blob/master/.github/CONTRIBUTING.md) | [Code of Conduct](https://github.com/marko-js/marko/blob/master/.github/CODE_OF_CONDUCT.md) |
-| <img alt="logo of project messageformat" src="https://github.com/openjs-foundation/artwork/raw/main/projects/messageformat/messageformat-icon-color.svg" width="30" /> | [messageformat](https://messageformat.github.io/messageformat/)  |    | [Contributing Guide](https://github.com/messageformat/messageformat/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project messageformat" src="https://github.com/openjs-foundation/artwork/raw/main/projects/messageformat/messageformat-icon-color.svg" width="30" /> | [messageformat](https://messageformat.github.io/messageformat/)  |    | [Contributing Guide](https://github.com/messageformat/messageformat/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project Moment" src="https://github.com/openjs-foundation/artwork/raw/main/projects/moment/moment-icon-color.svg" width="30" /> | [Moment](https://momentjs.com/)            |    | [Contributing Guide](https://github.com/moment/moment/blob/develop/CONTRIBUTING.md) |  |
-| <img alt="logo of project PEP" src="https://github.com/openjs-foundation/artwork/raw/main/projects/pep/pep-icon-color.svg" width="30" /> | [PEP](https://github.com/jquery/pep)       |    | [Contributing Guide](https://github.com/jquery/PEP/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project PEP" src="https://github.com/openjs-foundation/artwork/raw/main/projects/pep/pep-icon-color.svg" width="30" /> | [PEP](https://github.com/jquery/pep)       |    | [Contributing Guide](https://github.com/jquery/PEP/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project QUnit" src="https://github.com/openjs-foundation/artwork/raw/main/projects/qunit/qunit-icon-color.svg" width="30" /> | [QUnit](https://qunitjs.com/)              |    | [Contributing Guide](https://github.com/qunitjs/qunit/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/qunitjs/qunit/blob/master/CODE_OF_CONDUCT.md) |
 
 #### Emeritus Projects
 
 | | Project        | Charter           | Contributing       | Code of Conduct       |
 |-|----------------|:-----------------:|:------------------:|:---------------------:|
-| <img alt="logo of project Chassis" src="https://github.com/openjs-foundation/artwork/raw/main/projects/chassis/chassis-icon-color.svg" width="30" /> | [Chassis](https://github.com/jquery/css-chassis)  |    | [Contributing Guide](https://github.com/jquery/css-chassis/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
-| <img alt="logo of project jQuery Mobile" src="https://github.com/openjs-foundation/artwork/raw/main/projects/jquery_mobile/jquery_mobile-icon-color.svg" width="30" /> | [jQuery Mobile](https://jquerymobile.com/)        |    | [Contributing Guide](https://github.com/jquery/jquery-mobile/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
-| <img alt="logo of project jQuery UI" src="https://github.com/openjs-foundation/artwork/raw/main/projects/jquery_ui/jquery_ui-icon-color.svg" width="30" /> | [jQuery UI](https://jqueryui.com/)                |    | [Contributing Guide](https://github.com/jquery/jquery-ui/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
-| <img alt="logo of project RequireJS" src="https://github.com/openjs-foundation/artwork/raw/main/projects/requirejs/requirejs-logo-stacked-color.svg" width="30" /> | [RequireJS](https://requirejs.org/)               |    | [Contributing Guide](https://requirejs.org/docs/contributing.html) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
-| <img alt="logo of project Sizzle" src="https://github.com/openjs-foundation/artwork/raw/main/projects/sizzle/sizzle-icon-color.svg" width="30" /> | [Sizzle](https://sizzlejs.com/)                   |    | [Contributing Guide](https://github.com/jquery/sizzle/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project Chassis" src="https://github.com/openjs-foundation/artwork/raw/main/projects/chassis/chassis-icon-color.svg" width="30" /> | [Chassis](https://github.com/jquery/css-chassis)  |    | [Contributing Guide](https://github.com/jquery/css-chassis/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project jQuery Mobile" src="https://github.com/openjs-foundation/artwork/raw/main/projects/jquery_mobile/jquery_mobile-icon-color.svg" width="30" /> | [jQuery Mobile](https://jquerymobile.com/)        |    | [Contributing Guide](https://github.com/jquery/jquery-mobile/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project jQuery UI" src="https://github.com/openjs-foundation/artwork/raw/main/projects/jquery_ui/jquery_ui-icon-color.svg" width="30" /> | [jQuery UI](https://jqueryui.com/)                |    | [Contributing Guide](https://github.com/jquery/jquery-ui/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project RequireJS" src="https://github.com/openjs-foundation/artwork/raw/main/projects/requirejs/requirejs-logo-stacked-color.svg" width="30" /> | [RequireJS](https://requirejs.org/)               |    | [Contributing Guide](https://requirejs.org/docs/contributing.html) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project Sizzle" src="https://github.com/openjs-foundation/artwork/raw/main/projects/sizzle/sizzle-icon-color.svg" width="30" /> | [Sizzle](https://sizzlejs.com/)                   |    | [Contributing Guide](https://github.com/jquery/sizzle/blob/master/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
 
 #### Incubating Projects
 
@@ -95,7 +95,7 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 #### Impact Project Representatives
 
-Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members)
+Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#voting-members)
 
 - **Appium**: Isaac Murchie ([@imurchie](https://github.com/imurchie), Sauce Labs) & Jonah Stiennon([@Jonahss](https://github.com/Jonahss), Origin Labs)
 - **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Site Pen)
@@ -106,13 +106,13 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 
 #### Growth & At Large Project Representatives
 
-According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), each of the Growth, At Large, and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
+According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#voting-members), each of the Growth, At Large, and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
 - Christopher Hiller ([@boneskull](https://github.com/boneskull), IBM)
 - Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
 
 #### Elected by Regular Members
-According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md#voting-members), up to two regular
+According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#voting-members), up to two regular
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
 - Eemeli Aro ([@eemeli](https://github.com/eemeli), Vincit)
@@ -124,7 +124,7 @@ Members of the Collaboration spaces at the `Core` stage may nominate a candiate 
 
 ### Regular Members
 
-Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
+Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
 
 - Abraham Jr Agiri ([@codeekage](https://github.com/codeekage))
 - Antón Molleda ([@molant](https://github.com/molant))
@@ -153,8 +153,8 @@ Observers are free to attend meetings and participate in the work of the CPC as 
 as the consensus seeking process. Observers are encouraged to participate and
 volunteer but should refrain from disrupting or blocking progress. Observers
 are expected to participate in a positive and collaborative manner as well as
-following the [code of conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md)
-and [member expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/MEMBER_EXPECTATIONS.md)
+following the [code of conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md)
+and [member expectations](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/MEMBER_EXPECTATIONS.md)
 like other CPC participants. If an Observer fails to meet these expectations they can
 be excluded from future CPC meetings based on a standard CPC motion.
 

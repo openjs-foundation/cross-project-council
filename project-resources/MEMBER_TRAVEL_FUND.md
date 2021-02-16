@@ -5,9 +5,9 @@
 To establish and administer a fund for members of the OpenJS Foundation to travel
 and spread knowledge about and support the Javascript ecosystem and the Foundation.
 
-### [Current Year Fund](https://github.com/openjs-foundation/cross-project-council/blob/master/TRAVEL_FUND/2020.md)
+### [Current Year Fund](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/TRAVEL_FUND/2020.md)
 
-### [2019 funds](https://github.com/openjs-foundation/cross-project-council/blob/master/TRAVEL_FUND/Achived_Travel_Fund_Records/2019.md)
+### [2019 funds](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/TRAVEL_FUND/Achived_Travel_Fund_Records/2019.md)
 
 ## Requirements
 
@@ -36,11 +36,11 @@ a visa at least 6 months prior to an event.
 ### For Industry Events
 
 If you need a visa for the country in which the OpenJS Foundation event you are
-attending is being held, [see the document on preparing for a visa application](https://github.com/openjs-foundation/cross-project-council/blob/master/TRAVEL_FUND/travel-visas.md).
+attending is being held, [see the document on preparing for a visa application](https://github.com/openjs-foundation/cross-project-council/blob/main/TRAVEL_FUND/travel-visas.md).
 
 ### What The Foundation Can Do To Help:
 
-The Foundation [provides guidance on preparing your visa application](https://github.com/openjs-foundation/cross-project-council/blob/master/TRAVEL_FUND/travel-visas.md),
+The Foundation [provides guidance on preparing your visa application](https://github.com/openjs-foundation/cross-project-council/blob/main/TRAVEL_FUND/travel-visas.md),
 including information on visa processing times and a checklist of items that a
 visa application could require.
 
