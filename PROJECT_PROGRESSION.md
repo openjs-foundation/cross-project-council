@@ -162,36 +162,6 @@ To be considered for the At Large Stage, the project must meet the following req
 * Adherence to the Foundation IP Policy
 * Upon acceptance, At Large projects must list their status prominently on website/readme
 
-### Growth Stage
-
-#### Definition
-
-The Growth Stage is for projects that are interested in reaching the Impact Stage, and have identified a growth plan for doing so. Growth Stage projects will receive mentorship from the CPC and are expected to actively develop their community of contributors, governance, project documentation, security practices, and other variables identified in the growth plan that factor in to broad success and adoption.
-
-In order to support their active development, projects in the Growth stage have a higher level of access to marketing and other resources, which will be agreed upon and reviewed on a yearly basis. A project's progress toward its growth plan goals will be reviewed on a yearly basis, and the CPC may ask the project to move to the At Large stage if progress on the plan drops off or stalls. 
-
-#### Examples
-
-1. Projects that are on their way or very likely to become Top Level Projects.
-1. Projects that have developed new growth targets or other community metrics for success.
-1. Projects that are looking to create a lifecycle plan (maintainership succession, contributor programs, version planning, etc.)
-1. Projects that need more active support from the Foundation in the form of marketing or CPC mentorship in order to reach their goals. 
-
-#### Expectations
-
-Projects in the Growth Stage are generally expected to move out of the Growth stage within two years. Depending on their growth plans, projects may cycle through At Large, Growth, or Impact stage as needed.  
-
-#### Acceptance Criteria
-
-To be considered for Growth Stage, the project must meet the At Large requirements as well as the following:
-
- * Development of a growth plan, to be done in conjunction with their project mentor(s) at the CPC.
- * Document that it is being used successfully in production by at least two independent end users which, in the CPC’s judgement, are of adequate quality and scope.
- * Demonstrate a substantial ongoing flow of commits and merged contributions.
- * Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan.
- * Since these metrics can vary significantly depending on the type, scope and size of a project, the CPC has final judgement over the level of activity that is adequate to meet these criteria.
- * Receive a two-thirds supermajority vote of the CPC to move to Growth Stage. 
- * Accept security reports and publicly disclose them after the fix has been made available.
 
 ### Impact Stage
 
@@ -212,12 +182,15 @@ Impact Stage projects are expected to participate actively in CPC proceedings, a
 
 #### Acceptance Criteria
 
-To graduate from At Large or Growth status, or for a new project to join as an Impact project, a project must meet the Growth stage criteria plus:
+To graduate from At Large stage or for a new project to join as an Impact project, a project must meet the following criteria:
 
+ * Document that it is being used successfully in production by at least two independent end users which, in the CPC’s judgement, are of adequate quality and scope.
  * Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than 1/3 is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer. 
- * Have a documented and publicly accessible description of the project's governance, decision-making, contribution, and release processes. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
+ * Have a documented and publicly accessible description of the project's governance, decision-making, contribution, and release processes. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and AUTHORS.md file showing the current and emeritus committers.
+ * Demonstrate a substantial ongoing flow of commits and merged contributions.
  * Have a healthy number of committers from at least two organizations. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
  * Adopt the Foundation Code of Conduct.
+ * Accept security reports and publicly disclose them after the fix has been made available.
  * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
  * Other metrics as defined by the applying Project during the application process in cooperation with the CPC.
  * Receive a supermajority vote from the CPC to move to Impact stage. Projects can move directly from At Large to Impact, if they can demonstrate sufficient maturity and have met all requirements. 
@@ -246,7 +219,7 @@ Projects may be granted Emeritus status via a 2/3 vote from the CPC and with app
 
 #### Definition
 
-Incubating projects are projects that are in the process of completing their on-boarding checklist to join the foundation. Projects in this phase may be looking to join the foundation as At-Large, Growth, or Impact Stage. Members of incubating projects are invited to join Cross Project Council meetings as a guest, please refer to the [CPC Charter](./CPC-CHARTER.md) for details on how guests may participate in the meetings.
+Incubating projects are projects that are in the process of completing their on-boarding checklist to join the foundation. Projects in this phase may be looking to join the foundation as At-Large or Impact Stage. Members of incubating projects are invited to join Cross Project Council meetings as a guest, please refer to the [CPC Charter](./CPC-CHARTER.md) for details on how guests may participate in the meetings.
 
 #### Examples
 
@@ -260,7 +233,18 @@ It is expected that incubating project will make an active effort to work throug
 
 1. consensus within private mailing list to move into incubation process
 
-## IV. Annual Review Process
+## IV. Growth Plan
+
+At Large project that are interested in reaching Impact Stage need to develop a growth plan to so do. This plan needs to be developed in collaboration with the CPC and approved by it.
+
+Once this growth plan is approved by the CPC, these projects will receive mentorship from the CPC and additional support from the Foundation in order to meet their goals, provided the project stays on track.
+
+A project's progress toward its growth plan goals will be reviewed on a regular basis.
+
+Projects are generally expected to meet their growth plan goals within two years.
+
+
+## V. Annual Review Process
 
 The CPC shall develop an annual review process to determine whether projects are in the stage that accurately reflects their needs and goals. 
 
