@@ -36,11 +36,11 @@ a visa at least 6 months prior to an event.
 ### For Industry Events
 
 If you need a visa for the country in which the OpenJS Foundation event you are
-attending is being held, [see the document on preparing for a visa application](https://github.com/openjs-foundation/cross-project-council/blob/main/TRAVEL_FUND/travel-visas.md).
+attending is being held, [see the document on preparing for a visa application](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/TRAVEL_FUND/travel-visas.md).
 
 ### What The Foundation Can Do To Help:
 
-The Foundation [provides guidance on preparing your visa application](https://github.com/openjs-foundation/cross-project-council/blob/main/TRAVEL_FUND/travel-visas.md),
+The Foundation [provides guidance on preparing your visa application](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/TRAVEL_FUND/travel-visas.md),
 including information on visa processing times and a checklist of items that a
 visa application could require.
 
