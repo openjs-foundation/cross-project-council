@@ -23,6 +23,10 @@ the OpenJS Foundation charter at any time, though the Board will not interfere
 with day-to-day discussions, votes or meetings
 of the CPC.
 
+The above notwithstanding, the CPC may make trivial changes to the charter
+without requiring board approval, including spelling and punctuation fixes,
+so long as they do not change the meaning of the text.
+
 ## Section 3. Board’s Role in Setting OpenJS Foundation’s Strategic Direction.
 
 The Board will set the overall CPC Policy. The policy will describe the
@@ -155,6 +159,11 @@ Subject to such policies as may be set by the Board, the CPC is responsible for:
       substantial changes before final approval by CPC.
    1. Voting members are responsible for approving funds for budgets delegated
       to the project.
+   1. Voting members are responsible for approving new `collaboration spaces` as outlined in the OpenJS
+      [COLLABORATION_NETWORK.md](COLLABORATION_NETWORK.md) process.
+   1. Voting members are responsible for making final decisions on aligning `collaboration spaces`,
+      removing or archiving `collaboration spaces`, as outlined in the
+      OpenJS [COLLABORATION_NETWORK.md](COLLABORATION_NETWORK.md) process.
    1. Following and be up to date on Board/OpenJS Foundation initiatives and communicate them to the projects.
    1. Defining common practices to be implemented across OpenJS Foundation projects, if any.
    1. Mediating technical conflicts between OpenJS Foundation Projects when attempts to resolve
@@ -245,7 +254,7 @@ The first of these board seats is filled as outlined in Section 7 on [Elections]
 
 **Primary CPC Director voting:** CPC Voting Members will vote on candidates
 
-### The Secondary CPC Director (as defined in §4.3(e) in the[OpenJS Foundation bylaws][])
+### The Secondary CPC Director (as defined in §4.3(e) in the [OpenJS Foundation bylaws][])
 
 The second board seat will be filled based on processes defined
 by the CPC and approved by the Voting CPC members and then the Board. The
