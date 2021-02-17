@@ -243,9 +243,9 @@ A project's progress toward its growth plan goals will be reviewed on a regular 
 
 Projects are generally expected to meet their growth plan goals within two years.
 
-## V. Offboarding Checklist
+## V. Sunsetting Checklist
 
-<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/02-project-offboarding-checklist-template.md` is updated as well -->
+<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/02-project-sunsetting-checklist-template.md` is updated as well -->
 
 This is an informational checklist to help projects move to Emeritus Stage. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desireable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
