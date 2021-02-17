@@ -85,7 +85,7 @@ you will need to obtain special permission from the Board.
 To do so, please [open an issue in the Cross Project Council repository](https://github.com/openjs-foundation/cross-project-council/issues/new?title=Board%20exemption%20request%20for),
 and assign or @-mention [@brianwarner](https://github.com/brianwarner) and 
 [your Project Represenatives](https://github.com/openjs-foundation/cross-project-council#impact-project-representatives) if your are an Impact project,
-the [At Large Project Representatives](https://github.com/openjs-foundation/cross-project-council#growth--at-large-project-representatives)  if your are an At Large project,
+the [At Large Project Representatives](https://github.com/openjs-foundation/cross-project-council#growth--at-large-project-representatives) if your are an At Large project,
 or [your Champion](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#application-champion) if you are an Incubating project.
 
 ## Getting help
