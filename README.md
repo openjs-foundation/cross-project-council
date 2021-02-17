@@ -140,11 +140,14 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Marcin Hoppe ([@MarcinHoppe](https://github.com/MarcinHoppe))
 - Matteo Collina ([@mcollina](https://github.com/mcollina)
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
-- Myles Borins ([@MylesBorins](https://github.com/MylesBorins))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
 - Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
+
+### Regular Member emeriti
+
+- Myles Borins ([@MylesBorins](https://github.com/MylesBorins))
 
 ### Observers
 
