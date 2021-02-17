@@ -103,15 +103,15 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
 - [ ] Update project CoC reporting methods to include OpenJS Foundation escalation path
 - [ ] List official domains that the project commits to transfer to the OpenJS Foundation following graduation
 - [ ] Identify and document other core project infrastructure
-- [ ] Adopt either the [Contributor License Agreement (CLA) or the Developer Certificate of Origin (DCO)](https://github.com/openjs-foundation/cross-project-council/blob/master/IP_POLICY_GUIDANCE.md#4-adopting-the-dco-or-a-cla)
+- [ ] Adopt either the [Contributor License Agreement (CLA) or the Developer Certificate of Origin (DCO)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/IP_POLICY_GUIDANCE.md#4-adopting-the-dco-or-a-cla)
 - [ ] Add or Update Governance.md document (required for Impact stage)
 - [ ] Confirm required files in place (CODE_OF_CONDUCT.md, LICENSE.md)
-- [ ] Publish Project Charter on website or GitHub (see [charter template](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_CHARTER_TEMPLATE.md))
-- [ ] Update [legal copyright notice](https://github.com/openjs-foundation/cross-project-council/blob/master/IP_POLICY_GUIDANCE.md#2-copyright-notices) on GitHub
+- [ ] Publish Project Charter on website or GitHub (see [charter template](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_CHARTER_TEMPLATE.md))
+- [ ] Update [legal copyright notice](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/IP_POLICY_GUIDANCE.md#2-copyright-notices) on GitHub
 - [ ] Add [copyright notices for project website footers](https://github.com/openjs-foundation/artwork#copyright-notices-for-project-website-footers) to project website
 - [ ] Add [OpenJS Foundation logo](https://github.com/openjs-foundation/artwork#openjs-foundation-logos) to project website
 - [ ] [Add Project logo](https://github.com/openjs-foundation/artwork#preparing-artwork-for-contribution) to OpenJS Foundation website
-- [ ] Add Project to the [CPC repo's README.md](https://github.com/openjs-foundation/cross-project-council/blob/master/README.md#incubating-projects) as an Incubating project
+- [ ] Add Project to the [CPC repo's README.md](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/README.md#incubating-projects) as an Incubating project
 - [ ] List trademarks the project commits to transfer to the OpenJS Foundation following graduation
 - [ ] If project is using crowdfunding platforms, add disclaimer to platforms
 - [ ] Identify individuals from the project to join the CPC
@@ -119,11 +119,11 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
   * marketing & social media
   * infrastructure
   * legal/governance help
-- [ ] Publish security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_SECURITY_REPORTING.md))
+- [ ] Publish security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_SECURITY_REPORTING.md))
 
 ## Post-graduation Checklist
 
-<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-onboarding/blob/master/ISSUE_TEMPLATE/01-project-post-graduation-checklist-template.md` is updated as well -->
+<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-onboarding/blob/HEAD/ISSUE_TEMPLATE/01-project-post-graduation-checklist-template.md` is updated as well -->
 
 This is a checklist to help projects complete the post-graduation tasks they committed to during onboarding - tasks we will complete together after your project has graduated from the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 

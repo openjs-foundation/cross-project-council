@@ -5,7 +5,7 @@
 Ideally, the repository should have the following documents in place:
 
 - `CODE_OF_CONDUCT.md`: it can be a reference to
-  [the OpenJS Foundation's Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md).
+  [the OpenJS Foundation's Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md).
 - `CONTRIBUTING.md`: if there isn't one already, [the contributing guide][]
   of Node.js core could be a good example. Consider including the Developer's
   Certificate of Origin section in the document to avoid potential copyright
@@ -41,6 +41,6 @@ See [GitHub's documentation on transferring repos][] on how to perform the neces
 
 
 [GitHub's documentation on transferring repos]: https://help.github.com/articles/about-repository-transfers/
-[OpenJS Foundation GitHub Organization Management Policy]: https://github.com/openjs-foundation/cross-project-council/blob/master/GITHUB_ORG_MANGEMENT_POLICY.md
+[OpenJS Foundation GitHub Organization Management Policy]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/GITHUB_ORG_MANGEMENT_POLICY.md
 [the contributing guide]: ./CONTRIBUTING.md
 [the issue tracker of the Cross Project Council repository]: https://github.com/openjs-foundation/cross-project-council/issues

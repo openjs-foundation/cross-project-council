@@ -37,11 +37,11 @@ For each project, any active participant is welcome to apply for funds. This wou
 ## Practical Specifics
 
 - Modify these files to account for OpenJS Foundation rather than Node.js organizations
-  - https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md
-  - https://github.com/nodejs/admin/tree/master/TravelFunds
-  - https://github.com/nodejs/admin/blob/master/travel-visas.md
-  - https://github.com/nodejs/admin/blob/master/expense-report-template.xls
-  - https://github.com/nodejs/admin/blob/master/reimbursement_process.pdf
+  - https://github.com/nodejs/admin/blob/HEAD/MEMBER_TRAVEL_FUND.md
+  - https://github.com/nodejs/admin/tree/HEAD/TravelFunds
+  - https://github.com/nodejs/admin/blob/HEAD/travel-visas.md
+  - https://github.com/nodejs/admin/blob/HEAD/expense-report-template.xls
+  - https://github.com/nodejs/admin/blob/HEAD/reimbursement_process.pdf
 - Remove mentions from nodejs/admin README, add links to CPC README
 
 ## Required Resources
