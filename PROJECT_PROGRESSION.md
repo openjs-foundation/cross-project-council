@@ -213,7 +213,7 @@ Projects in this stage are not in active development. Their maintainers may infr
 
 #### Acceptance Criteria
 
-Projects may be granted Emeritus status with the consent of the CPC and with approval from project ownership.
+Projects may be granted Emeritus status through CPC consensus and with the approval of the maintainers of the project.
 In cases where there is a lack of project ownership, a 2/3 vote from the CPC is required.
 
 ### Incubating
