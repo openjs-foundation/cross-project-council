@@ -243,8 +243,26 @@ A project's progress toward its growth plan goals will be reviewed on a regular 
 
 Projects are generally expected to meet their growth plan goals within two years.
 
+## V. Sunsetting Checklist
 
-## V. Annual Review Process
+<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/02-project-sunsetting-checklist-template.md` is updated as well -->
+
+This is an informational checklist to help projects move to Emeritus Stage. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desireable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+
+- [ ] Decide in collaboration with the CPC whether the project needs to be archived or whether a call for maintenance is warranted
+- [ ] Confirm all official domains that the project owns have been transfered to the OpenJS Foundation
+- [ ] Cancel all cost-incurring infrastructure deployed by the project which is no longer necessary for Emeritus stage
+- [ ] Provide admin access to all infrastructute deployed by the project which isn't cancelled
+- [ ] Update project website, charter, and README to reflect Emeritus Stage
+- [ ] If the project is making a call for maintenance, provide clear way to contact the CPC
+- [ ] Archive the project
+- [ ] Move [project logo](https://github.com/openjs-foundation/artwork) to Emeritus Stage section
+- [ ] Move project logo on OpenJS Foundation website to Emeritus Stage section
+- [ ] Mark project in the [CPC repo's README.md](https://github.com/openjs-foundation/cross-project-council/blob/master/README.md#incubating-projects) as Emeritus
+- [ ] Update security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_SECURITY_REPORTING.md))
+
+
+## VI. Annual Review Process
 
 The CPC shall develop an annual review process to determine whether projects are in the stage that accurately reflects their needs and goals. 
 
