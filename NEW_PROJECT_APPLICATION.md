@@ -15,7 +15,7 @@ Please keep your answer to less than 100 words.
 
 ## Statement of alignment with OpenJS Foundation charter and mission
 
-Please refer to [the Cross Project Council's Charter](https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md).
+Please refer to [the Cross Project Council's Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md).
 Please keep your answer to less than 250 words.
 
 ## Impact and users of the project
@@ -26,7 +26,7 @@ Please keep your answer to less than 250 words.
 
 ## Desired Initial Project Phase
 
-Please refer to [Section III, Stages - Definitions & Expectations](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#iii-stages---definitions--expectations) of PROJECT_PROGRESSION.md.
+Please refer to [Section III, Stages - Definitions & Expectations](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_PROGRESSION.md#iii-stages---definitions--expectations) of PROJECT_PROGRESSION.md.
 
 At Large / Growth / Impact
 

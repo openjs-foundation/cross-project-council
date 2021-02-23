@@ -123,8 +123,8 @@ The [OpenJS Moderation Policy][] applies to this Working Group. Moderation Polic
 
 The [OpenJS Code of Conduct][] applies to this Working Group.
 
-[OpenJS Code of Conduct]: https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md
-[OpenJS Moderation Policy]: https://github.com/openjs-foundation/cross-project-council/blob/master/Moderation-Policy.md
+[OpenJS Code of Conduct]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md
+[OpenJS Moderation Policy]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/Moderation-Policy.md
 ```
 
 ## Current Working Groups
@@ -139,7 +139,7 @@ The purpose of the Code of Conduct Working Group is to define and maintain a set
 Responsibilities include:
 
 * Define and maintain overarching Code of Conduct and moderation processes, documentation and resources as they pertain to the Foundation and the Cross Project Council.
-* Provide guidance/resources to implement the minimum Code of Conduct and moderation requirements for projects as part of Foundation membership as defined in the [Foundation Code of Conduct Requirements](https://github.com/openjs-foundation/cross-project-council/blob/master/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
+* Provide guidance/resources to implement the minimum Code of Conduct and moderation requirements for projects as part of Foundation membership as defined in the [Foundation Code of Conduct Requirements](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
 * Define and maintain template Code of Conduct and moderation processes and documentation as resources for the Foundation’s projects to use in whole or as guidance to develop their own processes, documentation, and resources, including training materials
 * Define and maintain Code of Conduct and moderation processes on handling violations within Foundation and its teams and groups (excluding Foundation projects).
 * Define and maintain Code of Conduct and moderation processes on handling escalations from Foundation projects, including communication
@@ -159,7 +159,7 @@ Responsibilities include:
 * mentor project contributors who are unfamiliar with standards-making processes
 * make recommendations to the Cross Project Council regarding standards organization membership
 * managing ongoing relationships with standards ogranizations
-* ensuring that OpenJS representatives are aware of the responsibility of being a delegate of the foundation as outlined in [the membership expectations](https://github.com/openjs-foundation/standards/blob/master/MEMBER_EXPECTATIONS.md)
+* ensuring that OpenJS representatives are aware of the responsibility of being a delegate of the foundation as outlined in [the membership expectations](https://github.com/openjs-foundation/standards/blob/HEAD/MEMBER_EXPECTATIONS.md)
 * facilitate when different projects' needs conflict resolution
 
 [Cross Project Council (CPC)]: ./CPC-CHARTER.md
