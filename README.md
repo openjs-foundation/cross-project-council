@@ -100,7 +100,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 
 #### At Large Project Representatives
 
-According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/master/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
+According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
 - Christopher Hiller ([@boneskull](https://github.com/boneskull), IBM)
 - Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
