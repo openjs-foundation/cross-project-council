@@ -5,7 +5,7 @@ Project progression - movement from one stage to another - allows projects to pa
 
 For more information about how your project can benefit from Foundation membership and services, please see [TBD Document]().
 
-This proposal has been modified from the [CNCF process documentation](https://github.com/cncf/toc/tree/master/process).
+This proposal has been modified from the [CNCF process documentation](https://github.com/cncf/toc/tree/HEAD/process).
 
 ## II. Project Proposal Process
 

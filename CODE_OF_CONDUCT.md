@@ -45,7 +45,7 @@ For reporting issues in spaces related to a member project, please use the email
 * nvm - 
 * Pep - 
 * QUnit - 
-* Webdriver.io - [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/master/AUTHORS.md)
+* Webdriver.io - [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/HEAD/AUTHORS.md)
 * Webhint - `support@webhint.io`
 * webpack - [redirects here]
 
@@ -63,7 +63,7 @@ The OpenJS Foundation maintains a Code of Conduct Panel (CoCP). This is a founda
 
 
 For more information, refer to the full
-[Code of Conduct governance document](https://github.com/openjs-foundation/bootstrap/blob/master/proposals/stage-2/CODE_OF_CONDUCT/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
+[Code of Conduct governance document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
 
 ---
 

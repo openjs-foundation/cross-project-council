@@ -15,7 +15,7 @@ Currently the Node.js foundation has up to 3 community board seats:
 * 1 board seat for Community Committee
 * 1 board seat for Individual Membership Program
 
-There are some limitations on these seats as noted in [Section 4.3](https://github.com/nodejs/board/blob/master/by-laws.md#section-43-nomination-election-and-term-of-office-of-directors),
+There are some limitations on these seats as noted in [Section 4.3](https://github.com/nodejs/board/blob/HEAD/by-laws.md#section-43-nomination-election-and-term-of-office-of-directors),
 specifically that:
 
 4.3 d) There must be 3 platinum directors for the individual membership theo elect a board member
