@@ -53,7 +53,7 @@ Projects may request that standing meetings be added to the OpenJS Foundation ca
 
 All OpenJS Foundation Zoom accounts can host up to 300 participants, and meetings can be recorded as an .mp4 for posting to a project’s YouTube channel.
 
-Impact and Growth projects with extensive meeting requests can request a dedicated Zoom Pro account.  Projects may also request a Webinar license for livestreaming, but please be aware it is a significant expense and is subject to budget approval.
+Impact projects and At Large projects with an approved Growth Plan can request a dedicated Zoom Pro account.  Projects may also request a Webinar license for livestreaming, but please be aware it is a significant expense and is subject to budget approval.
 
 ## Other services
 We recognize that some projects may have needs not addressed by the above list.  For no-cost services, please let us know what you’re using at operations@openjsf.org so that we can add the service to our inventory.  For services with a fee, please reach out to operations@openjsf.org to coordinate a proposal and budget request.

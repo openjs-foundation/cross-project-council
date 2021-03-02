@@ -28,7 +28,7 @@ Please keep your answer to less than 250 words.
 
 Please refer to [Section III, Stages - Definitions & Expectations](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_PROGRESSION.md#iii-stages---definitions--expectations) of PROJECT_PROGRESSION.md.
 
-At Large / Growth / Impact
+At Large / Impact
 
 ## Project Website
 
