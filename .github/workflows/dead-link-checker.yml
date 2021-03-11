@@ -16,3 +16,4 @@ jobs:
           paths: "**/*.md"
           markdown: true
           retry: true
+          linksToSkip: "https://github.com/openjs-foundation/directory-private"
