@@ -1,0 +1,18 @@
+on:
+  push:
+    branches:
+      - $default-branch
+  pull_request:
+    types: [opened, synchronize, reopened]
+  workflow_dispatch:
+name: Dead Link Checker
+jobs:
+  linkinator:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: JustinBeckwith/linkinator-action@v1
+        with:
+          paths: "**/*.md"
+          markdown: true
+          retry: true
