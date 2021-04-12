@@ -2,7 +2,7 @@
 
 ## Links
 
-* **Ref:** https://github.com/nodejs/bootstrap/blob/master/proposals/jorydotcom-PROJECT_PROGRESSION/PROJECT_PROGRESSION.md
+* **Ref:** (broken link removed)
 * **Recording**:  https://www.youtube.com/watch?v=0hK1LGTZpP8
 * **GitHub Issue**: https://github.com/nodejs/bootstrap/issues/68
 
