@@ -65,7 +65,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 | | Project        | Charter           | Contributing       | Code of Conduct       |
 |-|----------------|:-----------------:|:------------------:|:---------------------:|
-| <img alt="logo of project ajv" src="https://github.com/openjs-foundation/artwork/raw/main/projects/ajv/ajv-logo-color.svg" width="30" />  | [Ajv](https://ajv.js.org/) |   | [Contributing Guide](https://ajv.js.org/contribute.html) | [Code of Conduct](https://github.com/ajv-validator/ajv/blob/HEAD/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project ajv" src="https://github.com/openjs-foundation/artwork/raw/main/projects/ajv/ajv-logo-color.svg" width="30" />  | [Ajv](https://ajv.js.org/) |   | [Contributing Guide](https://ajv.js.org/contributing/) | [Code of Conduct](https://github.com/ajv-validator/ajv/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project NativeScript" src="https://github.com/openjs-foundation/artwork/raw/main/projects/nativescript/nativescript-icon-color.svg" width="30" /> | [NativeScript](https://nativescript.org/) |   | [Contributing Guide](https://github.com/NativeScript/NativeScript/blob/HEAD/tools/notes/CONTRIBUTING.md) | [Code of Conduct](https://github.com/NativeScript/codeofconduct) |
 | <img alt="logo of project nvm" src="https://github.com/openjs-foundation/artwork/raw/main/projects/nvm/nvm-logo-grayscale.svg" width="30" />  | [nvm](http://nvm.sh/) |   | [Contributing Guide](https://github.com/nvm-sh/nvm/blob/HEAD/CONTRIBUTING.md) |  |
 
