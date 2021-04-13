@@ -1,6 +1,6 @@
 # Proposals
 
-Anyone may submit an idea for a policy or program following the [staging process](../STAGING_PROCESS.md).
+Anyone may submit an idea for a policy or program following the [proposal process](../PROPOSAL_PROCESS.md).
 
 ## Incubating 
 
