@@ -64,14 +64,12 @@ Members participate in a vote.
 
 ## Term for Voting Members
 
-As per the [CPC charter][cpc charter term], the term for all voting members is normally 1 year:
+As per the [CPC charter][cpc charter term], the term for all voting members is 1 year:
 
 > Voting members serve for a term of 1 year and must be re-nominated and ratified
 > by the Voting CPC members each year.
 
-Due to the bootstrap process, the term for the first year will be
-shortened such that the initial term for all voting members ends March 31st, 2020.
-Subsequent terms will be for a period of 1 year ending the following March 31st.
+The term for all voting members ends March 31st. In the event annual elections are not complete before the end of a term year, voting members will hold their seats until that election is complete. 
 
 ## Term for CPC Board representatives
 
