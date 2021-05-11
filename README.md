@@ -16,7 +16,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 | | Project        | Charter           | Contributing       | Code of Conduct       |
 |-|----------------|:-----------------:|:------------------:|:---------------------:|
-| <img alt="logo of project Appium" src="https://github.com/openjs-foundation/artwork/raw/main/projects/appium/appium-icon-color.svg" width="30" /> | [Appium](https://appium.io/)       |      | [Contributing Guide](https://github.com/appium/appium/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/appium/appium/blob/HEAD/CONDUCT.md) |  
+| <img alt="logo of project Appium" src="https://github.com/openjs-foundation/artwork/raw/main/projects/appium/appium-icon-color.svg" width="30" /> | [Appium](https://appium.io/)       |      | [Contributing Guide](https://github.com/appium/appium/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/appium/appium/blob/HEAD/CONDUCT.md) |
 | <img alt="logo of project Dojo" src="https://github.com/openjs-foundation/artwork/raw/main/projects/dojo/dojo-icon-color.svg" width="30" /> | [Dojo](https://dojo.io/)               |      | [Contributing Guide](https://github.com/dojo/framework/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/dojo/framework/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project Electron" src="https://github.com/openjs-foundation/artwork/raw/main/projects/electron/electron-icon-color.svg" width="30" /> | [Electron](https://electronjs.org) |      | [Contributing Guide](https://github.com/electron/electron/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/electron/electron/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project jQuery" src="https://github.com/openjs-foundation/artwork/raw/main/projects/jquery/jquery-icon-color.svg" width="30" /> | [jQuery](https://jquery.com/)      |      | [Contributing Guide](https://github.com/jquery/jquery/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
@@ -46,6 +46,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project Mocha" src="https://github.com/openjs-foundation/artwork/raw/main/projects/mocha/mocha-icon-color.svg" width="30" /> | [Mocha](https://mochajs.org/)           |    | [Contributing Guide](https://github.com/mochajs/mocha/blob/HEAD/.github/CONTRIBUTING.md) | [Code of Conduct](https://github.com/mochajs/mocha/blob/HEAD/.github/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project Moment" src="https://github.com/openjs-foundation/artwork/raw/main/projects/moment/moment-icon-color.svg" width="30" /> | [Moment](https://momentjs.com/)            |    | [Contributing Guide](https://github.com/moment/moment/blob/develop/CONTRIBUTING.md) |  |
 | <img alt="logo of project Node-RED" src="https://github.com/openjs-foundation/artwork/raw/main/projects/node_red/node_red-icon-color.svg" width="30" /> | [Node-RED](https://nodered.org/)        |    | [Contributing Guide](https://nodered.org/about/contribute/) | [Code of Conduct](https://nodered.org/about/conduct/) |
+| <img alt="logo of project nvm" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/nvm/nvm-logo-grayscale.svg" width="30" />  | [nvm](https://nvm.sh/) | [Charter](https://github.com/nvm-sh/nvm/blob/HEAD/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/nvm-sh/nvm/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/nvm-sh/nvm/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project PEP" src="https://github.com/openjs-foundation/artwork/raw/main/projects/pep/pep-icon-color.svg" width="30" /> | [PEP](https://github.com/jquery/pep)       |    | [Contributing Guide](https://github.com/jquery/PEP/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project QUnit" src="https://github.com/openjs-foundation/artwork/raw/main/projects/qunit/qunit-icon-color.svg" width="30" /> | [QUnit](https://qunitjs.com/)              |    | [Contributing Guide](https://github.com/qunitjs/qunit/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/qunitjs/qunit/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project WebdriverIO" src="https://github.com/openjs-foundation/artwork/raw/main/projects/webdriverio/webdriverio-icon-color.svg" width="30" /> | [WebdriverIO](https://webdriver.io/)    |    | [Contributing Guide](https://github.com/webdriverio/webdriverio/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/webdriverio/webdriverio/blob/HEAD/CODE_OF_CONDUCT.md) |
@@ -67,12 +68,11 @@ The following projects are official OpenJS Foundation projects. If you are inter
 |-|----------------|:-----------------:|:------------------:|:---------------------:|
 | <img alt="logo of project ajv" src="https://github.com/openjs-foundation/artwork/raw/main/projects/ajv/ajv-logo-color.svg" width="30" />  | [Ajv](https://ajv.js.org/) |   | [Contributing Guide](https://ajv.js.org/contributing) | [Code of Conduct](https://github.com/ajv-validator/ajv/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project NativeScript" src="https://github.com/openjs-foundation/artwork/raw/main/projects/nativescript/nativescript-icon-color.svg" width="30" /> | [NativeScript](https://nativescript.org/) |   | [Contributing Guide](https://github.com/NativeScript/NativeScript/blob/HEAD/tools/notes/CONTRIBUTING.md) | [Code of Conduct](https://github.com/NativeScript/codeofconduct) |
-| <img alt="logo of project nvm" src="https://github.com/openjs-foundation/artwork/raw/main/projects/nvm/nvm-logo-grayscale.svg" width="30" />  | [nvm](http://nvm.sh/) |   | [Contributing Guide](https://github.com/nvm-sh/nvm/blob/HEAD/CONTRIBUTING.md) |  |
 
 
 ### OpenJS Collaboration spaces
 
-The following are official OpenJS Collaboration spaces. If you are interested in fostering collaboration with the 
+The following are official OpenJS Collaboration spaces. If you are interested in fostering collaboration with the
 support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression](./COLLABORATION_SPACE_PROGRESSION.md)
 
 * There are currently no collaboration spaces.
@@ -81,7 +81,7 @@ support of the OpenJS foundation through a collaboration space, please read our 
 
 The CPC meets weekly. We publish meeting agendas as [issues](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), and also [publish meetings on our calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com). ([iCal](https://calendar.google.com/calendar/ical/linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com/public/basic.ics)) ([Add to Google Calendar](https://calendar.google.com/calendar?cid=bGludXhmb3VuZGF0aW9uLm9yZ19mdW9wNHVmdjc2NmY5YXZjNTE3dWpzNGkwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
 
-CPC members should attend as many meetings as possible, and non-members are welcome to join as observers.  To add an item to the agenda, [create an issue and add the cross-project-council-agenda label](https://github.com/openjs-foundation/cross-project-council/issues?q=is%3Aissue+is%3Aopen+label%3Across-project-council-agenda).  
+CPC members should attend as many meetings as possible, and non-members are welcome to join as observers.  To add an item to the agenda, [create an issue and add the cross-project-council-agenda label](https://github.com/openjs-foundation/cross-project-council/issues?q=is%3Aissue+is%3Aopen+label%3Across-project-council-agenda).
 
 ## CPC Members
 
