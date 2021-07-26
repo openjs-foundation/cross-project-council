@@ -1,66 +1,43 @@
 # Code of Conduct
 
-The OpenJS Foundation and its member projects use [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct) in English, and translations are available from the Contributor Covenant organisation:
+The OpenJS Foundation and its member projects use [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct) in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
 
-- [contributor-covenant.org/translations](https://www.contributor-covenant.org/translations)
-- [github.com/ContributorCovenant](https://github.com/ContributorCovenant/contributor_covenant/tree/release/content/version/2/0)
+## Commitment
 
-Refer to the sections on reporting and escalation in this document for the specific emails that can be used to report and escalate issues.
+All recipients of reports commit to:
 
-## Reporting
+- maintain the confidentiality with regard to the reporter and victim of an incident, and
+- participate in the path for escalation as outlined in the section on Escalation when required.
 
-### Project Spaces
 
-For reporting issues in spaces related to a member project, please use the email provided by the project for reporting which has been provided below. Projects handle CoC issues related to the spaces that they maintain. Projects maintainers commit to:
+## Report an issue in a project
 
-- maintain the confidentiality with regard to the reporter of an incident
-- to participate in the path for escalation as outlined in
-  the section on Escalation when required.
+1. To report an issue in one of the projects listed below, please use the method provided. The project itself is responsible for managing these reports.
+    * **AMP Project:** <code-of-conduct@amp.dev>
+    * **Appium:** email maintainers
+    * **Dojo:** [Fill this reporting form](https://docs.google.com/forms/d/1ZiCUv3FsarWetoQ8J5QnCdIrHLj0xMmwNSLCyBkio7c/viewform?edit_requested=true)
+    * **Electron:** <coc@electronjs.org>
+    * **Express.js:** <express-coc@lists.openjsf.org>
+    * **Fastify:** <hello@matteocollina.com> or <tommydelved@gmail.com>
+    * **HospitalRun:** <hello@hospitalrun.io>
+    * **Node.js:** <report@nodejs.org>
+    * **Node-RED:** <team@nodered.org>
+    * **Webdriver.io:** [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/HEAD/AUTHORS.md)
+    * **Webhint:** <support@webhint.io>
+2. For every other OpenJS Foundation project, please email <report@lists.openjsf.org>. The Cross Project Council (CPC) is responsible for managing these reports.
 
-#### Project Reporting Emails
 
-* AMP Project - `code-of-conduct@amp.dev`
-* Appium - [email maintainers]
-* Architect - 
-* Dojo - [reporting form](https://docs.google.com/forms/d/1ZiCUv3FsarWetoQ8J5QnCdIrHLj0xMmwNSLCyBkio7c/viewform?edit_requested=true)
-* Electron - `coc@electronjs.org`
-* ESLint - 
-* Esprima - 
-* Express.js - `express-coc@lists.openjsf.org`
-* Fastify - `hello@matteocollina.com` or `tommydelved@gmail.com`
-* Grunt - 
-* HospitalRun - `hello@hospitalrun.io`
-* Interledger.js - 
-* Intern - 
-* JerryScript - 
-* jQuery - 
-* libuv - 
-* LoDash - 
-* messageformat - 
-* Marko - 
-* Mocha - `report@lists.openjsf.org`
-* Moment.js - 
-* Node.js - `report@nodejs.org`
-* Node-RED - `team@nodered.org`
-* nvm - 
-* Pep - 
-* QUnit - 
-* Webdriver.io - [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/HEAD/AUTHORS.md)
-* Webhint - `support@webhint.io`
-* webpack - [redirects here]
+## Report an issue in a space managed by the foundation
 
-### Foundation Spaces
+For reporting issues in spaces managed by the OpenJS Foundation, for example, repositories within the OpenJS organization or an live event such as a conferences, email <report@lists.openjsf.org>. The Cross Project Council (CPC) is responsible for managing these reports.
 
-For reporting issues in spaces managed by the OpenJS Foundation, for example, repositories within the OpenJS organization, use the email `report@lists.openjsf.org`. The Cross Project Council (CPC) is responsible for managing these reports and commits to:
+## Escalate an issue
 
-- maintain the confidentiality with regard to the reporter of an incident
-- to participate in the path for escalation as outlined in
-  the section on Escalation when required.
+The OpenJS Foundation maintains a [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled.
 
-## Escalation
+In order to escalate to the CoCP, email <coc-escalation@lists.openjsf.org>.
 
-The OpenJS Foundation maintains a Code of Conduct Panel (CoCP). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled. In order to escalate to the CoCP send an email to `coc-escalation@lists.openjsf.org`.
-
+## More Info
 
 For more information, refer to the full
 [Code of Conduct governance document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
