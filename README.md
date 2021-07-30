@@ -95,7 +95,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 - **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Site Pen)
 - **Electron**: Shelley Vohr ([@codebytere](https://github.com/codebytere), Microsoft) & Tierney Cyren ([@bnb](https://github.com/bnb), Microsoft)
 - **jQuery**: Dave Methvin ([@dmethvin](https://github.com/dmethvin), USDS) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
-- **Node.js**: Mary Marchini([@mmarchini](https://github.com/mmarchini), Netflix) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+- **Node.js**: Rich Trott([@Trott](https://github.com/Trott), UCSF) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
 - **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Tobias Koppers ([@sokra](https://github.com/sokra), self-employed)
 
 #### At Large Project Representatives
