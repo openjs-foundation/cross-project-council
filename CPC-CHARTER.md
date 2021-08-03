@@ -181,6 +181,7 @@ Subject to such policies as may be set by the Board, the CPC is responsible for:
    1. Shared resources, tooling and funding for projects (Collaborator Summit Events, Travel fund).
    1. Supporting projects in their enforcement of Code of Conduct
       violations and escalation.
+   1. Handling Code of Conduct violations for projects which do not have a documented process to do so.
    1. Developing a framework for community end-user feedback.
    1. Managing programs to offer mentorship to external individuals.
    1. Managing developer outreach programs.
