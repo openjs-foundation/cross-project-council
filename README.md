@@ -156,7 +156,19 @@ and [member expectations](https://github.com/openjs-foundation/cross-project-cou
 like other CPC participants. If an Observer fails to meet these expectations they can
 be excluded from future CPC meetings based on a standard CPC motion.
 
-## Policy Change Proposal Process
+## Policies and Processes Maintained by the CPC
+
+#### Foundation-Wide Policies
+
+* [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md)
+* [Handling reports and escalation](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/HANDLING_CODE_OF_CONDUCT_REPORTS.md)
+
+#### CPC Governance Documents
+
+* [Expectations of the Community Board of Directors representatives](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/COMMUNITY_BOARD_SEAT_EXPECTATIONS.md)
+* [Expectations of the CPC Members](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/MEMBER_EXPECTATIONS.md)
+
+### Policy Change Proposal Process
 
 The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projects, Collaboration spaces and Working Groups under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Collaboration spaces. Projects have broad powers of self-governance.
 
