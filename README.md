@@ -67,6 +67,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | | Project        | Charter           | Contributing       | Code of Conduct       |
 |-|----------------|:-----------------:|:------------------:|:---------------------:|
 | <img alt="logo of project ajv" src="https://github.com/openjs-foundation/artwork/raw/main/projects/ajv/ajv-logo-color.svg" width="30" />  | [Ajv](https://ajv.js.org/) |   | [Contributing Guide](https://ajv.js.org/contributing) | [Code of Conduct](https://github.com/ajv-validator/ajv/blob/HEAD/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project LoopBack" src="https://github.com/openjs-foundation/artwork/raw/main/projects/loopback/mark/blue/loopback.svg" width="30" /> | [LoopBack](https://loopback.io) |   | [Contributing Guide](https://github.com/loopbackio/loopback-next/blob/master/docs/CONTRIBUTING.md) | [Code of Conduct](https://github.com/loopbackio/loopback-next/blob/master/docs/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project NativeScript" src="https://github.com/openjs-foundation/artwork/raw/main/projects/nativescript/nativescript-icon-color.svg" width="30" /> | [NativeScript](https://nativescript.org/) |   | [Contributing Guide](https://github.com/NativeScript/NativeScript/blob/HEAD/tools/notes/CONTRIBUTING.md) | [Code of Conduct](https://github.com/NativeScript/codeofconduct) |
 
 
@@ -102,7 +103,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 
 According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
-- Eemeli Aro ([@eemeli](https://github.com/eemeli), Vincit)
+- Eemeli Aro ([@eemeli](https://github.com/eemeli), Mozilla)
 - Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
 
 #### Elected by Regular Members
