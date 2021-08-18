@@ -43,7 +43,7 @@ When a report is received to `report@openjsf.org` the following actions will be 
    * The staff representative will seek to determine whether the report is emergent and requires immediate attention (e.g. for an ongoing issue) or the report is a reactive response to an incident with no immediate danger. 
 
    * The Staff Representative will identify two contact persons from its CoC Panel to examine and act on the report. The contact persons will be chosen on the basis of schedule and availability.
-   * The contact persons will then execute the following procedures::
+   * The contact persons will then execute the following procedures:
      1. Acknowledging the report: The contact persons will respond to let the reporter or target know that the report is being discussed.
      1. Information gathering: The contact persons will collect information in the private moderation repository..
      1. Discussing the report: The contact persons will discuss the facts of the report in context of opinions via meeting, email, or discussion via private issue.
