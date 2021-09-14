@@ -12,7 +12,6 @@ Anyone may submit an idea for a policy or program following the [proposal proces
 * [Collab Summit](./incubating/COLLAB_SUMMIT)
 * [Individual Supporter Program](./incubating/SUPPORTER_PROGRAM)
 * [Collaboration Network](./incubating/COLLABORATION_NETWORK)
-* [Security Reporting](./incubating/SECURITY_REPORTING)
 
 ## Approved
 
@@ -25,3 +24,4 @@ Anyone may submit an idea for a policy or program following the [proposal proces
 * [Project Progression](./approved/PROJECT_PROGRESSION)
 * [Travel Fund](./approved/TRAVEL_FUND)
 * [Code of Conduct approach](./approved/CODE_OF_CONDUCT)
+* [Security Reporting](../PROJECT_SECURITY_REPORTING.md)

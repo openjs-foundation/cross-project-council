@@ -67,8 +67,8 @@ and a [corporate CLA][CCLA].
 Projects can choose to adopt either the individual CLA by itself or
 both the individual CLA and the corporate CLA without any further review.
 
-If you need to use a different CLA, you will need to
-[obtaining an exemption from the board](#obtaining-an-exemption-from-the-board).
+If you need to use a different CLA, you must
+[obtain an exemption from the board](#obtaining-an-exemption-from-the-board).
 
 We are preparing additional guidance documentation on how to implement the DCO or a CLA,
 what infrastructure the foundation provides to help with this,
@@ -84,7 +84,7 @@ If your project requires an exemption from the [IP Policy][],
 you will need to obtain special permission from the Board.
 To do so, please [open an issue in the Cross Project Council repository](https://github.com/openjs-foundation/cross-project-council/issues/new?title=Board%20exemption%20request%20for),
 and assign or @-mention [@brianwarner](https://github.com/brianwarner) and 
-[your Project Represenatives](https://github.com/openjs-foundation/cross-project-council#impact-project-representatives) if your are an Impact project,
+[your Project Representatives](https://github.com/openjs-foundation/cross-project-council#impact-project-representatives) if your are an Impact project,
 the [At Large Project Representatives](https://github.com/openjs-foundation/cross-project-council#growth--at-large-project-representatives) if your are an At Large project,
 or [your Champion](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_PROGRESSION.md#application-champion) if you are an Incubating project.
 

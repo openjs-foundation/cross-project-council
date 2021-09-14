@@ -24,7 +24,7 @@ For reporting issues in spaces related to a member project, please use the email
 * Architect - 
 * Dojo - [reporting form](https://docs.google.com/forms/d/1ZiCUv3FsarWetoQ8J5QnCdIrHLj0xMmwNSLCyBkio7c/viewform?edit_requested=true)
 * Electron - `coc@electronjs.org`
-* ESLint - 
+* ESLint - `report@lists.openjsf.org`
 * Esprima - 
 * Express.js - `express-coc@lists.openjsf.org`
 * Fastify - `hello@matteocollina.com` or `tommydelved@gmail.com`
