@@ -259,8 +259,8 @@ This is an informational checklist to help projects move to Emeritus Stage. Task
 - [ ] Archive the project
 - [ ] Move [project logo](https://github.com/openjs-foundation/artwork) to Emeritus Stage section
 - [ ] Move project logo on OpenJS Foundation website to Emeritus Stage section
-- [ ] Mark project in the [CPC repo's README.md](https://github.com/openjs-foundation/cross-project-council/blob/master/README.md#incubating-projects) as Emeritus
-- [ ] Update security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_SECURITY_REPORTING.md))
+- [ ] Mark project in the [CPC repo's README.md](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/README.md#incubating-projects) as Emeritus
+- [ ] Update security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_SECURITY_REPORTING.md))
 
 
 ## VI. Annual Review Process
