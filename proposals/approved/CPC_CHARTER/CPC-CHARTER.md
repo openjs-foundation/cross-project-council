@@ -309,8 +309,8 @@ repository.
 in an official decision making role as defined in the Project's governance
 policies.
 
-[Foundation mission and vision statements]:  xx
-[Foundation bylaws]:  x
+[Foundation mission and vision statements]: xx
+[Foundation bylaws]: https://openjsf.org/wp-content/uploads/sites/84/2020/07/OpenJS-Foundation-Bylaws-2020-06-08.pdf
 [Voting]:  #section-10.-voting
 [Elections]: #section-7.-elections
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making

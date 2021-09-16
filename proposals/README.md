@@ -10,8 +10,6 @@ Anyone may submit an idea for a policy or program following the [proposal proces
 * [Standards Outreach](./incubating/STANDARDS_OUTREACH)
 * [Charter Review](./incubating/CHARTER_REVIEW)
 * [Collab Summit](./incubating/COLLAB_SUMMIT)
-* [Individual Supporter Program](./incubating/SUPPORTER_PROGRAM)
-* [Collaboration Network](./incubating/COLLABORATION_NETWORK)
 
 ## Approved
 
@@ -24,4 +22,6 @@ Anyone may submit an idea for a policy or program following the [proposal proces
 * [Project Progression](./approved/PROJECT_PROGRESSION)
 * [Travel Fund](./approved/TRAVEL_FUND)
 * [Code of Conduct approach](./approved/CODE_OF_CONDUCT)
-* [Security Reporting](../PROJECT_SECURITY_REPORTING.md)
+* [Security Reporting](./approved/SECURITY_REPORTING)
+* [Individual Supporter Program](./approved/SUPPORTER_PROGRAM)
+* [Collaboration Network](./approved/COLLABORATION_NETWORK)
