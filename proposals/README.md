@@ -25,3 +25,7 @@ Anyone may submit an idea for a policy or program following the [proposal proces
 * [Security Reporting](./approved/SECURITY_REPORTING)
 * [Individual Supporter Program](./approved/SUPPORTER_PROGRAM)
 * [Collaboration Network](./approved/COLLABORATION_NETWORK)
+* [Security Reporting](./approved/SECURITY_REPORTING)
+* [Individual Supporter Program](./approved/SUPPORTER_PROGRAM)
+* [Collaboration Network](./approved/COLLABORATION_NETWORK)
+
