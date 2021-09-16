@@ -10,12 +10,6 @@ Anyone may submit an idea for a policy or program following the [proposal proces
 * [Standards Outreach](./incubating/STANDARDS_OUTREACH)
 * [Charter Review](./incubating/CHARTER_REVIEW)
 * [Collab Summit](./incubating/COLLAB_SUMMIT)
-<<<<<<< HEAD
-* [Security Reporting](./incubating/SECURITY_REPORTING)
-=======
-* [Individual Supporter Program](./incubating/SUPPORTER_PROGRAM)
-* [Collaboration Network](./incubating/COLLABORATION_NETWORK)
->>>>>>> b4283f12e5ee5f1aa778c40fe740425c7a500fa9
 
 ## Approved
 
@@ -31,3 +25,7 @@ Anyone may submit an idea for a policy or program following the [proposal proces
 * [Security Reporting](../PROJECT_SECURITY_REPORTING.md)
 * [Individual Supporter Program](./approved/SUPPORTER_PROGRAM)
 * [Collaboration Network](./approved/COLLABORATION_NETWORK)
+* [Security Reporting](./approved/SECURITY_REPORTING)
+* [Individual Supporter Program](./approved/SUPPORTER_PROGRAM)
+* [Collaboration Network](./approved/COLLABORATION_NETWORK)
+
