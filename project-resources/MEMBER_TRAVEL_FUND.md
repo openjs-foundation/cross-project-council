@@ -155,8 +155,7 @@ A project may request an allocation from the travel fund as follows:
 ## Reimbursement
 
 So that we can reimburse you more quickly, we strongly encourage you to use
-[Expensify](https://expensify.com) to organize and submit your receipts. Please see our
-[guide to creating and configuring a free Expensify account](./reimbursement_process.pdf).
+[Expensify](https://expensify.com) to organize and submit your receipts.
 
 ### Here are the highlights of the process:
 
