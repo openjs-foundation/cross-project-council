@@ -208,4 +208,13 @@ The request from the
 [Cross Project council](https://github.com/openjs-foundation/cross-project-council)
 for a 2020 joint travel fund was approved in the amount of $60,000.
 
+
+## 2021 OpenJS Foundation Board of Directors Allocation
+
+The request from the
+[Cross Project council](https://github.com/openjs-foundation/cross-project-council)
+for a 2021 joint travel fund was approved in the amount of $60,000. The line
+item in the budget was also renamed `community fund` as the expecation is that
+CPC will propose additional ways to spend this fund beyond just travel.
+
 Please direct any questions or concerns about the travel fund to [travelapprovals@openjsf.org](mailto:travelapprovals@openjsf.org).

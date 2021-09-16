@@ -2,7 +2,7 @@
 
 ## Links
 
-* **Ref:** (broken link removed)
+* **Ref:** https://github.com/openjs-foundation/cross-project-council/blob/858348eff4306e2b9c49e2b9d0d26d64f493a5fd/proposals/jorydotcom-PROJECT_PROGRESSION/PROJECT_PROGRESSION.md
 * **Recording**:  https://www.youtube.com/watch?v=0hK1LGTZpP8
 * **GitHub Issue**: https://github.com/nodejs/bootstrap/issues/68
 
