@@ -22,7 +22,7 @@ For reporting issues in spaces related to a member project, please use the email
 * AMP Project - `code-of-conduct@amp.dev`
 * Appium - [email maintainers]
 * Architect - 
-* Dojo - [reporting form](https://docs.google.com/forms/d/1ZiCUv3FsarWetoQ8J5QnCdIrHLj0xMmwNSLCyBkio7c/viewform?edit_requested=true)
+* Dojo - `report@lists.openjsf.org`
 * Electron - `coc@electronjs.org`
 * ESLint - `report@lists.openjsf.org`
 * Esprima - 
