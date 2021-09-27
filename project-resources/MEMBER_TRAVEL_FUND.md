@@ -5,7 +5,7 @@
 To establish and administer a fund for members of the OpenJS Foundation to travel
 and spread knowledge about and support the Javascript ecosystem and the Foundation.
 
-### [Current Year Fund](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/TRAVEL_FUND/2020.md)
+### [Current Year Fund](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/TRAVEL_FUND/2021.md)
 
 ### [2019 funds](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/TRAVEL_FUND/Achived_Travel_Fund_Records/2019.md)
 
