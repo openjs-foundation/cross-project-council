@@ -5,7 +5,7 @@ on:
   pull_request:
     types: [opened, synchronize, reopened]
   workflow_dispatch:
-name: Dead Link Checker
+name: Link Checker
 jobs:
   linkinator:
     runs-on: ubuntu-latest
