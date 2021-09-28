@@ -174,12 +174,8 @@ your payment details. At that point, you're done.
 
 ### Alternate process
 
-If you decide not to use Expensify, the reimbursement process is manual and may take longer
-for us to process. You can email a zip file of your receipts and the completed
-[Expense Report](./expense-report-template.xls?raw=true), renamed as
-ExpenseReport-OpenJS-EVENTNAME-YOURNAME-YYYYMM.xls, to [operations@openjsf.org](mailto:operations@openjsf.org).
-Please send the file as a spreadsheet, not as a PDF.  We will send it back to you for
-signature in DocuSign.
+If you decide not to or cannot use Expensify, the reimbursement process is manual
+and may take longer for us to process. Please send an email over to [operations@openjsf.org](mailto:operations@openjsf.org) or reach out to Foundation staff on the OpenJS Foundation Slack.
 
 ### Important:
 
