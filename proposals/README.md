@@ -22,7 +22,7 @@ Anyone may submit an idea for a policy or program following the [proposal proces
 * [Project Progression](./approved/PROJECT_PROGRESSION)
 * [Travel Fund](./approved/TRAVEL_FUND)
 * [Code of Conduct approach](./approved/CODE_OF_CONDUCT)
-* [Security Reporting](./approved/SECURITY_REPORTING)
+* [Security Reporting](../PROJECT_SECURITY_REPORTING.md)
 * [Individual Supporter Program](./approved/SUPPORTER_PROGRAM)
 * [Collaboration Network](./approved/COLLABORATION_NETWORK)
 * [Security Reporting](./approved/SECURITY_REPORTING)
