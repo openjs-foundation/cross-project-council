@@ -9,13 +9,11 @@ All recipients of reports commit to:
 - maintain the confidentiality with regard to the reporter and victim of an incident, and
 - participate in the path for escalation as outlined in the section on Escalation when required.
 
-
 ## Report an issue in a project
 
 1. To report an issue in one of the projects listed below, please use the method provided. The project itself is responsible for managing these reports.
     * **AMP Project:** <code-of-conduct@amp.dev>
     * **Appium:** email maintainers
-    * **Dojo:** [Fill this reporting form](https://docs.google.com/forms/d/1ZiCUv3FsarWetoQ8J5QnCdIrHLj0xMmwNSLCyBkio7c/viewform?edit_requested=true)
     * **Electron:** <coc@electronjs.org>
     * **Express.js:** <express-coc@lists.openjsf.org>
     * **Fastify:** <hello@matteocollina.com> or <tommydelved@gmail.com>
