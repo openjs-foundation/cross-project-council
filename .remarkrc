@@ -5,6 +5,7 @@
     ["remark-lint-list-item-bullet-indent", false],
     ["remark-lint-no-literal-urls", false],
     ["remark-lint-no-shortcut-reference-link", false],
+    ["remark-lint-no-auto-link-without-protocol", false],
     ["remark-lint-no-undefined-references", false]
   ]
 }
