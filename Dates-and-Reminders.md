@@ -9,11 +9,4 @@ This document will be used to capture dates and reminders to review before each 
 - Director 2 election - term ends August 31
 - CPC Impact voting member selection - terms end March 31
 - CPC Non-impact voting member election
-
-
-
-
-
-
-
-
+- Review issues labeled [`cpc-quartely-review`](https://github.com/openjs-foundation/cross-project-council/labels/cpc-quartely-review) at the end of every quarter
