@@ -11,11 +11,6 @@ This document will be used to capture dates and reminders to review before each 
 - CPC Non-impact voting member election
 
 
-## Reminders
-
-- October 12, 2021 - Check on progress of Build stronger ties between At Large maintainers and their CPC Rep #761
-
-
 
 
 
