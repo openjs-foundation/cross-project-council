@@ -34,8 +34,8 @@ individual project scope and direction while they remain within the scope
 and direction of the policies as described in the CPC Policy document and
 approved by the Board.
 
-The Board sets the CPC policy through [Foundation mission and vision
-statements][] as well as within the [Foundation bylaws][]. The policy describes
+The Board sets the CPC policy through Foundation mission and vision
+statements as well as within the [Foundation bylaws][]. The policy describes
 the overarching scope of the OpenJS Foundation initiatives , technical vision,
 and direction. The Board uses the CPC as a delegate body for governing
 high-level technical policy and procedures while remaining within the scope and
@@ -309,8 +309,7 @@ repository.
 in an official decision making role as defined in the Project's governance
 policies.
 
-[Foundation mission and vision statements]:  xx
-[Foundation bylaws]:  x
+[Foundation bylaws]: https://openjsf.org/wp-content/uploads/sites/84/2020/07/OpenJS-Foundation-Bylaws-2020-06-08.pdf
 [Voting]:  #section-10.-voting
 [Elections]: #section-7.-elections
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making

@@ -21,7 +21,7 @@ _to a colleague who is familiar with related technical concepts but unfamiliar_
 _with the project. You may also want to describe the project's value to community_
 _and/or business stakeholders._
 
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob//blob/HEAD/sig-architecture/charter.md#scope)
+ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#scope)
 
 ### 1.1: In-scope (optional)
 
@@ -31,7 +31,7 @@ _apparent. This may help differentiate the project from other solutions in the_
 _space. If you are not using this section, please indicate your intent with the_
 _phrase, 'Section Intentionally Left Blank'._
 
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob//blob/HEAD/sig-architecture/charter.md#in-scope)
+ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#in-scope)
 
 ### 1.2: Out-of-Scope (optional)
 
@@ -41,7 +41,7 @@ _features, contributions, issues or problems the project is looking for._
 _If you are not using this section, please indicate your intent with the_
 _phrase, 'Section Intentionally Left Blank'._
 
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob//blob/HEAD/sig-architecture/charter.md#out-of-scope)
+ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#out-of-scope)
 
 ## Section 2: Relationship with OpenJS Foundation CPC.
 
@@ -70,7 +70,7 @@ ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md
 
 _directions: describe the roles and responsibilities of the ${PROJECT} Governing Body._
 
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob//blob/HEAD/sig-architecture/charter.md#roles-and-organization-management)
+ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#roles-and-organization-management)
 ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-4-responsibilities-of-the-tsc)
 
 ### Section 4.1 Project Operations & Management (optional)
@@ -80,7 +80,7 @@ _${PROJECT} Governing Body may be responsible for regarding process or project_
 _operations and management. If you are not using this section, please indicate_
 _your intent with the phrase, 'Section Intentionally Left Blank'._
 
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob//blob/HEAD/sig-architecture/charter.md#roles-and-organization-management)
+ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#roles-and-organization-management)
 ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-5-nodejs-project-operations)
 
 ### Section 4.2: Decision-making, Voting, and/or Elections (optional)

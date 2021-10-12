@@ -1,6 +1,6 @@
 # Proposals
 
-Anyone may submit an idea for a policy or program following the [staging process](../STAGING_PROCESS.md).
+Anyone may submit an idea for a policy or program following the [proposal process](../PROPOSAL_PROCESS.md).
 
 ## Incubating 
 
@@ -10,8 +10,6 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [Standards Outreach](./incubating/STANDARDS_OUTREACH)
 * [Charter Review](./incubating/CHARTER_REVIEW)
 * [Collab Summit](./incubating/COLLAB_SUMMIT)
-* [Individual Supporter Program](./incubating/SUPPORTER_PROGRAM)
-* [Collaboration Network](./incubating/COLLABORATION_NETWORK)
 
 ## Approved
 
@@ -25,3 +23,9 @@ Anyone may submit an idea for a policy or program following the [staging process
 * [Travel Fund](./approved/TRAVEL_FUND)
 * [Code of Conduct approach](./approved/CODE_OF_CONDUCT)
 * [Security Reporting](../PROJECT_SECURITY_REPORTING.md)
+* [Individual Supporter Program](./approved/SUPPORTER_PROGRAM)
+* [Collaboration Network](./approved/COLLABORATION_NETWORK)
+* [Security Reporting](./approved/SECURITY_REPORTING)
+* [Individual Supporter Program](./approved/SUPPORTER_PROGRAM)
+* [Collaboration Network](./approved/COLLABORATION_NETWORK)
+
