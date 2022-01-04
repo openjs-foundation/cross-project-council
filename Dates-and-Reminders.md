@@ -9,16 +9,4 @@ This document will be used to capture dates and reminders to review before each 
 - Director 2 election - term ends August 31
 - CPC Impact voting member selection - terms end March 31
 - CPC Non-impact voting member election
-
-
-## Reminders
-
-- October 12, 2021 - Check on progress of Build stronger ties between At Large maintainers and their CPC Rep #761
-
-
-
-
-
-
-
-
+- Review issues labeled [`cpc-quartely-review`](https://github.com/openjs-foundation/cross-project-council/labels/cpc-quartely-review) at the end of every quarter
