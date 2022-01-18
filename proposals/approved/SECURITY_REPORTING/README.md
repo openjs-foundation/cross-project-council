@@ -11,7 +11,7 @@ Currently OpenJS Foundation projects do not have consistently documented standar
 
 See also:
 - [Security reporting in OpenJS Foundation projects](https://gist.github.com/MarcinHoppe/b13a870770522c31a8386ada48b2e40f)
-- [Guidelines for responsible reporting and disclosure of security vulnerabilities](https://github.com/nodejs/package-maintenance/blob/HEAD/docs/drafts/security-guidelines.md)
+- [Guidelines for responsible reporting and disclosure of security vulnerabilities](https://github.com/nodejs/package-maintenance/blob/main/docs/security-guidelines.md)
 
 ## Required Resources
 
