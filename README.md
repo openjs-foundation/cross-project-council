@@ -157,7 +157,38 @@ and [member expectations](https://github.com/openjs-foundation/cross-project-cou
 like other CPC participants. If an Observer fails to meet these expectations they can
 be excluded from future CPC meetings based on a standard CPC motion.
 
-## Policy Change Proposal Process
+## Policies and Processes Maintained by the CPC
+
+#### Projects
+* [Project Progression](PROJECT_PROGRESSION.md) - This describes the different stages a project can go through at the Foundation, from applying to retiring, and provides relevant processes and checklists for moving along them.
+* [New Project Application Template](NEW_PROJECT_APPLICATION.md) - Template document that should be used by projects that want to apply to the Foundation.
+* [Project Charter Template](PROJECT_CHARTER_TEMPLATE.md) - Template document to be used by new projects to write their charter as part of onboarding.
+* [Project Security Reporting](PROJECT_SECURITY_REPORTING.md) - Describes the requirements for reporting security vulnerabilities.
+* [IP_Policy Guidance](IP_POLICY_GUIDANCE.md) - Outlines the relevant aspects of the Foundation's IP policy to make it easier for new projects to implement them.
+
+#### Code of Conduct
+* [Code of Conduct](CODE_OF_CONDUCT.md) - This is the canonical version of the code of conduct adopted by the Foundation and all of its projects.
+* [Foundation Code of Conduct Requirements](FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md) - This describes what projects need to do to properly implement the Foundations's code of conduct.
+* [Handling Code of Conduct Reports and Escalation](HANDLING_CODE_OF_CONDUCT_REPORTS.md) - This explains how projects need to handle code of conduct violations and how, when, and to whom they need to be escalated.
+* [Member Expectations](MEMBER_EXPECTATIONS.md) - Additional behavior expectations of CPC members and project leaders.
+
+#### The CPC itself
+* [CPC Charter](CPC-CHARTER.md) - The CPC's charter describes the CPC's mission as defined in the Bylaws.
+* [OpenJS Cross Project Council Governance](GOVERNANCE.md) - Describes how the CPC operates.
+* [Expectations of the Community Board of Directors Representatives](COMMUNITY_BOARD_SEAT_EXPECTATIONS.md) - Description of the role and responsabilities of the Community Board of Directors Representatives.
+* [Policy Proposal Process](PROPOSAL_PROCESS.md) - Process by which the CPC creates new policies and processes.
+* [GitHub organization Management Policy](GITHUB_ORG_MANGEMENT_POLICY.md) - Policy for managing the CPC's GitHub organization.
+
+#### Collaboration Spaces and Working Groups
+* [Collaboration Network](COLLABORATION_NETWORK.md)
+* [Collaboration Space Progression](COLLABORATION_SPACE_PROGRESSION.md)
+* [Working Groups](WORKING_GROUPS.md)
+
+#### Other 
+
+* [Travel Fund Policy and Process](TRAVEL_FUND/README.md)
+
+### Policy Change Proposal Process
 
 The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projects, Collaboration spaces and Working Groups under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Collaboration spaces. Projects have broad powers of self-governance.
 
