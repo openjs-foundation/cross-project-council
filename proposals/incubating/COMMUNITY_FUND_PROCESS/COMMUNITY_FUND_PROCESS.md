@@ -7,10 +7,11 @@
   * Odd number of seats to avoid deadlocks
   * Meets monthly
   * Elected annually
+  * Appoint an administrator for the fund.
 * New repo specific to the community fund (openjs-foundation/community-fund)
   * Top-level README describing processes
   * Budget file for each year containing the list of approved applicants, to be managed by the committee.
-* Mailing list for internal discussions between meetings
+* Mailing list for internal discussions between meetings (`cpc-private` or a new list)
 * Issue template for applications, to be determined by budget committee
 * Labels for application stages, can only be changed by budget committee
   * Under consideration
@@ -37,4 +38,5 @@
 
 1. Accepted applicants file reimbursement request on [community fund’s LFX site](https://community-fund.openjsf.org).
 1. Reimbursements must not exceed what was approved by the committee. Any overages are the responsibility of the applicant.
-1. Staff approves requests that match what the budget committee has approved.
+1. Administrator designated by budget committee approves requests that match what the budget committee has approved.
+

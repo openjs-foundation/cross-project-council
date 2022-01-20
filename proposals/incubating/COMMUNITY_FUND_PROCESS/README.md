@@ -14,7 +14,7 @@ No additional resources required.
 
 ## Who would be responsible
 
-* Foundation staff to execute on the logistics.
+* Foundation staff to execute on the logistics of funding the community fund.
 * CPC to develop a strategic plan to provide guidelines on intended uses.
 * CPC to nominate a budget committee.
 
