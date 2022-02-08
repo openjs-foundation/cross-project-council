@@ -1,29 +1,25 @@
 # Foundation Code of Conduct Requirements
 
-It is important that there be a Code of Conduct (CoC) which
-is documented and enforced for the OpenJS Foundation,
-hereinafter referred to as the "Foundation", and the
-projects within it. This document defines the requirements
-for a CoC for the Foundation and the projects which are part
-of the foundation.
+This document defines the requirements for a Code of Conduct (CoC) for
+projects within the OpenJS Foundation.
 
 
 ## Code of Conduct
 
-The Foundation has adopted the
+The foundation has adopted the
 [Contributor Covenant v2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
-as its code of conduct and it applies to all foundation activities and spaces. In
-addition, projects joining the foundation are required to adopt this code of conduct
+as its CoC and it applies to all foundation activities and spaces. In
+addition, projects joining the foundation are required to adopt this CoC
 within 3 months of joining the foundation.
 
-A common Code of Conduct will allow a common
-escalation process and will allow the Foundation to better support projects in their efforts to apply
-the Code of Conduct.
+A common CoC will allow a common
+escalation process and will allow the foundation to better support projects in their efforts to apply
+the CoC.
 
 ## Enforcement
 
-For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will
-be investigated by the Cross Project Council (CPC) or its delegates. All complaints will be reviewed,
+For spaces managed by the foundation, complaints can be forwarded to report@openjsf.org and will
+be investigated by the Cross Project Council (CPC) or its delegates. All complaints will be reviewed, 
 investigated, and will result in a response that is deemed necessary and appropriate
 to the circumstances. The CPC is obligated to maintain confidentiality with regard
 to the reporter of an incident.
@@ -31,7 +27,7 @@ to the reporter of an incident.
 For spaces managed by member projects, the project must provide an email to which complaints
 can be forwarded and document that complaints will be investigated and will result in a
 response that is deemed appropriate for the circumstances. Each project is free to
-implement enforcement of the Code of Conduct using processes appropriate for the size
+implement enforcement of the CoC using processes appropriate for the size
 and scope of the project including any day-to-day moderation of the project spaces. As part
 of these processes, however, the project must agree to:
   * maintain the confidentiality with regard to the reporter of an incident
@@ -48,12 +44,12 @@ report can be made to coc-escalation@openjsf.org.
 
 All escalations will be reviewed and investigated by the Code of Conduct Panel (CoCP)
 and will result in a response that is deemed necessary and appropriate to the circumstances.
-The Code of Conduct panel is obligated to maintain confidentiality with regard
-to the reporter of an escalation.
+The CoCP is obligated to maintain confidentiality with regard
+to the reporter of an escalation. 
 
-### Code of Conduct panel
+### Code of Conduct Panel
 
-The Code of Conduct panel is a cross-foundation team who have been trained in moderation
+The Code of Conduct Panel (CoCP) is a cross-foundation team who have been trained in moderation
 and code of conduct issues. The makeup of this team is as follows:
 
 * The Foundation Executive director
