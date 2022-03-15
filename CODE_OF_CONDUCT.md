@@ -18,6 +18,7 @@ All recipients of reports commit to:
     * **Express.js:** <express-coc@lists.openjsf.org>
     * **Fastify:** <hello@matteocollina.com> or <tommydelved@gmail.com>
     * **HospitalRun:** <hello@hospitalrun.io>
+    * **LoopBack** <tsc@loopback.io>
     * **Node.js:** <report@nodejs.org>
     * **Node-RED:** <team@nodered.org>
     * **Webdriver.io:** [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/HEAD/AUTHORS.md)
