@@ -4,9 +4,9 @@ This document will be used to capture dates and reminders to review before each 
 
 ## Recurring dates
 
-- CPC Chair election
+- CPC Chair election - term ends April 30
 - Director 1 election - term ends February 28
-- Director 2 election - term ends August 31
-- CPC Impact voting member selection - terms end March 31
-- CPC Non-impact voting member election
+- Director 2 election - term ends July 31
+- CPC Impact voting member selection - term ends July 31
+- CPC Non-impact voting member election - term ends July 31
 - Review issues labeled [`cpc-quartely-review`](https://github.com/openjs-foundation/cross-project-council/labels/cpc-quartely-review) at the end of every quarter
