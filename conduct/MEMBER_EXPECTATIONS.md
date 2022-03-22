@@ -47,7 +47,7 @@ we participate in official OpenJS Foundation work (GitHub, IRC, meetings,
 conferences), it is important to recognize that the public behavior
 of members also reflects on the OpenJS Foundation projects and groups.
 
-If you're interested in an introduction to diversity, inclusion, and unconscious bias, 
+If you're interested in an introduction to diversity, inclusion, and unconscious bias,
 [try this free training offered by our partners at the Linux Foundation](https://training.linuxfoundation.org/training/inclusive-speaker-orientation/).
 
 If it appears that any member of the leadership groups are acting outside

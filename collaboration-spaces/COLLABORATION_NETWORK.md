@@ -1,6 +1,6 @@
 # The OpenJS Collaboration Network
 
-The formation of the OpenJS Foundation was in support of a number of goals. 
+The formation of the OpenJS Foundation was in support of a number of goals.
 The first was to support JavaScript projects, providing a neutral place for people
 to collaborate and resources needed by those projects
 (legal, marketing, best practices governance support, infra, etc.).
@@ -24,7 +24,7 @@ a particular area.  Support includes but not be limited to:
 The current Collaboration Networks spaces are listed in the main README.md
 in the CPC repository.
 
-Collaboration spaces differ from Working Groups in that existing authority is not 
+Collaboration spaces differ from Working Groups in that existing authority is not
 delegated from the CPC as is the case with a Working Group. Instead of delegation of
 authority, the goal of a collaboration space is to support collaboration in a more
 independant manner. The work of the space does not necessarily represent the

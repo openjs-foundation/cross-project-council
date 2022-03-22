@@ -1,7 +1,7 @@
 # Foundation Code of Conduct Requirements
 
 It is important that there be a Code of Conduct (CoC) which
-is documented and enforced for the OpenJS Foundation, 
+is documented and enforced for the OpenJS Foundation,
 hereinafter referred to as the "Foundation", and the
 projects within it. This document defines the requirements
 for a CoC for the Foundation and the projects which are part
@@ -23,12 +23,12 @@ the Code of Conduct.
 ## Enforcement
 
 For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will
-be investigated by the Cross Project Council (CPC) or its delegates. All complaints will be reviewed, 
+be investigated by the Cross Project Council (CPC) or its delegates. All complaints will be reviewed,
 investigated, and will result in a response that is deemed necessary and appropriate
 to the circumstances. The CPC is obligated to maintain confidentiality with regard
 to the reporter of an incident.
 
-For spaces managed by member projects, the project must provide an email to which complaints 
+For spaces managed by member projects, the project must provide an email to which complaints
 can be forwarded and document that complaints will be investigated and will result in a
 response that is deemed appropriate for the circumstances. Each project is free to
 implement enforcement of the Code of Conduct using processes appropriate for the size
@@ -49,7 +49,7 @@ report can be made to coc-escalation@openjsf.org.
 All escalations will be reviewed and investigated by the Code of Conduct Panel (CoCP)
 and will result in a response that is deemed necessary and appropriate to the circumstances.
 The Code of Conduct panel is obligated to maintain confidentiality with regard
-to the reporter of an escalation. 
+to the reporter of an escalation.
 
 ### Code of Conduct panel
 

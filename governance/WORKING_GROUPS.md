@@ -154,7 +154,7 @@ The purpose of the Standards Working Group is to act as a facilitator for OpenJS
 Responsibilities include:
 * approve and support OpenJS Foundation project contributors in attending meetings held by standards organizations
 * make OpenJS Foundation project contributors aware of developments in relevant standards
-* help OpenJS Foundation projects formulate a standards strategy 
+* help OpenJS Foundation projects formulate a standards strategy
 * support new contributors to standards-making activities
 * mentor project contributors who are unfamiliar with standards-making processes
 * make recommendations to the Cross Project Council regarding standards organization membership
