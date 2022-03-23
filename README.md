@@ -74,7 +74,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 ### OpenJS Collaboration spaces
 
 The following are official OpenJS Collaboration spaces. If you are interested in fostering collaboration with the
-support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression](./COLLABORATION_SPACE_PROGRESSION.md)
+support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
 
 * There are currently no collaboration spaces.
 
@@ -90,7 +90,7 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 #### Impact Project Representatives
 
-Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#voting-members)
+Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](./CPC-CHARTER.md#voting-members)
 
 - **Appium**: Isaac Murchie ([@imurchie](https://github.com/imurchie), Sauce Labs) & Jonah Stiennon([@Jonahss](https://github.com/Jonahss), Origin Labs)
 - **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Site Pen)
@@ -101,13 +101,13 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 
 #### At Large Project Representatives
 
-According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
+According to the [CPC Charter](./CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
 - Eemeli Aro ([@eemeli](https://github.com/eemeli), Mozilla)
 - Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
 
 #### Elected by Regular Members
-According to the [CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#voting-members), up to two regular
+According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regular
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson), IBM)
@@ -118,7 +118,7 @@ Members of the Collaboration spaces at the `Core` stage may nominate a candiate 
 
 ### Regular Members
 
-Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
+Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](./governance/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
 
 - Abraham Jr Agiri ([@codeekage](https://github.com/codeekage))
 - Antón Molleda ([@molant](https://github.com/molant))
@@ -152,8 +152,8 @@ Observers are free to attend meetings and participate in the work of the CPC as 
 as the consensus seeking process. Observers are encouraged to participate and
 volunteer but should refrain from disrupting or blocking progress. Observers
 are expected to participate in a positive and collaborative manner as well as
-following the [code of conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md)
-and [member expectations](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/MEMBER_EXPECTATIONS.md)
+following the [code of conduct](./CODE_OF_CONDUCT.md)
+and [member expectations](./conduct/MEMBER_EXPECTATIONS.md)
 like other CPC participants. If an Observer fails to meet these expectations they can
 be excluded from future CPC meetings based on a standard CPC motion.
 
@@ -164,25 +164,25 @@ be excluded from future CPC meetings based on a standard CPC motion.
 * [New Project Application Template](NEW_PROJECT_APPLICATION.md) - Template document that should be used by projects that want to apply to the Foundation.
 * [Project Charter Template](PROJECT_CHARTER_TEMPLATE.md) - Template document to be used by new projects to write their charter as part of onboarding.
 * [Project Security Reporting](PROJECT_SECURITY_REPORTING.md) - Describes the requirements for reporting security vulnerabilities.
-* [IP_Policy Guidance](IP_POLICY_GUIDANCE.md) - Outlines the relevant aspects of the Foundation's IP policy to make it easier for new projects to implement them.
+* [IP_Policy Guidance](./governance/IP_POLICY_GUIDANCE.md) - Outlines the relevant aspects of the Foundation's IP policy to make it easier for new projects to implement them.
 
 #### Code of Conduct
 * [Code of Conduct](CODE_OF_CONDUCT.md) - This is the canonical version of the code of conduct adopted by the Foundation and all of its projects.
-* [Foundation Code of Conduct Requirements](FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md) - This describes what projects need to do to properly implement the Foundations's code of conduct.
-* [Handling Code of Conduct Reports and Escalation](HANDLING_CODE_OF_CONDUCT_REPORTS.md) - This explains how projects need to handle code of conduct violations and how, when, and to whom they need to be escalated.
-* [Member Expectations](MEMBER_EXPECTATIONS.md) - Additional behavior expectations of CPC members and project leaders.
+* [Foundation Code of Conduct Requirements](./conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md) - This describes what projects need to do to properly implement the Foundations's code of conduct.
+* [Handling Code of Conduct Reports and Escalation](./conduct/HANDLING_CODE_OF_CONDUCT_REPORTS.md) - This explains how projects need to handle code of conduct violations and how, when, and to whom they need to be escalated.
+* [Member Expectations](./conduct/MEMBER_EXPECTATIONS.md) - Additional behavior expectations of CPC members and project leaders.
 
 #### The CPC itself
 * [CPC Charter](CPC-CHARTER.md) - The CPC's charter describes the CPC's mission as defined in the Bylaws.
-* [OpenJS Cross Project Council Governance](GOVERNANCE.md) - Describes how the CPC operates.
-* [Expectations of the Community Board of Directors Representatives](COMMUNITY_BOARD_SEAT_EXPECTATIONS.md) - Description of the role and responsabilities of the Community Board of Directors Representatives.
+* [OpenJS Cross Project Council Governance](./governance/GOVERNANCE.md) - Describes how the CPC operates.
+* [Expectations of the Community Board of Directors Representatives](./governance/COMMUNITY_BOARD_SEAT_EXPECTATIONS.md) - Description of the role and responsabilities of the Community Board of Directors Representatives.
 * [Policy Proposal Process](PROPOSAL_PROCESS.md) - Process by which the CPC creates new policies and processes.
-* [GitHub organization Management Policy](GITHUB_ORG_MANGEMENT_POLICY.md) - Policy for managing the CPC's GitHub organization.
+* [GitHub organization Management Policy](./governance/GITHUB_ORG_MANAGEMENT_POLICY.md) - Policy for managing the CPC's GitHub organization.
 
 #### Collaboration Spaces and Working Groups
-* [Collaboration Network](COLLABORATION_NETWORK.md)
-* [Collaboration Space Progression](COLLABORATION_SPACE_PROGRESSION.md)
-* [Working Groups](WORKING_GROUPS.md)
+* [Collaboration Network](./collaboration-spaces/COLLABORATION_NETWORK.md)
+* [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
+* [Working Groups](./governance/WORKING_GROUPS.md)
 
 #### Other 
 
@@ -212,7 +212,7 @@ Discussion should be held in the open whenever possible.  However, if you need t
 
 OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](./project-resources/MEMBER_TRAVEL_FUND.md). Details can be found in the [/project-resources](./project-resources) directory.
 
-OpenJS Foundation Collaboration spaces are able to take advantage of several services and benefits as outlined in [COLLABORATION_NETWORK.md](COLLABORATION_NETWORK.md).
+OpenJS Foundation Collaboration spaces are able to take advantage of several services and benefits as outlined in [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md).
 
 
 ### Help with project infrastructure

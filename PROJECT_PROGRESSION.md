@@ -73,7 +73,7 @@ The Application Champion is a member of the CPC who commits to do the following:
         (ex. perhaps a different foundation would be a more suitable endeavor.)
    * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date.
 1. Project goes through process of adhering to [on-boarding checklist](#onboarding-checklist).
-1. Project completes a charter review process by the CPC as outlined in the [CPC Governance](./GOVERNANCE.md#approving-project-charters). NOTE: this process takes two weeks to complete
+1. Project completes a charter review process by the CPC as outlined in the [CPC Governance](./governance/GOVERNANCE.md#approving-project-charters). NOTE: this process takes two weeks to complete
 1. Project graduates from incubation by a pull request adding the project to the [README.md](./README.md) file at its appropriate initial stage. The merging of this pull request proceeds as any other pull request to the README.md file.
 
 ##### Initial fit checklist

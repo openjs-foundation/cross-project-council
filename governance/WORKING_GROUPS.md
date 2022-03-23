@@ -162,4 +162,4 @@ Responsibilities include:
 * ensuring that OpenJS representatives are aware of the responsibility of being a delegate of the foundation as outlined in [the membership expectations](https://github.com/openjs-foundation/standards/blob/HEAD/MEMBER_EXPECTATIONS.md)
 * facilitate when different projects' needs conflict resolution
 
-[Cross Project Council (CPC)]: ./CPC-CHARTER.md
+[Cross Project Council (CPC)]: ../CPC-CHARTER.md
