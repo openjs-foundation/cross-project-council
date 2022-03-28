@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The OpenJS Foundation and its member projects use [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct) in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
+The OpenJS Foundation and its member projects use [Contributor Covenant v2.1](https://contributor-covenant.org/version/2/1/code_of_conduct) as their code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct) in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
 
 ## Commitment
 
@@ -43,11 +43,12 @@ For more information, refer to the full
 
 ---
 
-## Contributor Covenant Code of Conduct v2.0
+<a id="contributor-covenant-code-of-conduct-v20"></a>
+## Contributor Covenant Code of Conduct
 
 ### Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
@@ -111,11 +112,11 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
-**Consequence**: A permanent ban from any sort of public interaction within the project community.
+**Consequence**: A permanent ban from any sort of public interaction within the community.
 
 ### Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [contributor-covenant.org/version/2/0/code_of_conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct).
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at [contributor-covenant.org/version/2/1/code_of_conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct).
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
