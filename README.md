@@ -236,10 +236,10 @@ Members of the OpenJS Foundation can email
 
 Projects with questions on relevant legal topics are encouraged to email the
 [legal-questions](mailto:legal-questions@lists.openjsf.org) mailing list.  This
-is a private list, and we will route your question appropriately.
+is a private list with closed membership, and we will route your question appropriately.
 
 In order to mail this list, you must be subscribed to at least one other [OpenJS
-Foundation mailing list](https://lists.openjsf.org).
+Foundation mailing list](https://lists.openjsf.org), such as [`main`](https://lists.openjsf.org/g/main).
 
 ### Help with press and media
 
