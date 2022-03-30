@@ -9,12 +9,12 @@ This governance policy describes how a new `Collaboration Space` can be establis
 * `Working Groups` are generally made up of an existing OpenJS members project contributors. `Collaboration Spaces` are intended to
   expand the group of contributors to the work of the OpenJS Foundation's work by allowing people outside the OpenJS
   member projects to propose/collaborate on areas of importance to the JavaScript ecosytem.
- 
+
 `Collaboration Spaces` may graduate between levels as outlined in this documented. In addition,  it may make more sense for them
 to be converted into a `Working group` if formal delegation of responsibility is beneficial or most of the contributions/leadership
 is being made from those who are active in the CPC. If there is an existing `Working Group` in a particular area a `Collaboration
 Space` will only be approved by the CPC with the support and approval from the `Working Group` that the space is complimentary.
- 
+
 `Collaboration Space` applications must include the champions who will lead the effort and the credentials of the champion and
 those initially involved will be a key part of the evaluation process to ensure that the work of the spaces is
 aligned/respectful of the foundation vision and expectations.
@@ -57,7 +57,7 @@ The Application Champion is a member of the CPC or Foundation staff who commits 
 1. Initial acceptance as an [Incubating] Collaboration Space. Before public announcement there will be:
    * Private email to the CPC members which asks for +1 or objections to the application becoming public. This email will include:
      * The name of the application champion for the application
-     * Completed application 
+     * Completed application
      * Completed Initial-fit checklist.
      * Confirmation that the Foundation Executive Director has received an FYI and there were no objections.
      * Confirmation that there are no existing objections from CPC members.
@@ -79,10 +79,10 @@ The Application Champion is a member of the CPC or Foundation staff who commits 
 1. Fit with OpenJS Foundation (not all of these need to be met, but provide different ways of assessing strategic fit).
    1. Impact on JavaScript Community.
    1. How much and how broad of importance is the topic for the JavaScript Community.
-   1. Expected level of activity and progress within the space. 
+   1. Expected level of activity and progress within the space.
    1. Synergy or overlap with existing projects and collaboration spaces in the Foundation.
-   1. Level of comfort that collaboration space will be successful.  
-  
+   1. Level of comfort that collaboration space will be successful.
+
 ## Onboarding Checklist
 
 This is an informational checklist to help start up a collaboration space into the OpenJS Foundation - tasks we will complete together after your proposed collaboration space has been accepted into the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
@@ -105,7 +105,7 @@ At Large collaboration spaces cover topics which the CPC believes are, or have t
 
 At Large collaboration spaces are expected to operate with little support from the CPC and the foundation. They will have access to the following resources:
 
-* A repository under the open-js foundation gihub organization. 
+* A repository under the open-js foundation gihub organization.
 * Support/mentoring from the CPC with respect to setting up appropriate governance.
 * Use of the Foundation Zoom and Youtube streaming
 * A slack channel within the Foundation Slack organization
@@ -114,7 +114,7 @@ At Large collaboration spaces are expected to operate with little support from t
 * 2 re-tweets from the OpenJS Foundation twitter account per month. These will be requested through DM.
 
 An at Large collaboration space must have at least one active 'Space Leader' leading the activities of the space.
-All activities of the collaboration space must conform to the Foundation's Code-of-Conduct and the Space Leader 
+All activities of the collaboration space must conform to the Foundation's Code-of-Conduct and the Space Leader
 must agree to participate in any escalations made to the Foundation Code of Conduct Panel.
 
 #### Acceptance Criteria
@@ -136,7 +136,7 @@ of collaboration and wish to work more closesly with the Cross Project Council a
 #### Expectations
 
 Core collaboration spaces are expected to have regular meetings, activity and demonstrable forward progress in their area of collaboration.
-In addition it should be well documented how the results of the collaboration are benefitting the JavaScript ecosystem, the Foundation projects, or 
+In addition it should be well documented how the results of the collaboration are benefitting the JavaScript ecosystem, the Foundation projects, or
 the activities of other collaboration spaces.
 
 In addition to the resources made available to At large collaboration spaces they will have access to:
@@ -190,6 +190,6 @@ It is expected that incubating collaboration spaces will make an active effort t
 
 ## IV. Annual Review Process
 
-The CPC shall develop an annual review process to determine whether projects are in the stage that accurately reflects their needs and goals. 
+The CPC shall develop an annual review process to determine whether projects are in the stage that accurately reflects their needs and goals.
 
 [Incubating]: #incubating

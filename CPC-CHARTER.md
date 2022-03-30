@@ -160,10 +160,10 @@ Subject to such policies as may be set by the Board, the CPC is responsible for:
    1. Voting members are responsible for approving funds for budgets delegated
       to the project.
    1. Voting members are responsible for approving new `collaboration spaces` as outlined in the OpenJS
-      [COLLABORATION_NETWORK.md](COLLABORATION_NETWORK.md) process.
+      [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md) process.
    1. Voting members are responsible for making final decisions on aligning `collaboration spaces`,
       removing or archiving `collaboration spaces`, as outlined in the
-      OpenJS [COLLABORATION_NETWORK.md](COLLABORATION_NETWORK.md) process.
+      OpenJS [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md) process.
    1. Following and be up to date on Board/OpenJS Foundation initiatives and communicate them to the projects.
    1. Defining common practices to be implemented across OpenJS Foundation projects, if any.
    1. Mediating technical conflicts between OpenJS Foundation Projects when attempts to resolve

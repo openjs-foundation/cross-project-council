@@ -22,11 +22,11 @@ Why is the proposed area/topic important to the JavaScript Ecosystem?
 
 Which [resources](./COLLABORATION_SPACE_PROGRESSION.md#expectations)
 would the space need from those listed as available to
-Collaboration spaces? 
+Collaboration spaces?
 
 ## Existing assets
 
-Are there an existing assets, documentation etc. that would be transferred into 
+Are there an existing assets, documentation etc. that would be transferred into
 a Foundation repo upon formation of the Collaboration space?
 
 ## Questions?

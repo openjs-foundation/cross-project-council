@@ -69,7 +69,7 @@ As per the [CPC charter][cpc charter term], the term for all voting members is 1
 > Voting members serve for a term of 1 year and must be re-nominated and ratified
 > by the Voting CPC members each year.
 
-The term for all voting members ends March 31st. In the event annual elections are not complete before the end of a term year, voting members will hold their seats until that election is complete. 
+The term for all voting members ends March 31st. In the event annual elections are not complete before the end of a term year, voting members will hold their seats until that election is complete.
 
 ## Term for CPC Board representatives
 
@@ -231,11 +231,11 @@ The pull request may be fast-tracked if two CPC members approve the fast-trackin
 CPC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
 
 [cpc repo]: https://github.com/openjs-foundation/cross-project-council
-[cpc charter]: ./CPC-CHARTER.md
-[cpc charter term]: ./CPC-CHARTER.md#voting-members
-[CPC charter section 5]: ./CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
+[cpc charter]: ../CPC-CHARTER.md
+[cpc charter term]: ../CPC-CHARTER.md#voting-members
+[CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
-[README]: ./README.md
+[README]: ../README.md
 [OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/main/cpc-private.md
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator

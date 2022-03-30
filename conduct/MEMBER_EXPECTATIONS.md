@@ -1,5 +1,5 @@
 All participants in the OpenJS Foundation projects and groups must follow the
-[Code of Conduct](CODE_OF_CONDUCT.md). There are further expectations for
+[Code of Conduct](../CODE_OF_CONDUCT.md). There are further expectations for
 members of leadership teams including the
 [CPC](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md).
 
@@ -47,12 +47,12 @@ we participate in official OpenJS Foundation work (GitHub, IRC, meetings,
 conferences), it is important to recognize that the public behavior
 of members also reflects on the OpenJS Foundation projects and groups.
 
-If you're interested in an introduction to diversity, inclusion, and unconscious bias, 
+If you're interested in an introduction to diversity, inclusion, and unconscious bias,
 [try this free training offered by our partners at the Linux Foundation](https://training.linuxfoundation.org/training/inclusive-speaker-orientation/).
 
 If it appears that any member of the leadership groups are acting outside
 of the expectations set above please refer to our
-[Code of Conduct](CODE_OF_CONDUCT.md)
+[Code of Conduct](../CODE_OF_CONDUCT.md)
 policy which outlines the process of making an official complaint.
 
 This policy, and changes to it, are not retroactive.
