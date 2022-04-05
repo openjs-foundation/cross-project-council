@@ -19,3 +19,5 @@ jobs:
           markdown: true
           retry: true
           linksToSkip: "https://github.com/openjs-foundation/directory-private"
+          urlRewriteSearch: "https://github.com/openjs-foundation/cross-project-council/blob/HEAD/"
+          urlRewriteReplace: ""
