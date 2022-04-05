@@ -136,6 +136,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
+- Mohammed Keyvanzadeh ([@VoltrexMaster](https://github.com/VoltrexMaster))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Parris Lucas ([@GrooveCS](https://github.com/groovecs))
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
