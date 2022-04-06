@@ -133,7 +133,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Kris Borchers ([@kborchers](https://github.com/kborchers))
 - Marcin Hoppe ([@MarcinHoppe](https://github.com/MarcinHoppe))
-- Matteo Collina ([@mcollina](https://github.com/mcollina)
+- Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
