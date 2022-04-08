@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The OpenJS Foundation and its member projects use [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct) in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
+The OpenJS Foundation and its member projects use [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct-v20) in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
 
 ## Commitment
 
@@ -81,7 +81,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at the email addresses listed above in the [Reporting](#reporting) and [Escalation](#escalation) sections. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at the email addresses listed above in the [Reporting](#report-an-issue-in-a-project) and [Escalation](#escalate-an-issue) sections. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
