@@ -49,7 +49,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project nvm" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/nvm/nvm-logo-grayscale.svg" width="30" />  | [nvm](https://nvm.sh/) | [Charter](https://github.com/nvm-sh/nvm/blob/HEAD/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/nvm-sh/nvm/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/nvm-sh/nvm/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project PEP" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/pep/pep-icon-color.svg" width="30" /> | [PEP](https://github.com/jquery/pep)       |    | [Contributing Guide](https://github.com/jquery/PEP/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project QUnit" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/qunit/qunit-icon-color.svg" width="30" /> | [QUnit](https://qunitjs.com/)              |    | [Contributing Guide](https://github.com/qunitjs/qunit/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/qunitjs/qunit/blob/HEAD/CODE_OF_CONDUCT.md) |
-| <img alt="logo of project WebdriverIO" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/webdriverio/webdriverio-icon-color.svg" width="30" /> | [WebdriverIO](https://webdriver.io/)    |    | [Contributing Guide](https://github.com/webdriverio/webdriverio/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/webdriverio/webdriverio/blob/HEAD/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project WebdriverIO" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/webdriverio/webdriverio-icon-color.svg" width="30" /> | [WebdriverIO](https://webdriver.io/)    | [Charter](https://github.com/webdriverio/webdriverio/blob/HEAD/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/webdriverio/webdriverio/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/webdriverio/webdriverio/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project webhint" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/webhint/webhint-icon-color.svg" width="30" /> | [webhint](https://webhint.io/)          |    | [Contributing Guide](https://github.com/webhintio/hint/blob/HEAD/.github/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
 
 #### Emeritus Projects
@@ -133,7 +133,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Kris Borchers ([@kborchers](https://github.com/kborchers))
 - Marcin Hoppe ([@MarcinHoppe](https://github.com/MarcinHoppe))
-- Matteo Collina ([@mcollina](https://github.com/mcollina)
+- Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
@@ -237,10 +237,10 @@ Members of the OpenJS Foundation can email
 
 Projects with questions on relevant legal topics are encouraged to email the
 [legal-questions](mailto:legal-questions@lists.openjsf.org) mailing list.  This
-is a private list, and we will route your question appropriately.
+is a private list with closed membership, and we will route your question appropriately.
 
 In order to mail this list, you must be subscribed to at least one other [OpenJS
-Foundation mailing list](https://lists.openjsf.org).
+Foundation mailing list](https://lists.openjsf.org), such as [`main`](https://lists.openjsf.org/g/main).
 
 ### Help with press and media
 

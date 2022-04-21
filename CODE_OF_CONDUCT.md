@@ -82,7 +82,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at the email addresses listed above in the [Reporting](#reporting) and [Escalation](#escalation) sections. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at the email addresses listed above in the [Reporting](#report-an-issue-in-a-project) and [Escalation](#escalate-an-issue) sections. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
