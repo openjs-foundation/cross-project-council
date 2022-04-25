@@ -41,6 +41,6 @@ See [GitHub's documentation on transferring repos][] on how to perform the neces
 
 
 [GitHub's documentation on transferring repos]: https://help.github.com/articles/about-repository-transfers/
-[OpenJS Foundation GitHub Organization Management Policy]: https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GITHUB_ORG_MANAGEMENT_POLICY.md
+[OpenJS Foundation GitHub Organization Management Policy]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/governance/GITHUB_ORG_MANAGEMENT_POLICY.md
 [the contributing guide]: https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md
 [the issue tracker of the Cross Project Council repository]: https://github.com/openjs-foundation/cross-project-council/issues
