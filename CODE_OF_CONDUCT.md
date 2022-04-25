@@ -32,14 +32,14 @@ For reporting issues in spaces managed by the OpenJS Foundation, for example, re
 
 ## Escalate an issue
 
-The OpenJS Foundation maintains a [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled.
+The OpenJS Foundation maintains a [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled.
 
 In order to escalate to the CoCP, email <coc-escalation@lists.openjsf.org>.
 
 ## More Info
 
 For more information, refer to the full
-[Code of Conduct governance document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
+[Code of Conduct governance document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
 
 ---
 

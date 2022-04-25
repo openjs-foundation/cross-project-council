@@ -236,10 +236,10 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
 [README]: ../README.md
-[OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/main/cpc-private.md
+[OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/cpc-private.md
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
-[OpenJS Foundation CPC directory]: https://github.com/openjs-foundation/directory-private/blob/main/groups/cross-project-council.yml
+[OpenJS Foundation CPC directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/groups/cross-project-council.yml
 [Primary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-primary-cpc-director-as-defined-in-43d-in-the-openjs-foundation-bylaws
 [Secondary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-secondary-cpc-director-as-defined-in-43e-in-theopenjs-foundation-bylaws
 [Tertiary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-tertiary-cpc-director-as-defined-in-43f-in-the-openjs-foundation-bylaws

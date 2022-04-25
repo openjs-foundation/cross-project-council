@@ -1,7 +1,7 @@
 # Handling reports and escalation
 This document describes the proposed process for handling reports and escalation, along with relevant roles in the OpenJS Foundation.
 
-This process covers two types of reports based on the [Foundation's Code of Conduct Requirements](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md):
+This process covers two types of reports based on the [Foundation's Code of Conduct Requirements](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md):
 
 * Reports for spaces managed by the Cross Project Council (CPC) which come in through `report@opensjsf.org`
 * Escalations which come in through `coc-escalation@openjsf.org`.
@@ -51,7 +51,7 @@ All members of the CPC are subscribed to the `report@openjsf.org` mailing list. 
 
 Note: We understand that the reporter and the target can be separate persons. In this case the CPC will communicate with the reporter unless the target gives permission for the CPC to communicate with them.
 
-All members of the [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel)
+All members of the [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel)
 are subscribed to the coc-escalation@openjsf.org mailing list. The current list of members is documented in ./CODE_OF_CONDUCT_PANEL_MEMERS.md.
 
 When a report is received the following actions will be taken:
