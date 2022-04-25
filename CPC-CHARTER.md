@@ -334,5 +334,5 @@ policies.
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
-[Active OpenJS Collaborator]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/GOVERNANCE.md#definition-of-an-active-openjs-collaborator
+[Active OpenJS Collaborator]: https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#definition-of-an-active-openjs-collaborator
 [OpenJS Foundation bylaws]: https://bylaws.openjsf.org/

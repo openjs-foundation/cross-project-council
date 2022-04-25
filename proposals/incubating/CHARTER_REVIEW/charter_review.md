@@ -44,4 +44,4 @@ CPC members should add themselves as reviewers to the associated charter issue. 
 
 Project Charters should be reviewed and approved within two weeks of submission. An exception may be made if the charter is submitted during a holiday period (such as the end of the year) or in the event either the project or CPC has requested legal review. 
 
-Charters are approved when they meet the requirements outlined in the 'Approving Charters' section of [GOVERNANCE.md](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/GOVERNANCE.md#approving-project-charters).
+Charters are approved when they meet the requirements outlined in the 'Approving Charters' section of [GOVERNANCE.md](https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#approving-project-charters).
