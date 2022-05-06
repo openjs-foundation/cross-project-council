@@ -218,9 +218,8 @@ OpenJS Foundation Collaboration spaces are able to take advantage of several ser
 
 ### Help with project infrastructure
 
-In almost all situations, the best way to get support is to email
-[operations@openjsf.org](mailto:operations@openjsf.org) with your request. For
-example:
+In almost all situations, the best way to get support is to 
+[file a ticket with The Linux Foundation](https://members.openjsf.org). For example:
 
 * Requesting DNS changes
 * Adding a project-specific mailing list to [lists.openjsf.org](https://lists.openjsf.org)
@@ -230,8 +229,9 @@ example:
 
 ### Help with membership
 
-Members of the OpenJS Foundation can email
-[operations@openjsf.org](mailto:operations@openjsf.org) with any questions.
+Current and prospective members of the OpenJS Foundation can 
+[file a ticket with the service desk](https://members.openjsf.org) for help with
+topics such as billing, logo management on the website, etc.
 
 ### Help with legal questions (for existing projects only)
 
@@ -253,5 +253,5 @@ If you run your project's social media and would like the Foundation to share or
 
 ### All other topics
 
-For any other topics which aren't covered above, please email
-[operations@openjsf.org](mailto:operations@openjsf.org).
+For any other topics which aren't covered above, please
+[file a ticket with the service desk](https://members.openjsf.org).
