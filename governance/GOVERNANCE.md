@@ -186,16 +186,16 @@ The request is approved when:
 
 ## Merging PRs into this Repository
 
-Pull requests that do not change the charter or governance of the CPC can be merged into
+Pull requests that do not change the charter or [governance of the CPC][] can be merged into
 this repository provided the following conditions have been met:
 
 * There are no outstanding objections
 * There are two approvals by CPC members
 * The PR has been open for at least 72 hours
 
-Pull requests that change governance of the CPC (including approving changes to
-Working Groups) must meet the following conditions in addition to the ones
-listed for regular PRs.
+Pull requests that change [governance of the CPC][] (including approving changes to
+Working Groups) as well as to the [Code of Conduct][] must meet the following conditions
+in addition to the ones listed for regular PRs.
 
 * The PR has been open for at least 14 days OR consensus is reached in a meeting
   with quorum of voting members.
@@ -240,6 +240,8 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
 [OpenJS Foundation CPC directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/groups/cross-project-council.yml
-[Primary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-primary-cpc-director-as-defined-in-43d-in-the-openjs-foundation-bylaws
-[Secondary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-secondary-cpc-director-as-defined-in-43e-in-theopenjs-foundation-bylaws
-[Tertiary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-tertiary-cpc-director-as-defined-in-43f-in-the-openjs-foundation-bylaws
+[Primary CPC Director]: ../CPC-CHARTER.md#the-primary-cpc-director-as-defined-in-43d-in-the-openjs-foundation-bylaws
+[Secondary CPC Director]: ../CPC-CHARTER.md#the-secondary-cpc-director-as-defined-in-43e-in-theopenjs-foundation-bylaws
+[Tertiary CPC Director]: ../CPC-CHARTER.md#the-tertiary-cpc-director-as-defined-in-43f-in-the-openjs-foundation-bylaws
+[Code of Conduct]: ../conduct
+[governance of the CPC]: ./
