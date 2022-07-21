@@ -18,6 +18,6 @@ jobs:
           paths: "**/*.md"
           markdown: true
           retry: true
-          linksToSkip: "https://github.com/openjs-foundation/directory-private, https://twitter.com/*"
+          linksToSkip: "https://github.com/openjs-foundation/directory-private, https://twitter.com/*, https://opensource.org/licenses/*"
           urlRewriteSearch: "https://github.com/openjs-foundation/cross-project-council/blob/HEAD/"
           urlRewriteReplace: ""
