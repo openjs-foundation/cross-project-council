@@ -39,14 +39,14 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project Interledger.js" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/interledgerjs/interledgerjs-icon-color.svg" width="30" /> | [Interledger.js](https://interledger.org/) |    | [Contributing Guide](https://github.com/interledger/rfcs/blob/HEAD/CONTRIBUTING.md) |  |
 | <img alt="logo of project Intern" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/intern/intern-icon-color.svg" width="30" /> | [Intern](https://theintern.github.io/)  |    | [Contributing Guide](https://github.com/theintern/intern/blob/HEAD/CONTRIBUTING.md) |  |
 | <img alt="logo of project JerryScript" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jerryscript/jerryscript-icon-color.svg" width="30" /> | [JerryScript](https://jerryscript.net/)    |    | [Contributing Guide](https://github.com/jerryscript-project/jerryscript/blob/HEAD/CONTRIBUTING.md) | |
-| <img alt="logo of project Libuv" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/libuv/libuv-icon-color.svg" width="30" /> | [Libuv](https://libuv.org/)                |    | [Contributing Guide](https://github.com/libuv/libuv/blob/v1.x/CONTRIBUTING.md) | |
 | <img alt="logo of project Lodash" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/lodash/lodash-icon-color.svg" width="30" /> | [Lodash](https://lodash.com/)              |    | [Contributing Guide](https://github.com/lodash/lodash/blob/HEAD/.github/CONTRIBUTING.md) |  |
+| <img alt="logo of project LoopBack" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/loopback/mark/blue/loopback.svg" width="30" /> | [LoopBack](https://loopback.io) |   | [Contributing Guide](https://github.com/loopbackio/loopback-next/blob/HEAD/docs/CONTRIBUTING.md) | [Code of Conduct](https://github.com/loopbackio/loopback-next/blob/HEAD/docs/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project Marko" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/marko/marko-icon-color.svg" width="30" /> | [Marko](https://markojs.com/)              |    | [Contributing Guide](https://github.com/marko-js/marko/blob/HEAD/.github/CONTRIBUTING.md) | [Code of Conduct](https://github.com/marko-js/marko/blob/HEAD/.github/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project messageformat" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/messageformat/messageformat-icon-color.svg" width="30" /> | [messageformat](https://messageformat.github.io/messageformat/)  |    | [Contributing Guide](https://github.com/messageformat/messageformat/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project Mocha" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/mocha/mocha-icon-color.svg" width="30" /> | [Mocha](https://mochajs.org/)           |    | [Contributing Guide](https://github.com/mochajs/mocha/blob/HEAD/.github/CONTRIBUTING.md) | [Code of Conduct](https://github.com/mochajs/mocha/blob/HEAD/.github/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project Moment" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/moment/moment-icon-color.svg" width="30" /> | [Moment](https://momentjs.com/)            |    | [Contributing Guide](https://github.com/moment/moment/blob/develop/CONTRIBUTING.md) |  |
 | <img alt="logo of project Node-RED" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/node_red/node_red-icon-color.svg" width="30" /> | [Node-RED](https://nodered.org/)        |    | [Contributing Guide](https://nodered.org/about/contribute/) | [Code of Conduct](https://nodered.org/about/conduct/) |
-| <img alt="logo of project nvm" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/nvm/nvm-logo-grayscale.svg" width="30" />  | [nvm](https://nvm.sh/) | [Charter](https://github.com/nvm-sh/nvm/blob/HEAD/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/nvm-sh/nvm/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/nvm-sh/nvm/blob/HEAD/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project nvm" src="https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg" width="35" />  | [nvm](https://nvm.sh/) | [Charter](https://github.com/nvm-sh/nvm/blob/HEAD/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/nvm-sh/nvm/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/nvm-sh/nvm/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project PEP" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/pep/pep-icon-color.svg" width="30" /> | [PEP](https://github.com/jquery/pep)       |    | [Contributing Guide](https://github.com/jquery/PEP/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project QUnit" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/qunit/qunit-icon-color.svg" width="30" /> | [QUnit](https://qunitjs.com/)              |    | [Contributing Guide](https://github.com/qunitjs/qunit/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/qunitjs/qunit/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project WebdriverIO" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/webdriverio/webdriverio-icon-color.svg" width="30" /> | [WebdriverIO](https://webdriver.io/)    | [Charter](https://github.com/webdriverio/webdriverio/blob/HEAD/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/webdriverio/webdriverio/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/webdriverio/webdriverio/blob/HEAD/CODE_OF_CONDUCT.md) |
@@ -67,9 +67,11 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | | Project        | Charter           | Contributing       | Code of Conduct       |
 |-|----------------|:-----------------:|:------------------:|:---------------------:|
 | <img alt="logo of project ajv" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/ajv/ajv-logo-color.svg" width="30" />  | [Ajv](https://ajv.js.org/) |   | [Contributing Guide](https://ajv.js.org/contributing) | [Code of Conduct](https://github.com/ajv-validator/ajv/blob/HEAD/CODE_OF_CONDUCT.md) |
-| <img alt="logo of project JSON Schema" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jsonschema/jsonschema-logo-color.svg" width="30" />  | [JSON Schema](https://json-schema.org/) |   | [Contributing Guide](https://github.com/json-schema-org/json-schema-spec/blob/draft-next/CONTRIBUTING.md) | [Code of Conduct](https://github.com/json-schema-org/.github/blob/HEAD/CODE_OF_CONDUCT.md) |
-| <img alt="logo of project LoopBack" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/loopback/mark/blue/loopback.svg" width="30" /> | [LoopBack](https://loopback.io) |   | [Contributing Guide](https://github.com/loopbackio/loopback-next/blob/HEAD/docs/CONTRIBUTING.md) | [Code of Conduct](https://github.com/loopbackio/loopback-next/blob/HEAD/docs/CODE_OF_CONDUCT.md) |
+| <img alt="logo of project Jest" src="https://raw.githubusercontent.com/facebook/jest/main/website/static/img/jest.svg" width="30" />  | [Jest](https://jestjs.io/) |   | [Contributing Guide](https://github.com/facebook/jest#contributing) | [Code of Conduct](https://github.com/facebook/jest#code-of-conduct) |
+| <img alt="logo of project JSON Schema" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jsonschema/jsonschema-logo-color.svg" width="30" />  | [JSON Schema](https://json-schema.org/) |   | [Contributing Guide](https://github.com/json-schema-org/json-schema-spec/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/json-schema-org/.github/blob/HEAD/CODE_OF_CONDUCT.md) |
+|   | [kepler.gl](https://kepler.gl/) |   | [Contributing Guide](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing) | [Code of Conduct](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project NativeScript" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/nativescript/nativescript-icon-color.svg" width="30" /> | [NativeScript](https://nativescript.org/) |   | [Contributing Guide](https://github.com/NativeScript/NativeScript/blob/HEAD/tools/notes/CONTRIBUTING.md) | [Code of Conduct](https://github.com/NativeScript/codeofconduct) |
+|   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/visgl/deck.gl/blob/HEAD/CODE_OF_CONDUCT.md) |
 
 
 ### OpenJS Collaboration spaces
@@ -94,7 +96,7 @@ CPC members should attend as many meetings as possible, and non-members are welc
 Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](./CPC-CHARTER.md#voting-members)
 
 - **Appium**: Isaac Murchie ([@imurchie](https://github.com/imurchie), Sauce Labs) & Jonah Stiennon([@Jonahss](https://github.com/Jonahss), Origin Labs)
-- **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Site Pen)
+- **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Living Spec)
 - **Electron**: Shelley Vohr ([@codebytere](https://github.com/codebytere), Microsoft) & Tierney Cyren ([@bnb](https://github.com/bnb), Microsoft)
 - **jQuery**: Dave Methvin ([@dmethvin](https://github.com/dmethvin), USDS) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
 - **Node.js**: Rich Trott([@Trott](https://github.com/Trott), UCSF) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
@@ -136,8 +138,10 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
+- Mohammed Keyvanzadeh ([@VoltrexMaster](https://github.com/VoltrexMaster))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Parris Lucas ([@GrooveCS](https://github.com/groovecs))
+- Rifa Achrinza ([@achrinza](https://github.com/achrinza))
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
 - Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
@@ -218,9 +222,8 @@ OpenJS Foundation Collaboration spaces are able to take advantage of several ser
 
 ### Help with project infrastructure
 
-In almost all situations, the best way to get support is to email
-[operations@openjsf.org](mailto:operations@openjsf.org) with your request. For
-example:
+In almost all situations, the best way to get support is to 
+[file a ticket with The Linux Foundation](https://members.openjsf.org). For example:
 
 * Requesting DNS changes
 * Adding a project-specific mailing list to [lists.openjsf.org](https://lists.openjsf.org)
@@ -230,8 +233,9 @@ example:
 
 ### Help with membership
 
-Members of the OpenJS Foundation can email
-[operations@openjsf.org](mailto:operations@openjsf.org) with any questions.
+Current and prospective members of the OpenJS Foundation can 
+[file a ticket with the service desk](https://members.openjsf.org) for help with
+topics such as billing, logo management on the website, etc.
 
 ### Help with legal questions (for existing projects only)
 
@@ -253,5 +257,5 @@ If you run your project's social media and would like the Foundation to share or
 
 ### All other topics
 
-For any other topics which aren't covered above, please email
-[operations@openjsf.org](mailto:operations@openjsf.org).
+For any other topics which aren't covered above, please
+[file a ticket with the service desk](https://members.openjsf.org).
