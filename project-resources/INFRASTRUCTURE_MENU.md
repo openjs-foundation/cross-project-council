@@ -25,7 +25,7 @@ The OpenJS Foundation will purchase 2-year wildcard SSL certs for each project's
 By default all OpenJS Foundation projects have open source repositories in their own GitHub Organizations.  The OpenJS Foundation admin account must be added as administrator for each repository.  Two-factor authentication must be required for everyone in the organization.
 
 ## Build (CI/CD)
-Projects which require CI/CD should attempt to use solutions which are free to open source projects, such as https://travis-ci.org/.  Non-free options may be requested, subject to budget approval.
+Projects which require CI/CD should attempt to use solutions which are free to open source projects.  Non-free options may be requested, subject to budget approval.
 
 ## Distribution
 Projects with a technical need for a CDN should attempt to use no-cost services from sites like https://www.jsdelivr.com/, https://www.keycdn.com/open-source-cdn, or others.  Non-free options may be requested, subject to budget approval.
