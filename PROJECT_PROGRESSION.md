@@ -28,7 +28,7 @@ Some projects have decided to publicly share their application after being accep
 
 ##### Applicant
 
-Individual or group who submits the application on behalf of a project to join the OpenJS Foundation.
+Individual or group who submits the application on behalf of a project to join the OpenJS Foundation. 
 
 ##### Application Manager
 
@@ -46,6 +46,8 @@ The Application Champion is a member of the CPC who commits to do the following:
 1. Help to explain why the Project is a good fit.
 1. Help the Application Manager when needed.
 1. Be available as a primary point of contact through the incubation period if reached.
+
+The Application Champion *cannot* be the Applicatnt.
 
 #### Process
 
