@@ -28,7 +28,7 @@ Some projects have decided to publicly share their application after being accep
 
 ##### Applicant
 
-Individual or group who submits the application on behalf of a project to join the OpenJS Foundation. 
+Individual or group who submits the application on behalf of a project to join the OpenJS Foundation.
 
 ##### Application Manager
 
