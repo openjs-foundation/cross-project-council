@@ -97,7 +97,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 
 - **Appium**: Isaac Murchie ([@imurchie](https://github.com/imurchie), Sauce Labs) & Jonah Stiennon([@Jonahss](https://github.com/Jonahss), Origin Labs)
 - **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Living Spec)
-- **Electron**: Shelley Vohr ([@codebytere](https://github.com/codebytere), Microsoft) & Tierney Cyren ([@bnb](https://github.com/bnb), Microsoft)
+- **Electron**: Erick Zhao ([@erickzhao](https://github.com/erickzhao), Slack) & Tierney Cyren ([@bnb](https://github.com/bnb), Twilio)
 - **jQuery**: Dave Methvin ([@dmethvin](https://github.com/dmethvin), USDS) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
 - **Node.js**: Rich Trott([@Trott](https://github.com/Trott), UCSF) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
 - **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Tobias Koppers ([@sokra](https://github.com/sokra), self-employed)
@@ -123,6 +123,7 @@ Members of the Collaboration spaces at the `Core` stage may nominate a candiate 
 
 Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](./governance/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
 
+- Abigail Cabunoc Mayes ([@abbycabs](https://github.com/abbycabs))
 - Abraham Jr Agiri ([@codeekage](https://github.com/codeekage))
 - Antón Molleda ([@molant](https://github.com/molant))
 - Ben Michel ([@obensource](https://github.com/obensource))
