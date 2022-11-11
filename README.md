@@ -146,6 +146,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
 - Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
+- Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
 
 ### Regular Member emeriti
 
