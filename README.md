@@ -128,6 +128,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Antón Molleda ([@molant](https://github.com/molant))
 - Ben Michel ([@obensource](https://github.com/obensource))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
+- Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
 - Darcy Clarke ([@darcyclarke](https://github.com/darcyclarke))
 - Dhruv Jain ([@maddhruv](https://github.com/maddhruv))
 - Divy Tolia ([@designmoreweb](https://github.com/designmoreweb))
@@ -139,13 +140,14 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
-- Mohammed Keyvanzadeh ([@VoltrexMaster](https://github.com/VoltrexMaster))
+- Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Parris Lucas ([@GrooveCS](https://github.com/groovecs))
 - Rifa Achrinza ([@achrinza](https://github.com/achrinza))
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
 - Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
+- Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
 
 ### Regular Member emeriti
 

@@ -47,6 +47,8 @@ The Application Champion is a member of the CPC who commits to do the following:
 1. Help the Application Manager when needed.
 1. Be available as a primary point of contact through the incubation period if reached.
 
+The Application Champion *must not* be the Applicant.
+
 #### Process
 
 1. Initial email sent to new-projects@lists.openjsf.org with filled-out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
