@@ -114,6 +114,7 @@ According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regul
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson), IBM)
+- Jordan Harband ([@ljharb](https://github.com/ljharb))
 
 #### Collaboration space representatives
 

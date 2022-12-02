@@ -156,28 +156,7 @@ A project may request an allocation from the travel fund as follows:
 
 ## Reimbursement
 
-So that we can reimburse you more quickly, we strongly encourage you to use
-[Expensify](https://expensify.com) to organize and submit your receipts.
-
-### Here are the highlights of the process:
-
-* A free [Expensify](https://www.expensify.com/) account is sufficient.
-* You can use the Android and iOS apps to capture receipts while you are
-  traveling.  If you do not use the app, you will need to upload photos of your
-  receipts after you return.
-* When you add an expense, please use local currency so that it matches the
-  amount on the receipt.
-* Once you have uploaded your receipts, please add them to a report and submit
-  it with [operations@openjsf.org](mailto:operations@openjsf.org) on cc, and the
-  Memo field set to "YOURNAME - TRIPNAME".
-
-When we receive your report, we will send you a form via DocuSign to collect
-your payment details. At that point, you're done.
-
-### Alternate process
-
-If you decide not to or cannot use Expensify, the reimbursement process is manual
-and may take longer for us to process. Please send an email over to [operations@openjsf.org](mailto:operations@openjsf.org) or reach out to Foundation staff on the OpenJS Foundation Slack.
+Please send an email over to [operations@openjsf.org](mailto:operations@openjsf.org) or reach out to Foundation staff on the OpenJS Foundation Slack.
 
 ### Important:
 
