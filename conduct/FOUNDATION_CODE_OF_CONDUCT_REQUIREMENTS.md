@@ -51,20 +51,25 @@ and will result in a response that is deemed necessary and appropriate to the ci
 The Code of Conduct panel is obligated to maintain confidentiality with regard
 to the reporter of an escalation.
 
-### Code of Conduct panel
+### Code of Conduct Panel
 
-The Code of Conduct panel is a cross-foundation team who have been trained in moderation
+The Code of Conduct Panel is a cross-foundation team who have been trained in moderation
 and code of conduct issues. The makeup of this team is as follows:
 
 * OpenJS Foundation Executive Director - Robin Ginn (@rginn)
 * OpenJS Foundation Marketing Lead - Kylie Wagar-Dirks (@kyliewd)
-* 3 community members from the Cross Project Council
+* 3 members selected by the Cross Project Council
   - TBD
   - TBD
   - TBD
 
-Members of the CoCP team will be added for a 1-year term and will be re-confirmed on
-a yearly basis.
+#### Nomination
+
+Code of Conduct Panel team members are CPC Members who self-nominate or are community
+members nominated by the CPC. CoCP team members must be approved by the CPC and re-confirmed
+every year. If there are no objections after seven days, the nomination is automatically
+accepted. If there are objections to a specific nomination, then a simple majority vote of
+the CPC in favor of the nomination is required.
 
 ## Resources
 
