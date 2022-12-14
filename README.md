@@ -130,6 +130,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Ben Hutton ([@relequestual](https://github.com/relequestual))
 - Ben Michel ([@obensource](https://github.com/obensource))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
+- Christopher Hiller ([@boneskull](https://github.com/boneskull))
 - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
 - Darcy Clarke ([@darcyclarke](https://github.com/darcyclarke))
 - Dhruv Jain ([@maddhruv](https://github.com/maddhruv))
@@ -148,6 +149,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Rifa Achrinza ([@achrinza](https://github.com/achrinza))
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
 - Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
+- Shelley Vohr ([@codebytere](https://github.com/codebytere))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
 - Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
 
