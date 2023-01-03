@@ -44,7 +44,7 @@ in place by a project (for reports made to a project) or the CPC (in the
 case of reports relating to spaces within the scope of the foundation versus a project).
 In exceptional cases where a reporter wishes to challenge the response from the CPC or
 project, or does not feel comfortable reporting through the standard processes, an escalation
-report can be made to coc-escalation@openjsf.org.
+report can be made to report@openjsf.org.
 
 All escalations will be reviewed and investigated by the Code of Conduct Panel (CoCP)
 and will result in a response that is deemed necessary and appropriate to the circumstances.
@@ -56,13 +56,12 @@ to the reporter of an escalation.
 The Code of Conduct panel is a cross-foundation team who have been trained in moderation
 and code of conduct issues. The makeup of this team is as follows:
 
-* The Foundation Executive director
-* 1 member from the Board
-* 1 member from the CPC
-* 1 member of the OpenJS marketing committee
-* each top-level project may optionally provide 1 member
-* the non top-level projects may optionally provide 1 member
-* optionally 1 invited outside expert as agreed by the other CoCP members.
+* OpenJS Foundation Executive Director - Robin Ginn (@rginn)
+* OpenJS Foundation Marketing Lead - Kylie Wagar-Dirks (@kyliewd)
+* 3 community members from the Cross Project Council
+  - TBD
+  - TBD
+  - TBD
 
 Members of the CoCP team will be added for a 1-year term and will be re-confirmed on
 a yearly basis.
