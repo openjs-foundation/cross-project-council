@@ -1,12 +1,7 @@
 # Foundation Code of Conduct Requirements
 
-It is important that there be a Code of Conduct (CoC) which
-is documented and enforced for the OpenJS Foundation,
-hereinafter referred to as the "Foundation", and the
-projects within it. This document defines the requirements
-for a CoC for the Foundation and the projects which are part
-of the foundation.
-
+This document defines the requirements for implementing a Code of Conduct (CoC)
+for the OpenJS foundation and its projects.
 
 ## Code of Conduct
 
