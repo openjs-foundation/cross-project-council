@@ -1,8 +1,8 @@
 ---
-name: ad-hoc-meeting
+name: Adil Ishaq 
 about: Used to organize ad-hoc meetings
-title: "[Ad hoc meeting] "
-labels: ''
+title: "[Adil Ishaq] "
+labels: 'IRadvisor'
 assignees: 'brianwarner'
 
 ---
