@@ -16,7 +16,7 @@ and any information that might be useful to highlight the need of funds and thei
 
 #### How these requests get evaluated?
 
-The requests should go through the OpenJSF Cross Project Council (CPC) and must have approval from the CPC members. 
+The request must be made to the CPC for evaluation. The CPC evaluates the request following its [decision-making process](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and makes a recommendation to the Board.
 Finally the request should be forwarded to the Board of Directors for final approval.
 
 #### How much might a project request?
