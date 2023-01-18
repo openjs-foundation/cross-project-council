@@ -3,8 +3,7 @@
 The OpenJS Foundation (OpenJSF) provides a set of monetary funds for projects of the OpenJSF. 
 These funds are designed to support collaboration and incentive project-specific initiatives that have high-impact within the individual project's scope.
 
-Alongside these lines, the fund exist to support the development of these 
-initiatives and give visibility/recognition to the champions of these project-specific initiatives, highligthing the individuals behind them.
+Alongside these lines, the fund exists to support the development of the project when the volunteer-based approach is not enough to support the community, e.g. infrastructure, tools, or security.
 
 ## F.A.Q.
 
