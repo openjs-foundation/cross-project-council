@@ -6,8 +6,8 @@ The OpenJS Foundation and its member projects use a modified version of the Cont
 
 All recipients of reports commit to:
 
-- maintain the confidentiality with regard to the reporter and victim of an incident, and
-- participate in the path for escalation as outlined in the section on Escalation when required.
+- maintain the confidentiality with regard to the reporter and victim of an incident
+- participate in the path for escalation as outlined in the section on Escalation when required
 
 ## Report an issue in a project
 
