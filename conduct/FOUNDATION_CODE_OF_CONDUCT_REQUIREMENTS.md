@@ -46,7 +46,7 @@ and will result in a response that is deemed necessary and appropriate to the ci
 The OpenJS Foundation Code of Conduct team is obligated to maintain confidentiality with regard
 to the reporter of an escalation.
 
-### Code of Conduct Panel
+### OpenJS Foundation Code of Conduct team
 
 The Code of Conduct Panel is a cross-foundation team who have been trained in moderation
 and code of conduct issues. The makeup of this team is as follows:
