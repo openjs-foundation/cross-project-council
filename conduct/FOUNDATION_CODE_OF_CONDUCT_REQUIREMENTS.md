@@ -48,7 +48,7 @@ to the reporter of an escalation.
 
 ### OpenJS Foundation Code of Conduct team
 
-The Code of Conduct Panel is a cross-foundation team who have been trained in moderation
+The OpenJS Foundation Code of Conduct team is a cross-foundation team who have been trained in moderation
 and code of conduct issues. The makeup of this team is as follows:
 
 * OpenJS Foundation Executive Director - Robin Ginn (@rginn)
