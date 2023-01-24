@@ -41,9 +41,9 @@ In exceptional cases where a reporter wishes to challenge the response from the 
 project, or does not feel comfortable reporting through the standard processes, an escalation
 report can be made to report@openjsf.org.
 
-All escalations will be reviewed and investigated by the Code of Conduct Panel (CoCP)
+All escalations will be reviewed and investigated by the OpenJS Foundation Code of Conduct team
 and will result in a response that is deemed necessary and appropriate to the circumstances.
-The Code of Conduct panel is obligated to maintain confidentiality with regard
+The OpenJS Foundation Code of Conduct team is obligated to maintain confidentiality with regard
 to the reporter of an escalation.
 
 ### Code of Conduct Panel
