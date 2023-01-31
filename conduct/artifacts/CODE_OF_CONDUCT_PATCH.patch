@@ -1,0 +1,41 @@
+--- ./coc-expected.md	2023-03-27 17:54:12
++++ ./coc-current.md	2023-03-27 17:53:58
+@@ -43,16 +43,15 @@
+ 
+ ---
+ 
++_Contributor Covenant Code of Conduct v2.0, from [commit 8001bf8](https://github.com/EthicalSource/contributor_covenant/blob/8001bf8c6e7cd2606657e2816710770d8a79b7dc/content/version/2/0/code_of_conduct.md)_
+ 
+-# Contributor Covenant Code of Conduct
+-
+ ## Our Pledge
+ 
+ We as members, contributors, and leaders pledge to make participation in our
+ community a harassment-free experience for everyone, regardless of age, body
+ size, visible or invisible disability, ethnicity, sex characteristics, gender
+ identity and expression, level of experience, education, socio-economic status,
+-nationality, personal appearance, race, caste, color, religion, or sexual
++nationality, personal appearance, race, religion, or sexual
+ identity and orientation.
+ 
+ We pledge to act and interact in ways that contribute to an open, welcoming,
+@@ -106,7 +105,9 @@
+ 
+ Instances of abusive, harassing, or otherwise unacceptable behavior may be
+ reported to the community leaders responsible for enforcement at
+-[INSERT CONTACT METHOD].
++the email addresses listed above in the
++[Reporting](#report-an-issue-in-a-project) and
++[Escalation](#escalate-an-issue) sections.
+ All complaints will be reviewed and investigated promptly and fairly.
+ 
+ All community leaders are obligated to respect the privacy and security of the
+@@ -156,7 +157,7 @@
+ individual, or aggression toward or disparagement of classes of individuals.
+ 
+ **Consequence**: A permanent ban from any sort of public interaction within the
+-community.
++project community.
+ 
+ ## Attribution
+ 
