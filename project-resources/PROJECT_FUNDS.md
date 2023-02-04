@@ -7,7 +7,7 @@ Alongside these lines, the fund exists to support the development of the project
 
 ## F.A.Q.
 
-### How might a project request for funds?
+### How might a project request funds?
 
 Funds should be requested on an ad-hoc basis through a PR requesting the funds. The requests should follow a specific template,
 but the description should contain relevant information regarding the project initiative, 
@@ -56,4 +56,4 @@ Finally the request should be forwarded to the Board of Directors for final appr
 
 ### How much might a project request?
 
-The level of funding level will be determined on case per case basis after consideration of the request and discussion with the project maintainers.
+The level of funding level will be determined on case by case basis after consideration of the request and discussion with the project maintainers.
