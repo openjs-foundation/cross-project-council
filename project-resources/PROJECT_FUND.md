@@ -1,17 +1,26 @@
 # OpenJS Foundation Project-specific Initiative Funds
 
-The OpenJS Foundation (OpenJSF) provides a set of monetary funds for projects of the OpenJSF. 
+The OpenJS Foundation (OpenJSF) provides a set of monetary funds for projects of the OpenJSF.
 These funds are designed to support collaboration and incentive project-specific initiatives that have high-impact within the individual project's scope.
 
 Alongside these lines, the fund exists to support the development of the project when the volunteer-based approach is not enough to support the community, e.g. infrastructure, tools, or security.
+
+## Archive of Past Project Funds
+
+The list below contains a historical archive and reference of past approved project fund requests.
+
+- [2023](../PROJECT_FUND/2023.md)
 
 ## F.A.Q.
 
 ### How might a project request funds?
 
 Funds should be requested on an ad-hoc basis through a PR requesting the funds. The requests should follow a specific template,
-but the description should contain relevant information regarding the project initiative, 
+but the description should contain relevant information regarding the project initiative,
 and any information that might be useful to highlight the need of funds and their benefits.
+
+The Pull Request template below should be completed with a Pull Request containing an addition to the `PROJECT_FUND/{CurrentYear}.md`
+spreadsheet from this repository, filling the required information.
 
 #### Fund Request PR Template
 
@@ -46,7 +55,7 @@ and any information that might be useful to highlight the need of funds and thei
 - [ ] **Was the success criteria met?**
   - If not, please explain why and if possible any learnings.
 
-cc @openjs-foundation/cpc 
+cc @openjs-foundation/cpc
 ```
 
 ### How these requests get evaluated?
