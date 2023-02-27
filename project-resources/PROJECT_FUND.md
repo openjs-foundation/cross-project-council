@@ -11,13 +11,12 @@ The list below contains a historical archive and reference of past approved proj
 
 - [2023](../PROJECT_FUND/2023.md)
 
-# F.A.Q.
+## Requesting Project Funds
 
-## How a project might request funds?
+Funds should be requested on an ad-hoc basis through a PR requesting the funds.
+The level of funding will be determined on a case-by-case basis after consideration of the request and discussion with the project maintainers.
 
-Funds should be requested on an ad-hoc basis through a PR requesting the funds. The requests should follow a specific template,
-but the description should contain relevant information regarding the project initiative,
-and any information that might be useful to highlight the need of funds and their benefits.
+The requests should follow a specific template and contain relevant information regarding the project initiative, as well as any information that might be useful to highlight the need for funds and their benefits.
 
 The Pull Request template below should be completed with a Pull Request containing an addition to the `PROJECT_FUND/{CurrentYear}.md`
 spreadsheet from this repository, filling the required information.
@@ -56,21 +55,17 @@ spreadsheet from this repository, filling the required information.
 cc @openjs-foundation/cpc
 ```
 
-## How these requests get evaluated?
+## Process
 
 The request must be made to the CPC for evaluation. The CPC evaluates the request following its [decision-making process](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and makes a recommendation to the Board.
 Finally the request should be forwarded to the Board of Directors for final approval.
 
-## How much might a project request?
+## Evaluation
 
-The level of funding level will be determined on case by case basis after consideration of the request and discussion with the project maintainers.
-
-## How we evaluate the outcomes of the request?
-
-A post-mortem should be done after the conclusion of the timeline of the fund request. Ideally as a comment on the same PR as it would notify the current people subscribed to the Pull Request. The template below contains the recommended format for the post-mortem, but we believe more/less information can be added by the champions of the request through good judgement.
+An evaluation should be done after the conclusion of the timeline of the fund request. Ideally as a comment on the same PR as it would notify the current people subscribed to the Pull Request. The template below contains the recommended format for the evaluation, but we believe more/less information can be added by the champions of the request through good judgement.
 
 ```md
-## Post-request Mortem
+## Post-request Evaluation
 
 <!-- This should be written ad-hoc after the timeline was concluded -->
 
