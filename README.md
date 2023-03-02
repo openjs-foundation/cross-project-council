@@ -71,7 +71,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project JSON Schema" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jsonschema/jsonschema-logo-color.svg" width="30" />  | [JSON Schema](https://json-schema.org/) |   | [Contributing Guide](https://github.com/json-schema-org/json-schema-spec/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/json-schema-org/.github/blob/HEAD/CODE_OF_CONDUCT.md) |
 |   | [kepler.gl](https://kepler.gl/) |   | [Contributing Guide](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing) | [Code of Conduct](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project NativeScript" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/nativescript/nativescript-icon-color.svg" width="30" /> | [NativeScript](https://nativescript.org/) |   | [Contributing Guide](https://github.com/NativeScript/NativeScript/blob/HEAD/tools/notes/CONTRIBUTING.md) | [Code of Conduct](https://github.com/NativeScript/codeofconduct) |
-|   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/visgl/deck.gl/blob/HEAD/CODE_OF_CONDUCT.md) |
+|   | [vis.gl](http://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/visgl/deck.gl/blob/HEAD/CODE_OF_CONDUCT.md) |
 
 
 ### OpenJS Collaboration spaces
