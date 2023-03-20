@@ -1,4 +1,14 @@
-# The OpenJS Foundation Cross Project Council
+<p align="center">
+  <br />
+  <a href="https://openjsf.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color-dark_background.svg">
+      <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color.svg" width="200px">
+    </picture>
+  </a>
+</p>
+
+<h1>Cross Project Council</h1>
 
 The OpenJS Foundation Cross Project Council (CPC) is the technical governing body of the OpenJS Foundation. It is described in the [CPC Charter](./CPC-CHARTER.md)
 
