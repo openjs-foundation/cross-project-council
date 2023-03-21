@@ -52,13 +52,11 @@ The OpenJS Foundation Code of Conduct team is a cross-foundation team who have b
 and code of conduct issues. The makeup of this team is as follows:
 
 * OpenJS Foundation Executive Director - Robin Ginn (@rginn)
-* OpenJS Foundation Marketing representative - Kylie Wagar-Dirks (@kyliewd)
-* 3 members selected by the Cross Project Council
+* OpenJS Foundation Marketing Lead - Kylie Wagar-Dirks (@kyliewd)
+* 3 community members from the Cross Project Council
   - TBD
   - TBD
   - TBD
-
-#### Nomination
 
 Code of Conduct Panel team members are CPC Members who self-nominate or are community
 members nominated by the CPC. CoCP team members must be approved by the CPC and re-confirmed
