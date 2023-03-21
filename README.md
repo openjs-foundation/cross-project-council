@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1>Cross Project Council</h1>
+# Cross Project Council
 
 The OpenJS Foundation Cross Project Council (CPC) is the technical governing body of the OpenJS Foundation. It is described in the [CPC Charter](./CPC-CHARTER.md)
 
