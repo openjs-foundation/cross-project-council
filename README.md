@@ -198,7 +198,7 @@ be excluded from future CPC meetings based on a standard CPC motion.
 
 #### Other 
 
-* [Travel Fund Policy and Process](TRAVEL_FUND/README.md)
+* [Travel Fund Policy and Process](https://github.com/openjs-foundation/community-fund/blob/main/programs/travel-fund/README.md)
 
 ### Policy Change Proposal Process
 
@@ -222,7 +222,7 @@ Discussion should be held in the open whenever possible.  However, if you need t
 
 ### Project Resources & Travel Fund
 
-OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](./project-resources/MEMBER_TRAVEL_FUND.md). Details can be found in the [/project-resources](./project-resources) directory.
+OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](https://github.com/openjs-foundation/community-fund/blob/main/programs/travel-fund/README.md).  
 
 OpenJS Foundation Collaboration spaces are able to take advantage of several services and benefits as outlined in [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md).
 
