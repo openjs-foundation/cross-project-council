@@ -39,11 +39,9 @@ For each project, any active participant is welcome to apply for funds. This wou
 > **Note:** This section has been updated to include the updated links, pointing to where they live in the OpenJS Foundation organization rather than the dead links in the Node.js organization. See the previous commit to the following lines file if you'd like to see the original, broken links.
 
 - Modify these files to account for OpenJS Foundation rather than Node.js organizations
-  - https://github.com/openjs-foundation/cross-project-council/blob/HEAD/project-resources/MEMBER_TRAVEL_FUND.md
-  - https://github.com/openjs-foundation/cross-project-council/tree/HEAD/TRAVEL_FUND
-  - https://github.com/openjs-foundation/cross-project-council/blob/HEAD/TRAVEL_FUND/travel-visas.md
-  - https://github.com/openjs-foundation/cross-project-council/blob/HEAD/TRAVEL_FUND/expense-report-template.xls
-  - https://github.com/openjs-foundation/cross-project-council/blob/HEAD/TRAVEL_FUND/reimbursement_process.pdf
+  - https://github.com/openjs-foundation/community-fund/blob/main/programs/travel-fund/README.md
+  - https://github.com/openjs-foundation/community-fund/blob/main/programs/travel-fund/travel-visas.md
+
 - Remove mentions from nodejs/admin README, add links to CPC README
 
 ## Required Resources
