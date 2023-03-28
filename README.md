@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <br />
   <a href="https://openjsf.org">
     <picture>
