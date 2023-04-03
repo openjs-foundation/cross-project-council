@@ -40,3 +40,5 @@ In order to escalate to the CoCP, email <coc-escalation@lists.openjsf.org>.
 
 For more information, refer to the full
 [Code of Conduct governance document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
+
+---

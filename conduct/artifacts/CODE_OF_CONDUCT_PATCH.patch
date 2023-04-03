@@ -1,16 +1,15 @@
---- ./coc-expected.md	2023-03-27 17:54:12
-+++ ./coc-current.md	2023-03-27 17:53:58
-@@ -43,16 +43,15 @@
+--- preamble+template.md	2023-04-03 10:47:38
++++ original-expected.md	2023-04-03 10:45:10
+@@ -43,7 +43,7 @@
  
  ---
  
+-# Contributor Covenant Code of Conduct
 +_Contributor Covenant Code of Conduct v2.0, from [commit 8001bf8](https://github.com/EthicalSource/contributor_covenant/blob/8001bf8c6e7cd2606657e2816710770d8a79b7dc/content/version/2/0/code_of_conduct.md)_
  
--# Contributor Covenant Code of Conduct
--
  ## Our Pledge
  
- We as members, contributors, and leaders pledge to make participation in our
+@@ -51,7 +51,7 @@
  community a harassment-free experience for everyone, regardless of age, body
  size, visible or invisible disability, ethnicity, sex characteristics, gender
  identity and expression, level of experience, education, socio-economic status,
@@ -19,7 +18,7 @@
  identity and orientation.
  
  We pledge to act and interact in ways that contribute to an open, welcoming,
-@@ -106,7 +105,9 @@
+@@ -105,7 +105,9 @@
  
  Instances of abusive, harassing, or otherwise unacceptable behavior may be
  reported to the community leaders responsible for enforcement at
@@ -30,7 +29,7 @@
  All complaints will be reviewed and investigated promptly and fairly.
  
  All community leaders are obligated to respect the privacy and security of the
-@@ -156,7 +157,7 @@
+@@ -155,13 +157,13 @@
  individual, or aggression toward or disparagement of classes of individuals.
  
  **Consequence**: A permanent ban from any sort of public interaction within the
@@ -39,3 +38,20 @@
  
  ## Attribution
  
+ This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+-version 2.1, available at
+-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
++version 2.0, available at
++[https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
+ 
+ Community Impact Guidelines were inspired by
+ [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+@@ -171,7 +173,7 @@
+ [https://www.contributor-covenant.org/translations][translations].
+ 
+ [homepage]: https://www.contributor-covenant.org
+-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
++[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+ [Mozilla CoC]: https://github.com/mozilla/diversity
+ [FAQ]: https://www.contributor-covenant.org/faq
+ [translations]: https://www.contributor-covenant.org/translations
