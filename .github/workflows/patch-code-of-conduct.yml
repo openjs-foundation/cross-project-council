@@ -18,7 +18,7 @@ jobs:
       - name: Patch CoC
         uses: pkgjs/patch-my-code-of-conduct@v1.2.0
         with:
-          base_url: '../../conduct/artifacts/CODE_OF_CONDUCT_PATCH.patch'
+          base_url: './conduct/artifacts/CODE_OF_CONDUCT_PREAMBLE.md'
           template_url: 'https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md'
           patch_file_path: './conduct/artifacts/CODE_OF_CONDUCT_PATCH.patch'
           output_file_path: './CODE_OF_CONDUCT.md'
