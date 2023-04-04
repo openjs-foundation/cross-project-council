@@ -1,0 +1,31 @@
+name: Patch CoC
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    name: Patch
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+      - name: Patch CoC
+        uses: pkgjs/patch-my-code-of-conduct@v1.3.0
+        with:
+          base_url: './conduct/artifacts/CODE_OF_CONDUCT_PREAMBLE.md'
+          template_url: 'https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md'
+          patch_file_path: './conduct/artifacts/CODE_OF_CONDUCT_PATCH.patch'
+          output_file_path: './CODE_OF_CONDUCT.md'
+      - uses: gr2m/create-or-update-pull-request-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          body: "Applied the patch to the base Code of Conduct."
+          commit-message: 'doc: update Code of Conduct'
+          title: 'doc: update Code of Conduct'
