@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The OpenJS Foundation and its member projects use [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their code of conduct. The full text is included below in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
+The OpenJS Foundation and its member projects use a modified version of the Contributor Covenant as their code of conduct, and the translations from the original script will not reflect all modifications. The full text is included below in English, and [the original translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
 
 ## Commitment
 
