@@ -148,39 +148,31 @@ Multiple-candidate methods may be reduced to simple election by plurality when t
 No election is required if there is only one candidate and no objections to the candidates election.
 Elections shall be done within the Projects by the Collaborators active in the Project.
 
-The CPC will elect from amongst CPC members a CPC Chairperson to work on building an agenda for CPC meetings and a CPC Director to represent the CPC to the Board for a term of one year according to the OpenJS Foundation’s By-laws.
-The Chair and Director may be (but are not required to be) the same person.
-The CPC shall hold annual elections to select a CPC Chairperson and Director; there are no limits on the number of terms a CPC Chairperson or Director may serve.
+The CPC will elect from amongst CPC members:
 
-## Section 8. Board Representation
+* a CPC Chairperson to work on building an agenda for CPC meetings
+* CPC Directors to represent the Foundation's projects and related communities to the Board
 
-There are 3 Board seats earmarked for representation from the OpenJS Foundation, the Foundation's projects, and related communities.
+The term for each of these roles is one year (as defined in the [OpenJS Foundation bylaws][]).
 
-### The Primary CPC Director (as defined in §4.3(d) in the [OpenJS Foundation bylaws][])
+The CPC shall hold annual elections to select a CPC Chairperson and Directors.
+The CPC can decide to spread those elections across the year in order to avoid changing all of its Board representatives at once.
 
-The first of these board seats is filled as outlined in Section 7 on [Elections][] and is always in place.
+There are no limits on the number of terms a CPC Chairperson or Director may serve.
 
-**Primary CPC Director eligibility:** The Primary CPC Director must be a current CPC Member
+The Chair may be (but is not required to be) a CPC Director.
 
-**Primary CPC Director voting:** CPC Voting Members will vote on candidates
+## Section 8. Board Representation (CPC Directors)
 
-### The Secondary CPC Director (as defined in §4.3(e) in the [OpenJS Foundation bylaws][])
+There are Board seats allocated for CPC members to represent the Foundation's projects and related communities to the Board.
 
-The second board seat will be filled based on processes defined by the CPC and approved by the Voting CPC members and then the Board.
-The CPC members will review and either re-confirm or update the processes once per year.
+CPC Board representatives are called CPC Directors.
 
-**Secondary Director eligibility:** The Second CPC Director must be an [Active OpenJS Collaborator][] at the time of their selection, as defined in the CPC's Governance document.
+The number of CPC Directors is defined in §4.3(d) and §4.3(e) of the [OpenJS Foundation bylaws][].
 
-**Secondary Director voting:** CPC Voting Members will vote on candidates
+To be eligible, candidates must be current CPC Members.
 
-As described in the [Elections][] section a multiple candidate method will be be used for the voting for the first and second board members.
-
-### The Tertiary CPC Director (as defined in §4.3(f) in the [OpenJS Foundation bylaws][])
-
-The third board seat is earmarked to represent the Individual membership program.
-3 Platinum board members as well as 2000 members registered in the Individual membership program are required for it to activate.
-Candidates for the Individual Membership Director are to be nominated by voting members of the top-level committees of all projects and the voting CPC members.
-Active members of the Individual Membership program would then vote on the candidate of their choosing via an election system set by the CPC.
+The CPC Voting Members will vote on candidates as described in the [Elections][] section.
 
 ## Section 9. Decision Making
 
