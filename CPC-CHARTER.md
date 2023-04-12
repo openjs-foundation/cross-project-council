@@ -248,7 +248,7 @@ There are no limits on the number of terms a CPC Chairperson or Director may ser
 The Chair may be (but is not required to be) a CPC Director.
 
 
-## Section 8. Board Representation (CPC Directors)
+## Section 8. Board Representation
 
 There are Board seats allocated for CPC members to represent the Foundation's projects and related communities to the Board.
 
