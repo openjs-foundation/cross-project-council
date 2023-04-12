@@ -241,7 +241,7 @@ The CPC will elect from amongst CPC members:
 The term for each of these roles is one year (as defined in the [OpenJS Foundation bylaws][]).
 
 The CPC shall hold annual elections to select a CPC Chairperson and Directors.
-The CPC can decide to spread those elections across the year in order to avoid changing all of its Board representatives at once.
+The CPC can choose to hold those elections at different times of the year or concurrently.
 
 There are no limits on the number of terms a CPC Chairperson or Director may serve.
 
