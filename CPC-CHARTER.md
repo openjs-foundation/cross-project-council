@@ -256,7 +256,7 @@ CPC Board representatives are called CPC Directors.
 
 The number of CPC Directors is defined in §4.3(d) and §4.3(e) of the [OpenJS Foundation bylaws][].
 
-To be eligible, candidates must be current CPC Members.
+To be eligible, candidates must be Regular or Voting members of the CPC.
 
 The CPC Voting Members will vote on candidates as described in the [Elections][] section.
 
