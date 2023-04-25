@@ -233,7 +233,7 @@ election is required if there is only one candidate and no objections to
 the candidates election. Elections shall be done within the Projects by
 the Collaborators active in the Project.
 
-The CPC will elect from amongst CPC members:
+The CPC will elect from amongst Regular and Voting members of the CPC:
 
 * a CPC Chairperson to work on building an agenda for CPC meetings
 * CPC Directors to represent the Foundation's projects and related communities to the Board
