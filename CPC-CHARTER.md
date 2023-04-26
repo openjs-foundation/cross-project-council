@@ -240,7 +240,7 @@ The CPC will elect from amongst Regular and Voting members of the CPC:
 
 The term for each of these roles is one year (as defined in the [OpenJS Foundation bylaws][]).
 
-The CPC shall hold annual elections to select a CPC Chair, Vice Chair and Directors.
+The CPC shall hold annual elections to select a CPC Chair, Vice Chair, and Directors.
 The CPC can choose to hold those elections at different times of the year or concurrently.
 
 There are no limits on the number of terms a CPC Chair, Vice Chair, or Director may serve.
