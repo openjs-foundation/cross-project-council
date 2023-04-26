@@ -122,10 +122,10 @@ The public portion of the CPC discussions and meetings will be open to all
 observers and members.
 
 The CPC shall meet regularly using tools that enable participation by the
-community. The meeting shall be directed by the CPC Chairperson.
+community. The meeting shall be directed by the CPC Chairperson or the CPC Vice Chairperson.
 Responsibility for directing individual meetings may be
-delegated by the CPC Chairperson to any other CPC member. The CPC chairperson
-shall be one of the Voting members, and will be selected by the CPC members
+delegated by the CPC Chairperson or by the CPC Vice Chairperson to any other CPC member. The CPC chairperson
+and CPC Vice Chairperson roles confer Voting member status, and will be selected by the CPC members
 through consensus or if necessary a vote as described in the section titled "Voting".
 Minutes or an appropriate recording shall be taken and made available to
 the community through accessible public postings.
@@ -235,17 +235,17 @@ the Collaborators active in the Project.
 
 The CPC will elect from amongst Regular and Voting members of the CPC:
 
-* a CPC Chairperson to work on building an agenda for CPC meetings
+* a CPC Chairperson and a CPC Vice Chairperson to work on building an agenda for CPC meetings
 * CPC Directors to represent the Foundation's projects and related communities to the Board
 
 The term for each of these roles is one year (as defined in the [OpenJS Foundation bylaws][]).
 
-The CPC shall hold annual elections to select a CPC Chairperson and Directors.
+The CPC shall hold annual elections to select a CPC Chairperson, Vice Chairperson and Directors.
 The CPC can choose to hold those elections at different times of the year or concurrently.
 
-There are no limits on the number of terms a CPC Chairperson or Director may serve.
+There are no limits on the number of terms a CPC Chairperson, Vice Chairperson, or Director may serve.
 
-The Chair may be (but is not required to be) a CPC Director.
+The Chairperson and Vice Chairperson may be (but are not required to be) CPC Directors.
 
 
 ## Section 8. Board Representation
