@@ -245,7 +245,7 @@ The CPC can choose to hold those elections at different times of the year or con
 
 There are no limits on the number of terms a CPC Chair, Vice Chair, or Director may serve.
 
-The Chair and Vice Chair may be (but are not required to be) CPC Directors.
+The CPC Chair and Vice Chair may be (but are not required to be) CPC Directors.
 
 
 ## Section 8. Board Representation
