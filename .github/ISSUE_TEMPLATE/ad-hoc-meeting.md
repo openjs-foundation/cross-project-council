@@ -3,7 +3,7 @@ name: ad-hoc-meeting
 about: Used to organize ad-hoc meetings
 title: "[Ad hoc meeting] "
 labels: ''
-assignees: 'brianwarner'
+assignees: 'bensternthal'
 
 ---
 
