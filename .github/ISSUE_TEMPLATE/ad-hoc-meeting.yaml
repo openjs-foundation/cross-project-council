@@ -1,4 +1,5 @@
-name: Create an Ad-Hoc Meeting
+name: 'Create an Ad-Hoc Meeting'
+description: 'This Issue template is used for creating a new Ad-Hoc Meeting for the Cross Project Council'
 title: "[Ad hoc meeting] "
 assignees:
   - bensternthal
