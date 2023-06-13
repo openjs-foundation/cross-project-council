@@ -28,7 +28,7 @@ body:
     id: meeting-date
     attributes:
       label: Meeting Date
-      description: 'When should the meeting happen? Use a MM/DD/YYY hh:mm TZ format (e.g.: 01/01/2001 00:00 UTC-3)'
+      description: 'When should the meeting happen? Use a "yyyy-MM-dd HH:mm SSZ" format (e.g.: 2009-05-27 UTC)'
     validations:
       required: true
   - type: input
