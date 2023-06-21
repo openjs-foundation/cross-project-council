@@ -143,6 +143,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Dhruv Jain ([@maddhruv](https://github.com/maddhruv))
 - Divy Tolia ([@designmoreweb](https://github.com/designmoreweb))
 - Eemeli Aro ([@eemeli](https://github.com/eemeli))
+- Ethan Arrowood ([@Ethan-Arrowood](https://github.com/Ethan-Arrowood))
 - Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Kris Borchers ([@kborchers](https://github.com/kborchers))
