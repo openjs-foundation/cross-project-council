@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Legal Help
+    url: https://github.com/openjs-foundation/cross-project-council/tree/chore/issue-templates-forms#help-with-legal-questions-for-existing-projects-only
+    about: "Do you need help with legal matters?"
+  - name: Infrastructure Request
+    url: https://github.com/openjs-foundation/cross-project-council/tree/chore/issue-templates-forms#help-with-project-infrastructure
+    about: "Do you want to request Infrastructure Resources?"
+  - name: Confidential matter
+    url: mailto:cpc-private@lists.openjsf.org
+    about: "Dou you need support within a confidential environment?"
