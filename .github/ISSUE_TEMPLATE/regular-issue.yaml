@@ -1,18 +1,18 @@
-name: Generic Issue
-description: Open a generic Issue for the OpenJS CPC
+name: Generic issue
+description: Open a generic issue for the OpenJS CPC
 body:
   - type: markdown
     attributes:
       value: |
-        ### OpenJS Cross Project Council
+        ### OpenJS Cross Project Council (CPC)
 
-        Thank you for opening an issue for the OpenJS Cross Project Council.
+        Thank you for opening an issue with the CPC.
 
         **Please remember to give a read to our [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md) if you're a newcomer.**
   - type: input
     id: topic
     attributes:
-      label: What is this Issue about?
+      label: What is this issue about?
       description: How can the CPC help you out?
     validations:
       required: false
@@ -20,18 +20,18 @@ body:
     id: details
     attributes:
       label: Request Details
-      description: Provide us more details about your request to the CPC
+      description: Provide more details about your issue
     validations:
       required: true
   - type: dropdown
     id: type
     attributes:
       label: Request Type
-      description: What is this Issue about?
+      description: What is this issue about?
       options:
-        - General Discussion that requires the CPC attention
-        - Request for supporting a new Resource (e.g. GitHub Feature)
-        - Topic for the CPC Agenda/Working Sessions
-        - Repository Bug Report (e.g. broken link)
+        - General discussion that requires the CPC attention
+        - Request for infrastructure support
+        - Topic for the CPC agenda/working sessions
+        - Repository bug report (e.g. broken link)
     validations:
       required: true

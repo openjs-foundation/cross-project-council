@@ -1,5 +1,5 @@
-name: 'Create an Ad-Hoc Meeting'
-description: 'This Issue template is used for creating a new Ad-Hoc Meeting for the Cross Project Council'
+name: 'Create an ad-hoc meeting'
+description: 'This issue template is used for creating a new ad-hoc meeting for the Cross Project Council'
 title: "[Ad hoc meeting] "
 assignees:
   - bensternthal
@@ -20,32 +20,30 @@ body:
   - type: input
     id: related-issues
     attributes:
-      label: Related Issue(s)
-      description: What are the related Issues to this Meeting?
+      label: Related issue(s)
+      description: What are the related issues to this meeting?
     validations:
       required: false
   - type: input
     id: meeting-date
     attributes:
-      label: Meeting Date
-      description: 'When should the meeting happen? Use a "yyyy-MM-dd HH:mm SSZ" format (e.g.: 2009-05-27 UTC)'
+      label: Date and time
+      description: 'When should the meeting happen? Use a "YYYY-MM-DD HH:MM UTC" format (e.g.: 2009-05-27 13:00 UTC)'
     validations:
       required: true
   - type: input
     id: zoom-link
     attributes:
-      label: Zoom/G Meet Libk
-      description: Where should the meet happen?
+      label: Zoom link
+      description: Where should the meeting happen?
       value: 'https://zoom.us/j/91398697172?pwd=QVgxRUFXdmtHVUNiODhoSU11ejF0QT09'
     validations:
       required: true
   - type: input
     id: meeting-notes
     attributes:
-      label: Meeting Notes G Doc
-      description: Provide a Google Doc link for the Meeting Notes
-    validations:
-      required: true
+      label: URL for meeting notes
+      description: Provide link to meeting notes
   - type: markdown
     attributes:
       value: |
