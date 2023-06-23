@@ -8,6 +8,3 @@ contact_links:
   - name: Infrastructure Request
     url: https://github.com/openjs-foundation/cross-project-council/tree/chore/issue-templates-forms#help-with-project-infrastructure
     about: "Do you want to request infrastructure resources?"
-  - name: Confidential matter
-    url: mailto:cpc-private@lists.openjsf.org
-    about: "Dou you need support within a confidential environment?"
