@@ -36,7 +36,7 @@ body:
     attributes:
       label: Zoom link
       description: Where should the meeting happen?
-      value: 'https://zoom.us/j/91398697172?pwd=QVgxRUFXdmtHVUNiODhoSU11ejF0QT09'
+      placeholder: 'Provide a Zoom or a Google Meet link, for example'
     validations:
       required: true
   - type: input
