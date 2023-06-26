@@ -28,7 +28,6 @@ body:
       description: What is this issue about?
       options:
         - General discussion that requires the CPC attention
-        - Request for infrastructure support
         - Topic for the CPC agenda/working sessions
         - Repository bug report (e.g. broken link)
     validations:
