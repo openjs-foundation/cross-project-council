@@ -1,0 +1,34 @@
+name: Generic issue
+description: Open a generic issue for the OpenJS CPC
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### OpenJS Cross Project Council (CPC)
+
+        Thank you for opening an issue with the CPC.
+  - type: input
+    id: topic
+    attributes:
+      label: What is this issue about?
+      description: How can the CPC help you out?
+    validations:
+      required: false
+  - type: textarea
+    id: details
+    attributes:
+      label: Request Details
+      description: Provide more details about your issue
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Request Type
+      description: What is this issue about?
+      options:
+        - General discussion that requires the CPC attention
+        - Topic for the CPC agenda/working sessions
+        - Repository bug report (e.g. broken link)
+    validations:
+      required: true
