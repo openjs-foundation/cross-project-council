@@ -1,5 +1,12 @@
 # The OpenJS Collaboration Network
 
+**TL;DR** Collaborations Spaces at the OpenJS Foundation are essentially the same as
+a traditional working group elsewhere, but named and positioned as "collaboration spaces"
+in an effort to make the group and the work more welcoming and inclusive to anyone in the 
+community who may want to get involved.
+
+---
+
 The formation of the OpenJS Foundation was in support of a number of goals.
 The first was to support JavaScript projects, providing a neutral place for people
 to collaborate and resources needed by those projects
