@@ -116,7 +116,7 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
 - [ ] Add Project to the [CPC repo's README.md](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/README.md#incubating-projects) as an Incubating project
 - [ ] List trademarks the project commits to transfer to the OpenJS Foundation following graduation
 - [ ] If project is using crowdfunding platforms, add disclaimer from the OpenJS Foundation [Trademark Policy](https://trademark-policy.openjsf.org) to platforms
-- [ ] Identify individuals from the project to join the CPC by opening an Issue in the CPC repository which identifies the individuals and the project
+- [ ] Identify individuals from the project to join the CPC [by opening an issue in the CPC repository](https://github.com/openjs-foundation/cross-project-council/issues/new)
 - [ ] Document project and foundation contacts for:
   * marketing & social media
   * infrastructure
