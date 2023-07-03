@@ -68,7 +68,7 @@ The Application Champion *must not* be the Applicant.
    * If there is agreement to move forward:
      * Confirmation to the applicant that they are ready to have their application become public.
      * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date.
-       Confirm next steps beyond announcement.  
+       Confirm next steps beyond announcement. 
    * If lack of consensus to move forward:
       * Correspondence from foundation staff to applicant about non-acceptance.
       * If possible, give guidance to the project in their quest to find a foundation home
@@ -93,7 +93,7 @@ The Application Champion *must not* be the Applicant.
    1. How much and how broad is usage within the JavaScript Community.
    1. Level of activity and progress within the project.
    1. Synergy or overlap with existing projects in the Foundation.
-   1. Level of comfort that project will be successful.  
+   1. Level of comfort that project will be successful. 
   
 ## Onboarding Checklist
 
@@ -169,7 +169,7 @@ To be considered for the At Large Stage, the project must meet the following req
 
 #### Definition
 
-The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.     
+The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.    
 
 #### Examples
 
