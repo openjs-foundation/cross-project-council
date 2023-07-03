@@ -1,23 +1,19 @@
 ## I. Overview
 
-This governance policy describes how a new `Collaboration Space` can be established wthin the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Collaboration Space Proposal Process](#ii-collaboration-space-proposal-process). It describes the [Stages](#stages) a collaboration space may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a space to move from one stage to another.
+This governance policy describes how a new `Collaboration Space` can be established wthin the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Collaboration Space Proposal Process](#ii-collaboration-space-proposal-process).
+It describes the [Stages](#stages) a collaboration space may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a space to move from one stage to another.
 
 `Collaboration Spaces` are different than `Working Groups` in a number of ways:
-* `Working Groups` are formally delegated responsibility from the scope of the Cross Project Council so that they
-  can make autonomous decisions with respect to the delegated scope.  The subject of a `Collaboration Space` may be completely
-  outside of the existing scope of the Cross Project Council.
-* `Working Groups` are generally made up of an existing OpenJS members project contributors. `Collaboration Spaces` are intended to
-  expand the group of contributors to the work of the OpenJS Foundation's work by allowing people outside the OpenJS
-  member projects to propose/collaborate on areas of importance to the JavaScript ecosytem.
+* `Working Groups` are formally delegated responsibility from the scope of the Cross Project Council so that they can make autonomous decisions with respect to the delegated scope.
+  The subject of a `Collaboration Space` may be completely outside of the existing scope of the Cross Project Council.
+* `Working Groups` are generally made up of an existing OpenJS members project contributors.
+  `Collaboration Spaces` are intended to expand the group of contributors to the work of the OpenJS Foundation's work by allowing people outside the OpenJS member projects to propose/collaborate on areas of importance to the JavaScript ecosytem.
 
-`Collaboration Spaces` may graduate between levels as outlined in this documented. In addition,  it may make more sense for them
-to be converted into a `Working group` if formal delegation of responsibility is beneficial or most of the contributions/leadership
-is being made from those who are active in the CPC. If there is an existing `Working Group` in a particular area a `Collaboration
-Space` will only be approved by the CPC with the support and approval from the `Working Group` that the space is complimentary.
+`Collaboration Spaces` may graduate between levels as outlined in this documented.
+In addition, it may make more sense for them to be converted into a `Working group` if formal delegation of responsibility is beneficial or most of the contributions/leadership is being made from those who are active in the CPC.
+If there is an existing `Working Group` in a particular area a `Collaboration Space` will only be approved by the CPC with the support and approval from the `Working Group` that the space is complimentary.
 
-`Collaboration Space` applications must include the champions who will lead the effort and the credentials of the champion and
-those initially involved will be a key part of the evaluation process to ensure that the work of the spaces is
-aligned/respectful of the foundation vision and expectations.
+`Collaboration Space` applications must include the champions who will lead the effort and the credentials of the champion and those initially involved will be a key part of the evaluation process to ensure that the work of the spaces is aligned/respectful of the foundation vision and expectations.
 
 Collaboration space progression - movement from one stage to another - allows spaces to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all Foundation spaces benefit from access to some level of  mentorship, support, and foundation resources.
 
@@ -75,7 +71,7 @@ The Application Champion is a member of the CPC or Foundation staff who commits 
 1. Are the existing members/space leaders agreed to managing the space under open governance?
 1. Have the existing members/space leaders agreed that all work will happen under the [OpenJS Foundation IP Policy](https://ip-policy.openjsf.org)? The IP policy permits projects to use a variety of licenses, including MIT, BSD-2, BSD-3, and Apache 2.0. Where there is no preference otherwise, the Foundation recommends that new work/artifacts be licensed Apache 2.0 due to its explicitly defined rights and responsibilities.
 1. Have the existing members/space leaders agreed that the collaboration space will adopt the [OpenJS CoC](https://code-of-conduct.openjsf.org)?
-1. Are licences for any existing material that will be added to the collaboration space repo compatible with Foundation requirements?
+1. Are licenses for any existing material that will be added to the collaboration space repo compatible with Foundation requirements?
 1. Fit with OpenJS Foundation (not all of these need to be met, but provide different ways of assessing strategic fit).
    1. Impact on JavaScript Community.
    1. How much and how broad of importance is the topic for the JavaScript Community.
@@ -89,8 +85,8 @@ This is an informational checklist to help start up a collaboration space into t
 
 - [ ] Adopt the OpenJS Foundation Code of Conduct
 - [ ] If choosing to use a Contributor License Agreement (CLA) or Developer Certificate of Origin (DCO), make selection and implement appropriate tool
-- [ ] Confirm required files in place (CODE_OF_CONDUCT.md, LICENSE.md, Overview.md, Governance.md) and approved by the CPC.
-- [ ] Publish Collobration Space Overview on Foundation Website
+- [ ] Confirm required files in place (`CODE_OF_CONDUCT.md`, `LICENSE.md`, `Overview.md`, `Governance.md`) and approved by the CPC.
+- [ ] Publish Collaboration Space Overview on Foundation Website
 - [ ] Document initial space `Leaders`.
 
 ## Stages
@@ -114,8 +110,7 @@ At Large collaboration spaces are expected to operate with little support from t
 * 2 re-tweets from the OpenJS Foundation twitter account per month. These will be requested through DM.
 
 An at Large collaboration space must have at least one active 'Space Leader' leading the activities of the space.
-All activities of the collaboration space must conform to the Foundation's Code-of-Conduct and the Space Leader
-must agree to participate in any escalations made to the Foundation Code of Conduct Panel.
+All activities of the collaboration space must conform to the Foundation's Code-of-Conduct and the Space Leader must agree to participate in any escalations made to the Foundation Code of Conduct Panel.
 
 #### Acceptance Criteria
 
@@ -129,15 +124,12 @@ To be considered for the At Large Stage, the project must meet the following req
 
 #### Definition
 
-The Core Stage is for collaboration spaces that have demonstrated that there is sustained level of interest and participation in the area
-of collaboration and wish to work more closesly with the Cross Project Council and Foundation.
-
+The Core Stage is for collaboration spaces that have demonstrated that there is sustained level of interest and participation in the area of collaboration and wish to work more closesly with the Cross Project Council and Foundation.
 
 #### Expectations
 
 Core collaboration spaces are expected to have regular meetings, activity and demonstrable forward progress in their area of collaboration.
-In addition it should be well documented how the results of the collaboration are benefitting the JavaScript ecosystem, the Foundation projects, or
-the activities of other collaboration spaces.
+In addition it should be well documented how the results of the collaboration are benefitting the JavaScript ecosystem, the Foundation projects, or the activities of other collaboration spaces.
 
 In addition to the resources made available to At large collaboration spaces they will have access to:
 
@@ -161,8 +153,10 @@ Emeritus spaces are collaboration spaces which have reached or are nearing end-o
 
 #### Expectations
 
-Collaborations spaces in this stage are no longer active. The associated repository will be archived. Emeritus collaboration spaces should
-clearly state their status. The foundation will continue to hold the IP that was created while the collaboration space was active.
+Collaborations spaces in this stage are no longer active.
+The associated repository will be archived.
+Emeritus collaboration spaces should clearly state their status.
+The Foundation will continue to hold the IP that was created while the collaboration space was active.
 
 #### Acceptance Criteria
 

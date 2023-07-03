@@ -83,8 +83,8 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 ### OpenJS Collaboration spaces
 
-The following are official OpenJS Collaboration spaces. If you are interested in fostering collaboration with the
-support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
+The following are official OpenJS Collaboration spaces.
+If you are interested in fostering collaboration with the support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
 
 * There are currently no collaboration spaces.
 
@@ -92,7 +92,7 @@ support of the OpenJS foundation through a collaboration space, please read our 
 
 The CPC meets weekly. We publish meeting agendas as [issues](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), and also [publish meetings on our calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com). ([iCal](https://calendar.google.com/calendar/ical/linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com/public/basic.ics)) ([Add to Google Calendar](https://calendar.google.com/calendar?cid=bGludXhmb3VuZGF0aW9uLm9yZ19mdW9wNHVmdjc2NmY5YXZjNTE3dWpzNGkwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
 
-CPC members should attend as many meetings as possible, and non-members are welcome to join as observers.  To add an item to the agenda, [create an issue and add the cross-project-council-agenda label](https://github.com/openjs-foundation/cross-project-council/issues?q=is%3Aissue+is%3Aopen+label%3Across-project-council-agenda).
+CPC members should attend as many meetings as possible, and non-members are welcome to join as observers. To add an item to the agenda, [create an issue and add the cross-project-council-agenda label](https://github.com/openjs-foundation/cross-project-council/issues?q=is%3Aissue+is%3Aopen+label%3Across-project-council-agenda).
 
 ## CPC Members
 
@@ -170,14 +170,10 @@ Anyone who has been active in the foundation or one of its member projects, as d
 ### Observers
 
 Anyone can be an Observer.
-Observers are free to attend meetings and participate in the work of the CPC as well
-as the consensus seeking process. Observers are encouraged to participate and
-volunteer but should refrain from disrupting or blocking progress. Observers
-are expected to participate in a positive and collaborative manner as well as
-following the [code of conduct](./CODE_OF_CONDUCT.md)
-and [member expectations](./conduct/MEMBER_EXPECTATIONS.md)
-like other CPC participants. If an Observer fails to meet these expectations they can
-be excluded from future CPC meetings based on a standard CPC motion.
+Observers are free to attend meetings and participate in the work of the CPC as well as the consensus seeking process.
+Observers are encouraged to participate and volunteer but should refrain from disrupting or blocking progress.
+Observers are expected to participate in a positive and collaborative manner as well as following the [code of conduct](./CODE_OF_CONDUCT.md) and [member expectations](./conduct/MEMBER_EXPECTATIONS.md) like other CPC participants.
+If an Observer fails to meet these expectations they can be excluded from future CPC meetings based on a standard CPC motion.
 
 ## Policies and Processes Maintained by the CPC
 
@@ -224,18 +220,17 @@ The OpenJS Foundation Board of Directors retains certain rights (especially lega
 
 CPC discussion generally happens via GitHub issues and [during our regular public meetings](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), which are open to CPC members and observers.
 
-In addition, the OpenJS Foundation maintains a [number of mailing lists](https://lists.openjsf.org).  Project participants are strongly encouraged to subscribe to the [projects@lists.openjsf.org](https://lists.openjsf.org/g/projects) list for technical updates and discussion.
+In addition, the OpenJS Foundation maintains a [number of mailing lists](https://lists.openjsf.org). Project participants are strongly encouraged to subscribe to the [projects@lists.openjsf.org](https://lists.openjsf.org/g/projects) list for technical updates and discussion.
 
-Discussion should be held in the open whenever possible.  However, if you need to raise a private concern with the CPC and you feel it is inappropriate for public discussion, you can email the [cpc-private@lists.openjsf.org](mailto:cpc-private@lists.openjsf.org) list.  Depending upon the circumstances, the CPC may request that you resubmit the issue in a public forum.
+Discussion should be held in the open whenever possible. However, if you need to raise a private concern with the CPC and you feel it is inappropriate for public discussion, you can email the [cpc-private@lists.openjsf.org](mailto:cpc-private@lists.openjsf.org) list. Depending upon the circumstances, the CPC may request that you resubmit the issue in a public forum.
 
 ## Getting Help
 
 ### Project Resources & Travel Fund
 
-OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](https://github.com/openjs-foundation/community-fund/blob/main/programs/travel-fund/README.md).  
+OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](https://github.com/openjs-foundation/community-fund/blob/main/programs/travel-fund/README.md). 
 
 OpenJS Foundation Collaboration spaces are able to take advantage of several services and benefits as outlined in [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md).
-
 
 ### Help with project infrastructure
 
@@ -250,25 +245,22 @@ In almost all situations, the best way to get support is to
 
 ### Help with membership
 
-Current and prospective members of the OpenJS Foundation can 
-[file a ticket with the service desk](https://members.openjsf.org) for help with
-topics such as billing, logo management on the website, etc.
+Current and prospective members of the OpenJS Foundation can [file a ticket with the service desk](https://members.openjsf.org) for help with topics such as billing, logo management on the website, etc.
 
 ### Help with legal questions (for existing projects only)
 
-Projects with questions on relevant legal topics are encouraged to email the
-[legal-questions](mailto:legal-questions@lists.openjsf.org) mailing list.  This
-is a private list with closed membership, and we will route your question appropriately.
+Projects with questions on relevant legal topics are encouraged to email the [legal-questions](mailto:legal-questions@lists.openjsf.org) mailing list.
+This is a private list with closed membership, and we will route your question appropriately.
 
-In order to mail this list, you must be subscribed to at least one other [OpenJS
-Foundation mailing list](https://lists.openjsf.org), such as [`main`](https://lists.openjsf.org/g/main).
+In order to mail this list, you must be subscribed to at least one other [OpenJS Foundation mailing list](https://lists.openjsf.org), such as [`main`](https://lists.openjsf.org/g/main).
 
 ### Help with press and media
 
-The OpenJS Foundation has marketing staff which can provide guidance on inbound
-media requests.  Please reach out to [pr@openjsf.org](mailto:pr@openjsf.org).
+The OpenJS Foundation has marketing staff which can provide guidance on inbound media requests. Please reach out to [pr@openjsf.org](mailto:pr@openjsf.org).
 
-If you have project-related news that you wish to share, please contact [marketing@openjsf.org](mailto:marketing@openjsf.org).  If you need a place to post your news, Foundation staff can review whether it is appropriate for the [OpenJS Foundation blog](https://openjsf.org/blog).  If it makes sense, Foundation staff can also include your news in the summaries sent to the [projects mailing list](https://lists.openjsf.org/g/projects), or schedule posts on Foundation social channels.
+If you have project-related news that you wish to share, please contact [marketing@openjsf.org](mailto:marketing@openjsf.org).
+If you need a place to post your news, Foundation staff can review whether it is appropriate for the [OpenJS Foundation blog](https://openjsf.org/blog).
+If it makes sense, Foundation staff can also include your news in the summaries sent to the [projects mailing list](https://lists.openjsf.org/g/projects), or schedule posts on Foundation social channels.
 
 If you run your project's social media and would like the Foundation to share or retweet project news, please DM the Foundation's account or send an email with a link to [marketing@openjsf.org](mailto:marketing@openjsf.org).
 

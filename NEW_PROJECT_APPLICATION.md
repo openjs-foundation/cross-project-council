@@ -65,9 +65,8 @@ For each repository, please provide:
 - who owns the Intellectual Property (IP),
 - link to issue tracker,
 - link to code of conduct (CoC),
-- optionally, the full list of vendored dependencies contained in the source tree, including license information. A full audit
-  of all vendored dependencies will be required before your project can officially join the foundation, but this can be done
-  later with foundation support.
+- optionally, the full list of vendored dependencies contained in the source tree, including license information.
+  A full audit of all vendored dependencies will be required before your project can officially join the foundation, but this can be done later with foundation support.
 
 ## Existing Financial Sponsorship
 
