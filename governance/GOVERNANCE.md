@@ -48,6 +48,13 @@ cannot veto or remove items.
 The moderator is responsible for summarizing the discussion of each
 agenda item and sends it as a pull request after the meeting.
 
+### Guidelines for sharing Board information in CPC meetings
+To improve organizational transparency and collaboration between the CPC and Board, it is desireable for CPC Directors to be able update the CPC on topics discussed during Board meetings. The goal of the below guidelines is to make this process lightweight and allow for information to be shared with the CPC as freely as possible. This is why the audience of those Board updates are somewhat restricted.
+
+- CPC Directors should use their own judgement about what may be shared with the CPC. When in doubt they should abstain from sharing information and seek explicit permission to do so. In particular, information pertaining to a specific member, staff, or about legal matters should never be shared.
+- Board updates are not streamed and they are limited to CPC members.
+- CPC Directors wanting to report on a Board meeting should inform the CPC Chair at the beginning of the call so that sufficient time can be carved out at the end of the call for the update.
+
 ## Consensus Seeking Process
 
 The Team follows a [Consensus Seeking][] decision-making model.
