@@ -133,6 +133,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 
 - Abigail Cabunoc Mayes ([@abbycabs](https://github.com/abbycabs))
 - Abraham Jr Agiri ([@codeekage](https://github.com/codeekage))
+- Adrian Estrada ([@edsadr](https://github.com/edsadr))
 - Antón Molleda ([@molant](https://github.com/molant))
 - Ben Hutton ([@relequestual](https://github.com/relequestual))
 - Ben Michel ([@obensource](https://github.com/obensource))
