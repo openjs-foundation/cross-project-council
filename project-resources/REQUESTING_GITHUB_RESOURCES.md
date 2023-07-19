@@ -19,18 +19,14 @@ The list below contains a historical archive and reference of past approved proj
 
 ## Requesting GitHub Resources
 
-The process for requesting Github resources is as follows:
+The process for requesting Github resources is:
 
 1. Estimate your monthly spend using https://github.com/pricing/calculator
-2. Create a PR using the below template
-3. Sumbit PR for CPC approval
-4. If approved bring forward to OpenJS staff for budget approval
-5. Once fully approved, OpenJS will need to be added as a billing manager, so that a virtual credit card can be
-added.
-6. OpenJS will implement spending limits consistent with the request
+2. Create and submit a PR using the template for CPC approval
+4. If approved the CPC will discuss with OpenJS staff in the next CPC meeting
+5. Once fully approved, you will need to add OpenJS staff as a billing manager on your project
+6. OpenJS will add a credit card and implement spending limits consistent with the request
 
-
-The requests should follow a specific template and contain relevant information regarding the requested features, as well as any information that might be useful to highlight the need for the requested features.
 
 The Pull Request template below should be completed with a Pull Request containing an addition to the `GITHUB_REQUESTS/{CurrentYear}.md`
 spreadsheet from this repository, filling the required information.
@@ -66,14 +62,7 @@ These best practices are a set of recommendations for maintaining a healthy usag
 
 <!-- For what kind of resources should the monetary resources be allocated how are they intended to be used -->
 
-### Distribution of the Funds
 
-<!-- Explain here how these funds will be distributed/used -->
-<!-- Feel free to use a Markdown Table or a List for breaking down the costs (tablesgenerator.com/markdown_tables) -->
-
-### Timeline of the Request
-
-<!-- Explain (possibly with a bullet-list) the timeline of the request, and how/when each part of the funds are being used -->
 
 cc @openjs-foundation/cpc
 ```
