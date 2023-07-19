@@ -25,8 +25,8 @@ The process for requesting Github resources is:
 2. Create and submit a PR using the template for CPC approval
 4. If approved the CPC will discuss with OpenJS staff in the next CPC meeting
 5. Once fully approved, you will need to add OpenJS staff as a billing manager on your project
+    - Billing Managers have only access to Billing Settings on your GitHub organisation
 6. OpenJS will add a credit card and implement spending limits consistent with the request
-
 
 The Pull Request template below should be completed with a Pull Request containing an addition to the `GITHUB_REQUESTS/{CurrentYear}.md`
 spreadsheet from this repository, filling the required information.
@@ -62,13 +62,10 @@ These best practices are a set of recommendations for maintaining a healthy usag
 
 <!-- For what kind of resources should the monetary resources be allocated how are they intended to be used -->
 
-
-
 cc @openjs-foundation/cpc
 ```
 
 ## Approvals
 
 The request is submitted to the CPC for evaluation. The CPC evaluates the request following its [decision-making process](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and if approved, informs OpenJS staff
-that the request needs budget approval. Requests approved by the CPC are subject to final budget approval by
-the OpenJS Foundation.
+that the request needs budget approval. Requests approved by the CPC are subject to final budget approval by the OpenJS Foundation.
