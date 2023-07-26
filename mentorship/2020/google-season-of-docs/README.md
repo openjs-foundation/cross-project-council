@@ -6,7 +6,7 @@ The [OpenJS Foundation](https://openjsf.org) is made up of 32 open source JavaSc
 
 Our mission is to support the healthy growth of JavaScript and web technologies by providing a neutral organization to host and sustain projects, as well as collaboratively fund activities that benefit the ecosystem as a whole.
 
-We are looking for a few skilled technical writers who can help with a number of our projects.  We have a large, welcoming community and would like to help grow new participants.
+We are looking for a few skilled technical writers who can help with a number of our projects. We have a large, welcoming community and would like to help grow new participants.
 
 If you have any questions, please reach out on the [OpenJS Foundation Slack](https://slack.openjsf.org).
 

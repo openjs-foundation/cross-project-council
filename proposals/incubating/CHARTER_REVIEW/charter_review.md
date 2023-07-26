@@ -11,7 +11,7 @@ All project charters should follow the format of the PROJECT_CHARTER_TEMPLATE.md
 
 Once your project team has drafted its charter following the template above and is satisfied that it accurately reflects the project:
 
-* Open a pull request to add the charter on the appropriate repo in your project repository - for example, this is often an 'admin', 'meta', or 'documentation' repository. It should be in the same repository that the project uses for its Code of Conduct and Governance documents.  
+* Open a pull request to add the charter on the appropriate repo in your project repository - for example, this is often an 'admin', 'meta', or 'documentation' repository. It should be in the same repository that the project uses for its Code of Conduct and Governance documents. 
 * File an issue in the Project Onboarding repository - Titled *New {$Project Name} Charter Document* and include a link to this pull request.
 * Tag '@openjs-foundation/cpc' on the issue - this notifies all CPC members that a document is ready for their review.
 * Add the 'cross-project-council-agenda' label to the issue - this will ensure the issue is taken up at the next CPC meeting. 
