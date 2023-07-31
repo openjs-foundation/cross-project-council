@@ -9,7 +9,7 @@ Alongside these lines, the fund exists to support the development of the project
 
 The list below contains a historical archive and reference of past approved project fund requests.
 
-- [2023](../PROJECT_FUND/2023.md)
+- [2023](./PROJECT_FUND/2023.md)
 
 ## Requesting Project Funds
 
@@ -34,7 +34,7 @@ The Pull Request template below should be completed with a Pull Request containi
 
 <!-- Explain what is the ultimate goal this fund request aims to achieve -->
 
-### Intended usage of the resouces
+### Intended usage of the resources
 
 <!-- For what kind of resources should the monetary resources be allocated how are they intended to be used -->
 
@@ -54,13 +54,13 @@ The Pull Request template below should be completed with a Pull Request containi
 cc @openjs-foundation/cpc
 ```
 
-## Process
+## Approval Process
 
 The request must be made to the CPC for evaluation.
 The CPC evaluates the request following its [decision-making process](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and makes a recommendation to the Board.
 Finally the request should be forwarded to the Board of Directors for final approval.
 
-## Evaluation
+## Post-mortem Evaluation
 
 An evaluation should be done after the conclusion of the timeline of the fund request.
 Ideally as a comment on the same PR as it would notify the current people subscribed to the Pull Request.
