@@ -1,12 +1,19 @@
 # Foundation Code of Conduct Requirements
 
-It is important that there be a Code of Conduct (CoC) which
-is documented and enforced for the OpenJS Foundation,
-hereinafter referred to as the "Foundation", and the
-projects within it. This document defines the requirements
-for a CoC for the Foundation and the projects which are part
-of the foundation.
+The Bylaws of the OpenJS Foundadion (OpenJSF) delegate to the Cross Project Council (CPC) the responsability of chosing, maitaining, and enforcing a Code of Conduct (CoC) for all of OpenJSF's projects, working groups, collab-spaces, and related activites.
 
+This document defines:
+
+- The Code of Conduct (CoC) adopted by OpenJSF.
+- The commitments made by the OpenJSF to reportees and victims of CoC violations.
+- The role of the CoC Enforcement Team.
+- How the members of the CoC Enforcement Team are chosen by the CPC.
+- The CoC Enforcement Team's conflict of interest policy.
+- The process to report a violation.
+- The process to manage a violation report.
+- The process to appeal decisions of the CoC Enforcement Team.
+- The process to manage appeals.
+- The requirements for projects which decide to manage enforcement of the CoC themselves.
 
 ## Code of Conduct
 
