@@ -91,7 +91,7 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 | Open Visualization (OpenVis)                 | [Repository][openvis]              | Visualization libraries based on JavaScript and WebGL           |
 | Package Metadata Interop                     | [Repository][pkg-metadata-interop] | Interoperability of package.json across the JS ecosystem        |
 | Package Vulnerability Management & Reporting | [Repository][pkg-vuln]             | Package vulnerability management and reporting                  |
-| Security                                     | [Repository][security]             | Documentation and coordination the Foundation's security effort |
+| Security                                     | [Repository][security]             | Documentation and coordination of the Foundation's security effort |
 
 [openvis]: https://github.com/openjs-foundation/openvis-collab-space
 [pkg-metadata-interop]: https://github.com/openjs-foundation/package-metadata-interoperability-collab-space
