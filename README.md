@@ -106,6 +106,17 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 ## CPC Members
 
+### CPC Chair
+
+Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+
+### CPC Directors
+
+[CPC Directors](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-8-board-representation) represent the Foundation's projects and related communities to the Board.
+
+- Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
+- Sara Chipps ([@sarajo](https://github.com/sarajo), LinkedIn)
+
 ### Voting Members
 
 #### Impact Project Representatives
