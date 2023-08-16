@@ -81,12 +81,22 @@ The following projects are official OpenJS Foundation projects. If you are inter
 |   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/visgl/deck.gl/blob/HEAD/CODE_OF_CONDUCT.md) |
 
 
-### OpenJS Collaboration spaces
+### OpenJS Collaboration Spaces
 
 The following are official OpenJS Collaboration spaces.
 If you are interested in fostering collaboration with the support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
 
-* There are currently no collaboration spaces.
+| Name                                         |  Repository                        | Description                                                     |
+| -------------------------------------------- |:----------------------------------:|-----------------------------------------------------------------|
+| Open Visualization (OpenVis)                 | [Repository][openvis]              | Visualization libraries based on JavaScript and WebGL           |
+| Package Metadata Interop                     | [Repository][pkg-metadata-interop] | Interoperability of package.json across the JS ecosystem        |
+| Package Vulnerability Management & Reporting | [Repository][pkg-vuln]             | Package vulnerability management and reporting                  |
+| Security                                     | [Repository][security]             | Documentation and coordination of the Foundation's security effort |
+
+[openvis]: https://github.com/openjs-foundation/openvis-collab-space
+[pkg-metadata-interop]: https://github.com/openjs-foundation/package-metadata-interoperability-collab-space
+[pkg-vuln]: https://github.com/openjs-foundation/pkg-vuln-collab-space
+[security]: https://github.com/openjs-foundation/security-collab-space
 
 ## CPC Meetings
 
