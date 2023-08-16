@@ -30,6 +30,9 @@ The process for requesting Github resources is:
 
 The Pull Request template below should be completed with a Pull Request containing an addition to the `GITHUB_REQUESTS/{CurrentYear}.md` spreadsheet from this repository, filling the required information.
 
+> [!NOTE]\
+> The costs are are billed on a monthly-basis. Hence the the costs should be calculated on a monthly-basis.
+
 ### Best Practices
 
 These best practices are a set of recommendations for maintaining a healthy usage of the resources.
@@ -48,7 +51,7 @@ These best practices are a set of recommendations for maintaining a healthy usag
 ```md
 ## GitHub Resource Request for {Project Name}
 
-- **Estimated monthly spend:** USD XXXX.XX
+- **Estimated monthly cost:** USD XXXX
 - **Requested Features:**
   - [ ] Actions
   - [ ] Codespaces
@@ -57,9 +60,11 @@ These best practices are a set of recommendations for maintaining a healthy usag
   - Champion A (@handle)
   - Champion B (@handle)
 
-### Intended usage of the resouces
+### Intended usage of the Resources
 
 <!-- For what kind of resources should the monetary resources be allocated how are they intended to be used -->
+
+<!-- Feel also free to add relevant links to Issues, Discussions and Slack threads -->
 
 cc @openjs-foundation/cpc
 ```
