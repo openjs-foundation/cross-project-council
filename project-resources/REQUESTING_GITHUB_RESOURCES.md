@@ -60,7 +60,7 @@ These best practices are a set of recommendations for maintaining a healthy usag
   - Champion A (@handle)
   - Champion B (@handle)
 
-### Intended usage of the Resources
+### Intended usage of the resources
 
 <!-- For what kind of resources should the monetary resources be allocated how are they intended to be used -->
 
