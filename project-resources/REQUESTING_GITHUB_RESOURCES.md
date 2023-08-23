@@ -31,7 +31,7 @@ The process for requesting Github resources is:
 The Pull Request template below should be completed with a Pull Request containing an addition to the `GITHUB_REQUESTS/{CurrentYear}.md` spreadsheet from this repository, filling the required information.
 
 > [!NOTE]\
-> The costs are are billed on a monthly-basis. Hence the the costs should be calculated on a monthly-basis.
+> The costs are billed on a monthly basis. Hence the costs should be calculated on a monthly basis.
 
 ### Best Practices
 
