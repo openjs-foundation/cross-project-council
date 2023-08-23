@@ -64,7 +64,7 @@ These best practices are a set of recommendations for maintaining a healthy usag
 
 <!-- For what kind of resources should the monetary resources be allocated how are they intended to be used -->
 
-<!-- Feel also free to add relevant links to Issues, Discussions and Slack threads -->
+<!-- Feel also free to add relevant links to Issues, Discussions, and Slack threads -->
 
 cc @openjs-foundation/cpc
 ```
