@@ -1,11 +1,11 @@
 # Foundation Code of Conduct Requirements
 
-The Bylaws of the OpenJS Foundadion (OpenJSF) delegate to the Cross Project Council (CPC) the responsability of chosing, maitaining, and enforcing a Code of Conduct (CoC) for all of OpenJSF's projects, working groups, collab-spaces, and related activites.
+The OpenJS Foundation (OpenJSF) delegatea to the Cross Project Council (CPC), via its [charter][], the responsability of chosing, maitaining, and enforcing a Code of Conduct (CoC) for all of its projects, collab spaces, and for any related activities.
 
 This document defines:
 
-- The Code of Conduct (CoC) adopted by OpenJSF.
-- The commitments made by the OpenJSF to reportees and victims of CoC violations.
+- OpenJSF's Code of Conduct
+- OpenJSF's Commitments to reportees and victims of CoC violations
 - The role of the CoC Enforcement Team.
 - How the members of the CoC Enforcement Team are chosen by the CPC.
 - The CoC Enforcement Team's conflict of interest policy.
@@ -15,25 +15,40 @@ This document defines:
 - The process to manage appeals.
 - The requirements for projects which decide to manage enforcement of the CoC themselves.
 
-## Code of Conduct
+## OpenJSF's Code of Conduct
 
-The Foundation has adopted the
-[Contributor Covenant v2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
-as its code of conduct and it applies to all foundation activities and spaces. In
-addition, projects joining the foundation are required to adopt this code of conduct
-within 3 months of joining the foundation.
+The OpenJSF's code of conduct is located at [code-of-conduct.openjsf.org][CoC]. It is based on the [Contributor Covenant](https://www.contributor-covenant.org/).
 
-A common Code of Conduct will allow a common
-escalation process and will allow the Foundation to better support projects in their efforts to apply
-the Code of Conduct.
+All OpenJSF projects, collab spaces, and any activites related to the OpenJSF are operating under this code of conduct unless otherwise satated. (For example, events organized in partnership with other organizations might be operating under a different code of conduct.)
+
+Projects joining the foundation who already have a code of conduct will need to adopt the OpenJSF's CoC within 3 months. Projects who don't already have a code of conduct operate under the OpenJSF's CoC as soon as they enter incubation.
+
+## OpenJSF's commitments to reportees and victims of CoC violations
+
+All complaints will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances.
+
+The identity of the victim(s) and reporter(s) of an CoC violation will remain confidential.
 
 ## Enforcement
+
+The CPC delegates enforcement of the CoC to the CoC Enforcement Team.
+
+Projects may opt-in to enforce the CoC themselves provided they meet the requirements described below. However, reportees, victims, and offenders may escalate an issue to the CoC Enforcement Team at any point in the process and up to thirty (30) days after the a response was provided to the complaint if they believe that the process has not been followed properly or that there is a conflict of interest.
+
+
 
 For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will
 be investigated by the Cross Project Council (CPC) or its delegates. All complaints will be reviewed,
 investigated, and will result in a response that is deemed necessary and appropriate
 to the circumstances. The CPC is obligated to maintain confidentiality with regard
 to the reporter of an incident.
+
+
+A common Code of Conduct will allow a common
+escalation process and will allow the Foundation to better support projects in their efforts to apply
+the Code of Conduct.
+
+
 
 For spaces managed by member projects, the project must provide an email to which complaints
 can be forwarded and document that complaints will be investigated and will result in a
@@ -77,3 +92,7 @@ a yearly basis.
 
 The CPC will establish a sub-team which will build a set of resources/processes that
 can be reused by projects when implementing their CoC processes and enforcement.
+
+
+[CoC]: https://code-of-conduct.openjsf.org/
+[Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
