@@ -1,3 +1,9 @@
+This document defines how the the OpenJS Foundation implements its code of conduct.
+
+If you want to report a code of conduct violation, go to [code-of-conduct.openjsf.org][CoC].
+
+***
+
 # Foundation Code of Conduct Requirements
 
 The OpenJS Foundation (OpenJSF) delegatea to the Cross Project Council (CPC), via its [charter][], the responsability of chosing, maitaining, and enforcing a Code of Conduct (CoC) for all of its projects, collab spaces, and for any related activities.
