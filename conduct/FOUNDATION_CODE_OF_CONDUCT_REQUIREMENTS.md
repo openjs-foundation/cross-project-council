@@ -25,9 +25,10 @@ Projects joining the foundation who already have a code of conduct will need to 
 
 ## OpenJSF's commitments to reportees and victims of CoC violations
 
-All complaints will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances.
+The OpenJSF makes the following commitments to reportees and victims of CoC violations:
 
-The identity of the victim(s) and reporter(s) of an CoC violation will remain confidential.
+1. All complaints will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances.
+2. The identity of the victim(s) and reporter(s) of an CoC violation will remain confidential.
 
 ## Enforcement
 
@@ -38,11 +39,7 @@ Projects may opt-in to enforce the CoC themselves provided they meet the require
 
 
 For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will
-be investigated by the Cross Project Council (CPC) or its delegates. All complaints will be reviewed,
-investigated, and will result in a response that is deemed necessary and appropriate
-to the circumstances. The CPC is obligated to maintain confidentiality with regard
-to the reporter of an incident.
-
+be investigated by the Cross Project Council (CPC) or its delegates.
 
 A common Code of Conduct will allow a common
 escalation process and will allow the Foundation to better support projects in their efforts to apply
@@ -96,3 +93,4 @@ can be reused by projects when implementing their CoC processes and enforcement.
 
 [CoC]: https://code-of-conduct.openjsf.org/
 [Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
+[delegation to projects]: #TODO
