@@ -13,7 +13,8 @@ This document defines:
 - The process to manage a violation report.
 - The process to appeal decisions of the CoC Enforcement Team.
 - The process to manage appeals.
-- The requirements for projects which decide to manage enforcement of the CoC themselves.
+- The process to manage escalations.
+- Requirements for projects who opt-in to manage enforcement of the CoC themselves.
 
 ## OpenJSF's Code of Conduct
 
@@ -34,9 +35,7 @@ The OpenJSF makes the following commitments to reportees and victims of CoC viol
 
 The CPC delegates enforcement of the CoC to the CoC Enforcement Team.
 
-Projects may opt-in to enforce the CoC themselves provided they meet the requirements described below. However, reportees, victims, and offenders may escalate an issue to the CoC Enforcement Team at any point in the process and up to thirty (30) days after the a response was provided to the complaint if they believe that the process has not been followed properly or that there is a conflict of interest.
-
-
+Projects may opt-in to enforce the CoC themselves provided they meet the requirements [described below][delegation to projects]. However, reportees, victims, and offenders may escalate an issue to the CoC Enforcement Team at any point in the process to avoid a conflict of interest and appeal the decision up to thirty (30) days after a response to the complaint was provided if they believe that the process was not followed properly.
 
 For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will
 be investigated by the Cross Project Council (CPC) or its delegates.
@@ -90,6 +89,16 @@ a yearly basis.
 The CPC will establish a sub-team which will build a set of resources/processes that
 can be reused by projects when implementing their CoC processes and enforcement.
 
+## Requirements for projects who opt-in to manage enforcement of the CoC themselves.
+
+For spaces managed by member projects, the project must provide an email to which complaints
+can be forwarded and document that complaints will be investigated and will result in a
+response that is deemed appropriate for the circumstances. Each project is free to
+implement enforcement of the Code of Conduct using processes appropriate for the size
+and scope of the project including any day-to-day moderation of the project spaces. As part
+of these processes, however, the project must agree to:
+  * maintain the confidentiality with regard to the reporter of an incident
+  * to participate in and document the path for escalation as outlined in the section on Escalation.
 
 [CoC]: https://code-of-conduct.openjsf.org/
 [Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
