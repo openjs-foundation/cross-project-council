@@ -1,3 +1,9 @@
+This document defines how the the OpenJS Foundation implements its code of conduct.
+
+If you want to report a code of conduct violation, go to [code-of-conduct.openjsf.org][CoC].
+
+***
+
 # Handling reports and escalation
 This document describes the proposed process for handling reports and escalation, along with relevant roles in the OpenJS Foundation.
 
