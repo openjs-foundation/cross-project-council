@@ -1,13 +1,13 @@
-# Code of Conduct
+# OpenJS Foundation Code of Conduct
 
-The OpenJS Foundation and its member projects use [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their code of conduct. The full text is included below in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
+The OpenJS Foundation's code of conduct is based on the [Contributor Covenant][homepage].
 
 ## Commitment
 
-All recipients of reports commit to:
+The OpenJS Foundation (OpenJSF) makes the following commitments:
 
-- maintain the confidentiality with regard to the reporter and victim of an incident
-- participate in the path for escalation as outlined in the section on Escalation when required
+1. All complaints will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances.
+2. The identity of the victim(s) and reporter(s) of a code of conduct violation will be kept confidential.
 
 ## Report an issue in a project
 
@@ -23,18 +23,42 @@ All recipients of reports commit to:
     * **Node-RED:** <team@nodered.org>
     * **Webdriver.io:** [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/HEAD/AUTHORS.md)
     * **Webhint:** <support@webhint.io>
-2. For every other OpenJS Foundation project, please email <report@lists.openjsf.org>. The Cross Project Council (CPC) is responsible for managing these reports.
+    In case of a conflict of interest of the project's leadership, you may [escalate the issue][escalation] to the [Code of Conduct Enforcement Team][CoCET].
+2. For every other OpenJS Foundation project, please email <report@lists.openjsf.org>. The [Code of Conduct Enforcement Team][CoCET] is responsible for managing these reports.
+    
+    Alternatively, you may choose to email a member of the [Code of Conduct Enforcement Team][CoCET] directly. 
 
+## Report any other issue
 
-## Report an issue in a space managed by the foundation
+To report any other issue (for example in a Collab Space, in the Cross Project Council, or during a live event), please email <report@lists.openjsf.org>. The [Code of Conduct Enforcement Team][CoCET] is responsible for managing these reports.
 
-For reporting issues in spaces managed by the OpenJS Foundation, for example, repositories within the OpenJS organization or an live event such as a conferences, email <report@lists.openjsf.org>. The Cross Project Council (CPC) is responsible for managing these reports.
+Alternatively, you may choose to email a member of the [Code of Conduct Enforcement Team][CoCET] directly.
 
 ## Escalate an issue
 
-The OpenJS Foundation maintains a [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled.
+To escalate an issue currently managed by a project (for example because of a conflict of interest), please email <report@lists.openjsf.org>. The [Code of Conduct Enforcement Team][CoCET] is responsible for managing escalation reports.
 
-In order to escalate to the CoCP, email <coc-escalation@lists.openjsf.org>.
+Alternatively, you may choose to email a member of the [Code of Conduct Enforcement Team][CoCET] directly.
+
+## Appeal a decision
+
+Once a response has been made to the initial report, the victim(s) and offender(s) have thirty (30) days to appeal the decision if they believe the process was not properly followed. An appeal is not suspensive.
+
+To appeal a decision (regardless of whether it was taken by a project or by the [Code of Conduct Enforcement Team][CoCET]), email <report@lists.openjsf.org>. The [Code of Conduct Enforcement Team][CoCET] is responsible for managing appeals. If the appealled decision was taken by the CoCET, the appeal will be managed by CoCET members who were not part of the initial decision.
+
+Alternatively, you may choose to email a member of the [Code of Conduct Enforcement Team][CoCET] directly.
+
+## Code of Conduct Enforcement Team (CoCET)
+
+The Code of Conduct Enforcement Team (CoCET) is a foundation-wide team established to manage code of conduct violation reports across the whole foundation (except for [projects who have opted-in][] to manage reports directly), escalation of reports managed by projects, appeals to decisions made by projects or by the CoCET itself. The CoCET is currently composed of:
+
+- Robin Ginn (OpenJSF Executive Director) <TODO:email>
+- Kylie Wagar-Dirks (OpenJSF Marketing Lead) <TODO:email>
+- Joe Sepi (Cross Project Council Chair) <TODO:email> 
+
+You may contact the Code of Conduct Enforcement Team at <report@lists.openjsf.org>.
+
+Alternatively, you may choose to email a member of the Code of Conduct Enforcement Team directly.
 
 ## More Info
 
@@ -177,3 +201,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+[escalation]: #TODO
+[CoCET]: #TODO
+[opted-in]: #TODO
+

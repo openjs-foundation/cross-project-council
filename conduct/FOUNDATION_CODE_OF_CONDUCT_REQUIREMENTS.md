@@ -6,36 +6,46 @@ If you want to report a code of conduct violation, go to [code-of-conduct.openjs
 
 # Foundation Code of Conduct Requirements
 
-The OpenJS Foundation (OpenJSF) delegatea to the Cross Project Council (CPC), via its [charter][], the responsability of chosing, maitaining, and enforcing a Code of Conduct (CoC) for all of its projects, collab spaces, and for any related activities.
+The OpenJS Foundation (OpenJSF) delegatea to the Cross Project Council (CPC), via its [charter][], the responsability of chosing, maintaining, and enforcing a Code of Conduct (CoC) for all of its projects, collab spaces, and for any related activities.
 
 This document defines:
 
 - OpenJSF's Code of Conduct
 - OpenJSF's Commitments to reportees and victims of CoC violations
+
+
+- How to report a violation
+- How to escalate a report to the CoC Enforcement Team
+- How to appeal decision
+
+- Enforcement
 - The role of the CoC Enforcement Team.
 - How the members of the CoC Enforcement Team are chosen by the CPC.
 - The CoC Enforcement Team's conflict of interest policy.
-- The process to report a violation.
-- The process to manage a violation report.
-- The process to appeal decisions of the CoC Enforcement Team.
+- Managing a violation report.
+- How to appeal decision
 - The process to manage appeals.
 - The process to manage escalations.
 - Requirements for projects who opt-in to manage enforcement of the CoC themselves.
 
-## OpenJSF's Code of Conduct
+## Code of Conduct
 
 The OpenJSF's code of conduct is located at [code-of-conduct.openjsf.org][CoC]. It is based on the [Contributor Covenant](https://www.contributor-covenant.org/).
 
 All OpenJSF projects, collab spaces, and any activites related to the OpenJSF are operating under this code of conduct unless otherwise satated. (For example, events organized in partnership with other organizations might be operating under a different code of conduct.)
 
-Projects joining the foundation who already have a code of conduct will need to adopt the OpenJSF's CoC within 3 months. Projects who don't already have a code of conduct operate under the OpenJSF's CoC as soon as they enter incubation.
+Projects joining the foundation who already have a code of conduct will need to adopt the OpenJSF's CoC within three (3) months. Projects who don't already have a code of conduct operate under the OpenJSF's CoC as soon as they enter incubation.
 
-## OpenJSF's commitments to reportees and victims of CoC violations
+## Commitment
 
 The OpenJSF makes the following commitments to reportees and victims of CoC violations:
 
 1. All complaints will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances.
-2. The identity of the victim(s) and reporter(s) of an CoC violation will remain confidential.
+2. The identity of the victim(s) and reporter(s) of a code of conduct violation will be kept confidential.
+
+## Reporting a violation
+
+
 
 ## Enforcement
 
