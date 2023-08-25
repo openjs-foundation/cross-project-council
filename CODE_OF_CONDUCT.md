@@ -16,7 +16,7 @@
     * **Webhint:** <support@webhint.io>
     
     In case of a conflict of interest or if the report is not handled appropriately, you may [escalate the report][escalation] to the [Code of Conduct Enforcement Team (CoCET)][CoCET] by emailing <coc-escalation@lists.openjsf.org> or by contacting any if its members by email.
-2.  To report any other incident (for example: in an OpenJS Foundation project not listed above, in a Collab Space, in the Cross Project Council, or during an event), please email the [Code of Conduct Enforcement Team (CoCET)][CoCET] at <report@lists.openjsf.org> or contact any if its members by email.
+2.  **To report any other incident** (for example: in an OpenJS Foundation project not listed above, in a Collab Space, in the Cross Project Council, or during an event), please email the [Code of Conduct Enforcement Team (CoCET)][CoCET] at <report@lists.openjsf.org> or contact any if its members by email.
 
 ## Appeal
 
