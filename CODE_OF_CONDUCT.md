@@ -2,13 +2,6 @@
 
 The OpenJS Foundation's code of conduct is based on the [Contributor Covenant][homepage].
 
-## Commitment
-
-The OpenJS Foundation (OpenJSF) makes the following commitments:
-
-1. All complaints will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances.
-2. The identity of the victim(s) and reporter(s) of a code of conduct violation will be kept confidential.
-
 ## Report an issue in a project
 
 1. To report an issue in one of the projects listed below, please use the method provided. The project itself is responsible for managing these reports.
