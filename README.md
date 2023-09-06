@@ -123,26 +123,27 @@ Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
 
 Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](./CPC-CHARTER.md#voting-members)
 
-- **Appium**: Isaac Murchie ([@imurchie](https://github.com/imurchie), Sauce Labs) & Jonah Stiennon([@Jonahss](https://github.com/Jonahss), Origin Labs)
+- **Appium**: Jonathan Lipps ([@jlipps](https://github.com/jlipps)) & Kazuaki Matsuo ([@KazuCocoa](https://github.com/KazuCocoa))
 - **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Living Spec)
 - **Electron**: Erick Zhao ([@erickzhao](https://github.com/erickzhao), Slack) & Tierney Cyren ([@bnb](https://github.com/bnb), Twilio)
-- **jQuery**: Dave Methvin ([@dmethvin](https://github.com/dmethvin), USDS) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
+- **jQuery**: Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol)) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
 - **Node.js**: Rich Trott([@Trott](https://github.com/Trott), UCSF) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
-- **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Tobias Koppers ([@sokra](https://github.com/sokra), self-employed)
-
+- **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
+ 
 #### At Large Project Representatives
 
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
-- Eemeli Aro ([@eemeli](https://github.com/eemeli), Mozilla)
 - Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
+- Jordan Harband ([@ljharb](https://github.com/ljharb))
+
 
 #### Elected by Regular Members
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regular
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson), IBM)
-- Jordan Harband ([@ljharb](https://github.com/ljharb))
+- Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
 
 #### Collaboration space representatives
 
