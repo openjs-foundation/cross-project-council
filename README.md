@@ -134,9 +134,8 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
-- Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
 - Jordan Harband ([@ljharb](https://github.com/ljharb))
-
+- Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
 
 #### Elected by Regular Members
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regular
