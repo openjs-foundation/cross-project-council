@@ -146,7 +146,7 @@ members can be elected as voting members. The two regular members elected as vot
 
 #### Collaboration space representatives
 
-Members of the Collaboration spaces at the `Core` stage may nominate a candiate for one of the voting seats on the CPC which represents the Collaboration spaces. Currently there are no spaces at the `Core` stage and therefore no representative.
+Members of the Collaboration spaces at the `Core` stage may nominate a candidate for one of the voting seats on the CPC which represents the Collaboration spaces. Currently there are no spaces at the `Core` stage and therefore no representative.
 
 ### Regular Members
 
@@ -215,7 +215,7 @@ If an Observer fails to meet these expectations they can be excluded from future
 #### The CPC itself
 * [CPC Charter](CPC-CHARTER.md) - The CPC's charter describes the CPC's mission as defined in the Bylaws.
 * [OpenJS Cross Project Council Governance](./governance/GOVERNANCE.md) - Describes how the CPC operates.
-* [Expectations of the Community Board of Directors Representatives](./governance/COMMUNITY_BOARD_SEAT_EXPECTATIONS.md) - Description of the role and responsabilities of the Community Board of Directors Representatives.
+* [Expectations of the Community Board of Directors Representatives](./governance/COMMUNITY_BOARD_SEAT_EXPECTATIONS.md) - Description of the role and responsibilities of the Community Board of Directors Representatives.
 * [Policy Proposal Process](PROPOSAL_PROCESS.md) - Process by which the CPC creates new policies and processes.
 * [GitHub organization Management Policy](./governance/GITHUB_ORG_MANAGEMENT_POLICY.md) - Policy for managing the CPC's GitHub organization.
 
