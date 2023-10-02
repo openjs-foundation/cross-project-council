@@ -75,7 +75,6 @@ The following projects are official OpenJS Foundation projects. If you are inter
 |-|----------------|:-----------------:|:------------------:|:---------------------:|
 | <img alt="logo of project ajv" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/ajv/ajv-logo-color.svg" width="30" />  | [Ajv](https://ajv.js.org/) |   | [Contributing Guide](https://ajv.js.org/contributing) | [Code of Conduct](https://github.com/ajv-validator/ajv/blob/HEAD/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project Jest" src="https://raw.githubusercontent.com/facebook/jest/main/website/static/img/jest.svg" width="30" />  | [Jest](https://jestjs.io/) |   | [Contributing Guide](https://github.com/facebook/jest#contributing) | [Code of Conduct](https://github.com/facebook/jest#code-of-conduct) |
-| <img alt="logo of project JSON Schema" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jsonschema/jsonschema-logo-color.svg" width="30" />  | [JSON Schema](https://json-schema.org/) |   | [Contributing Guide](https://github.com/json-schema-org/json-schema-spec/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/json-schema-org/.github/blob/HEAD/CODE_OF_CONDUCT.md) |
 |   | [kepler.gl](https://kepler.gl/) |   | [Contributing Guide](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing) | [Code of Conduct](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing/CODE_OF_CONDUCT.md) |
 | <img alt="logo of project NativeScript" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/nativescript/nativescript-icon-color.svg" width="30" /> | [NativeScript](https://nativescript.org/) |   | [Contributing Guide](https://github.com/NativeScript/NativeScript/blob/HEAD/tools/notes/CONTRIBUTING.md) | [Code of Conduct](https://github.com/NativeScript/codeofconduct) |
 |   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) | [Code of Conduct](https://github.com/visgl/deck.gl/blob/HEAD/CODE_OF_CONDUCT.md) |
@@ -123,30 +122,30 @@ Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
 
 Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](./CPC-CHARTER.md#voting-members)
 
-- **Appium**: Isaac Murchie ([@imurchie](https://github.com/imurchie), Sauce Labs) & Jonah Stiennon([@Jonahss](https://github.com/Jonahss), Origin Labs)
+- **Appium**: Jonathan Lipps ([@jlipps](https://github.com/jlipps)) & Kazuaki Matsuo ([@KazuCocoa](https://github.com/KazuCocoa))
 - **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Living Spec)
 - **Electron**: Erick Zhao ([@erickzhao](https://github.com/erickzhao), Slack) & Tierney Cyren ([@bnb](https://github.com/bnb), Twilio)
-- **jQuery**: Dave Methvin ([@dmethvin](https://github.com/dmethvin), USDS) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
+- **jQuery**: Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol)) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
 - **Node.js**: Rich Trott([@Trott](https://github.com/Trott), UCSF) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
-- **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Tobias Koppers ([@sokra](https://github.com/sokra), self-employed)
-
+- **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
+ 
 #### At Large Project Representatives
 
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
-- Eemeli Aro ([@eemeli](https://github.com/eemeli), Mozilla)
+- Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
 
 #### Elected by Regular Members
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regular
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
-- Michael Dawson ([@mhdawson](https://github.com/mhdawson), IBM)
-- Jordan Harband ([@ljharb](https://github.com/ljharb))
+- Michael Dawson ([@mhdawson](https://github.com/mhdawson), Red Hat)
+- Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
 
 #### Collaboration space representatives
 
-Members of the Collaboration spaces at the `Core` stage may nominate a candiate for one of the voting seats on the CPC which represents the Collaboration spaces. Currently there are no spaces at the `Core` stage and therefore no representative.
+Members of the Collaboration spaces at the `Core` stage may nominate a candidate for one of the voting seats on the CPC which represents the Collaboration spaces. Currently there are no spaces at the `Core` stage and therefore no representative.
 
 ### Regular Members
 
@@ -215,7 +214,7 @@ If an Observer fails to meet these expectations they can be excluded from future
 #### The CPC itself
 * [CPC Charter](CPC-CHARTER.md) - The CPC's charter describes the CPC's mission as defined in the Bylaws.
 * [OpenJS Cross Project Council Governance](./governance/GOVERNANCE.md) - Describes how the CPC operates.
-* [Expectations of the Community Board of Directors Representatives](./governance/COMMUNITY_BOARD_SEAT_EXPECTATIONS.md) - Description of the role and responsabilities of the Community Board of Directors Representatives.
+* [Expectations of the Community Board of Directors Representatives](./governance/COMMUNITY_BOARD_SEAT_EXPECTATIONS.md) - Description of the role and responsibilities of the Community Board of Directors Representatives.
 * [Policy Proposal Process](PROPOSAL_PROCESS.md) - Process by which the CPC creates new policies and processes.
 * [GitHub organization Management Policy](./governance/GITHUB_ORG_MANAGEMENT_POLICY.md) - Policy for managing the CPC's GitHub organization.
 

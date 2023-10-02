@@ -19,7 +19,7 @@ Support includes but not be limited to:
 The current Collaboration Networks spaces are listed in the main README.md in the CPC repository.
 
 Collaboration spaces differ from Working Groups in that existing authority is not delegated from the CPC as is the case with a Working Group.
-Instead of delegation of authority, the goal of a collaboration space is to support collaboration in a more independant manner.
+Instead of delegation of authority, the goal of a collaboration space is to support collaboration in a more independent manner.
 The work of the space does not necessarily represent the Foundation (just like the views and direction of an individual project do not
 necessarily represent the views of the Foundation) but is instead fostered and supported by the Foundation.
 In this sense the relationship is more like that of projects to the Foundation versus Working Groups.

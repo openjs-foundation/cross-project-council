@@ -1,15 +1,15 @@
 ## I. Overview
 
-This governance policy describes how a new `Collaboration Space` can be established wthin the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Collaboration Space Proposal Process](#ii-collaboration-space-proposal-process).
+This governance policy describes how a new `Collaboration Space` can be established within the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Collaboration Space Proposal Process](#ii-collaboration-space-proposal-process).
 It describes the [Stages](#stages) a collaboration space may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a space to move from one stage to another.
 
 `Collaboration Spaces` are different than `Working Groups` in a number of ways:
 * `Working Groups` are formally delegated responsibility from the scope of the Cross Project Council so that they can make autonomous decisions with respect to the delegated scope.
   The subject of a `Collaboration Space` may be completely outside of the existing scope of the Cross Project Council.
 * `Working Groups` are generally made up of an existing OpenJS members project contributors.
-  `Collaboration Spaces` are intended to expand the group of contributors to the work of the OpenJS Foundation's work by allowing people outside the OpenJS member projects to propose/collaborate on areas of importance to the JavaScript ecosytem.
+  `Collaboration Spaces` are intended to expand the group of contributors to the work of the OpenJS Foundation's work by allowing people outside the OpenJS member projects to propose/collaborate on areas of importance to the JavaScript ecosystem.
 
-`Collaboration Spaces` may graduate between levels as outlined in this documented.
+`Collaboration Spaces` may graduate between levels as outlined in this document.
 In addition, it may make more sense for them to be converted into a `Working group` if formal delegation of responsibility is beneficial or most of the contributions/leadership is being made from those who are active in the CPC.
 If there is an existing `Working Group` in a particular area a `Collaboration Space` will only be approved by the CPC with the support and approval from the `Working Group` that the space is complimentary.
 
@@ -25,7 +25,7 @@ This governance policy sets forth the proposal process for collaboration spaces 
 
 ### Collaboration Space Proposal Requirements
 
-The proposal to form a new collaboration space in the OpenJS Foundation can be made via an email to operations@openjsf.org with a filled out [Collaboration Space Application Template](./NEW_COLLABORATION_SPACE_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, the space will given an `incubation` status and begin the on-boarding process. **Note** the `incubation` status is temporary as we determine if the space is a good fit. At any time during the `incubation` process a space can withdraw either voluntarily or at the request of the CPC.
+The proposal to form a new collaboration space in the OpenJS Foundation can be made via an email to operations@openjsf.org with a filled out [Collaboration Space Application Template](./NEW_COLLABORATION_SPACE_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, the space will given an `incubation` status and begin the onboarding process. **Note** the `incubation` status is temporary as we determine if the space is a good fit. At any time during the `incubation` process a space can withdraw either voluntarily or at the request of the CPC.
 
 #### Roles
 
@@ -37,7 +37,7 @@ Individual or group who submits the application on behalf of a collaboration spa
 
 The Application Champion is a member of the CPC or Foundation staff who commits to do the following:
 
-1. Work with the appliant to complete the on-boarding process
+1. Work with the applicant to complete the on-boarding process
 1. Be available to answer questions from the Applicant.
 1. Advocate on behalf of the new collaboration space.
 1. Help to explain why the collaboration space is a good fit.
@@ -49,7 +49,7 @@ The Application Champion is a member of the CPC or Foundation staff who commits 
 1. Silent period. Internal only discussion.
 1. Initial acceptance as [Incubating] Collaboration Space.
 1. An acknowledgement is sent to the applicant by Foundation staff within 48 hours (striving to reply within 24 hours when possible).
-1. Silent period. Internal only discussion. The content of these discussion along with the content of the application itself are kept confidential.
+1. Silent period. Internal only discussion. The content of these discussions along with the content of the application itself are kept confidential.
 1. Initial acceptance as an [Incubating] Collaboration Space. Before public announcement there will be:
    * Private email to the CPC members which asks for +1 or objections to the application becoming public. This email will include:
      * The name of the application champion for the application
@@ -57,7 +57,7 @@ The Application Champion is a member of the CPC or Foundation staff who commits 
      * Completed Initial-fit checklist.
      * Confirmation that the Foundation Executive Director has received an FYI and there were no objections.
      * Confirmation that there are no existing objections from CPC members.
-     This is not a formal vote just the process to ensure we have regular CPC concensus to move forward.
+     This is not a formal vote just the process to ensure we have regular CPC consensus to move forward.
    * If there is agreement to move forward:
      * Confirmation to the applicant that they are ready to have their application become public.
    * If lack of consensus to move forward:
@@ -95,7 +95,7 @@ This is an informational checklist to help start up a collaboration space into t
 
 #### Definition
 
-At Large collaboration spaces cover topics which the CPC believes are, or have the potential to be, important to the JS ecosystem as a whole. They may be just getting started, or they may bring together long-established groups with minimal resource needs. The At Large stage provides a beneficial, neutral home for colloboration in order to foster collaborative development and provide a path to deeper alignment with other Foundation projects and collaboration spaces via the graduation process.
+At Large collaboration spaces cover topics which the CPC believes are, or have the potential to be, important to the JS ecosystem as a whole. They may be just getting started, or they may bring together long-established groups with minimal resource needs. The At Large stage provides a beneficial, neutral home for collaboration in order to foster collaborative development and provide a path to deeper alignment with other Foundation projects and collaboration spaces via the graduation process.
 
 #### Expectations
 
@@ -124,7 +124,7 @@ To be considered for the At Large Stage, the project must meet the following req
 
 #### Definition
 
-The Core Stage is for collaboration spaces that have demonstrated that there is sustained level of interest and participation in the area of collaboration and wish to work more closesly with the Cross Project Council and Foundation.
+The Core Stage is for collaboration spaces that have demonstrated that there is sustained level of interest and participation in the area of collaboration and wish to work more closely with the Cross Project Council and Foundation.
 
 #### Expectations
 
@@ -166,11 +166,11 @@ Collaboration spaces may be granted Emeritus status via a 2/3 vote from the CPC.
 
 #### Definition
 
-Incubating spaces are collaboration spaces that are in the process of completing their on-boarding checklist to join the foundation.
+Incubating spaces are collaboration spaces that are in the process of completing their onboarding checklist to join the foundation.
 
 #### Expectations
 
-It is expected that incubating collaboration spaces will make an active effort to work through the on-boarding process in a reasonable timeframe. They will be offered foundation support to help do so.
+It is expected that incubating collaboration spaces will make an active effort to work through the onboarding process in a reasonable timeframe. They will be offered foundation support to help do so.
 
 #### Acceptance Criteria
 
@@ -178,7 +178,7 @@ It is expected that incubating collaboration spaces will make an active effort t
 
 #### Graduation Criteria
 
-1. Completion of the on-boarding checklist
+1. Completion of the onboarding checklist
 1. 2/3 vote from the CPC to accept project
 1. Completion of the entrance criteria for desired stage
 
