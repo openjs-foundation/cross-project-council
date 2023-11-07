@@ -48,6 +48,13 @@ cannot veto or remove items.
 The moderator is responsible for summarizing the discussion of each
 agenda item and sends it as a pull request after the meeting.
 
+### Guidelines for sharing Board information in CPC meetings
+To improve organizational transparency and collaboration between the CPC and Board, it is desireable for CPC Directors to be able update the CPC on topics discussed during Board meetings. The goal of the below guidelines is to make this process lightweight and allow for information to be shared with the CPC as freely as possible. This is why the audience of those Board updates are somewhat restricted.
+
+- CPC Directors should use their own judgement about what may be shared with the CPC. When in doubt they should abstain from sharing information and seek explicit permission to do so. In particular, information pertaining to a specific member, staff, or about legal matters should never be shared.
+- Board updates are not streamed and they are limited to CPC members.
+- CPC Directors wanting to report on a Board meeting should inform the CPC Chair at the beginning of the call so that sufficient time can be carved out at the end of the call for the update.
+
 ## Consensus Seeking Process
 
 The Team follows a [Consensus Seeking][] decision-making model.
@@ -96,22 +103,18 @@ As per the [CPC charter][cpc charter], the non-impact projects elect 2 voting CP
 
 These members will be elected for a term of 1 year as follows:
 
-* Once a year an issue will be opened in the CPC repo announcing that the period for
-  nominations is open.
+* Once a year an issue will be opened in the CPC repo announcing that the period for nominations is open.
 
-* Any member from one of the non-impact projects can self-nominate emailing the chair of the CPC with their
-  interest in running for the CPC.
+* Any member from one of the non-impact projects can self-nominate emailing the chair of the CPC with their interest in running for the CPC.
 
-* The nomination period will be open for 2 weeks at which point the CPC chair will list the nominees in the
-  issue.
+* The nomination period will be open for 2 weeks at which point the CPC chair will list the nominees in the issue.
 
 * Each of the candidates listed will be asked to open an issue in the CPC repo which includes the following:
   * Projects they are part of
   * Description of their background
   * The reasons they would like to act as a non-impact CPC voting member
   * Confirmation that they can devote the required time/effort.
-  * Their employer (if applicable). This is needed due to the limitations
-    on maximum employer representation in the CPC voting members.
+  * Their employer (if applicable). This is needed due to the limitations on maximum employer representation in the CPC voting members.
 
 * The projects will be asked to confirm membership as identified by the nominees.
 
@@ -121,16 +124,17 @@ These members will be elected for a term of 1 year as follows:
 
 * Voting will start a week after the nomination period ends, and be open for two weeks.
 
-* Those candidates who receive the greatest number of votes will be confirmed as
-  the winners. In the case of a tie between 2 or more candidates, the winner will be
-  chosen randomly unless:
-   * There are only 2 candidates tied for the largest number of votes, in which case those 2
-     candidates will be the winners, or
+* Those candidates who receive the greatest number of votes will be confirmed as the winners.
+  In the case of a tie between 2 or more candidates, the winner will be chosen randomly unless:
+   * There are only 2 candidates tied for the largest number of votes, in which case those 2 candidates will be the winners, or
    * all but one of the candidates that are tied for the number of votes choose to conceed.
 
 ## Approving and Onboarding Regular Members
 
-Our goal in the OpenJS Foundation is to do most of our work in public. On occasion, there are matters and materials that must be kept private and shared only with Voting and Regular members. As a result we have requirements in place in order to ensure that Voting and Regular members are known and active in the projects they represent or known to the CPC and active in its work. Observers can participate in almost all aspects of the work of the CPC except those infrequent matters related to private information.
+Our goal in the OpenJS Foundation is to do most of our work in public.
+On occasion, there are matters and materials that must be kept private and shared only with Voting and Regular members.
+As a result we have requirements in place in order to ensure that Voting and Regular members are known and active in the projects they represent or known to the CPC and active in its work.
+Observers can participate in almost all aspects of the work of the CPC except those infrequent matters related to private information.
 
 ### Eligibility to become a Regular member
 
@@ -151,10 +155,10 @@ In addition to being an [Active OpenJS Collaborator][], the PR to add a Regular 
 
 Once a PR is ready to be landed, the CPC member who lands the pull request should:
 
-* Send a notification to the project contacts for the project identified in the PR
-  indicating that a new Regular CPC member has joined the CPC on behalf of the project.
-* Add the member to the github `cpc-regular-members` [team][cpc regular members team]
-* Add the member to the `cpc-private` email list and private directory by opening a PR against the [OpenJS Foundation CPC directory][]
+* Send a notification to the project contacts for the project identified in the PR indicating that a new Regular CPC member has joined the CPC on behalf of the project.
+* Contact OpenJS Foundation Operations <operations@openjsf.org> and let them know we have a new Regular CPC Member:
+   * Operations will add the member to the github `cpc-regular-members` [team][cpc regular members team]
+   * Operations will add the member to the `cpc-private` email list
 * Introduce the new member at the next CPC meeting.
 
 _Note: Former Voting members whose terms have just ended will automatically become Regular members, unless they indicate otherwise._
@@ -170,12 +174,9 @@ _Note: "Activity" is defined as recent, sustained contributions during the past 
 
 ## Approving Project Charters
 
-Per the [CPC charter section 5][], the voting CPC members are responsible for approving project
-charters and changes to them.
+Per the [CPC charter section 5][], the voting CPC members are responsible for approving project charters and changes to them.
 
-Approval of the initial charter or changes to an existing charter will
-be requested by opening an issue requesting approval in the cross-project-council
-[repository][cpc repo].
+Approval of the initial charter or changes to an existing charter will be requested by opening an issue requesting approval in the cross-project-council [repository][cpc repo].
 
 The request is approved when:
 
@@ -186,28 +187,22 @@ The request is approved when:
 
 ## Merging PRs into this Repository
 
-Pull requests that do not change the charter or governance of the CPC can be merged into
-this repository provided the following conditions have been met:
+Pull requests that do not change the charter or governance of the CPC can be merged into this repository provided the following conditions have been met:
 
 * There are no outstanding objections
 * There are two approvals by CPC members
 * The PR has been open for at least 72 hours
 
-Pull requests that change governance of the CPC (including approving changes to
-Working Groups) must meet the following conditions in addition to the ones
-listed for regular PRs.
+Pull requests that change governance of the CPC (including approving changes to Working Groups) must meet the following conditions in addition to the ones listed for regular PRs.
 
-* The PR has been open for at least 14 days OR consensus is reached in a meeting
-  with quorum of voting members.
+* The PR has been open for at least 14 days OR consensus is reached in a meeting with quorum of voting members.
 
-Pull requests that change the charter of the CPC must meet the following conditions
-in addition to the ones listed for changing CPC governance:
+Pull requests that change the charter of the CPC must meet the following conditions in addition to the ones listed for changing CPC governance:
 
 * The text of the PR must be approved by a simple majority of the voting members.
 * The text of the PR must be approved by the board.
 
-If consensus cannot be reached, a pull request may still be landed after a vote
-by the Voting CPC members to override outstanding objections.
+If consensus cannot be reached, a pull request may still be landed after a vote by the Voting CPC members to override outstanding objections.
 
 ### Fast-Tracking PRs
 
@@ -239,7 +234,6 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/cpc-private.md
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
-[OpenJS Foundation CPC directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/groups/cross-project-council.yml
 [Primary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-primary-cpc-director-as-defined-in-43d-in-the-openjs-foundation-bylaws
 [Secondary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-secondary-cpc-director-as-defined-in-43e-in-theopenjs-foundation-bylaws
 [Tertiary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-tertiary-cpc-director-as-defined-in-43f-in-the-openjs-foundation-bylaws

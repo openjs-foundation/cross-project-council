@@ -2,48 +2,30 @@
 
 ## Section 1. Guiding Principle.
 
-The OpenJS Foundation will operate transparently, openly,
-collaboratively, and ethically. Project proposals, timelines, and status
-must not merely be open, but also easily visible to outsiders.
+The OpenJS Foundation will operate transparently, openly, collaboratively, and ethically.
+Project proposals, timelines, and status must not merely be open, but also easily visible to outsiders.
 
 ## Section 2. Evolution of OpenJS Foundation Governance.
 
-Most large, complex open source communities have both a business and a
-technical governance model. OpenJS Foundation’s technical leadership
-is the Cross Project Council (“CPC”). OpenJS Foundation’s business
-leadership is the Board of Directors (the “Board”).
+Most large, complex open source communities have both a business and a technical governance model.
+OpenJS Foundation’s technical leadership is the Cross Project Council (“CPC”).
+OpenJS Foundation’s business leadership is the Board of Directors (the “Board”).
 
-This Cross Project Council Charter reflects a carefully
-constructed, balanced role for the CPC and the Board in the governance of
-OpenJS Foundation. The charter amendment process is for the
-OpenJS Foundation to propose changes using simple majority of the
-full OpenJS Foundation, the proposed changes being subject to review
-and approval by the Board. The Board may additionally make amendments to
-the OpenJS Foundation charter at any time, though the Board will not interfere
-with day-to-day discussions, votes or meetings
-of the CPC.
+This Cross Project Council Charter reflects a carefully constructed, balanced role for the CPC and the Board in the governance of OpenJS Foundation.
+The charter amendment process is for the OpenJS Foundation to propose changes using simple majority of the full OpenJS Foundation, the proposed changes being subject to review and approval by the Board.
+The Board may additionally make amendments to the OpenJS Foundation charter at any time, though the Board will not interfere with day-to-day discussions, votes or meetings of the CPC.
 
-The above notwithstanding, the CPC may make trivial changes to the charter
-without requiring board approval, including spelling and punctuation fixes,
-so long as they do not change the meaning of the text.
+The above notwithstanding, the CPC may make trivial changes to the charter without requiring board approval, including spelling and punctuation fixes, so long as they do not change the meaning of the text.
 
 ## Section 3. Board’s Role in Setting OpenJS Foundation’s Strategic Direction.
 
-The Board will set the overall CPC Policy. The policy will describe the
-overarching scope of the OpenJS Foundation initiative, OpenJS Foundation
-Foundation’s technical vision and direction and project release
-expectations in the form of expected cadence and intent. The Board will
-use the CPC as a delegate body for governing technical implementation,
-individual project scope and direction while they remain within the scope
-and direction of the policies as described in the CPC Policy document and
-approved by the Board.
+The Board will set the overall CPC Policy.
+The policy will describe the overarching scope of the OpenJS Foundation initiative, OpenJS Foundation’s technical vision and direction and project release expectations in the form of expected cadence and intent.
+The Board will use the CPC as a delegate body for governing technical implementation, individual project scope and direction while they remain within the scope and direction of the policies as described in the CPC Policy document and approved by the Board.
 
-The Board sets the overall CPC policy through [Foundation mission and vision statements][] as well as within the [Foundation bylaws][]. The policy describes
-the overarching scope of the OpenJS Foundation initiatives , technical vision,
-and direction. The Board uses the CPC as a delegate body for governing
-high-level technical policy and procedures while remaining within the scope and
-direction of the policies set by the Board.
-
+The Board sets the overall CPC policy through [Foundation mission and vision statements][] as well as within the [Foundation bylaws][].
+The policy describes the overarching scope of the OpenJS Foundation initiatives, technical vision, and direction.
+The Board uses the CPC as a delegate body for governing high-level technical policy and procedures while remaining within the scope and direction of the policies set by the Board.
 
 ## Section 4. Establishment of the CPC.
 
@@ -53,82 +35,50 @@ The CPC is an inclusive group with three types of participants:
 * Regular members
 * Voting members
 
-
 ### Observers
 
-Observers are free to attend meetings and participate in the work of the
-CPC as well as the consensus seeking process.
+Observers are free to attend meetings and participate in the work of the CPC as well as the consensus seeking process.
 
 ### Regular members
 
-Regular members have made a commitment to be involved in an ongoing manner
-and take on roles and responsibilities as outlined below.
-Regular member is implied when membership type is not
-specified. Anyone who has been active in the work of the OpenJS Foundation, 
-one of its member projects or other related activity as described in the CPC Governance 
-may request to become a regular member by opening a PR to add themselves to the list of
-regular members. Regular members remain for as long as they are active
-within the work of the CPC. Regular members who have not been active
-in GitHub, participated in meetings, or other work of the CPC for 3 months may be
-removed from the list of Regular members. In addition, a Regular CPC member
-can be removed by voluntary resignation, or by a standard CPC motion.
+Regular members have made a commitment to be involved in an ongoing manner and take on roles and responsibilities as outlined below.
+Regular member is implied when membership type is not specified.
+Anyone who has been active in the work of the OpenJS Foundation, one of its member projects or other related activity as described in the CPC Governance may request to become a regular member by opening a PR to add themselves to the list of regular members.
+Regular members remain for as long as they are active within the work of the CPC. Regular members who have not been active in GitHub, participated in meetings, or other work of the CPC for 3 months may be removed from the list of Regular members.
+In addition, a Regular CPC member can be removed by voluntary resignation, or by a standard CPC motion.
 
 ### Voting members
 
 Voting members are selected as follows:
 
-* Each Impact project may nominate up to two members through a process
-of their choosing. Once nominated the member must be ratified by the
-CPC Voting members before becoming a Voting member.
+* Each Impact project may nominate up to two members through a process of their choosing. Once nominated the member must be ratified by the CPC Voting members before becoming a Voting member.
 
-* up to two Voting members may be nominated by the non Impact projects based
-on a process set by the CPC.
+* up to two Voting members may be nominated by the non Impact projects based on a process set by the CPC.
 
-* up to two Voting members may be nominated by the Regular members. Once
-nominated these members must be ratified by the CPC Voting members
-before becoming a Voting member.
+* up to two Voting members may be nominated by the Regular members. Once nominated these members must be ratified by the CPC Voting members before becoming a Voting member.
 
-Voting members are expected to make a time commitment which
-allows them to be responsive to CPC business, participate regularly
-in meetings and to participate in all voting matters (either by
-voting or specifically abstaining).  They are
-also expected to help to enable work of the regular CPC
-members by providing leadership, help with interactions with the
-board and Foundation staff and to generally help keep things moving.
+Voting members are expected to make a time commitment which allows them to be responsive to CPC business, participate regularly in meetings and to participate in all voting matters (either by voting or specifically abstaining).
+They are also expected to help to enable work of the regular CPC members by providing leadership, help with interactions with the board and Foundation staff and to generally help keep things moving.
 
-Voting members serve for a term of 1 year and must be re-nominated
-and ratified by the Voting CPC members each year. In addition, a Voting CPC member
-can be removed by voluntary resignation, by a standard CPC motion,
-or in accordance to the participation rules described for Regular
-members.
+Voting members serve for a term of 1 year and must be re-nominated and ratified by the Voting CPC members each year.
+In addition, a Voting CPC member can be removed by voluntary resignation, by a standard CPC motion, or in accordance to the participation rules described for Regular members.
 
-Changes to CPC membership should be posted in the agenda, and may be suggested
-as any other agenda item.
+Changes to CPC membership should be posted in the agenda, and may be suggested as any other agenda item.
 
-No more than one-fourth of the Voting CPC members may be affiliated with the
-same employer. Removal or resignation of a Voting CPC member, or a change of
-employment by a Voting CPC member could cause more than
-one-fourth of the Voting CPC membership to be affiliated with the same employer.
-Such a situation must be immediately remedied by the resignation or
-removal of one or more voting CPC members.
+No more than one-fourth of the Voting CPC members may be affiliated with the same employer.
+Removal or resignation of a Voting CPC member, or a change of employment by a Voting CPC member could cause more than one-fourth of the Voting CPC membership to be affiliated with the same employer.
+Such a situation must be immediately remedied by the resignation or removal of one or more voting CPC members.
 
-If a voting CPC member steps down before the end of their one year term or they
-are removed from the CPC by a CPC motion they may be replaced using the same
-process by which they were elected. In this case the member will serve out the
-remainder of the term and must be re-confirmed at the end of the original one
-year term as if they had served for the full year.
+If a voting CPC member steps down before the end of their one year term or they are removed from the CPC by a CPC motion they may be replaced using the same process by which they were elected.
+In this case the member will serve out the remainder of the term and must be re-confirmed at the end of the original one year term as if they had served for the full year.
 
-The public portion of the CPC discussions and meetings will be open to all
-observers and members.
+The public portion of the CPC discussions and meetings will be open to all observers and members.
 
-The CPC shall meet regularly using tools that enable participation by the
-community. The meeting shall be directed by the CPC Chairperson.
-Responsibility for directing individual meetings may be
-delegated by the CPC Chairperson to any other CPC member. The CPC chairperson
-shall be one of the Voting members, and will be selected by the CPC members
-through consensus or if necessary a vote as described in the section titled "Voting".
-Minutes or an appropriate recording shall be taken and made available to
-the community through accessible public postings.
+The CPC shall meet regularly using tools that enable participation by the community.
+The meeting shall be directed by the CPC Chair or the CPC Vice Chair.
+Responsibility for directing individual meetings may be delegated by the CPC Chair or by the CPC Vice Chair to any other CPC member.
+The CPC Chair and CPC Vice Chair roles confer Voting member status, and will be selected by the CPC members through consensus or if necessary a vote as described in the section titled "Voting".
+Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
 
 Voting members have the roles and responsibilities as outlined below.
 
@@ -136,66 +86,38 @@ Voting members have the roles and responsibilities as outlined below.
 
 Subject to such policies as may be set by the Board, the CPC is responsible for:
 
-   1. When needed, members of the CPC will be expected to create subcommittees
-      or working groups. The CPC will delegate responsibilities and empower
-      these groups to make decisions. Any of the responsibilities listed below
-      not identified as being responsibilities of the Voting members may be delegated.
-      For the remaining responsibilities, day-to-day work, investigation, and building
-      recommendations may be delegated, however, the final responsibility will
-      remain with the Voting members.
-   1. Ensuring collaboration is the driving principle within a Project, between
-      OpenJS Foundation Projects, and between OpenJS Foundation Projects and the broader
-      community.
+   1. When needed, members of the CPC will be expected to create subcommittees or working groups.
+      The CPC will delegate responsibilities and empower these groups to make decisions.
+      Any of the responsibilities listed below not identified as being responsibilities of the Voting members may be delegated.
+      For the remaining responsibilities, day-to-day work, investigation, and building recommendations may be delegated, however, the final responsibility will remain with the Voting members.
+   1. Ensuring collaboration is the driving principle within a Project, between OpenJS Foundation Projects, and between OpenJS Foundation Projects and the broader community.
    1. Defining and maintaining neutral consensus for the technical vision for the OpenJS Foundation.
    1. Creating conceptual architecture for how the projects fit together.
-   1. Voting members are responsible for approving new projects within the scope
-      for OpenJS Foundation set by the Governing Board, as outlined in the Project Progression Process.
-   1. Voting members are responsible for making final decisions on aligning projects,
-      removing or archiving projects, as outlined in Project Progression Process.
-   1. Voting members are responsible for approving the charter
-      (and any updates) for projects which are part of the OpenJS Foundation. As part of this
-      review/approval the voting members will ensure that the updated charter is compatible
-      with the mission of the OpenJS Foundation and reach consensus with the Board on more
-      substantial changes before final approval by CPC.
-   1. Voting members are responsible for approving funds for budgets delegated
-      to the project.
-   1. Voting members are responsible for approving new `collaboration spaces` as outlined in the OpenJS
-      [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md) process.
-   1. Voting members are responsible for making final decisions on aligning `collaboration spaces`,
-      removing or archiving `collaboration spaces`, as outlined in the
-      OpenJS [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md) process.
+   1. Voting members are responsible for approving new projects within the scope for OpenJS Foundation set by the Governing Board, as outlined in the Project Progression Process.
+   1. Voting members are responsible for making final decisions on aligning, removing, or archiving projects, as outlined in Project Progression Process.
+   1. Voting members are responsible for approving the charter (and any updates) for projects which are part of the OpenJS Foundation.
+      As part of this review/approval the voting members will ensure that the updated charter is compatible with the mission of the OpenJS Foundation and reach consensus with the Board on more substantial changes before final approval by CPC.
+   1. Voting members are responsible for approving funds for budgets delegated to the project.
+   1. Voting members are responsible for approving new `collaboration spaces` as outlined in the OpenJS [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md) process.
+   1. Voting members are responsible for making final decisions on aligning `collaboration spaces`, removing or archiving `collaboration spaces`, as outlined in the OpenJS [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md) process.
    1. Following and be up to date on Board/OpenJS Foundation initiatives and communicate them to the projects.
    1. Defining common practices to be implemented across OpenJS Foundation projects, if any.
-   1. Mediating technical conflicts between OpenJS Foundation Projects when attempts to resolve
-      those conflicts within the Project were unsuccessful.
-   1. Managing the process for creating a yearly budget and approving a yearly budget to be
-      presented to the board.
-   1. The CPC serves as the OpenJS Foundation's primary technical
-      liaison body with external open source projects, consortiums and groups and is
-      also responsible for ensuring that the OpenJS Foundation has appropriate technical
-      participation in standards bodies by finding an encouraging members from
-      individual projects to participate in these bodies.
+   1. Mediating technical conflicts between OpenJS Foundation Projects when attempts to resolve those conflicts within the Project were unsuccessful.
+   1. Managing the process for creating a yearly budget and approving a yearly budget to be presented to the board.
+   1. The CPC serves as the OpenJS Foundation's primary technical liaison body with external open source projects, consortiums, and groups and is also responsible for ensuring that the OpenJS Foundation has appropriate technical participation in standards bodies by finding an encouraging members from individual projects to participate in these bodies.
    1. Managing the Individual membership program.
    1. Managing programs to improve inclusivity and diversity.
    1. Guiding projects into appropriate Foundation paths.
    1. Shared resources, tooling and funding for projects (Collaborator Summit Events, Travel fund).
-   1. Supporting projects in their enforcement of Code of Conduct
-      violations and escalation.
+   1. Supporting projects in their enforcement of Code of Conduct violations and escalation.
    1. Handling Code of Conduct violations for projects which do not have a documented process to do so.
    1. Developing a framework for community end-user feedback.
    1. Managing programs to offer mentorship to external individuals.
    1. Managing developer outreach programs.
    1. Supporting project advocacy and recognition programs.
    1. Identifying, recruiting and engaging prospective projects.
-   1. Voting members are responsible for making a final decision if consensus
-      cannot be reached among members.
-   1. Members of the CPC, or committees consisting of subsets of the CPC
-      membership will be expected to meet on a regular basis to discuss topics
-      such as new project acceptance into the mentorship program, project graduation
-      from the mentorship program, Project issues and conflicts, opportunities
-      for collaboration between Projects, opportunities for the Foundation in the
-      greater JavaScript community, etc.
-
+   1. Voting members are responsible for making a final decision if consensus cannot be reached among members.
+   1. Members of the CPC, or committees consisting of subsets of the CPC membership will be expected to meet on a regular basis to discuss topics such as new project acceptance into the mentorship program, project graduation from the mentorship program, Project issues and conflicts, opportunities for collaboration between Projects, opportunities for the Foundation in the greater JavaScript community, etc.
 
 ## Section 6. Non-Responsibilities of the CPC
 
@@ -211,121 +133,81 @@ OpenJS Foundation Projects are self-governing entities. All policies and procedu
 * Development process and any coding standards.
 * Mediating technical conflicts between Collaborators.
 
-
-Not withstanding the above, the Projects and the entire technical community will follow any processes
-as may be specified by the Board relating to the intake and license compliance review of contributions,
-including the OpenJS Foundation IP Policy.
+Not withstanding the above, the Projects and the entire technical community will follow any processes as may be specified by the Board relating to the intake and license compliance review of contributions, including the OpenJS Foundation IP Policy.
 
 ## Section 7. Elections
 
-Leadership roles in OpenJS Foundation will be peer elected
-representatives of the community.
+Leadership roles in OpenJS Foundation will be peer elected representatives of the community.
 
-For election of persons (such as the CPC Chairperson), a multiple-candidate
-method should be used, such as:
+For election of persons (such as the CPC Chair), a multiple-candidate method should be used, such as:
 
 * [Condorcet][] or
 * [Single Transferable Vote][]
 
-Multiple-candidate methods may be reduced to simple election by plurality
-when there are only two candidates for one position to be filled. No
-election is required if there is only one candidate and no objections to
-the candidates election. Elections shall be done within the Projects by
-the Collaborators active in the Project.
+Multiple-candidate methods may be reduced to simple election by plurality when there are only two candidates for one position to be filled.
+No election is required if there is only one candidate and no objections to the candidates election.
+Elections shall be done within the Projects by the Collaborators active in the Project.
 
+The CPC will elect from amongst Regular and Voting members of the CPC:
 
-The CPC will elect from amongst CPC members a CPC Chairperson to
-work on building an agenda for CPC meetings and a CPC Director to represent
-the CPC to the Board for a term of one year according to the OpenJS Foundation’s
-By-laws. The Chair and Director may be (but are not required to be)
-the same person. The CPC shall hold annual elections to select a CPC
-Chairperson and Director; there are no limits on the number of terms a
-CPC Chairperson or Director may serve.
+* a CPC Chair and a CPC Vice Chair to work on building an agenda for CPC meetings
+* CPC Directors to represent the Foundation's projects and related communities to the Board
+
+The term for each of these roles is one year (as defined in the [OpenJS Foundation bylaws][]).
+
+The CPC shall hold annual elections to select a CPC Chair, Vice Chair, and Directors.
+The CPC can choose to hold those elections at different times of the year or concurrently.
+
+There are no limits on the number of terms a CPC Chair, Vice Chair, or Director may serve.
+
+The CPC Chair and Vice Chair may be (but are not required to be) CPC Directors.
 
 ## Section 8. Board Representation
 
-There are 3 Board seats earmarked for representation from the
-OpenJS Foundation, the Foundation's projects, and related communities.
+There are Board seats allocated for CPC members to represent the Foundation's projects and related communities to the Board.
 
-### The Primary CPC Director (as defined in §4.3(d) in the [OpenJS Foundation bylaws][])
+CPC Board representatives are called CPC Directors.
 
-The first of these board seats is filled as outlined in Section 7 on [Elections][] and is always in place.
+The number of CPC Directors is defined in §4.3(d) and §4.3(e) of the [OpenJS Foundation bylaws][].
 
-**Primary CPC Director eligibility:** The Primary CPC Director must be a current CPC Member
+To be eligible, candidates must be Regular or Voting members of the CPC.
 
-**Primary CPC Director voting:** CPC Voting Members will vote on candidates
-
-### The Secondary CPC Director (as defined in §4.3(e) in the [OpenJS Foundation bylaws][])
-
-The second board seat will be filled based on processes defined
-by the CPC and approved by the Voting CPC members and then the Board. The
-CPC members will review and either re-confirm or update the
-processes once per year.
-
-**Secondary Director eligibility:** The Second CPC Director must be an [Active OpenJS Collaborator][] at the time of their selection, as defined in the CPC's Governance document.
-
-**Secondary Director voting:** CPC Voting Members will vote on candidates
-
-As described in the [Elections][] section a multiple candidate method
-will be be used for the voting for the first and second board members.
-
-### The Tertiary CPC Director (as defined in §4.3(f) in the [OpenJS Foundation bylaws][])
-
-The third board seat is earmarked to represent the Individual membership
-program. 3 Platinum board members as well as 2000 members registered in the
-Individual membership program are required for it to activate.
-Candidates for the Individual Membership Director are to be nominated by voting
-members of the top-level committees of all projects and the voting CPC members.
-Active members of the Individual Membership program would then vote on the
-candidate of their choosing via an election system set by the CPC.
+The CPC Voting Members will vote on candidates as described in the [Elections][] section.
 
 ## Section 9. Decision Making
 
-For internal Project decisions, Collaborators shall operate under Lazy
-Consensus. The CPC follows a [Consensus Seeking][] decision making model. When
-an agenda item has appeared to reach a consensus the moderator will ask "Does
-anyone object?" as a final call for dissent from the consensus.
+For internal Project decisions, Collaborators shall operate under Lazy Consensus.
+The CPC follows a [Consensus Seeking][] decision making model.
+When an agenda item has appeared to reach a consensus the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
 
-If an agenda item cannot reach a consensus a CPC member can call for either a
-closing vote or a vote to table the issue to the next meeting. Votes shall
-follow the procedure described in the [Voting][] section of this charter.
+If an agenda item cannot reach a consensus a CPC member can call for either a closing vote or a vote to table the issue to the next meeting.
+Votes shall follow the procedure described in the [Voting][] section of this charter.
 
 ## Section 10. Voting
 
-The CPC follows a [Consensus Seeking][] decision making model. When an agenda
-item has appeared to reach a consensus the moderator will ask "Does anyone
-object?" as a final call for dissent from the consensus.
+The CPC follows a [Consensus Seeking][] decision making model.
+When an agenda item has appeared to reach a consensus the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
 
-If an agenda item cannot reach a consensus a CPC member can call for
-either a closing vote or a vote to table the issue to the next meeting.
-The call for a vote must be seconded by a majority of the CPC or else the
-discussion will continue.
+If an agenda item cannot reach a consensus a CPC member can call for either a closing vote or a vote to table the issue to the next meeting.
+The call for a vote must be seconded by a majority of the CPC or else the discussion will continue.
 
-For all votes, a simple majority of all Voting CPC members for, or against, the issue
-wins. A Voting CPC member may choose to participate in any vote through abstention.
+For all votes, a simple majority of all Voting CPC members for, or against, the issue wins.
+A Voting CPC member may choose to participate in any vote through abstention.
 
-Note that, in addition to requiring a simple majority vote of the CPC Voting
-CPC members, all changes to this charter are also subject to approval
-from the OpenJS Foundation board.
+Note that, in addition to requiring a simple majority vote of the CPC Voting CPC members, all changes to this charter are also subject to approval from the OpenJS Foundation board.
 
 ## Section 11. Definitions
 
-**Project**: a technical collaboration effort that is organized through the
-project mentorship process and approved by the CPC.
+**Project**: a technical collaboration effort that is organized through the project mentorship process and approved by the CPC.
 
-**Contributors**: contribute code or other artifacts, but do not have the right
-to commit to the code base. Contributors work with the Project's Collaborators
-to have code committed to the code base. A Contributor may be promoted to a
-Collaborator by the Project's Governing Body. Contributors should rarely be
-encumbered by the CPC or Board.
+**Contributors**: contribute code or other artifacts, but do not have the right to commit to the code base.
+Contributors work with the Project's Collaborators to have code committed to the code base.
+A Contributor may be promoted to a Collaborator by the Project's Governing Body.
+Contributors should rarely be encumbered by the CPC or Board.
 
-**Collaborator**: a Contributor within a Project that has made significant and
-valuable contributions and has been given commit-access to that Project
-repository.
+**Collaborator**: a Contributor within a Project that has made significant and valuable contributions and has been given commit-access to that Project repository.
 
-**Governing Body**: a  group of Collaborators within a Project elected to represent the Project
-in an official decision making role as defined in the Project's governance
-policies.
+**Governing Body**: a  group of Collaborators within a Project elected to represent the Project in an official decision making role as defined in the Project's governance policies.
 
 [Foundation mission and vision statements]:  https://openjsf.org/about/
 [Foundation bylaws]:  https://bylaws.openjsf.org
@@ -334,5 +216,4 @@ policies.
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
-[Active OpenJS Collaborator]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/governance/GOVERNANCE.md#definition-of-an-active-openjs-collaborator
 [OpenJS Foundation bylaws]: https://bylaws.openjsf.org/

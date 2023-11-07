@@ -14,7 +14,7 @@ This governance policy sets forth the proposal process for projects to be accept
 
 ### Project Proposal Requirements
 
-New projects should express interest to join the OpenJS Foundation via an email to new-projects@lists.openjsf.org with a filled-out [Project Application Template](./NEW_PROJECT_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, projects will given an `incubation` status and begin the on-boarding process. **Note** the `incubation` status is temporary as we determine if the project is a good fit. At any time during the `incubation` process a project can withdraw either voluntarily or at the request of the CPC.
+New projects should express interest to join the OpenJS Foundation via an email to new-projects@lists.openjsf.org with a filled-out [Project Application Template](./NEW_PROJECT_APPLICATION.md). The initial application will have a silent period for internal only discussion. It's worth noting that this is not a commitment to transfer IP, but rather an initial exploration - IP transfer would happen once the project is moved into incubation. If your application is denied during this phase you will be notified privately. If there are no objections to the application, projects will given an `incubation` status and begin the on-boarding process. **Note** the `incubation` status is temporary as we determine if the project is a good fit. At any time during the `incubation` process a project can withdraw either voluntarily or at the request of the CPC.
 
 #### Previous Project Applications
 
@@ -47,6 +47,8 @@ The Application Champion is a member of the CPC who commits to do the following:
 1. Help the Application Manager when needed.
 1. Be available as a primary point of contact through the incubation period if reached.
 
+The Application Champion *must not* be the Applicant.
+
 #### Process
 
 1. Initial email sent to new-projects@lists.openjsf.org with filled-out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
@@ -66,7 +68,7 @@ The Application Champion is a member of the CPC who commits to do the following:
    * If there is agreement to move forward:
      * Confirmation to the applicant that they are ready to have their application become public.
      * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date.
-       Confirm next steps beyond announcement.  
+       Confirm next steps beyond announcement. 
    * If lack of consensus to move forward:
       * Correspondence from foundation staff to applicant about non-acceptance.
       * If possible, give guidance to the project in their quest to find a foundation home
@@ -91,7 +93,7 @@ The Application Champion is a member of the CPC who commits to do the following:
    1. How much and how broad is usage within the JavaScript Community.
    1. Level of activity and progress within the project.
    1. Synergy or overlap with existing projects in the Foundation.
-   1. Level of comfort that project will be successful.  
+   1. Level of comfort that project will be successful. 
   
 ## Onboarding Checklist
 
@@ -114,7 +116,7 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
 - [ ] Add Project to the [CPC repo's README.md](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/README.md#incubating-projects) as an Incubating project
 - [ ] List trademarks the project commits to transfer to the OpenJS Foundation following graduation
 - [ ] If project is using crowdfunding platforms, add disclaimer from the OpenJS Foundation [Trademark Policy](https://trademark-policy.openjsf.org) to platforms
-- [ ] Identify individuals from the project to join the CPC
+- [ ] Identify individuals from the project to join the CPC [by opening an issue in the CPC repository](https://github.com/openjs-foundation/cross-project-council/issues/new)
 - [ ] Document project and foundation contacts for:
   * marketing & social media
   * infrastructure
@@ -167,7 +169,7 @@ To be considered for the At Large Stage, the project must meet the following req
 
 #### Definition
 
-The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.     
+The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.    
 
 #### Examples
 

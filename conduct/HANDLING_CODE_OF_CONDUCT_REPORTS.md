@@ -25,7 +25,7 @@ Personal information is confidential. All reports should be recorded, together w
 * report@openjsf.org -> github.com/openjs-foundation/moderation
 * coc-escalation@openjsf.org -> github.com/openjs-foundation/coc-escalation
 
-For each report there should be an issue which captures the report, discussion and final conclusion.  The report should NOT contain identifying details of the reporter.
+For each report there should be an issue which captures the report, discussion and final conclusion. The report should NOT contain identifying details of the reporter.
 
 ## Conflict of Interest
 
@@ -35,7 +35,7 @@ Any member of the CPC or Code of Conduct Panel(CoCP) who is involved in the repo
 
 Note: We understand that the reporter and the target can be separate persons. In this case the CPC will communicate with the reporter unless the target gives permission for the CPC to communicate with them.
 
-All members of the CPC are subscribed to the `report@openjsf.org` mailing list.  When a report is received the following actions will be taken:
+All members of the CPC are subscribed to the `report@openjsf.org` mailing list. When a report is received the following actions will be taken:
    * One of the CPC members will respond to the reporter or target confirming that the report has been received. When possible the same person who responds initially will act as the point of contact for future conversations.
    * If no response has been sent by the next CPC meeting, the CPC chair will ensure there is a private session in which one of the CPC members is identified as the point of contact.
    * The point of contact will then ensure the following steps are completed:
@@ -66,6 +66,6 @@ When a report is received the following actions will be taken:
      1. An action to be taken is arrived at: The action to be taken is decided by consensus as per the standard CPC
         [Decision Making](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#section-9-decision-making) process substituting in CoCP for references to the CPC.
      1. The proposed action is discussed with the leadership for the space to which the report applies (ex CPC or member
-        project leadership). If the leadership representatives expresses concerns then the contact person will bring these back to the CoCP members for further discussion.  This cycle can continue until the CoCP members reach consensus that the leadership representatives concerns have been adequately addressed.
+        project leadership). If the leadership representatives expresses concerns then the contact person will bring these back to the CoCP members for further discussion. This cycle can continue until the CoCP members reach consensus that the leadership representatives concerns have been adequately addressed.
      1. Resolution shared: The resolution is shared with the reporter or target by the contact person. If the reporter or target expresses concerns then the contact person will bring these back to the CPC members for further discussion. This cycle can continue until the CPC members reach consensus that the reporter or target's concerns have been adquately addressed. If no feedback is received within 7 days the resolution is considered as accepted.
      1. Final resolution: the resolution agreed by the CoCP members is implemented and the outcome reported back to the reporter or target bythe main contact.

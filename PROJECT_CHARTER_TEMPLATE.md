@@ -11,7 +11,8 @@ _OpenJS Foundation's governance._
 _directions: provide a concise, high-level statement about_
 _the project's long-term principles, values, or mission._
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-1-guiding-principle)
+ex. [Electron Governance Charter](https://github.com/electron/governance/tree/main/charter#core-values)
+ex. [AMP Charter](https://github.com/ampproject/meta/blob/main/CHARTER.md#section-0-guiding-principles-optional)
 
 ## Section 1: Scope
 
