@@ -156,8 +156,9 @@ In addition to being an [Active OpenJS Collaborator][], the PR to add a Regular 
 Once a PR is ready to be landed, the CPC member who lands the pull request should:
 
 * Send a notification to the project contacts for the project identified in the PR indicating that a new Regular CPC member has joined the CPC on behalf of the project.
-* Add the member to the github `cpc-regular-members` [team][cpc regular members team]
-* Add the member to the `cpc-private` email list and private directory by opening a PR against the [OpenJS Foundation CPC directory][]
+* Contact OpenJS Foundation Operations <operations@openjsf.org> and let them know we have a new Regular CPC Member:
+   * Operations will add the member to the github `cpc-regular-members` [team][cpc regular members team]
+   * Operations will add the member to the `cpc-private` email list
 * Introduce the new member at the next CPC meeting.
 
 _Note: Former Voting members whose terms have just ended will automatically become Regular members, unless they indicate otherwise._
@@ -233,7 +234,6 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/cpc-private.md
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
-[OpenJS Foundation CPC directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/groups/cross-project-council.yml
 [Primary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-primary-cpc-director-as-defined-in-43d-in-the-openjs-foundation-bylaws
 [Secondary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-secondary-cpc-director-as-defined-in-43e-in-theopenjs-foundation-bylaws
 [Tertiary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-tertiary-cpc-director-as-defined-in-43f-in-the-openjs-foundation-bylaws
