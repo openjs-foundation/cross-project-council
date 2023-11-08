@@ -148,7 +148,7 @@ Members of the Collaboration spaces at the `Core` stage may nominate a candidate
 
 ### Regular Members
 
-Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](./governance/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
+Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](./governance/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status. When adding to the list of regular members below, please maintain the list in alphabetical order based on first name.
 
 - Abigail Cabunoc Mayes ([@abbycabs](https://github.com/abbycabs))
 - Abraham Jr Agiri ([@codeekage](https://github.com/codeekage))
@@ -174,6 +174,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Parris Lucas ([@GrooveCS](https://github.com/groovecs))
+- Paula Paul ([@paulapaul](https://github.com/paulapaul))
 - Rick Markins ([@rxmarbles](https://github.com/rxmarbles))
 - Rifa Achrinza ([@achrinza](https://github.com/achrinza))
 - Ruy Adorno ([@ruyadorno](https://github.com/ruyadorno))
