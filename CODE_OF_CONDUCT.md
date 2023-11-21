@@ -36,8 +36,7 @@ You may contact the Code of Conduct Enforcement Team at <report@lists.openjsf.or
 
 ## More Info
 
-For more information, refer to the full
-[Code of Conduct governance document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
+For more information, refer to the [Code of Conduct Policy](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/COC_POLICY.md).
 
 ---
 

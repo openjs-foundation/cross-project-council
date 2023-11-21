@@ -1,4 +1,4 @@
-This document defines how the the OpenJS Foundation implements its code of conduct.
+This document defines the OpenJS Foundation's code of conduct policy.
 
 If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
