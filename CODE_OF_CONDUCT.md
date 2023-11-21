@@ -32,7 +32,7 @@ The Code of Conduct Team (CoC Team) is a foundation-wide team established to man
 - Kylie Wagar-Dirks (OpenJSF Marketing Lead) <TODO:email>
 - Joe Sepi (Cross Project Council Chair) <TODO:email> 
 
-You may contact the Code of Conduct Enforcement Team at <report@lists.openjsf.org> or contact any of its members by email.
+You may contact the CoC Team at <report@lists.openjsf.org> or contact any of its members by email.
 
 ## More Info
 
