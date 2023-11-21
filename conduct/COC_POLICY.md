@@ -51,20 +51,21 @@ The OpenJSF makes the following commitments to reportees and victims of CoC viol
 
 ## Enforcement
 
-The CPC delegates enforcement of the CoC to the CoC Team.
+### Code of Conduct Team (CoC Team)
 
-Projects may opt-in to enforce the CoC themselves provided they meet the requirements [described below][delegation to projects]. However, reportees, victims, and offenders may escalate an issue to the CoC Team at any point in the process to avoid a conflict of interest and appeal the decision up to thirty (30) days after a response to the complaint was provided if they believe that the process was not followed properly.
+The Cross Project Council (CPC) delegates enforcement of the code of conduct to the Code of Conduct Team (CoC Team).
 
-For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will be investigated by the Cross Project Council (CPC) or its delegates.
+The structure of the CoC Team and the process by which its members are chosen are described in the [CoC Team processes][].
 
+The current composition of the CoC Team is available in the [code of conduct][CoC] itself along with means to contact by email the whole CoC Team and each of it members individually.
 
+The CoC Team is responsible for maintaining and applying the [incident mangement processes][].
 
+### Delegation to projects
 
-For spaces managed by member projects, the project must provide an email to which complaints
-can be forwarded and document that complaints will be investigated and will result in a
-response that is deemed appropriate for the circumstances. Each project is free to
-implement enforcement of the Code of Conduct using processes appropriate for the size
-and scope of the project including any day-to-day moderation of the project spaces. As part
+Projects may opt-in to enforce the code of conduct themselves provided they meet the requirements [described below][requirements for delegation]. However, reportees, victims, and offenders may escalate an issue to the CoC Team at any point in the process to avoid a conflict of interest and appeal the decision up to thirty (30) days after a response to the complaint was provided if they believe that the process was not followed properly.
+
+Each project is free to implement enforcement of the Code of Conduct using processes appropriate for the size and scope of the project including any day-to-day moderation of the project spaces. As part
 of these processes, however, the project must agree to:
   * maintain the confidentiality with regard to the reporter of an incident
   * to participate in and document the path for escalation as outlined in the section on Escalation.
@@ -83,20 +84,6 @@ and will result in a response that is deemed necessary and appropriate to the ci
 The Code of Conduct panel is obligated to maintain confidentiality with regard
 to the reporter of an escalation.
 
-### Code of Conduct panel
-
-The Code of Conduct panel is a cross-foundation team who have been trained in moderation
-and code of conduct issues. The makeup of this team is as follows:
-
-* OpenJS Foundation Executive Director - Robin Ginn (@rginn)
-* OpenJS Foundation Marketing Lead - Kylie Wagar-Dirks (@kyliewd)
-* 3 community members from the Cross Project Council
-  - TBD
-  - TBD
-  - TBD
-
-Members of the CoCP team will be added for a 1-year term and will be re-confirmed on
-a yearly basis.
 
 ## Requirements for projects who opt-in to manage enforcement of the CoC themselves.
 
@@ -108,4 +95,6 @@ As part of these processes, however, the project must agree to:
 
 [CoC]: https://code-of-conduct.openjsf.org/
 [Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
-[delegation to projects]: #TODO
+[CoC Team processes]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_PROCESS_FOR_COC_TEAM.md
+[requirements for delegation]: #TODO
+[incident mangement processes]:  https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md
