@@ -88,6 +88,11 @@ and will result in a response that is deemed necessary and appropriate to the ci
 The Code of Conduct panel is obligated to maintain confidentiality with regard
 to the reporter of an escalation.
 
+## Appeals
+
+Victim(s) and offender(s) of an incident have thirty (30) days to appeal the decision made in response to an incident report if they believe the process was not properly followed.
+
+Appeals are not suspensive.
 
 ## Requirements for projects who opt-in to manage enforcement of the CoC themselves.
 
