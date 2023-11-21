@@ -219,7 +219,7 @@ If an Observer fails to meet these expectations they can be excluded from future
 #### Code of Conduct
 * [Code of Conduct](CODE_OF_CONDUCT.md) - This is the canonical version of the code of conduct adopted by the Foundation and all of its projects.
 * [Code of Conduct Policy](./conduct/COC_POLICY.md) - This describes the Foundation's policy for code of conducts.
-* [Handling Code of Conduct Reports and Escalation](./conduct/COC_PROCESS_FOR_HANDLING_REPORTS.md) - This explains how projects need to handle code of conduct violations and how, when, and to whom they need to be escalated.
+* [Incident Management Processes](./conduct/COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md) - This explains how the CoC Team and projects handle code of conduct violations and how, when, and to whom they need to be escalated.
 * [Member Expectations](./conduct/MEMBER_EXPECTATIONS.md) - Additional behavior expectations of CPC members and project leaders.
 
 #### The CPC itself
