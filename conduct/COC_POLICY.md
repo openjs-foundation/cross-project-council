@@ -15,13 +15,13 @@ This document defines:
 
 
 - How to report a violation
-- How to escalate a report to the CoC Enforcement Team
+- How to escalate a report to the CoC Team
 - How to appeal decision
 
 - Enforcement
-- The role of the CoC Enforcement Team.
-- How the members of the CoC Enforcement Team are chosen by the CPC.
-- The CoC Enforcement Team's conflict of interest policy.
+- The role of the CoC Team.
+- How the members of the CoC Team are chosen by the CPC.
+- The CoC Team's conflict of interest policy.
 - Managing a violation report.
 - How to appeal decision
 - The process to manage appeals.
@@ -49,9 +49,9 @@ The OpenJSF makes the following commitments to reportees and victims of CoC viol
 
 ## Enforcement
 
-The CPC delegates enforcement of the CoC to the CoC Enforcement Team.
+The CPC delegates enforcement of the CoC to the CoC Team.
 
-Projects may opt-in to enforce the CoC themselves provided they meet the requirements [described below][delegation to projects]. However, reportees, victims, and offenders may escalate an issue to the CoC Enforcement Team at any point in the process to avoid a conflict of interest and appeal the decision up to thirty (30) days after a response to the complaint was provided if they believe that the process was not followed properly.
+Projects may opt-in to enforce the CoC themselves provided they meet the requirements [described below][delegation to projects]. However, reportees, victims, and offenders may escalate an issue to the CoC Team at any point in the process to avoid a conflict of interest and appeal the decision up to thirty (30) days after a response to the complaint was provided if they believe that the process was not followed properly.
 
 For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will be investigated by the Cross Project Council (CPC) or its delegates.
 
