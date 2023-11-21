@@ -15,18 +15,18 @@
     * **Webdriver.io:** [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/HEAD/AUTHORS.md)
     * **Webhint:** <support@webhint.io>
     
-    In case of a conflict of interest or if the report is not handled appropriately, you may [escalate the report][escalation] to the [Code of Conduct Enforcement Team (CoCET)][CoCET] by emailing <coc-escalation@lists.openjsf.org> or by contacting any if its members by email.
-2.  **To report any other incident** (for example: in an OpenJS Foundation project not listed above, in a Collab Space, in the Cross Project Council, or during an event), please email the [Code of Conduct Enforcement Team (CoCET)][CoCET] at <report@lists.openjsf.org> or contact any if its members by email.
+    In case of a conflict of interest or if the report is not handled appropriately, you may [escalate the report][escalation] to the [Code of Conduct Team (CoC Team)][CoC Team] by emailing <coc-escalation@lists.openjsf.org> or by contacting any if its members by email.
+2.  **To report any other incident** (for example: in an OpenJS Foundation project not listed above, in a Collab Space, in the Cross Project Council, or during an event), please email the [Code of Conduct Team (CoC Team)][CoC Team] at <report@lists.openjsf.org> or contact any if its members by email.
 
 ### Appeal a decision
 
 The victim(s) and offender(s) have thirty (30) days to appeal the decision made in response to an incident report if they believe the process was not properly followed. Appeals are not suspensive.
 
-To appeal a decision, please email the [Code of Conduct Enforcement Team (CoCET)][CoCET] at <coc-appeal@lists.openjsf.org> or contact any if its members by email. TODO: make sure this email exists.
+To appeal a decision, please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc-appeal@lists.openjsf.org> or contact any if its members by email. TODO: make sure this email exists.
 
-## Code of Conduct Enforcement Team (CoCET)
+## Code of Conduct Team (CoC Team)
 
-The Code of Conduct Enforcement Team (CoCET) is a foundation-wide team established to manage code of conduct incident reports across the whole foundation (except for [projects who have opted-in][] to manage reports directly), escalation of reports managed by projects, and appeals to decisions made in response to incidents. The CoCET is currently composed of:
+The Code of Conduct Team (CoC Team) is a foundation-wide team established to manage code of conduct incident reports across the whole foundation (except for [projects who have opted-in][] to manage reports directly), escalation of reports managed by projects, and appeals to decisions made in response to incidents. The CoC Team is currently composed of:
 
 - Robin Ginn (OpenJSF Executive Director) <TODO:email>
 - Kylie Wagar-Dirks (OpenJSF Marketing Lead) <TODO:email>
@@ -173,6 +173,6 @@ For answers to common questions about this code of conduct, see the FAQ at
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 [escalation]: #TODO
-[CoCET]: #TODO
+[CoC Team]: #TODO
 [opted-in]: #TODO
 
