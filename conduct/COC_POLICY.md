@@ -99,11 +99,6 @@ and code of conduct issues. The makeup of this team is as follows:
 Members of the CoCP team will be added for a 1-year term and will be re-confirmed on
 a yearly basis.
 
-## Resources
-
-The CPC will establish a sub-team which will build a set of resources/processes that
-can be reused by projects when implementing their CoC processes and enforcement.
-
 ## Requirements for projects who opt-in to manage enforcement of the CoC themselves.
 
 For spaces managed by member projects, the project must provide an email to which complaints can be forwarded and document that complaints will be investigated and will result in a response that is deemed appropriate for the circumstances.
