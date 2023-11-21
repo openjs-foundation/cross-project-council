@@ -32,6 +32,8 @@ This document defines:
 
 The OpenJSF's code of conduct is located at [code-of-conduct.openjsf.org][CoC]. It is based on the [Contributor Covenant](https://www.contributor-covenant.org/).
 
+A common Code of Conduct will allow a common escalation process and will allow the Foundation to better support projects in their efforts to apply the Code of Conduct.
+
 All OpenJSF projects, collab spaces, and any activites related to the OpenJSF are operating under this code of conduct unless otherwise satated. (For example, events organized in partnership with other organizations might be operating under a different code of conduct.)
 
 Projects joining the foundation who already have a code of conduct will need to adopt the OpenJSF's CoC within three (3) months. Projects who don't already have a code of conduct operate under the OpenJSF's CoC as soon as they enter incubation.
@@ -55,9 +57,6 @@ Projects may opt-in to enforce the CoC themselves provided they meet the require
 
 For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will be investigated by the Cross Project Council (CPC) or its delegates.
 
-A common Code of Conduct will allow a common
-escalation process and will allow the Foundation to better support projects in their efforts to apply
-the Code of Conduct.
 
 
 
