@@ -45,6 +45,10 @@ The OpenJSF makes the following commitments to reportees and victims of CoC viol
 1. All complaints will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances.
 2. The identity of the victim(s) and reporter(s) of a code of conduct violation will be kept confidential.
 
+## Conflict of Interest
+
+Any member of the CPC or Code of Conduct Team (CoC Team) who is involved in an incident must immediately inform the CoC Team of the conflict of interest and recuse themselves from the incident management process.
+
 ## Reporting a violation
 
 
