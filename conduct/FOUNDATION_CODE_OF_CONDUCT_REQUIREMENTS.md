@@ -6,7 +6,7 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 # Foundation Code of Conduct Requirements
 
-The OpenJS Foundation (OpenJSF) delegatea to the Cross Project Council (CPC), via its [charter][], the responsability of chosing, maintaining, and enforcing a Code of Conduct (CoC) for all of its projects, collab spaces, and for any related activities.
+The OpenJS Foundation (OpenJSF) delegates to the Cross Project Council (CPC), via its [charter][], the responsability of chosing, maintaining, and enforcing a Code of Conduct (CoC) for all of its projects, collab spaces, and for any related activities.
 
 This document defines:
 
@@ -53,8 +53,7 @@ The CPC delegates enforcement of the CoC to the CoC Enforcement Team.
 
 Projects may opt-in to enforce the CoC themselves provided they meet the requirements [described below][delegation to projects]. However, reportees, victims, and offenders may escalate an issue to the CoC Enforcement Team at any point in the process to avoid a conflict of interest and appeal the decision up to thirty (30) days after a response to the complaint was provided if they believe that the process was not followed properly.
 
-For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will
-be investigated by the Cross Project Council (CPC) or its delegates.
+For spaces managed by the Foundation, complaints can be forwarded to report@openjsf.org and will be investigated by the Cross Project Council (CPC) or its delegates.
 
 A common Code of Conduct will allow a common
 escalation process and will allow the Foundation to better support projects in their efforts to apply
@@ -107,12 +106,9 @@ can be reused by projects when implementing their CoC processes and enforcement.
 
 ## Requirements for projects who opt-in to manage enforcement of the CoC themselves.
 
-For spaces managed by member projects, the project must provide an email to which complaints
-can be forwarded and document that complaints will be investigated and will result in a
-response that is deemed appropriate for the circumstances. Each project is free to
-implement enforcement of the Code of Conduct using processes appropriate for the size
-and scope of the project including any day-to-day moderation of the project spaces. As part
-of these processes, however, the project must agree to:
+For spaces managed by member projects, the project must provide an email to which complaints can be forwarded and document that complaints will be investigated and will result in a response that is deemed appropriate for the circumstances.
+Each project is free to implement enforcement of the Code of Conduct using processes appropriate for the size and scope of the project including any day-to-day moderation of the project spaces.
+As part of these processes, however, the project must agree to:
   * maintain the confidentiality with regard to the reporter of an incident
   * to participate in and document the path for escalation as outlined in the section on Escalation.
 
