@@ -4,7 +4,7 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 ***
 
-# Foundation Code of Conduct Requirements
+# Code of Conduct Policy
 
 The OpenJS Foundation (OpenJSF) delegates to the Cross Project Council (CPC), via its [charter][], the responsability of chosing, maintaining, and enforcing a Code of Conduct (CoC) for all of its projects, collab spaces, and for any related activities.
 
