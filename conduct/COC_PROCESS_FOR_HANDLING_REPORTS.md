@@ -75,3 +75,5 @@ When a report is received the following actions will be taken:
         project leadership). If the leadership representatives expresses concerns then the contact person will bring these back to the CoCP members for further discussion. This cycle can continue until the CoCP members reach consensus that the leadership representatives concerns have been adequately addressed.
      1. Resolution shared: The resolution is shared with the reporter or target by the contact person. If the reporter or target expresses concerns then the contact person will bring these back to the CPC members for further discussion. This cycle can continue until the CPC members reach consensus that the reporter or target's concerns have been adquately addressed. If no feedback is received within 7 days the resolution is considered as accepted.
      1. Final resolution: the resolution agreed by the CoCP members is implemented and the outcome reported back to the reporter or target bythe main contact.
+
+[CoC]: https://code-of-conduct.openjsf.org/
