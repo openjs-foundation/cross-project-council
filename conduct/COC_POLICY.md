@@ -38,6 +38,10 @@ All OpenJSF projects, collab spaces, and any activites related to the OpenJSF ar
 
 Projects joining the foundation who already have a code of conduct will need to adopt the OpenJSF's CoC within three (3) months. Projects who don't already have a code of conduct operate under the OpenJSF's CoC as soon as they enter incubation.
 
+## Reporting incidents
+
+Reporting incidents should be as simple and flexible as possible. All informationation necessary to report an incident should be available directly alongside the code of conduct itself.
+
 ## Commitment
 
 The OpenJSF makes the following commitments to reportees and victims of CoC violations:
@@ -48,10 +52,6 @@ The OpenJSF makes the following commitments to reportees and victims of CoC viol
 ## Conflict of Interest
 
 Any member of Code of Conduct Team (CoC Team) who is involved in an incident must immediately inform the CoC Team of the conflict of interest and recuse themselves from the incident management process.
-
-## Reporting incidents
-
-Reporting incidents should be as simple and flexible as possible. All informationation necessary to report an incident should be available directly alongside the code of conduct itself.
 
 ## Enforcement
 
