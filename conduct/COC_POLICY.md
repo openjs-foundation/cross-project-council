@@ -56,6 +56,8 @@ The current composition of the CoC Team is available in the [code of conduct][Co
 
 The CoC Team is responsible for maintaining and applying the [incident mangement processes][].
 
+The CoC Team is empowered to involve external people to resolve an issue provided these abide by the code of conduct and by this policy.
+
 ### Delegation to projects
 
 Projects may opt-in to enforce the code of conduct themselves provided they meet the following requirement:
@@ -65,7 +67,8 @@ Projects may opt-in to enforce the code of conduct themselves provided they meet
 3. Define and publicly document a process by which the project selects people responsible for managing incident reports. For Impact and At Large projects, at least two people must be selected.
 4. List the people responsible for managing incident reports alongside the code of conduct as outlined in the [Reporting incidents section](#reporting-incidents).
 5. Publicly document their decision-making process for responding to incident reports.
-6. Participate in good faith in the escalation and appeal processes.
+6. Document the foundation's escalation and appeal process alongside the code of conduct.
+7. Participate in good faith in the escalation and appeal processes.
 
 Reporters, victims, and offenders may [escalate](#escalation) an issue to the CoC Team at any point in the process in case of a conflict of interest. They may [appeal](#appeals) the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly.
 
@@ -75,21 +78,17 @@ Each project is free to implement moderation processes appropriate for the size 
 
 ## Escalation
 
-It is expected that most reports will be handled successfully by the processes put
-in place by a project (for reports made to a project) or the CPC (in the
-case of reports relating to spaces within the scope of the foundation versus a project).
-In exceptional cases where a reporter wishes to challenge the response from the CPC or
-project, or does not feel comfortable reporting through the standard processes, an escalation
-report can be made to report@openjsf.org.
+The CoC Team is empowered to manage escalation requests of incident reports managed by projects which have opted-in to enforce the code of conduct themselves.
 
-All escalations will be reviewed and investigated by the Code of Conduct Panel (CoCP)
-and will result in a response that is deemed necessary and appropriate to the circumstances.
-The Code of Conduct panel is obligated to maintain confidentiality with regard
-to the reporter of an escalation.
+Projects are expected to participate in good faith in the escalation process. 
 
 ## Appeals
 
-Victim(s) and offender(s) of an incident have thirty (30) days to appeal the decision made in response to an incident report if they believe the process was not properly followed.
+Victim(s) and offender(s) of an incident have thirty (30) days to appeal to the CoC Team the decision made in response to an incident report if they believe the process was not properly followed.
+
+If the initial report was already managed by the CoC Team, a different set of CoC Team members should be chosen to manage the appeal process.
+
+If the appeal follows an incident report managed by a project, the project is expected to participate to the appel process in good faith. 
 
 Appeals are not suspensive.
 
