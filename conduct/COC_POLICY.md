@@ -75,6 +75,9 @@ Each project is free to implement enforcement of the Code of Conduct using proce
 of these processes, however, the project must agree to:
   * maintain the confidentiality with regard to the reporter of an incident
   * to participate in and document the path for escalation as outlined in the section on Escalation.
+## Moderation
+
+Each project is free to implement moderation processes appropriate for the size and scope of the project provided these processes abide by the code of conduct and by this policy.
 
 ## Escalation
 
