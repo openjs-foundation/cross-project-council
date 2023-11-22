@@ -20,18 +20,29 @@ Projects joining the foundation who already have a code of conduct will need to 
 
 ## Reporting incidents
 
-Reporting incidents should be as simple and flexible as possible. All informationation necessary to report an incident should be available directly alongside the code of conduct itself.
+Reporting incidents should be as simple and flexible as possible.
+
+All information necessary to report an incident must be publicly documented directly alongside the code of conduct itself. This information must contain at least the following:
+
+1. A general email address at which incidents can be reported.
+2. The name and email address of each recipient of the general email address.
+
+Reporters may chose to report an incident by using the general email address provided or by contacting any of its recipient individually, either by using their provided email, reaching out in person, or by any other reasonable mean.
+
+An acknowledgement of receipt should be promptly issued to incident reporters.
+
+The name and contact details of the people responsible for managing the incident report should be provided to reporters as soon as possible (to uncover conflicts of interest upfront and allow for escalation).
 
 ## Commitment
 
-The OpenJSF makes the following commitments to reportees and victims of CoC incidents:
+The OpenJSF makes the following commitments to reporters and victims of CoC incidents:
 
 1. All incident reports will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances.
 2. The identity of the victim(s) and reporter(s) of a code of conduct violation will be kept confidential.
 
 ## Conflict of Interest
 
-Any member of Code of Conduct Team (CoC Team) who is involved in an incident must immediately inform the CoC Team of the conflict of interest and recuse themselves from the incident management process.
+Any person involved with the management of an incident report must immediatly notify the CoC Team in written and recuse themselves from the process if they have been involved in the incident itself or have any other conflict of interest with any of the involved parties (e.g. same employer).
 
 ## Enforcement
 
@@ -47,14 +58,17 @@ The CoC Team is responsible for maintaining and applying the [incident mangement
 
 ### Delegation to projects
 
-Projects may opt-in to enforce the code of conduct themselves provided they meet the requirements [described below][requirements for delegation].
+Projects may opt-in to enforce the code of conduct themselves provided they meet the following requirement:
 
-However, reportees, victims, and offenders may escalate an issue to the CoC Team at any point in the process to avoid a conflict of interest and appeal the decision up to thirty (30) days after a response to the complaint was provided if they believe that the process was not followed properly.
+1. Agree to abide by this policy.
+2. Provide a general email address that incidents can be reported to and document it alongside the code of conduct.
+3. Define and publicly document a process by which the project selects people responsible for managing incident reports. For Impact and At Large projects, at least two people must be selected.
+4. List the people responsible for managing incident reports alongside the code of conduct as outlined in the [Reporting incidents section](#reporting-incidents).
+5. Publicly document their decision-making process for responding to incident reports.
+6. Participate in good faith in the escalation and appeal processes.
 
-Each project is free to implement enforcement of the Code of Conduct using processes appropriate for the size and scope of the project including any day-to-day moderation of the project spaces. As part
-of these processes, however, the project must agree to:
-  * maintain the confidentiality with regard to the reporter of an incident
-  * to participate in and document the path for escalation as outlined in the section on Escalation.
+Reporters, victims, and offenders may [escalate](#escalation) an issue to the CoC Team at any point in the process in case of a conflict of interest. They may [appeal](#appeals) the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly.
+
 ## Moderation
 
 Each project is free to implement moderation processes appropriate for the size and scope of the project provided these processes abide by the code of conduct and by this policy.
@@ -79,16 +93,8 @@ Victim(s) and offender(s) of an incident have thirty (30) days to appeal the dec
 
 Appeals are not suspensive.
 
-## Requirements for projects who opt-in to manage enforcement of the CoC themselves.
-
-For spaces managed by member projects, the project must provide an email to which complaints can be forwarded and document that complaints will be investigated and will result in a response that is deemed appropriate for the circumstances.
-Each project is free to implement enforcement of the Code of Conduct using processes appropriate for the size and scope of the project including any day-to-day moderation of the project spaces.
-As part of these processes, however, the project must agree to:
-  * maintain the confidentiality with regard to the reporter of an incident
-  * to participate in and document the path for escalation as outlined in the section on Escalation.
 
 [CoC]: https://code-of-conduct.openjsf.org/
 [Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
 [CoC Team processes]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_PROCESS_FOR_COC_TEAM.md
-[requirements for delegation]: #TODO
 [incident mangement processes]:  https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md
