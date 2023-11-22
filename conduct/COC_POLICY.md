@@ -32,9 +32,9 @@ This document defines:
 
 The OpenJSF's code of conduct is located at [code-of-conduct.openjsf.org][CoC]. It is based on the [Contributor Covenant](https://www.contributor-covenant.org/).
 
-A common Code of Conduct will allow a common escalation process and will allow the Foundation to better support projects in their efforts to apply the Code of Conduct.
+A common code of conduct allows a common escalation and appeal process and allows better support of projects in their efforts to apply the code of conduct.
 
-All OpenJSF projects, collab spaces, and any activites related to the OpenJSF are operating under this code of conduct unless otherwise satated. (For example, events organized in partnership with other organizations might be operating under a different code of conduct.)
+All OpenJSF projects, collab spaces, and any activites related to the OpenJSF are operating under this code of conduct unless otherwise stated. (For example, events organized in partnership with other organizations might be operating under a different code of conduct.)
 
 Projects joining the foundation who already have a code of conduct will need to adopt the OpenJSF's CoC within three (3) months. Projects who don't already have a code of conduct operate under the OpenJSF's CoC as soon as they enter incubation.
 
@@ -47,11 +47,11 @@ The OpenJSF makes the following commitments to reportees and victims of CoC viol
 
 ## Conflict of Interest
 
-Any member of the CPC or Code of Conduct Team (CoC Team) who is involved in an incident must immediately inform the CoC Team of the conflict of interest and recuse themselves from the incident management process.
+Any member of Code of Conduct Team (CoC Team) who is involved in an incident must immediately inform the CoC Team of the conflict of interest and recuse themselves from the incident management process.
 
-## Reporting a violation
+## Reporting incidents
 
-
+Reporting incidents should be as simple and flexible as possible. All informationation necessary to report an incident should be available directly alongside the code of conduct itself.
 
 ## Enforcement
 
@@ -67,7 +67,9 @@ The CoC Team is responsible for maintaining and applying the [incident mangement
 
 ### Delegation to projects
 
-Projects may opt-in to enforce the code of conduct themselves provided they meet the requirements [described below][requirements for delegation]. However, reportees, victims, and offenders may escalate an issue to the CoC Team at any point in the process to avoid a conflict of interest and appeal the decision up to thirty (30) days after a response to the complaint was provided if they believe that the process was not followed properly.
+Projects may opt-in to enforce the code of conduct themselves provided they meet the requirements [described below][requirements for delegation].
+
+However, reportees, victims, and offenders may escalate an issue to the CoC Team at any point in the process to avoid a conflict of interest and appeal the decision up to thirty (30) days after a response to the complaint was provided if they believe that the process was not followed properly.
 
 Each project is free to implement enforcement of the Code of Conduct using processes appropriate for the size and scope of the project including any day-to-day moderation of the project spaces. As part
 of these processes, however, the project must agree to:
