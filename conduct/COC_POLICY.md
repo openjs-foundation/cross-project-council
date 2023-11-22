@@ -44,9 +44,9 @@ Reporting incidents should be as simple and flexible as possible. All informatio
 
 ## Commitment
 
-The OpenJSF makes the following commitments to reportees and victims of CoC violations:
+The OpenJSF makes the following commitments to reportees and victims of CoC incidents:
 
-1. All complaints will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances.
+1. All incident reports will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances.
 2. The identity of the victim(s) and reporter(s) of a code of conduct violation will be kept confidential.
 
 ## Conflict of Interest
