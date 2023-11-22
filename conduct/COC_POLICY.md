@@ -8,26 +8,6 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 The OpenJS Foundation (OpenJSF) delegates to the Cross Project Council (CPC), via its [charter][], the responsability of chosing, maintaining, and enforcing a Code of Conduct (CoC) for all of its projects, collab spaces, and for any related activities.
 
-This document defines:
-
-- OpenJSF's Code of Conduct
-- OpenJSF's Commitments to reportees and victims of CoC violations
-
-
-- How to report a violation
-- How to escalate a report to the CoC Team
-- How to appeal decision
-
-- Enforcement
-- The role of the CoC Team.
-- How the members of the CoC Team are chosen by the CPC.
-- The CoC Team's conflict of interest policy.
-- Managing a violation report.
-- How to appeal decision
-- The process to manage appeals.
-- The process to manage escalations.
-- Requirements for projects who opt-in to manage enforcement of the CoC themselves.
-
 ## Code of Conduct
 
 The OpenJSF's code of conduct is located at [code-of-conduct.openjsf.org][CoC]. It is based on the [Contributor Covenant](https://www.contributor-covenant.org/).
