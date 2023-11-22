@@ -54,7 +54,7 @@ The structure of the CoC Team and the process by which its members are chosen ar
 
 The current composition of the CoC Team is available in the [code of conduct][CoC] itself along with means to contact by email the whole CoC Team and each of it members individually.
 
-The CoC Team is responsible for maintaining and applying the [incident mangement processes][].
+The CoC Team is responsible for maintaining and applying the [incident management processes][].
 
 The CoC Team is empowered to involve external people to resolve an issue provided these abide by the code of conduct and by this policy.
 
@@ -96,4 +96,4 @@ Appeals are not suspensive.
 [CoC]: https://code-of-conduct.openjsf.org/
 [Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
 [CoC Team processes]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_PROCESS_FOR_COC_TEAM.md
-[incident mangement processes]:  https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md
+[incident management processes]:  https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md
