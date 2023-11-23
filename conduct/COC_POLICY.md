@@ -87,7 +87,7 @@ Projects are expected to participate in good faith in the escalation process.
 
 Victim(s) and offender(s) of an incident have thirty (30) days to appeal to the CoC Team the decision made in response to an incident report if they believe the process was not properly followed.
 
-If the initial report was already managed by the CoC Team, a different set of CoC Team members should be chosen to manage the appeal process.
+If the initial report was already managed by the CoC Team, a different set of CoC Team members should be chosen to manage the appeal process. The Coc Team may choose to involve external people if needed.
 
 If the appeal follows an incident report managed by a project, the project is expected to participate in the appeal process in good faith. 
 
