@@ -4,7 +4,7 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 ***
 
-# Code of Conduct Team (CoC Team) Processes
+# Code of Conduct Team (CoC Team) Charter
 
 ## Membership
 
