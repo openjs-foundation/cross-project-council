@@ -57,9 +57,9 @@ Any person involved with the management of an incident report must immediately n
 
 ### Code of Conduct Team (CoC Team)
 
-The Cross Project Council (CPC) delegates enforcement of the code of conduct to the Code of Conduct Team (CoC Team).
+The Cross Project Council (CPC) delegates enforcement of the code of conduct to the Code of Conduct Team (CoC Team) through the [CoC Team Charter][].
 
-The structure of the CoC Team and the process by which its members are chosen are described in the [CoC Team processes][].
+The structure of the CoC Team and how its members are elected are described in the [CoC Team Charter][].
 
 The current composition of the CoC Team is available in the [code of conduct][CoC] itself along with means to contact by email the whole CoC Team and each of its members individually.
 
@@ -103,5 +103,5 @@ Appeals are not suspensive.
 
 [CoC]: https://code-of-conduct.openjsf.org/
 [Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
-[CoC Team processes]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_PROCESS_FOR_COC_TEAM.md
+[CoC Team Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_TEAM_CHARTER.md
 [incident management processes]:  https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md
