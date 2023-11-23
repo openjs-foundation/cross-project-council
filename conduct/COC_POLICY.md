@@ -33,12 +33,13 @@ An acknowledgment of receipt should be promptly issued to incident reporters.
 
 The name and contact details of the people responsible for managing the incident report should be provided to reporters as soon as possible (to uncover conflicts of interest upfront and allow for escalation).
 
-## Commitment
+## Incident Response
 
-The OpenJSF makes the following commitments to reporters and victims of CoC incidents:
+All incident reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
-1. All incident reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
-2. The identity of the victim(s) and reporter(s) of a code of conduct violation will be kept confidential.
+## Confidentiality
+
+The identity of the victim(s) and reporter(s) of a code of conduct violation must be kept confidential.
 
 ## Conflict of Interest
 
