@@ -53,23 +53,22 @@ All members of the CPC are subscribed to the `report@openjsf.org` mailing list. 
 
 Note: We understand that the reporter and the target can be separate persons. In this case the CPC will communicate with the reporter unless the target gives permission for the CPC to communicate with them.
 
-All members of the [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/COC_POLICY.md#code-of-conduct-panel)
-are subscribed to the coc-escalation@openjsf.org mailing list. The current list of members is documented in ./CODE_OF_CONDUCT_PANEL_MEMERS.md.
+All members of the [Code of Conduct Team](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/COC_POLICY.md#code-of-conduct-team-coc-team)
+are subscribed to the coc-escalation@openjsf.org mailing list. The current list of members is documented in the [code of conduct][CoC] itslef.
 
 When a report is received the following actions will be taken:
 
-  * One of the Code of Conduct Panel (CoCP) members will respond to the reporter or target confirming that the report has been received. When possible the same person who responds initially will act as the point of contact for future conversations.
-  * If no response has been sent within 1 day the Foundation Executive Director will ensure a member of the Code of Conduct
-    Panel is identified as the main point of contact either through email or scheduling a meeting for the CoCP.
+  * One of the Code of Conduct Team (CoC Team) members will respond to the reporter or target confirming that the report has been received. When possible the same person who responds initially will act as the point of contact for future conversations.
+  * If no response has been sent within 1 day the Foundation Executive Director will ensure a member of the CoC Team is identified as the main point of contact either through email or scheduling a meeting for the CoC Team.
   * The main point of contact will then ensure the following steps are completed:
      1. Report is acknowledged: The contact person responds to let the reporter or target know that the report is being discussed.
-     1. Information gathering: Time is allocated to collect information in one place to make sure all CoCP members have access.
+     1. Information gathering: Time is allocated to collect information in one place to make sure all CoC Team members have access.
      1. Information is discussed: The facts are discussed in context of opinions. This can be done in the issue for the report, or in a meeting in which case the key discussion points should then be added to the issue.
      1. An action to be taken is arrived at: The action to be taken is decided by consensus as per the standard CPC
-        [Decision Making](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#section-9-decision-making) process substituting in CoCP for references to the CPC.
+        [Decision Making](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#section-9-decision-making) process substituting in CoC Team for references to the CPC.
      1. The proposed action is discussed with the leadership for the space to which the report applies (ex CPC or member
-        project leadership). If the leadership representatives expresses concerns then the contact person will bring these back to the CoCP members for further discussion. This cycle can continue until the CoCP members reach consensus that the leadership representatives concerns have been adequately addressed.
+        project leadership). If the leadership representatives expresses concerns then the contact person will bring these back to the CoC Team members for further discussion. This cycle can continue until the CoC Team members reach consensus that the leadership representatives concerns have been adequately addressed.
      1. Resolution shared: The resolution is shared with the reporter or target by the contact person. If the reporter or target expresses concerns then the contact person will bring these back to the CPC members for further discussion. This cycle can continue until the CPC members reach consensus that the reporter or target's concerns have been adquately addressed. If no feedback is received within 7 days the resolution is considered as accepted.
-     1. Final resolution: the resolution agreed by the CoCP members is implemented and the outcome reported back to the reporter or target bythe main contact.
+     1. Final resolution: the resolution agreed by the CoC Team members is implemented and the outcome reported back to the reporter or target bythe main contact.
 
 [CoC]: https://code-of-conduct.openjsf.org/
