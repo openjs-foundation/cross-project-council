@@ -37,6 +37,14 @@ The name and contact details of the people responsible for managing the incident
 
 All incident reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
+## Transparency
+
+The number and relevant details of the incidents reported, escalation requests, and appeals, along with the responses made and actions taken should be made available in a redacted form to the Cross Project Council for further dissemination on a yearly basis.
+
+## Record keeping
+
+A record of all communications related to an incident report, escalation request, or appeal must be kept.
+
 ## Confidentiality
 
 The identity of the victim(s) and reporter(s) of a code of conduct violation must be kept confidential.
@@ -92,7 +100,6 @@ If the initial report was already managed by the CoC Team, a different set of Co
 If the appeal follows an incident report managed by a project, the project is expected to participate in the appeal process in good faith. 
 
 Appeals are not suspensive.
-
 
 [CoC]: https://code-of-conduct.openjsf.org/
 [Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
