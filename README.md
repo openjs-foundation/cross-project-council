@@ -140,7 +140,7 @@ According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regul
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson), Red Hat)
-- Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
+- Yagiz Nizipli ([@anonrig](https://github.com/anonrig), Sentry)
 
 #### Collaboration space representatives
 
