@@ -20,7 +20,7 @@
 
 ### Appeal a decision
 
-The victim(s) and offender(s) have thirty (30) days to appeal the decision made in response to an incident report if they believe the process was not properly followed. Appeals are not suspensive.
+Harmed individuals and accused individuals may [appeal](#appeals) the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly. Appeals are not suspensive.
 
 To [appeal][] a decision, please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc-appeal@lists.openjsf.org>. TODO: create this address
 

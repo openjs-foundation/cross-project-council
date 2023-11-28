@@ -47,7 +47,7 @@ A record of all communications related to an incident report, escalation request
 
 ## Confidentiality
 
-The identity of the victim(s) and reporter(s) of a code of conduct violation must be kept confidential.
+The identity of the harmed individual(s) and the and reporter(s) of an incident report must be kept confidential.
 
 ## Conflict of Interest
 
@@ -79,7 +79,7 @@ Projects may opt-in to enforce the code of conduct themselves provided they meet
 6. Document the foundation's escalation and appeal process alongside the code of conduct.
 7. Participate in good faith in the escalation and appeal processes.
 
-Reporters, victims, and offenders may [escalate](#escalation) an issue to the CoC Team at any point in the process in case of a conflict of interest. They may [appeal](#appeals) the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly.
+Reporters, harmed individuals, and accused individuals may [escalate](#escalation) an issue to the CoC Team at any point in the process in case of a conflict of interest or lack or appropriate if the report is not being handled appropriately. Harmed individuals and accused individuals may [appeal](#appeals) the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly.
 
 ## Moderation
 
@@ -93,7 +93,7 @@ Projects are expected to participate in good faith in the escalation process.
 
 ## Appeals
 
-Victim(s) and offender(s) of an incident have thirty (30) days to appeal to the CoC Team the decision made in response to an incident report if they believe the process was not properly followed.
+Harmed indivuals and accused individuals have thirty (30) days to appeal to the CoC Team the decision made in response to an incident report if they believe the process was not properly followed.
 
 If the initial report was already managed by the CoC Team, a different set of CoC Team members should be chosen to manage the appeal process. The CoC Team may choose to involve external people if needed.
 
