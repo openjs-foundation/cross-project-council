@@ -69,6 +69,6 @@ When a report is received the following actions will be taken:
      1. The proposed action is discussed with the leadership for the space to which the report applies (ex CPC or member
         project leadership). If the leadership representatives expresses concerns then the contact person will bring these back to the CoC Team members for further discussion. This cycle can continue until the CoC Team members reach consensus that the leadership representatives concerns have been adequately addressed.
      1. Resolution shared: The resolution is shared with the reporter or target by the contact person. If the reporter or target expresses concerns then the contact person will bring these back to the CPC members for further discussion. This cycle can continue until the CPC members reach consensus that the reporter or target's concerns have been adquately addressed. If no feedback is received within 7 days the resolution is considered as accepted.
-     1. Final resolution: the resolution agreed by the CoC Team members is implemented and the outcome reported back to the reporter or target bythe main contact.
+     1. Final resolution: the resolution agreed by the CoC Team members is implemented and the outcome reported back to the reporter or target by the main contact.
 
 [CoC]: https://code-of-conduct.openjsf.org/
