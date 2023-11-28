@@ -106,7 +106,7 @@ the email addresses listed above in the [Reporting](#report-an-incident) section
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
-reporter(s) and victim(s) of any incident.
+harmed individuals and the reporter(s) of any incident.
 
 ## Enforcement Guidelines
 
