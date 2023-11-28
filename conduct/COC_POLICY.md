@@ -85,19 +85,21 @@ Each project is free to implement moderation processes appropriate for the size 
 
 ## Escalation
 
-Reporters, harmed individuals, and accused individuals may [escalate](#escalation) an issue to the CoC Team at any point in the process in case of a conflict of interest if the report is not being handled appropriately.
+Reporters, harmed individuals, and accused individuals may [escalate](#escalation) an issue to the CoC Team at any point in the process in case of a conflict of interest, if the report is not being handled appropriately, or in case of an emergency.
 
 The CoC Team is empowered to manage escalation requests of incident reports managed by projects that have opted-in to enforce the code of conduct themselves.
 
-Projects are expected to participate in good faith in the escalation process. 
+If the CoC Team finds that the escalation request has merit, the CoC Team may decide to takeover the management of the incident report or request changes to the existing management process. 
+
+Projects are expected to participate in good faith in the escalation process and to share all the information related to the incident report with the CoC Team.
 
 ## Appeals
 
-Harmed indivuals and accused individuals have thirty (30) days to appeal to the CoC Team the decision made in response to an incident report if they believe the process was not properly followed.
+Harmed individuals and accused individuals have thirty (30) days to appeal to the CoC Team a decision made in response to an incident report. Decisions may only be appealled on the grounds that the documented process was not properly followed or that it did not meet the requirements of this policy. If the CoC Team finds that the appeal has merit, it may decide to override the decision that was previously made.
 
 If the initial report was already managed by the CoC Team, a different set of CoC Team members should be chosen to manage the appeal process. The CoC Team may choose to involve external people if needed.
 
-If the appeal follows an incident report managed by a project, the project is expected to participate in the appeal process in good faith. 
+If the appeal follows an incident report managed by a project, the project is expected to participate in good faith in the appeal process and to share all the information related to the incident report with the CoC Team.
 
 Appeals are not suspensive.
 
