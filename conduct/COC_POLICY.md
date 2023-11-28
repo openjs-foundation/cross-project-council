@@ -77,15 +77,15 @@ Projects may opt-in to enforce the code of conduct themselves provided they meet
 4. List the people responsible for managing incident reports alongside the code of conduct as outlined in the [Reporting incidents section](#reporting-incidents).
 5. Publicly document their decision-making process for responding to incident reports.
 6. Document the foundation's escalation and appeal process alongside the code of conduct.
-7. Participate in good faith in the escalation and appeal processes.
-
-Reporters, harmed individuals, and accused individuals may [escalate](#escalation) an issue to the CoC Team at any point in the process in case of a conflict of interest or lack or appropriate if the report is not being handled appropriately. Harmed individuals and accused individuals may [appeal](#appeals) the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly.
+7. Participate in good faith in the [escalation](#escalation) and [appeal](#appeals) processes.
 
 ## Moderation
 
 Each project is free to implement moderation processes appropriate for the size and scope of the project provided these processes abide by the code of conduct and by this policy.
 
 ## Escalation
+
+Reporters, harmed individuals, and accused individuals may [escalate](#escalation) an issue to the CoC Team at any point in the process in case of a conflict of interest if the report is not being handled appropriately.
 
 The CoC Team is empowered to manage escalation requests of incident reports managed by projects that have opted-in to enforce the code of conduct themselves.
 
