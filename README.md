@@ -187,6 +187,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Shelley Vohr ([@codebytere](https://github.com/codebytere))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
 - Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
+- Even Stensberg ([@evenstensberg])(https://github.com/evenstensberg)
 
 ### Regular Member emeriti
 
