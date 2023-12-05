@@ -187,6 +187,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
 - Shelley Vohr ([@codebytere](https://github.com/codebytere))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
+- Wes Todd ([@wesleytodd](https://github.com/wesleytodd))
 - Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
 
 ### Regular Member emeriti
