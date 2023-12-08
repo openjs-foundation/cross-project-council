@@ -7,7 +7,8 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 # Code of Conduct Team (CoC Team) Charter
 
 The OpenJS Foundation's Cross Project Council Code of Conduct Team ("CoC Team") is a 
-committee that responds to, investigates, and resolves [code-of-conduct.openjsf.org][Code of Conduct] incidents. 
+committee that responds to, investigates, and resolves 
+[Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md) incidents. 
 Our *insert policy link here* describes the CoC Team's relationship to the 
 Linux Foundation (LF) events staff, who enforce the 
 [Linux Foundation Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/), 
