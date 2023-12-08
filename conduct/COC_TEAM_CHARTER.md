@@ -47,7 +47,7 @@ Primary Members of the CoC Team, and any alternates or secondary members must:
 
 ### Term
 
-Members of the CoC Team, as well as the CoC Chair serve a 1-year term and 
+Members of the CoC Team, including the CoC Chair, serve a 1-year term and 
 will be re-confirmed on a yearly basis.
 
 ## CoC Team Responsibilities and Operations
@@ -58,7 +58,7 @@ to parties involved in incidents.
 
 The CoC Team will carry out these responsibilities via the
 [CoC Process for Incident Management](COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md), and are bound
-to uphold and comply wiht overall [Member Expectations](MEMBER_EXPECTATIONS.MD).
+to uphold and comply with overall [Member Expectations](MEMBER_EXPECTATIONS.MD).
 
 [CoC]: https://code-of-conduct.openjsf.org/
 
