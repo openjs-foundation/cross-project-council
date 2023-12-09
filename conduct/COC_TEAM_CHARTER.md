@@ -54,7 +54,7 @@ to parties involved in incidents.
 
 The CoC Team will carry out these responsibilities via the
 [CoC Process for Incident Management](COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md), and are bound
-to uphold and comply with overall [Member Expectations](MEMBER_EXPECTATIONS.MD).
+to uphold and comply with the [Code of Conduct Policy][CoC Policy].
 
 [CoC]: https://code-of-conduct.openjsf.org/
-
+[CoC Policy]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md
