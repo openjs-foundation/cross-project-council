@@ -6,22 +6,38 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 # Code of Conduct Team Charter
 
-The Cross Project Council (CPC) delegates enforcement of the [Code of Conduct][CoC] to the Code of Conduct Team (CoC Team) through this Code of Conduct Team Charter. The CoC Team Charter (this document) defines the composition and roles of the CoC Team, along with CoC team responsibilities and operations.
+The Cross Project Council (CPC) delegates enforcement of the [Code of Conduct][CoC] to the Code of Conduct Team (CoC Team) through this Code of Conduct Team Charter. This charter defines the composition and roles of the CoC Team, along with CoC team responsibilities and operations.
 
-## CoC Team Composition
+## CoC Team Structure
 
-The CoC Team consists of:
+The CoC Team is composed of five (5) primary members and a variable number of alternate community members.
 
-* Five (5) Primary Members
-  * Three (3) of the Primary Members are from the community, one of whom serves as Chair
-  * Two (2) of the Primary Members are from OpenJSF Staff
-* A flexible number of alternates or secondary members as needed
+### Primary members
+
+The five primary members are:
+
+* The OpenJS Foundation Executive Director
+* The OpenJS Foundation Communications Manager
+* Three (3) community members
+
+### Chair
+
+The primary members will select a chair from one of the three primary community members. When the chair isn't involved in a case, the members handling the case must chose a chair among themselves.
+
+The Chair is responsible for handling the case according to documented processes, and making sure that the CoC Team upholds the Code of Conduct and the Code of Conduct Policy.
+
+## Handling cases
+
+Each appeal, escalation request, and incident report must be handled by a minimum of three (3) and a maximum of five (5) members.
+
+At least two (2) of the members involved in handling a case must be community members and at least one (1) must be an OpenJS Foundation staff member.
+
+If not enough primary community members are available to meet those requirements, primary members should involve one or more alternate community members. Similarily, if no OpenJSF staff primary member is available, another OpenJSF staff representative, choosen by the staff, should be involved instead.
 
 ### CoC Team and Chair Selection
 
 For initial formation and ongoing membership in the CoC team, potential Primary Members will self nominate during a period designated by the OpenJS Foundation and CPC leadership. In order for self nominations to be considerd eligible, there must be no significant objections from the leadership body or bodies subject to CoC moderation. If the number of self nominations exceed the number of CoC seats, the CPC will hold an election in consideration of all eligible candidates.
 
-On initial selection of the CoC Team, the CoC Team will select a chair from one of the three (3) Primary Members representing the community.
 
 ### Eligibility
 
@@ -38,7 +54,7 @@ Members of the CoC Team, including the CoC Chair, serve a 1-year term and will b
 
 ## CoC Team Responsibilities and Operations
 
-The CoC Team's primary responsibilities are to triage and moderate CoC incident reports, and make adjustments to the primary team based on availability and personal connection to parties involved in incidents.
+The CoC Team's primary responsibilities are to triage and manage CoC incident reports, and make adjustments to the primary team based on availability and personal connection to parties involved in incidents.
 
 The CoC Team will carry out these responsibilities via the [CoC Process for Incident Management](COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md), and are bound to uphold and comply with the [Code of Conduct Policy][CoC Policy].
 

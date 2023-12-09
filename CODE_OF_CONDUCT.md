@@ -29,7 +29,7 @@ To [appeal][] a decision, please email the [Code of Conduct Team (CoC Team)][CoC
 The Code of Conduct Team (CoC Team) is a foundation-wide team established to manage code of conduct incident reports across the whole foundation (except for [projects who have opted-in][opted-in] to manage reports directly), escalation of reports managed by projects, and appeals to decisions made in response to incidents. The CoC Team is currently composed of:
 
 - Robin Ginn (OpenJSF Executive Director) <rginn@linuxfoundation.org>
-- Kylie Wagar-Dirks (OpenJSF Marketing Lead) <kwagar@linuxfoundation.org>
+- Kylie Wagar-Dirks (OpenJSF Communications Manager) <kwagar@linuxfoundation.org>
 - Joe Sepi (Cross Project Council Chair) <sepi@joesepi.com> 
 
 You may contact the CoC Team at <report@lists.openjsf.org> or contact any of its members.
