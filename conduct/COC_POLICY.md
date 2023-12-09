@@ -65,19 +65,20 @@ The current composition of the CoC Team is available in the [code of conduct][Co
 
 The CoC Team is responsible for maintaining and applying the [incident management processes][].
 
-The CoC Team is empowered to involve external people to resolve an issue provided these abide by the code of conduct and by this policy.
+The CoC Team is empowered to involve external people to resolve an issue provided these commit to abide by the code of conduct and by this policy.
 
 ### Delegation to projects
 
 Projects may opt-in to enforce the code of conduct themselves provided they meet the following requirements:
 
-1. Agree to abide by this policy.
-2. Provide a general email address that incidents can be reported to and document it alongside the code of conduct.
-3. Define and publicly document a process by which the project selects people responsible for managing incident reports. For Impact and At Large projects, at least two people must be selected.
-4. List the people responsible for managing incident reports alongside the code of conduct as outlined in the [Reporting incidents section](#reporting-incidents).
-5. Publicly document their decision-making process for responding to incident reports.
-6. Document the foundation's escalation and appeal process alongside the code of conduct.
-7. Participate in good faith in the [escalation](#escalation) and [appeal](#appeals) processes.
+1. Commit to uphold the code of conduct.
+2. Commit to uphold this policy.
+3. Provide a general email address that incidents can be reported to and document it alongside the code of conduct.
+4. Define and publicly document a process by which the project selects people responsible for managing incident reports. For Impact and At Large projects, at least two people must be selected.
+5. List the people responsible for managing incident reports alongside the code of conduct as outlined in the [Reporting incidents section](#reporting-incidents).
+6. Publicly document their decision-making process for responding to incident reports.
+7. Document the foundation's escalation and appeal process alongside the code of conduct.
+8. Participate in good faith in the [escalation](#escalation) and [appeal](#appeals) processes.
 
 ## Moderation
 
