@@ -4,7 +4,7 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 ***
 
-# Code of Conduct Team (CoC Team) Charter
+# Code of Conduct Team Charter
 
 
 The CPC delegates enforcement of the Code of Conduct to the CoC Team. The CoC Team Charter
