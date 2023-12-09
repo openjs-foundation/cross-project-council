@@ -33,6 +33,12 @@ An acknowledgment of receipt should be promptly issued to incident reporters.
 
 The name and contact details of the people responsible for managing the incident report should be provided to reporters as soon as possible (to uncover conflicts of interest upfront and allow for escalation).
 
+## Incidents requiring immediate action
+
+Individuals responsible for managing incident reports are empowered to take immediate action in order to prevent further harm, for example by blocking someone from accessing virtual spaces managed by a project or the Foundation or by removing someone from an event.
+
+These actions must be documented at the earliest convenient occasion for review by the Code of Conduct Team or the other people responsible for managing incident reports for the related project.
+
 ## Incident Response
 
 All incident reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
