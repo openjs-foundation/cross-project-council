@@ -6,10 +6,6 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 # Code of Conduct Team (CoC Team) Charter
 
-The OpenJS Foundation (OpenJSF) delegates to the Cross Project Council (CPC), 
-via its [charter](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md), 
-the responsibility of choosing, maintaining, and enforcing
-a Code of Conduct (CoC) for all of its projects, collab spaces, and for any related activities.
 
 The CPC delegates enforcement of the Code of Conduct to the CoC Team. The CoC Team Charter
 (this document) defines the composition and roles of the CoC Team, along with CoC team
