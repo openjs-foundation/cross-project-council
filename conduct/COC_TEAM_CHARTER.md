@@ -6,8 +6,7 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 # Code of Conduct Team Charter
 
-
-The CPC delegates enforcement of the Code of Conduct to the CoC Team. The CoC Team Charter
+The Cross Project Council (CPC) delegates enforcement of the [Code of Conduct][CoC] to the Code of Conduct Team (CoC Team) through this Code of Conduct Team Charter. The CoC Team Charter
 (this document) defines the composition and roles of the CoC Team, along with CoC team
 responsibilities and operations.
 
