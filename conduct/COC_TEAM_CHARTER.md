@@ -14,9 +14,9 @@ The Cross Project Council (CPC) delegates enforcement of the [Code of Conduct][C
 
 The CoC Team's responsibilities are to:
 
-- Handle code of conduct incident reports.
-- Handle code of conduct escalation requests.
-- Handle code of conduct appeals.
+- Handle code of conduct [incident reports][incident report].
+- Handle code of conduct [escalation requests][escalation].
+- Handle code of conduct [appeals][appeal].
 - Keep the CPC up to date of cases requiring the CPC's attention.
 - Provide regular transparency reports to the CPC.
 - Define, document, and maintain all processes necessary to its operations, notably the [CoC Process for Incident Management](COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md).
@@ -93,3 +93,6 @@ Appeals to responses provided by the CoC Team itself should be handled by a diff
 [CoC]: https://code-of-conduct.openjsf.org/
 [CoC Policy]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md
 [primary members]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#code-of-conduct-team-coc-team
+[incident report]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#reporting-incidents
+[escalation]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation
+[appeal]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeals
