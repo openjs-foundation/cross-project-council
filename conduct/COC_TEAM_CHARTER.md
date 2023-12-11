@@ -35,11 +35,36 @@ The five primary members are:
 * The OpenJS Foundation Communications Manager
 * Three (3) community members
 
+### Member selection
+
+The CPC will hold an annual selection process in order to select primary and alternate community members.
+
+[TODO:
+- candidates can self-nominate
+- candidates can self-nominate for alternate or primary role
+- candidate must meet eligibility requirements
+- CPC must work towards creating a CoC Team that is diverse
+- CPC member can block a candidate if they can motivate the reason why
+]
+
+### Eligibility
+
+Primary and alternate members of the CoC Team must: 
+
+* Commit to uphold the Foundation's [Code of Conduct][CoC]
+* Commit to uphold the Foundation's [Code of Conduct Policy][CoC Policy]
+* Commit to uphold this charter
+* Be willing to treat every accused individuals in the same way regardless of the impact of their contributions to open source
+
+### Term
+
+Members of the CoC Team serve a one year term. There are no limits on the number of terms a CoC Team member may serve.
+
 ### Chair
 
 The primary members will select a chair from one of the three primary community members. When the chair isn't involved in a case, the members handling the case must chose a chair among themselves.
 
-The Chair is responsible for handling the case according to documented processes, and making sure that the CoC Team upholds the Code of Conduct and the Code of Conduct Policy.
+The chair is responsible for handling the case according to documented processes, and making sure that the CoC Team upholds this charter, the [code of conduct][CoC] and the [code of conduct policy][CoC Policy].
 
 ## Handling cases
 
@@ -49,23 +74,14 @@ At least two (2) of the members involved in handling a case must be community me
 
 If not enough primary community members are available to meet those requirements, primary members should involve one or more alternate community members. Similarily, if no OpenJSF staff primary member is available, another OpenJSF staff representative, choosen by the staff, should be involved instead.
 
-### CoC Team and Chair Selection
+Appeals to responses provided by the CoC Team itself should be handled by a different set of members than those responsible for the initial response.
 
-For initial formation and ongoing membership in the CoC team, potential Primary Members will self nominate during a period designated by the OpenJS Foundation and CPC leadership. In order for self nominations to be considerd eligible, there must be no significant objections from the leadership body or bodies subject to CoC moderation. If the number of self nominations exceed the number of CoC seats, the CPC will hold an election in consideration of all eligible candidates.
-
-
-### Eligibility
-
-Primary Members of the CoC Team, and any alternates or secondary members must: 
-
-* Be committed to enforcing the Foundation's CoC
-* Agree with all of it or clearly identify any areas that are concerning or would preculde participation
-* Be willing to treat every alleged offender in the same way regardless of the impact of their contributions to open source
-* Be willing to abide by the commitments described in the Commitment section of the CoC itself and in the Foundation CoC Requirements doc
-
-### Term
-
-Members of the CoC Team, including the CoC Chair, serve a 1-year term and will be re-confirmed on a yearly basis.
+[TODO: document requirements around:
+- timing of response
+- communication with reporter
+- fairness
+- proper review
+]
 
 ## Decision making process
 
