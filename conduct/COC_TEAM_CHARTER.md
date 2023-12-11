@@ -67,7 +67,9 @@ Primary Members of the CoC Team, and any alternates or secondary members must:
 
 Members of the CoC Team, including the CoC Chair, serve a 1-year term and will be re-confirmed on a yearly basis.
 
+## Decision making process
 
+[TODO: Reference CPC decision making process]
 
 
 [CoC]: https://code-of-conduct.openjsf.org/
