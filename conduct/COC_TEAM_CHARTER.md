@@ -35,6 +35,8 @@ The five primary members are:
 * The OpenJS Foundation Communications Manager
 * Three (3) community members
 
+The name and email address of the primary members are documented in the [code of conduct][primary members].
+
 ### Member selection
 
 The CPC will hold an annual selection process in order to select primary and alternate community members.
@@ -90,3 +92,4 @@ Appeals to responses provided by the CoC Team itself should be handled by a diff
 
 [CoC]: https://code-of-conduct.openjsf.org/
 [CoC Policy]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md
+[primary members]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#code-of-conduct-team-coc-team
