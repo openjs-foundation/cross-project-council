@@ -8,6 +8,21 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 The Cross Project Council (CPC) delegates enforcement of the [Code of Conduct][CoC] to the Code of Conduct Team (CoC Team) through this Code of Conduct Team Charter. This charter defines the composition and roles of the CoC Team, along with CoC team responsibilities and operations.
 
+## Responsibilities
+
+[TODO: add links]
+
+The CoC Team's responsibilities are to:
+
+- Handle code of conduct incident reports.
+- Handle code of conduct escalation requests.
+- Handle code of conduct appeals.
+- Keep the CPC up to date of cases requiring the CPC's attention.
+- Provide regular transparency reports to the CPC.
+- Define, document, and maintain all processes necessary to its operations, notably the [CoC Process for Incident Management](COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md).
+- Work with OpenJS Foundation staff to develop infrastructure and processes necessary to comply to the requirements of the [code of conduct policy][CoC Policy], notably when it comes to record keeping, confidentiality, and transparency.
+- Uphold this charter, the [code of conduct][CoC], and the [code of conduct policy][CoC Policy].
+
 ## CoC Team Structure
 
 The CoC Team is composed of five (5) primary members and a variable number of alternate community members.
@@ -52,11 +67,8 @@ Primary Members of the CoC Team, and any alternates or secondary members must:
 
 Members of the CoC Team, including the CoC Chair, serve a 1-year term and will be re-confirmed on a yearly basis.
 
-## CoC Team Responsibilities and Operations
 
-The CoC Team's primary responsibilities are to triage and manage CoC incident reports, and make adjustments to the primary team based on availability and personal connection to parties involved in incidents.
 
-The CoC Team will carry out these responsibilities via the [CoC Process for Incident Management](COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md), and are bound to uphold and comply with the [Code of Conduct Policy][CoC Policy].
 
 [CoC]: https://code-of-conduct.openjsf.org/
 [CoC Policy]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md
