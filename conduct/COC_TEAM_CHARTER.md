@@ -80,7 +80,7 @@ Appeals to responses provided by the CoC Team itself should be handled by a diff
 
 ## Decision making process
 
-[TODO: Reference CPC decision making process]
+The CoC Team uses the Cross Project Council's [Decison Making Process][decision-making].
 
 
 [CoC]: https://code-of-conduct.openjsf.org/
@@ -89,3 +89,4 @@ Appeals to responses provided by the CoC Team itself should be handled by a diff
 [incident report]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#reporting-incidents
 [escalation]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation
 [appeal]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeals
+[decision-making]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making
