@@ -43,6 +43,10 @@ These actions must be documented at the earliest convenient occasion for review 
 
 All incident reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
+## Responsiveness
+
+Every incident report, escalation request, or appeal will be promptly acknowledged upon receipt and a response provided in a timely manner. All parties involved should be kept informed and updated in a timely and efficient manner.
+
 ## Transparency
 
 The number and relevant details of the incidents reported, escalation requests, and appeals, along with the responses made and actions taken should be made available in a redacted form to the Cross Project Council for further dissemination on a yearly basis.

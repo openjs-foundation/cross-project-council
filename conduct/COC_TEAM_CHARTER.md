@@ -78,13 +78,6 @@ If not enough primary community members are available to meet those requirements
 
 Appeals to responses provided by the CoC Team itself should be handled by a different set of members than those responsible for the initial response.
 
-[TODO: document requirements around:
-- timing of response
-- communication with reporter
-- fairness
-- proper review
-]
-
 ## Decision making process
 
 [TODO: Reference CPC decision making process]
