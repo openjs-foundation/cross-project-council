@@ -49,7 +49,7 @@ Every incident report, escalation request, or appeal will be promptly acknowledg
 
 ## Transparency
 
-The number and relevant details of the incidents reported, escalation requests, and appeals, along with the responses made and actions taken should be made available in a redacted form to the Cross Project Council for further dissemination on a yearly basis.
+The number and relevant details of the reported incidents, escalation requests, and appeals, along with the responses made and actions taken should be made available, at least on a yearly basis, in a redacted form, to the Cross Project Council for further dissemination.
 
 ## Record keeping
 
