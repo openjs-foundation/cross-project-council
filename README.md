@@ -180,6 +180,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Parris Lucas ([@GrooveCS](https://github.com/groovecs))
+- Paula Paul ([@paulapaul](https://github.com/paulapaul))
 - Rick Markins ([@rxmarbles](https://github.com/rxmarbles))
 - Rifa Achrinza ([@achrinza](https://github.com/achrinza))
 - Ruy Adorno ([@ruyadorno](https://github.com/ruyadorno))
