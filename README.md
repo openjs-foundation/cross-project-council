@@ -231,9 +231,9 @@ If an Observer fails to meet these expectations they can be excluded from future
 * [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
 * [Working Groups](./governance/WORKING_GROUPS.md)
 
-#### Other 
+#### Community Fund 
 
-* [Travel Fund Policy and Process](https://github.com/openjs-foundation/community-fund/blob/main/programs/travel-fund/README.md)
+* [Community / Travel Fund](./community-fund/COMMUNITY_FUND_POLICY.md) - OpenJS Foundation projects and their community members are able to take advantage of our community fund. 
 
 ### Policy Change Proposal Process
 
@@ -255,9 +255,8 @@ Discussion should be held in the open whenever possible. However, if you need to
 
 ## Getting Help
 
-### Project Resources & Travel Fund
 
-OpenJS Foundation projects and their community members are able to take advantage of several services and benefits, including the [Travel Fund Program](https://github.com/openjs-foundation/community-fund/blob/main/programs/travel-fund/README.md). 
+### Project Resources
 
 OpenJS Foundation Collaboration spaces are able to take advantage of several services and benefits as outlined in [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md).
 
