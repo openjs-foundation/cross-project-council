@@ -21,7 +21,9 @@ Valid travel expenses are:
 * Accommodations (Dates of the event plus one night prior are eligible for reimbursement)
 * Ground transportation to/from the airport
 
-NOTE: Funds may not be used for miscellaneous travel expenses including food, visa costs, non-airport transportation, baggage fees, etc. Generally, registration can be reimbursed if the attendee is speaking on behalf of OpenJS, the CPC or OpenJS-hosted projects. Funding is not transferable to another person, or any other event. 
+NOTE: Funds may not be used for miscellaneous travel expenses including food, visa costs, non-airport transportation, baggage fees, etc.
+Generally, registration can be reimbursed if the attendee is speaking on behalf of OpenJS, the CPC, or OpenJS-hosted projects.
+Funding is not transferable to another person, or any other event. 
 
 Travel fund assistance can only be received once per year.
 
@@ -29,7 +31,8 @@ Travel fund assistance can only be received once per year.
 
 ### Submit Travel Fund Request
 
-Submit your travel fund request to the Cross Project Council by completing [this application](https://forms.gle/QDt3iqoXXB5Ycovz8). Please see [Deadlines and Timelines](#deadlines-and-timelines) for information about cut-off dates. 
+Submit your travel fund request to the Cross Project Council by completing [this application](https://forms.gle/QDt3iqoXXB5Ycovz8).
+Please see [Deadlines and Timelines](#deadlines-and-timelines) for information about cut-off dates. 
 
 ### Wait For Approval
 
