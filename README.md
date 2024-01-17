@@ -163,7 +163,6 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Ben Michel ([@obensource](https://github.com/obensource))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
 - Christopher Hiller ([@boneskull](https://github.com/boneskull))
-- Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
 - Darcy Clarke ([@darcyclarke](https://github.com/darcyclarke))
 - Dhruv Jain ([@maddhruv](https://github.com/maddhruv))
 - Divy Tolia ([@designmoreweb](https://github.com/designmoreweb))
