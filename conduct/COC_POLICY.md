@@ -112,7 +112,7 @@ If the initial report was already managed by the CoC Team, a different set of Co
 
 If the appeal follows an incident report managed by a project, the project is expected to participate in good faith in the appeal process and to share all the information related to the incident report with the CoC Team.
 
-Appeals are not suspensive.
+Appeals do not delay or block the execution of decisions communicated in the response.
 
 [CoC]: https://code-of-conduct.openjsf.org/
 [Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
