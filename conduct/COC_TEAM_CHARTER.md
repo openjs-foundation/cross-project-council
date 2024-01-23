@@ -25,9 +25,11 @@ The CoC Team's responsibilities are to:
 
 ## CoC Team Structure
 
-The CoC Team is composed of five (5) primary members and a variable number of alternate community members.
+The CoC Team is composed of five (5) [primary members][#primary-members] and a variable number of [alternate community members][#alternate-community-members].
 
 ### Primary members
+
+Primary members are CoC Team members responsible for [handling cases][#handling-cases].
 
 The five primary members are:
 
@@ -36,6 +38,10 @@ The five primary members are:
 * Three (3) community members
 
 The name and email address of the primary members are documented in the [code of conduct][primary members].
+
+### Alternate community members
+
+Alternate community members are CoC Team Members that are available as backup when there aren't enough primary community members available to [handle a case][#handling-cases].
 
 ### Member selection
 
@@ -51,7 +57,7 @@ The CPC will hold an annual selection process in order to select primary and alt
 
 ### Eligibility
 
-Primary and alternate members of the CoC Team must: 
+Primary and alternate community members of the CoC Team must: 
 
 * Commit to uphold the Foundation's [Code of Conduct][CoC]
 * Commit to uphold the Foundation's [Code of Conduct Policy][CoC Policy]
