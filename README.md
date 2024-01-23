@@ -174,6 +174,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Kris Borchers ([@kborchers](https://github.com/kborchers))
 - Marcin Hoppe ([@MarcinHoppe](https://github.com/MarcinHoppe))
+- Marco Ippolito ([@marco-ippolito](https://github.com/marco-ippolito))
 - Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
