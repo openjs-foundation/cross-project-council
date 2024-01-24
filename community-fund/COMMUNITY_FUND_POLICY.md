@@ -17,7 +17,7 @@ Funding decisions are determined by a combination of need and potential impact.
 
 Valid travel expenses are:
 
-* Coach airfare tickets
+* Airfare, train, or ferry tickets in economy/coach class only
 * Accommodations (Dates of the event plus one night prior are eligible for reimbursement)
 * Ground transportation to/from the airport
 
