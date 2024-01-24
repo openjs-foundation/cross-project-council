@@ -35,7 +35,8 @@ Please see [Deadlines and Timelines](#deadlines-and-timelines) for information a
 
 ### Wait For Approval
 
-The Cross Project Council reviews requests once per month. If your request is approved, you will be notified via email.
+The Cross Project Council reviews requests once per month. If your request is approved, you will be notified via email. Only
+approved requests are eligible for reimbursement. 
 
 ## Getting Reimbursed
 
