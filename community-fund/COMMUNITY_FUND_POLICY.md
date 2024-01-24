@@ -69,8 +69,8 @@ Some events might have a fixed deadline for applications. Those deadlines will b
 
 - CPC will review requests once a month in the CPC private session
 - Pending requests will be sent to the private CPC mailing list prior to the review meeting
-- Initial approval will be made by simple majority of the voting and regular members in attendance
-- Non-present members will have the oppurtunity to object to a decision over email
+<!-- - Initial approval will be made by simple majority of the voting and regular members in attendance
+- Non-present members will have the oppurtunity to object to a decision over email -->
 
 ## Getting Help
 
