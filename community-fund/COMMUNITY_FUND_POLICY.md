@@ -73,6 +73,6 @@ Some events might have a fixed deadline for applications. Those deadlines will b
 
 ## Getting Help
 
-Please direct any questions to operations@openjsf.org or reach out to Foundation staff on the OpenJS Foundation Slack
+Please direct any questions to operations@openjsf.org or reach out to Foundation staff on the [OpenJS Foundation Slack]([url](https://openjs-foundation.slack.com/archives/C01AM9J51J8)https://openjs-foundation.slack.com/archives/C01AM9J51J8).
 
 
