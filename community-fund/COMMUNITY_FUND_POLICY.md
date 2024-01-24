@@ -25,7 +25,6 @@ NOTE: Funds may not be used for miscellaneous travel expenses including food, vi
 Generally, registration can be reimbursed if the attendee is speaking on behalf of OpenJS, the CPC, or OpenJS-hosted projects.
 Funding is not transferable to another person, or any other event. 
 
-Travel fund assistance can only be received once per year.
 
 ## How To Apply
 
