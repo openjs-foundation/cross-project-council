@@ -106,9 +106,9 @@ Reporters, harmed individuals, and accused individuals may [escalate](#escalatio
 
 The CoC Team is empowered to manage escalation requests of incident reports managed by projects that have opted-in to enforce the code of conduct themselves.
 
-If the CoC Team finds that the escalation request has merit, the CoC Team may decide to takeover the management of the incident report or request changes to the existing management process. 
+If the CoC Team finds that the escalation request has merit, the CoC Team may decide to takeover the management of the incident report or refer the issue to the Cross Project Council which may request changes to the existing management process. 
 
-Projects are expected to participate in good faith in the escalation process and to share all the information related to the incident report with the CoC Team.
+Projects are expected to participate in good faith in the escalation process and to share all the information related to the incident report with the CoC Team. The CoC Team is expected to consider project and community needs during the escalation process and may involve the Cross Project Council if necessary and project leadership if appropriate.
 
 ## Appeals
 
@@ -116,7 +116,7 @@ Harmed individuals and accused individuals have thirty (30) days to appeal to th
 
 If the initial report was already managed by the CoC Team, a different set of CoC Team members should be chosen to manage the appeal process. The CoC Team may choose to involve external people if needed.
 
-If the appeal follows an incident report managed by a project, the project is expected to participate in good faith in the appeal process and to share all the information related to the incident report with the CoC Team.
+If the appeal follows an incident report managed by a project, the project is expected to participate in good faith in the appeal process and to share all the information related to the incident report with the CoC Team. The CoC Team is expected to consider project and community needs during the appeal and may involve the Cross Project Council if necessary and project leadership if appropriate.
 
 Appeals do not delay or block the execution of decisions communicated in the response.
 
