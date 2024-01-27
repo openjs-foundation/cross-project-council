@@ -102,7 +102,7 @@ Each project is free to implement moderation processes appropriate for the size 
 
 ## Escalation
 
-Reporters, harmed individuals, and accused individuals may [escalate](#escalation) an issue to the CoC Team at any point in the process in case of a conflict of interest, if the report is not being handled appropriately, or in case of an emergency.
+Reporters, harmed individuals, and accused individuals may [escalate](#escalation) an issue to the CoC Team at any point in the process in case of a conflict of interest, if the report is not being handled appropriately (for example, if there are unacceptable delays, a lack of communication, confidentiality isn't respected, etc.), or in case of an emergency.
 
 The CoC Team is empowered to manage escalation requests of incident reports managed by projects that have opted-in to enforce the code of conduct themselves.
 

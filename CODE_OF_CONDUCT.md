@@ -15,7 +15,7 @@
     * **Webdriver.io:** [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/HEAD/AUTHORS.md)
     * **Webhint:** <support@webhint.io>
     
-    In case of a conflict of interest or if the report is not handled appropriately, you may [escalate the report][escalation] to the [Code of Conduct Team (CoC Team)][CoC Team] by emailing <coc-escalation@lists.openjsf.org> or by contacting any of its members.
+    In case of a conflict of interest, if the report is not handled appropriately (for example, if there are unacceptable delays, a lack of communication, confidentiality isn't respected, etc.), or in case of an emergency, you may [escalate the report][escalation] to the [Code of Conduct Team (CoC Team)][CoC Team] by emailing <coc-escalation@lists.openjsf.org> or by contacting any of its members.
 2.  **To report any other incident** (for example: in an OpenJS Foundation project not listed above, in a Collab Space, in the Cross Project Council, or during an event), please email the [Code of Conduct Team (CoC Team)][CoC Team] at <report@lists.openjsf.org> or contact any of its members.
 
 ### Appeal a decision
