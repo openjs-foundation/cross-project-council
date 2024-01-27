@@ -66,12 +66,6 @@ Primary and alternate community members of the CoC Team must:
 
 Members of the CoC Team serve a one year term. There are no limits on the number of terms a CoC Team member may serve.
 
-### Chair
-
-The primary members will select a chair from one of the three primary community members. When the chair isn't involved in a case, the members handling the case must chose a chair among themselves.
-
-The chair is responsible for handling the case according to documented processes, and making sure that the CoC Team upholds this charter, the [code of conduct][CoC] and the [code of conduct policy][CoC Policy].
-
 ## Handling cases
 
 Each appeal, escalation request, and incident report must be handled by a minimum of three (3) and a maximum of five (5) members.
