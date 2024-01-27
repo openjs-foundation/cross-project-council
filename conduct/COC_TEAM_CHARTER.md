@@ -19,8 +19,6 @@ The CoC Team's responsibilities are to:
 - Handle code of conduct [appeals][appeal].
 - Keep the CPC up to date of cases requiring the CPC's attention.
 - Provide regular transparency reports to the CPC.
-- Define, document, and maintain all processes necessary to its operations, notably the [CoC Process for Incident Management](COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md).
-- Work with OpenJS Foundation staff to develop infrastructure and processes necessary to comply to the requirements of the [code of conduct policy][CoC Policy], notably when it comes to record keeping, confidentiality, and transparency.
 - Uphold this charter, the [code of conduct][CoC], and the [code of conduct policy][CoC Policy].
 
 ## CoC Team Structure

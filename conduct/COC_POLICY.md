@@ -65,6 +65,12 @@ Any person involved with the management of an incident report must immediately n
 
 ## Enforcement
 
+### Incident management processes
+
+The Cross Project Council (CPC) defines, documents, and maintains all processes necessary for the management of incident reports and the enforcement of the code of code of conduct and of this policy through the [CoC Process for Incident Management](COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md).
+
+The CPC works with the OpenJS Foundation staff to develop infrastructure and processes necessary to comply to the requirements of this policy, notably when it comes to record keeping, confidentiality, and transparency.
+
 ### Code of Conduct Team (CoC Team)
 
 The Cross Project Council (CPC) delegates enforcement of the code of conduct to the Code of Conduct Team (CoC Team) through the [CoC Team Charter][].
@@ -73,9 +79,9 @@ The structure of the CoC Team and how its members are elected are described in t
 
 The current composition of the CoC Team is available in the [code of conduct][CoC] itself along with means to contact by email the whole CoC Team and each of its members individually.
 
-The CoC Team is responsible for maintaining and applying the [incident management processes][].
+The CoC Team is responsible for applying the [incident management processes][].
 
-The CoC Team is empowered to involve external people to resolve an issue provided these commit to abide by the code of conduct and by this policy.
+The CoC Team is empowered to involve external people to resolve an issue provided these commit to abide by the code of conduct, the [incident management processes][], and by this policy.
 
 ### Delegation to projects
 

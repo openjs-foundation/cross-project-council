@@ -4,10 +4,6 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 ***
 
-The [Code of Conduct Team (CoC Team)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/COC_POLICY.md#code-of-conduct-team-coc-team) is responsible for the maintenance of these processes.
-
-**These processes haven't been updated since the creation of the CoC Team. It is expected that the CoC Team will overhaul them in the near future.**
-
 # Handling reports and escalation
 This document describes the proposed process for handling reports and escalation, along with relevant roles in the OpenJS Foundation.
 
