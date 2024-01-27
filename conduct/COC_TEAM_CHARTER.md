@@ -60,6 +60,8 @@ Primary and alternate community members of the CoC Team must:
 * Commit to uphold this charter
 * Be willing to treat every accused individuals in the same way regardless of the impact of their contributions to open source
 
+No two primary members can work for the same employer.
+
 ### Term
 
 Members of the CoC Team serve a one year term. There are no limits on the number of terms a CoC Team member may serve.
