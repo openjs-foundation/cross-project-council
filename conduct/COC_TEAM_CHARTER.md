@@ -43,15 +43,13 @@ Alternate community members are CoC Team Members that are available as backup wh
 
 ### Member selection
 
-The CPC will hold an annual selection process in order to select primary and alternate community members.
+The Cross Project Council (CPC) will hold an annual selection process in order to select primary and alternate community members.
 
-[TODO:
-- candidates can self-nominate
-- candidates can self-nominate for alternate or primary role
-- candidate must meet eligibility requirements
-- CPC must work towards creating a CoC Team that is diverse
-- CPC member can block a candidate if they can motivate the reason why
-]
+The CPC is responsible to ensure that the CoC Team is as representative and diverse as possible. To do so, the CPC commits to reach out proactively to individuals from underrepresented groups.
+
+Candidates can self-nominate to be selected as an alternate community member, a primary member, or both.
+
+Candidates must meet the [eligibility requirements](#eligibility).
 
 ### Eligibility
 
