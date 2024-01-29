@@ -10,7 +10,7 @@ The OpenJS Foundation’s community fund supports travel and attendance at event
 
 The fund can cover the costs, in whole or in part, of a participant's hotel, transportation, and some event registrations.
 Applicants should explore employer-sponsored funding options as their first source of financial support.
-Additionally, 25% of the community fund is allocated specifically to support diverse participants.
+Additionally, 25% of the community fund is allocated specifically to support underrepresented groups.
 Funding decisions are determined by a combination of need and potential impact.
 
 ## Community Fund Rules
