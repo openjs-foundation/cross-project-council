@@ -25,7 +25,7 @@ If you would like to submit a proposal for an initiative that you would like to 
 
 #### What skills would a technical writer need to work on this project?
 
-####Expected outcomes:
+#### Expected outcomes:
 
 * **Must Have**
 * **Nice To Have**
