@@ -73,7 +73,7 @@ Success can be measured by:
 
 #### Volunteers / Mentors
 - Lead Mentor: [Matteo Collina](https://github.com/mcollina)
-- Co-Mentor: 
+- Co-Mentor: [Ethan Arrowood](https://github.com/ethan-arrowood)
 
 #### Contact info
 For inquiries or to express interest in contributing, please reach out to hello AT matteocollina.com. You can also join the Node.js Undici community on GitHub or the OpenJS Slack for discussions and support.
