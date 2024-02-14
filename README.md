@@ -128,7 +128,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 
 - **Appium**: Jonathan Lipps ([@jlipps](https://github.com/jlipps)) & Kazuaki Matsuo ([@KazuCocoa](https://github.com/KazuCocoa))
 - **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Living Spec)
-- **Electron**: Erick Zhao ([@erickzhao](https://github.com/erickzhao), Slack) & Tierney Cyren ([@bnb](https://github.com/bnb), Twilio)
+- **Electron**: Erick Zhao ([@erickzhao](https://github.com/erickzhao), Slack) & TBD
 - **jQuery**: Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol)) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
 - **Node.js**: Rich Trott([@Trott](https://github.com/Trott), UCSF) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
 - **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
@@ -196,6 +196,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 ### Regular Member emeriti
 
 - Myles Borins ([@MylesBorins](https://github.com/MylesBorins))
+- Tierney Cyren ([@bnb](https://github.com/bnb))
 
 ### Observers
 
