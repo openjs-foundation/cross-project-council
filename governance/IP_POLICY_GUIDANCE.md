@@ -19,6 +19,7 @@ There are four key requirements for all OpenJS Foundation projects:
 
 Code may be licensed under:
   * [Apache, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+  * [Blue Oak Model License 1.0.0](https://opensource.org/license/blue-oak-model-license/)
   * [MIT](https://opensource.org/licenses/MIT)
   * [2-Clause BSD](https://opensource.org/licenses/BSD-2-Clause)
   * [3-Clause BSD](https://opensource.org/licenses/BSD-3-Clause)
@@ -65,7 +66,7 @@ To setup the CLA infrastructure until this additional documentation is ready, pl
 ## Obtaining an exemption from the Board
 
 If your project requires an exemption from the [IP Policy][], you will need to obtain special permission from the Board.
-To do so, please [open an issue in the Cross Project Council repository](https://github.com/openjs-foundation/cross-project-council/issues/new?title=Board%20exemption%20request%20for), and assign or @-mention [@brianwarner](https://github.com/brianwarner) and [your Project Representatives](https://github.com/openjs-foundation/cross-project-council#impact-project-representatives) if your are an Impact project, the [At Large Project Representatives](https://github.com/openjs-foundation/cross-project-council#at-large-project-representatives) if you are an At Large project, or [your Champion](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_PROGRESSION.md#application-champion) if you are an Incubating project.
+To do so, please [open an issue in the Cross Project Council repository](https://github.com/openjs-foundation/cross-project-council/issues/new?title=Board%20exemption%20request%20for), and assign or @-mention [@bensternthal](https://github.com/bensternthal) and [your Project Representatives](https://github.com/openjs-foundation/cross-project-council#impact-project-representatives) if your are an Impact project, the [At Large Project Representatives](https://github.com/openjs-foundation/cross-project-council#at-large-project-representatives) if you are an At Large project, or [your Champion](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_PROGRESSION.md#application-champion) if you are an Incubating project.
 
 ## Getting help
 
