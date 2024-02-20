@@ -10,8 +10,6 @@ The Cross Project Council (CPC) delegates enforcement of the [Code of Conduct][C
 
 ## Responsibilities
 
-[TODO: add links]
-
 The CoC Team's responsibilities are to:
 
 - Handle code of conduct [incident reports][incident report].
