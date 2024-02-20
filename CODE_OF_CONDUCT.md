@@ -15,14 +15,14 @@
     * **Webdriver.io:** [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/HEAD/AUTHORS.md)
     * **Webhint:** <support@webhint.io>
     
-    In case of a conflict of interest, if the report is not handled appropriately (for example, if there are unacceptable delays, a lack of communication, confidentiality isn't respected, etc.), or in case of an emergency, you may [escalate the report][escalation] to the [Code of Conduct Team (CoC Team)][CoC Team] by emailing <coc-escalation@lists.openjsf.org> or by contacting any of its members.
-2.  **To report any other incident** (for example: in an OpenJS Foundation project not listed above, in a Collab Space, in the Cross Project Council, or during an event), please email the [Code of Conduct Team (CoC Team)][CoC Team] at <report@lists.openjsf.org> or contact any of its members.
+    In case of a conflict of interest, if the report is not handled appropriately (for example, if there are unacceptable delays, a lack of communication, confidentiality isn't respected, etc.), or in case of an emergency, you may [escalate the report][escalation] to the [Code of Conduct Team (CoC Team)][CoC Team] by emailing <coc@openjsf.org> or by contacting any of its members.
+2.  **To report any other incident** (for example: in an OpenJS Foundation project not listed above, in a Collab Space, in the Cross Project Council, or during an event), please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc@openjsf.org> or contact any of its members.
 
 ### Appeal a decision
 
 Harmed individuals and accused individuals may [appeal](#appeals) the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly. Appeals do not delay or block the execution of decisions communicated in the response.
 
-To [appeal][] a decision, please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc-appeal@lists.openjsf.org>. TODO: create this address
+To [appeal][] a decision, please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc@openjsf.org>. TODO: create this address
 
 ## Code of Conduct Team (CoC Team)
 
@@ -32,7 +32,7 @@ The Code of Conduct Team (CoC Team) is a foundation-wide team established to man
 - Kylie Wagar-Dirks (OpenJSF Communications Manager) <kwagar@linuxfoundation.org>
 - Joe Sepi (Cross Project Council Chair) <sepi@joesepi.com> 
 
-You may contact the CoC Team at <report@lists.openjsf.org> or contact any of its members.
+You may contact the CoC Team at <coc@openjsf.org> or contact any of its members.
 
 ## More Info
 
