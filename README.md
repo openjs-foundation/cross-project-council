@@ -189,6 +189,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
 - Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
 - Shelley Vohr ([@codebytere](https://github.com/codebytere))
+- Ulises Gascón ([@ulisesgascon](https://github.com/ulisesgascon))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
 - Wes Todd ([@wesleytodd](https://github.com/wesleytodd))
 - Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
