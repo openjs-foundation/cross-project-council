@@ -59,7 +59,7 @@ A record of all communications related to an incident report, escalation request
 
 The identity of the harmed individual(s) and the and reporter(s) of an incident report must be kept confidential.
 
-The identity of the accused individual should be kept confidential. However, incidents requiring immediate action (e.g. to prevent further harm) and implementing the decision resulting from the incident management process might require sharing the identity of the accused individual beyond the people involved in the incident management process itself. In such cases, care should be taken to not make that sharing retaliatory.
+The identity of the accused individual should be kept confidential. However, incidents requiring immediate action (e.g. to prevent further harm) and implementing the decision resulting from the incident management process might require sharing the identity of the accused individual beyond the people involved in the incident management process itself. In such cases, care should be taken to not make that sharing retaliatory. The obligation of confidentiality towards the accused individul ends if the accused individul chooses to disclose the information publicly.
 
 ## Conflict of Interest
 
