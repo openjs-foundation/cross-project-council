@@ -58,7 +58,7 @@ Primary and alternate community members of the CoC Team must:
 * Commit to uphold this charter
 * Be willing to treat every accused individuals in the same way regardless of the impact of their contributions to open source
 
-No two primary members can work for the same employer.
+No two primary community members can work for the same employer.
 
 ### Term
 

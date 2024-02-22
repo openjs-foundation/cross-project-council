@@ -108,13 +108,13 @@ Reporters, harmed individuals, and accused individuals may [escalate](#escalatio
 
 The CoC Team is empowered to manage escalation requests of incident reports managed by projects that have opted-in to enforce the code of conduct themselves.
 
-If the CoC Team finds that the escalation request has merit, the CoC Team may decide to takeover the management of the incident report or refer the issue to the Cross Project Council which may request changes to the existing management process. 
+If the CoC Team finds that the escalation request has merit, the CoC Team may decide to take over the management of the incident report or refer the issue to the Cross Project Council which may request changes to the existing management process. 
 
 Projects are expected to participate in good faith in the escalation process and to share all the information related to the incident report with the CoC Team. The CoC Team is expected to consider project and community needs during the escalation process and may involve the Cross Project Council if necessary and project leadership if appropriate.
 
 ## Appeals
 
-Harmed individuals and accused individuals have thirty (30) days to appeal to the CoC Team a decision made in response to an incident report. Decisions may only be appealled on the grounds that the documented process was not properly followed or that it did not meet the requirements of this policy. If the CoC Team finds that the appeal has merit, it may decide to override the decision that was previously made.
+Harmed individuals and accused individuals have thirty (30) days after a response was provided to appeal to the CoC Team a decision made in response to an incident report. Decisions may only be appealed on the grounds that the documented process was not properly followed or that it did not meet the requirements of this policy. If the CoC Team finds that the appeal has merit, it may decide to override the decision that was previously made.
 
 If the initial report was already managed by the CoC Team, a different set of CoC Team members should be chosen to manage the appeal process. The CoC Team may choose to involve external people if needed.
 

@@ -20,7 +20,7 @@
 
 ### Appeal a decision
 
-Harmed individuals and accused individuals may [appeal](#appeals) the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly. Appeals do not delay or block the execution of decisions communicated in the response.
+Harmed individuals and accused individuals may [appeal][] the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly. Appeals do not delay or block the execution of decisions communicated in the response.
 
 To [appeal][] a decision, please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc@openjsf.org>.
 
