@@ -17,7 +17,7 @@ Funding decisions are determined by a combination of need and potential impact.
 
 In **2023**, 26 funding requests were made by 22 contributors for a total requested sum of USD 47,500 with a maximum of 2 requests per contributor.
 Requested sums per trip ranged from $750 to $5,750, with a median of $1,525 and an average of $1,825.
-Requested sums per individuals ranged from $1,000 to $7,350, with a median of $1,950 and an average of $2,150.
+Requested sums per individual ranged from $1,000 to $7,350, with a median of $1,950 and an average of $2,150.
 All requests were granted.
 
 In 2024, USD 60,000 was allocated to the fund.
