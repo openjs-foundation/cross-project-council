@@ -57,9 +57,9 @@ A record of all communications related to an incident report, escalation request
 
 ## Confidentiality
 
-The identity of the harmed individual(s) and the and reporter(s) of an incident report must be kept confidential.
+The identity of the harmed individual(s) and the reporter(s) of an incident report must be kept confidential.
 
-The identity of the accused individual should be kept confidential. However, incidents requiring immediate action (e.g. to prevent further harm) and implementing the decision resulting from the incident management process might require sharing the identity of the accused individual beyond the people involved in the incident management process itself. Additionally, the obligation of confidentiality towards the accused individul ends if the accused individul chooses to disclose the information publicly. In all cases however, care should be taken to limit information sharing to what is strictly necessary to address the issue at hand and avoid making that sharing retaliatory.
+The identity of the accused individual should be kept confidential. However, incidents requiring immediate action (e.g. to prevent further harm) and implementing the decision resulting from the incident management process might require sharing the identity of the accused individual beyond the people involved in the incident management process itself. Additionally, the obligation of confidentiality towards the accused individual ends if the accused individual chooses to disclose the information publicly. In all cases, however, care should be taken to limit information sharing to what is strictly necessary to address the issue at hand and avoid making that sharing retaliatory.
 
 ## Conflict of Interest
 
@@ -69,9 +69,9 @@ Any person involved with the management of an incident report must immediately n
 
 ### Incident management processes
 
-The Cross Project Council (CPC) defines, documents, and maintains all processes necessary for the management of incident reports and the enforcement of the code of code of conduct and of this policy through the [CoC Process for Incident Management](COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md).
+The Cross Project Council (CPC) defines, documents, and maintains all processes necessary for the management of incident reports and the enforcement of the code of conduct and this policy through the [CoC Process for Incident Management](COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md).
 
-The CPC works with the OpenJS Foundation staff to develop infrastructure and processes necessary to comply to the requirements of this policy, notably when it comes to record keeping, confidentiality, and transparency.
+The CPC works with the OpenJS Foundation staff to develop the infrastructure and processes necessary to comply with the requirements of this policy, notably when it comes to record-keeping, confidentiality, and transparency.
 
 ### Code of Conduct Team (CoC Team)
 
@@ -91,7 +91,7 @@ Projects may opt-in to enforce the code of conduct themselves provided they meet
 
 1. Commit to uphold the code of conduct.
 2. Commit to uphold this policy.
-3. Provide a general email address that incidents can be reported to and document it alongside the code of conduct.
+3. Provide a general email address where incidents can be reported and document it alongside the code of conduct.
 4. Define and publicly document a process by which the project selects people responsible for managing incident reports. For Impact and At Large projects, at least two people must be selected.
 5. List the people responsible for managing incident reports alongside the code of conduct as outlined in the [Reporting incidents section](#reporting-incidents).
 6. Publicly document their decision-making process for responding to incident reports.

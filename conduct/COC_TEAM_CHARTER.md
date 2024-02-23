@@ -15,7 +15,7 @@ The CoC Team's responsibilities are to:
 - Handle code of conduct [incident reports][incident report].
 - Handle code of conduct [escalation requests][escalation].
 - Handle code of conduct [appeals][appeal].
-- Keep the CPC up to date of cases requiring the CPC's attention.
+- Keep the CPC up to date on cases requiring the CPC's attention.
 - Provide regular transparency reports to the CPC.
 - Uphold this charter, the [code of conduct][CoC], and the [code of conduct policy][CoC Policy].
 
@@ -37,13 +37,13 @@ The name and email address of the primary members are documented in the [code of
 
 ### Alternate community members
 
-Alternate community members are CoC Team Members that are available as backup when there aren't enough primary community members available to [handle a case][#handling-cases].
+Alternate community members are CoC Team Members who are available as backup when there aren't enough primary community members available to [handle a case][#handling-cases].
 
 ### Member selection
 
 The Cross Project Council (CPC) will hold an annual selection process in order to select primary and alternate community members.
 
-The CPC is responsible to ensure that the CoC Team is as representative and diverse as possible. To do so, the CPC commits to reach out proactively to individuals from underrepresented groups.
+The CPC is responsible for ensuring that the CoC Team is as representative and diverse as possible. To do so, the CPC commits to reach out proactively to individuals from underrepresented groups.
 
 Candidates can self-nominate to be selected as an alternate community member, a primary member, or both.
 
@@ -56,13 +56,13 @@ Primary and alternate community members of the CoC Team must:
 * Commit to uphold the Foundation's [Code of Conduct][CoC]
 * Commit to uphold the Foundation's [Code of Conduct Policy][CoC Policy]
 * Commit to uphold this charter
-* Be willing to treat every accused individuals in the same way regardless of the impact of their contributions to open source
+* Be willing to treat every accused individual in the same way regardless of the impact of their contributions to open source
 
 No two primary community members can work for the same employer.
 
 ### Term
 
-Members of the CoC Team serve a one year term. There are no limits on the number of terms a CoC Team member may serve.
+Members of the CoC Team serve a one-year term. There are no limits on the number of terms a CoC Team member may serve.
 
 ## Handling cases
 
@@ -70,13 +70,13 @@ Each appeal, escalation request, and incident report must be handled by a minimu
 
 At least two (2) of the members involved in handling a case must be community members and at least one (1) must be an OpenJS Foundation staff member.
 
-If not enough primary community members are available to meet those requirements, primary members should involve one or more alternate community members. Similarily, if no OpenJSF staff primary member is available, another OpenJSF staff representative, choosen by the staff, should be involved instead.
+If not enough primary community members are available to meet those requirements, primary members should involve one or more alternate community members. Similarly, if no OpenJSF staff primary member is available, another OpenJSF staff representative, chosen by the staff, should be involved instead.
 
 Appeals to responses provided by the CoC Team itself should be handled by a different set of members than those responsible for the initial response.
 
 ## Decision making process
 
-The CoC Team uses the Cross Project Council's [Decison Making Process][decision-making].
+The CoC Team uses the Cross Project Council's [Decision Making Process][decision-making].
 
 
 [CoC]: https://code-of-conduct.openjsf.org/
