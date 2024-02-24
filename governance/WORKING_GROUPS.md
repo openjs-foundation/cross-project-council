@@ -147,3 +147,4 @@ Responsibilities include:
 * facilitate when different projects' needs conflict resolution
 
 [Cross Project Council (CPC)]: ../CPC-CHARTER.md
+
