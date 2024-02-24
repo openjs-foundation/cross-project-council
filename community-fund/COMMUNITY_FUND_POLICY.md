@@ -80,8 +80,23 @@ Some events might have a fixed deadline for applications. Those deadlines will b
 
 - CPC will review requests once a month in the CPC private session
 - Pending requests will be sent to the private CPC mailing list prior to the review meeting
+- The CPC will use a scoring rubric to help with decision making
 <!-- - Initial approval will be made by simple majority of the voting and regular members in attendance
 - Non-present members will have the oppurtunity to object to a decision over email -->
+
+### Scoring Rubric
+
+The following rubric is used by the CPC to aid in deciding which requests to approve. The rubric is subject to change. 
+
+Item | Score
+-- | --
+Reason For Travel: OpenJS Project, Collab Space, or CPC, OpenJS Related Event | +3
+Primary Reason For Attendance: Leading, Presenting, Or Panelist | +5
+What OpenJS Hosted Project(s) Do You Contribute To (1 or more) | +1
+Role: TSC, Core, or Active | +1
+DEI: Identifies as from any underrepresented group | +3
+Total Amount Requested Less Than X (e.g. $1,500) | +1
+
 
 ## Getting Help
 
