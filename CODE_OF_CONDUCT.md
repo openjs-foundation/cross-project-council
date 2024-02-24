@@ -1,17 +1,8 @@
-# Code of Conduct
+# OpenJS Foundation Code of Conduct
 
-The OpenJS Foundation and its member projects use [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their code of conduct. The full text is included below in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
+## Report an incident
 
-## Commitment
-
-All recipients of reports commit to:
-
-- maintain the confidentiality with regard to the reporter and victim of an incident
-- participate in the path for escalation as outlined in the section on Escalation when required
-
-## Report an issue in a project
-
-1. To report an issue in one of the projects listed below, please use the method provided. The project itself is responsible for managing these reports.
+1.  To report an incident in one of the projects listed below, please use the method provided. The project itself is responsible for managing these reports.
     * **AMP Project:** <code-of-conduct@amp.dev>
     * **Appium:** email maintainers
     * **Electron:** <coc@electronjs.org>
@@ -23,23 +14,29 @@ All recipients of reports commit to:
     * **Node-RED:** <team@nodered.org>
     * **Webdriver.io:** [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/HEAD/AUTHORS.md)
     * **Webhint:** <support@webhint.io>
-2. For every other OpenJS Foundation project, please email <report@lists.openjsf.org>. The Cross Project Council (CPC) is responsible for managing these reports.
+    
+    In case of a conflict of interest, if the report is not handled appropriately (for example, if there are unacceptable delays, a lack of communication, confidentiality isn't respected, etc.), or in case of an emergency, you may [escalate the report][escalation] to the [Code of Conduct Team (CoC Team)][CoC Team] by emailing <coc@openjsf.org> or by contacting any of its members.
+2.  **To report any other incident** (for example: in an OpenJS Foundation project not listed above, in a Collab Space, in the Cross Project Council, or during an event), please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc@openjsf.org> or contact any of its members.
 
+### Appeal a decision
 
-## Report an issue in a space managed by the foundation
+Harmed individuals and accused individuals may [appeal][] the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly. Appeals do not delay or block the execution of decisions communicated in the response.
 
-For reporting issues in spaces managed by the OpenJS Foundation, for example, repositories within the OpenJS organization or an live event such as a conferences, email <report@lists.openjsf.org>. The Cross Project Council (CPC) is responsible for managing these reports.
+To [appeal][] a decision, please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc@openjsf.org>.
 
-## Escalate an issue
+## Code of Conduct Team (CoC Team)
 
-The OpenJS Foundation maintains a [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled.
+The Code of Conduct Team (CoC Team) is a foundation-wide team established to manage code of conduct incident reports across the whole foundation (except for [projects who have opted-in][opted-in] to manage reports directly), escalation of reports managed by projects, and appeals to decisions made in response to incidents. The CoC Team is currently composed of:
 
-In order to escalate to the CoCP, email <coc-escalation@lists.openjsf.org>.
+- Robin Ginn (OpenJSF Executive Director) <rginn@linuxfoundation.org>
+- Kylie Wagar-Dirks (OpenJSF Communications Manager) <kwagar@linuxfoundation.org>
+- Joe Sepi (Cross Project Council Chair) <sepi@joesepi.com> 
+
+You may contact the CoC Team at <coc@openjsf.org> or contact any of its members.
 
 ## More Info
 
-For more information, refer to the full
-[Code of Conduct governance document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
+For more information, refer to the [Code of Conduct Policy](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/COC_POLICY.md).
 
 ---
 
@@ -105,13 +102,11 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-the email addresses listed above in the
-[Reporting](#report-an-issue-in-a-project) and
-[Escalation](#escalate-an-issue) sections.
+the email addresses listed above in the [Reporting](#report-an-incident) section.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+harmed individuals and the reporter(s) of any incident.
 
 ## Enforcement Guidelines
 
@@ -177,3 +172,8 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+[escalation]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation
+[appeal]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeals
+[CoC Team]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#code-of-conduct-team-coc-team
+[opted-in]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#delegation-to-projects
+
