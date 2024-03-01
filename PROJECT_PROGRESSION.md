@@ -122,6 +122,7 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
   * infrastructure
   * legal/governance help
 - [ ] Publish security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_SECURITY_REPORTING.md))
+- [ ] Work with the foundation to sign a Project Contribution Agreement (if needed)
 
 ## Post-graduation Checklist
 
