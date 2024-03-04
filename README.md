@@ -156,16 +156,10 @@ Members of the Collaboration spaces at the `Core` stage may nominate a candidate
 Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](./governance/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a regular member by opening a PR to add themselves to the list of regular members. Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
 
 - Abigail Cabunoc Mayes ([@abbycabs](https://github.com/abbycabs))
-- Abraham Jr Agiri ([@codeekage](https://github.com/codeekage))
 - Adrian Estrada ([@edsadr](https://github.com/edsadr))
-- Antón Molleda ([@molant](https://github.com/molant))
-- Ben Hutton ([@relequestual](https://github.com/relequestual))
-- Ben Michel ([@obensource](https://github.com/obensource))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
-- Christopher Hiller ([@boneskull](https://github.com/boneskull))
 - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
 - Darcy Clarke ([@darcyclarke](https://github.com/darcyclarke))
-- Dhruv Jain ([@maddhruv](https://github.com/maddhruv))
 - Divy Tolia ([@designmoreweb](https://github.com/designmoreweb))
 - Eemeli Aro ([@eemeli](https://github.com/eemeli))
 - Ethan Arrowood ([@Ethan-Arrowood](https://github.com/Ethan-Arrowood))
@@ -173,8 +167,6 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Jean Burellier ([@sheplu](https://github.com/sheplu))
 - Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
-- Kris Borchers ([@kborchers](https://github.com/kborchers))
-- Marcin Hoppe ([@MarcinHoppe](https://github.com/MarcinHoppe))
 - Marco Ippolito ([@marco-ippolito](https://github.com/marco-ippolito))
 - Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
@@ -182,13 +174,11 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Nitin Kumar ([@snitin315](https://github.com/snitin315))
-- Parris Lucas ([@GrooveCS](https://github.com/groovecs))
 - Paula Paul ([@paulapaul](https://github.com/paulapaul))
 - Rick Markins ([@rxmarbles](https://github.com/rxmarbles))
 - Rifa Achrinza ([@achrinza](https://github.com/achrinza))
 - Ruy Adorno ([@ruyadorno](https://github.com/ruyadorno))
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
-- Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
 - Shelley Vohr ([@codebytere](https://github.com/codebytere))
 - Ulises Gascón ([@ulisesgascon](https://github.com/ulisesgascon))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
@@ -196,8 +186,17 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
 
 ### Regular Member emeriti
-
+- Abraham Jr Agiri ([@codeekage](https://github.com/codeekage))
+- Antón Molleda ([@molant](https://github.com/molant))
+- Ben Hutton ([@relequestual](https://github.com/relequestual))
+- Ben Michel ([@obensource](https://github.com/obensource))
+- Christopher Hiller ([@boneskull](https://github.com/boneskull))
+- Dhruv Jain ([@maddhruv](https://github.com/maddhruv))
+- Kris Borchers ([@kborchers](https://github.com/kborchers))
+- Marcin Hoppe ([@MarcinHoppe](https://github.com/MarcinHoppe))
 - Myles Borins ([@MylesBorins](https://github.com/MylesBorins))
+- Parris Lucas ([@GrooveCS](https://github.com/groovecs))
+- Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
 - Tierney Cyren ([@bnb](https://github.com/bnb))
 
 ### Observers
