@@ -170,6 +170,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Eemeli Aro ([@eemeli](https://github.com/eemeli))
 - Ethan Arrowood ([@Ethan-Arrowood](https://github.com/Ethan-Arrowood))
 - Even Stensberg ([@evenstensberg](https://github.com/evenstensberg))
+- Jean Burellier ([@sheplu](https://github.com/sheplu))
 - Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Kris Borchers ([@kborchers](https://github.com/kborchers))
