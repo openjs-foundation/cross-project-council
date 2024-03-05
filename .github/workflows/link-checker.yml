@@ -1,0 +1,18 @@
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+name: Link Checker
+jobs:
+  linkinator:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: JustinBeckwith/linkinator-action@v1
+        with:
+          paths: "**/*.md"
+          markdown: true
+          retry: true
+          linksToSkip: "https://github.com/openjs-foundation/directory-private, https://twitter.com/*, https://opensource.org/licenses/*"
+          urlRewriteSearch: "https://github.com/openjs-foundation/cross-project-council/blob/HEAD/"
+          urlRewriteReplace: ""
