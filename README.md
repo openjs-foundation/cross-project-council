@@ -159,6 +159,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Adrian Estrada ([@edsadr](https://github.com/edsadr))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
 - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
+- Cody Zuschlag([@codyzu](https://github.com/codyzu))
 - Darcy Clarke ([@darcyclarke](https://github.com/darcyclarke))
 - Divy Tolia ([@designmoreweb](https://github.com/designmoreweb))
 - Eemeli Aro ([@eemeli](https://github.com/eemeli))
