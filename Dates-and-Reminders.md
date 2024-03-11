@@ -1,13 +1,17 @@
 # Dates and Reminders
 
-This document will be used to capture dates and reminders to review before each CPC meeting. This is a manual process that we hope will be replaced by automated tooling at some point in the near future.
+This document captures important dates and reminders.
 
-## Recurring dates
+## Elections Calendar
 
-- CPC Chair election - term ends April 30
-- Director 1 election - term ends February 28
-- Director 2 election - term ends July 31
-- CPC Impact voting member selection - term ends July 31
-- CPC At-Large voting member election - term ends July 31
-- CPC Regular member voting member election - term ends July 31
-- Review issues labeled [`cpc-quartely-review`](https://github.com/openjs-foundation/cross-project-council/labels/cpc-quartely-review) at the end of every quarter
+Position  | Term Length | Nomination Period | Voting Period | Term Start/End
+-- | -- | -- | -- | --
+CPC Directors | 1 Year | April: 1st & 2nd Week | April: 3rd week | May 1
+CPC Impact | 1 Year | Oct: 1st & 2nd Week | Oct: 3rd week | Nov 1
+CPC At Large  | 1 Year | Oct: 1st & 2nd Week | Oct: 3rd week | Nov 1
+CPC Regular | 1 Year | Oct: 1st & 2nd Week | Oct: 3rd week | Nov 1
+
+Position  | Term Length | Nomination Period | Voting Period | Term Start/End
+-- | -- | -- | -- | --
+CPC Chair  | 1 Year | Nov: 1st Week | Nov: 2nd Week | Nov 15
+CPC Vice Chair  | 1 Year | Nov: 1st Week | Nov: 2nd Week | Nov 15
