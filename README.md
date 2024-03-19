@@ -130,7 +130,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 - **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Living Spec)
 - **Electron**: Erick Zhao ([@erickzhao](https://github.com/erickzhao), Slack) & Michaela Laurencin ([@mlaurencin](https://github.com/mlaurencin), Microsoft)
 - **jQuery**: Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol)) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
-- **Node.js**: Rich Trott([@Trott](https://github.com/Trott), UCSF) & Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+- **Node.js**: Joe Sepi ([@joesepi](https://github.com/joesepi), IBM) & Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
 - **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
  
 #### At Large Project Representatives
@@ -169,7 +169,6 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Marco Ippolito ([@marco-ippolito](https://github.com/marco-ippolito))
-- Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
 - Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
@@ -177,6 +176,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Nitin Kumar ([@snitin315](https://github.com/snitin315))
 - Paula Paul ([@paulapaul](https://github.com/paulapaul))
 - Rick Markins ([@rxmarbles](https://github.com/rxmarbles))
+- Rich Trott ([@Trott](https://github.com/Trott), UCSF)
 - Rifa Achrinza ([@achrinza](https://github.com/achrinza))
 - Ruy Adorno ([@ruyadorno](https://github.com/ruyadorno))
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
