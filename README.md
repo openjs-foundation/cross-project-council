@@ -176,7 +176,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Nitin Kumar ([@snitin315](https://github.com/snitin315))
 - Paula Paul ([@paulapaul](https://github.com/paulapaul))
 - Rick Markins ([@rxmarbles](https://github.com/rxmarbles))
-- Rich Trott ([@Trott](https://github.com/Trott), UCSF)
+- Rich Trott ([@Trott](https://github.com/Trott))
 - Rifa Achrinza ([@achrinza](https://github.com/achrinza))
 - Ruy Adorno ([@ruyadorno](https://github.com/ruyadorno))
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
