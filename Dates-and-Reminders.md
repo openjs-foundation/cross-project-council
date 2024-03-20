@@ -15,3 +15,4 @@ Position  | Term Length | Nomination Period | Voting Period | Term Start/End
 -- | -- | -- | -- | --
 CPC Chair  | 1 Year | Nov: 1st Week | Nov: 2nd Week | Nov 15
 CPC Vice Chair  | 1 Year | Nov: 1st Week | Nov: 2nd Week | Nov 15
+
