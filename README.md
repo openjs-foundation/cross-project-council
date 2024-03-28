@@ -86,11 +86,13 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 
 | Name                                         |  Repository                        | Description                                                     |
 | -------------------------------------------- |:----------------------------------:|-----------------------------------------------------------------|
+| Ecosystem Report                             | [Repository][ecosystem-report]     | JavaScript ecosystem anual end-users poll and report            |
 | Open Visualization (OpenVis)                 | [Repository][openvis]              | Visualization libraries based on JavaScript and WebGL           |
 | Package Metadata Interop                     | [Repository][pkg-metadata-interop] | Interoperability of package.json across the JS ecosystem        |
 | Package Vulnerability Management & Reporting | [Repository][pkg-vuln]             | Package vulnerability management and reporting                  |
 | Security                                     | [Repository][security]             | Documentation and coordination of the Foundation's security effort |
 
+[ecosystem-report]: https://github.com/openjs-foundation/ecosystem-report
 [openvis]: https://github.com/openjs-foundation/openvis-collab-space
 [pkg-metadata-interop]: https://github.com/openjs-foundation/package-metadata-interoperability-collab-space
 [pkg-vuln]: https://github.com/openjs-foundation/pkg-vuln-collab-space
@@ -132,7 +134,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 - **jQuery**: Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol)) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
 - **Node.js**: Joe Sepi ([@joesepi](https://github.com/joesepi), IBM) & Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
 - **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
- 
+
 #### At Large Project Representatives
 
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
@@ -235,9 +237,9 @@ If an Observer fails to meet these expectations they can be excluded from future
 * [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
 * [Working Groups](./governance/WORKING_GROUPS.md)
 
-#### Community Fund 
+#### Community Fund
 
-* [Community / Travel Fund](./community-fund/COMMUNITY_FUND_POLICY.md) - OpenJS Foundation projects and their community members are able to take advantage of our community fund. 
+* [Community / Travel Fund](./community-fund/COMMUNITY_FUND_POLICY.md) - OpenJS Foundation projects and their community members are able to take advantage of our community fund.
 
 ### Policy Change Proposal Process
 
@@ -266,7 +268,7 @@ OpenJS Foundation Collaboration spaces are able to take advantage of several ser
 
 ### Help with project infrastructure
 
-In almost all situations, the best way to get support is to 
+In almost all situations, the best way to get support is to
 [file a ticket with The Linux Foundation](https://members.openjsf.org). For example:
 
 * Requesting DNS changes
