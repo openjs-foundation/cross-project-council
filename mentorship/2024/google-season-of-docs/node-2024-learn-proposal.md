@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Applications of Interest to participate on Google Season of Docs is open! **Please fill out [this form](https://forms.gle/ZCWNoZDdnqxdeJ5WA) if you're interested!**
+
 # Google Season Of Docs 2024 Proposal
 
 The following proposal is intended to be submitted to the 2024 Google Season of Docs program. It follows Google's suggested [template](https://developers.google.com/season-of-docs/docs/org-proposal-template).
