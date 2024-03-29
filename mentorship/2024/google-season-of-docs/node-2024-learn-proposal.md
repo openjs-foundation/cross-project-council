@@ -109,7 +109,7 @@ Every phase expects to have a bi-weekly report that will be shared with the ment
 | Budget Item | Amount | Notes/Justifications |
 |---|---|---|
 | Technical writer's (audit, update, publish of content) | 8000.00 USD | We understand that this technical work will be complex and require a lot of iteration, communication and technical understanding of the Node.js project. Hence we believe the writer should be paid accordingly |
-| Node.js mentors | 2x 500.00 USD | We expect to have up to 3 main mentors that are leading the communication and the program management of this project |
+| Node.js mentors | 2x 500.00 USD | We expect to have up to 2 main mentors that are leading the communication and the program management of this project |
 | OpenJS Foundation stipend | 1000.00 USD | This budget is used to dispurse to the OpenJS Foundation relevant projects that are being involved (Donation to the Foundation's project, such as Node.js) |
 | Design, Marketing stipend | 1000.00 USD | This budget is used for any professional marketing, design, web development or graphical design needed to achieve the goals placed by the technical writer / mentors of the project. Note that this budget might not be used at all, or just a % of the allocated budget might be used. |
 | Project SWAG | 200.00 USD | This budget is used for t-shirts, stickers and other swag given to technical writer and main volunteers that took part of the project. Note that this is an estipulation and might not be used by its enterity. |
