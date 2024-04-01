@@ -217,6 +217,7 @@ It is expected that incubating project will make an active effort to work throug
 
 1. consensus within private mailing list to move into incubation process
 
+<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/02-project-sunsetting-checklist-template.md` is updated as well -->
 ### End of Life
 
 #### Definition
