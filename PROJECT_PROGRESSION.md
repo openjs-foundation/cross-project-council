@@ -199,26 +199,6 @@ To graduate from At Large stage or for a new project to join as an Impact projec
  * Receive a supermajority vote from the CPC to move to Impact stage. Projects can move directly from At Large to Impact, if they can demonstrate sufficient maturity and have met all requirements. 
 
 
-### Emeritus Stage
-
-#### Definition
-
-Emeritus projects are projects which the maintainers feel have reached or are nearing end-of-life. Emeritus projects have contributed to the ecosystem, but are not necessarily recommended for modern development as there may be more actively maintained choices. The Foundation appreciates the contributions of these projects and their communities, and the role they have played in moving the ecosystem forward. 
-
-#### Examples
-
-1. Projects that are "complete" by the maintainers' standards.
-1. Projects that do not plan to release major versions in the future.
-
-#### Expectations
-
-Projects in this stage are not in active development. Their maintainers may infrequently monitor their repositories, and may only push updates to address security issues, if at all. Emeritus projects should clearly state their status and what any user or contributor should expect in terms of response or support. If there is an alternative project the maintainers recommend, it should be listed as well. The foundation will continue to hold the IP and any trademarks and domains, but the project does not draw on foundation resources. 
-
-#### Acceptance Criteria
-
-Projects may be granted Emeritus status through CPC consensus and with the approval of the maintainers of the project.
-In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to Emeritus stage, the CPC may proceed with the stage change without approval from the maintainers.
-
 ### Incubating
 
 #### Definition
@@ -237,6 +217,33 @@ It is expected that incubating project will make an active effort to work throug
 
 1. consensus within private mailing list to move into incubation process
 
+### End of Life
+
+#### Definition
+
+When an OpenJS software project reaches its end of life, it means that the developers responsible for it will no longer provide support, updates, patches, or enhancements for that version of the software. This includes security updates. The software doesn't disappear; it remains functional but won't receive any further official updates or fixes.
+
+In most cases, End Of Life (EOL) projects will have a publicly communicated EOL milestone/date, indicating when they will no longer receive support or updates. Once this date is reached, the project should follow the steps outlined in the Archived project checklist.
+
+#### Acceptance Criteria
+
+Projects may be granted End of Life status through CPC consensus and with the approval of the maintainers of the project.
+
+In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to End of Life stage, the CPC may proceed with the stage change without approval from the maintainers.
+
+
+### Archived
+
+When an OpenJS project is Archived, it is typically moved to a storage state where the code and resources remain accessible but are no longer actively developed or maintained. Archiving is often done to projects that are obsolete, have been superseded by newer projects, or are no longer viable to maintain.
+
+Archiving is a way of preserving the historical state of a project for reference, educational purposes, or forking by others interested in reviving or branching the project for new purposes.
+
+#### Acceptance Criteria
+
+Projects may be granted Archived status through CPC consensus and with the approval of the maintainers of the project.
+
+In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to Archived stage, the CPC may proceed with the stage change without approval from the maintainers.
+
 ## IV. Growth Plan
 
 At Large project that are interested in reaching Impact Stage need to develop a growth plan to so do. This plan needs to be developed in collaboration with the CPC and approved by it.
@@ -247,27 +254,98 @@ A project's progress toward its growth plan goals will be reviewed on a regular 
 
 Projects are generally expected to meet their growth plan goals within two years.
 
-## V. Sunsetting Checklist
+## V. End of Life Project Checklist
 
-<!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/02-project-sunsetting-checklist-template.md` is updated as well -->
+Projects that are transitioning to End of Life should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
-This is an informational checklist to help projects move to Emeritus Stage. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desireable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+### Prepare Project For End of Life
 
-- [ ] Decide in collaboration with the CPC whether the project needs to be archived or whether a call for maintenance is warranted
-- [ ] Confirm all official domains that the project owns have been transfered to the OpenJS Foundation
-- [ ] Cancel all cost-incurring infrastructure deployed by the project which is no longer necessary for Emeritus stage
-- [ ] Provide admin access to all infrastructute deployed by the project which isn't cancelled
-- [ ] Update project website, charter, and README to reflect Emeritus Stage
-- [ ] If the project is making a call for maintenance, provide clear way to contact the CPC
-- [ ] Archive the project
-- [ ] Move [project logo](https://github.com/openjs-foundation/artwork) to Emeritus Stage section
-- [ ] Move project logo on OpenJS Foundation website to Emeritus Stage section
-- [ ] Mark project in the [CPC repo's README.md](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/README.md#incubating-projects) as Emeritus
-- [ ] Update security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_SECURITY_REPORTING.md))
+- [ ] Decide in collaboration with the CPC if the project should go through the End of Life process or be directly moved to Archived
+- [ ] Update the README with a prominent notice declaring the project's EOL and the specific date when updates will no longer be made 
+- [ ] Provide a clear explanation for the decision to End of Life the project.
+- [ ]  Consider creating a separate "EOL notice" issue or blog post for wider visibility.  
+
+### Address Usage
+
+- [ ] Offer guidance on migrating to alternative projects that provide similar functionality.
+- [ ] For critical projects, explore creating a long-term support (LTS) branch with limited bug fixes (if feasible).
+
+### Community Communication
+
+- [ ] Notify active contributors and the project community about the EOL decision.
+- [ ] If the project is a dependency for other projects, consider working with their maintainers to find alternatives or update their dependencies.
+
+### Project Updates
+
+- [ ] Create a list of collaborators/contributors in the archived repository for historical reference.
+- [ ] Address any outstanding issues or pull requests with a closing message explaining the EOL status.
+- [ ] Update project website, charter, and README to reflect EOL Stage
+- [ ] Mark project in the CPC repo's README.md as EOL
+- [ ] Update security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/main/PROJECT_SECURITY_REPORTING.md)) (if applicable)
 
 
-## VI. Annual Review Process
+## VI. Archived Project Checklist
 
-The CPC shall develop an annual review process to determine whether projects are in the stage that accurately reflects their needs and goals. 
+Projects that are transitioning to Archived should follow this checklist.  Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+
+### Prepare Project For Archiving
+
+- [ ] Decide in collaboration with the CPC whether the project needs to be Archived or whether a call for maintenance is warranted.
+- [ ] Ensure all critical issues and pull requests are resolved or properly documented.
+- [ ] Before archiving, thoroughly review the repository for any sensitive data such as credentials, API keys, or personal information that should not be publicly archived.
+- [ ] Release a final version of the project, if applicable, marking or tagging it clearly as the last official release.
+
+### Community Communication
+
+- [ ] Announce the intention to archive the project well in advance through all available channels, such as the project's mailing list, social media, and GitHub itself.
+- [ ] Provide a clear explanation for why the project is being archived and, if possible, recommend alternatives or forks.
+- [ ] Open a discussion for community feedback and potential maintainers interested in forking or taking over the project
+
+### Archive Related Materials
+
+- [ ] Ensure all associated documentation, wikis, and websites are updated to reflect the archival status and are stored in a way that remains accessible.
+- [ ] Archive any related repositories, such as examples, plugins, or tools developed alongside the main project.
+
+### Finalize Project on GitHub
+
+- [ ] Update project website, charter, and README to reflect Archived Stage
+- [ ] Use GitHub's built-in archive feature to make the repository read-only, which prevents new issues, pull requests, and pushes while keeping the project accessible for reference.
+- [ ] Update the project's description and website link on GitHub to indicate that it is archived and where to find potential active forks or alternatives.
+ - [ ] Move project logo to Archived Stage section
+ - [ ] Move project logo on OpenJS Foundation website to Archived Stage section
+ - [ ] Mark project in the CPC repo's README.md as Archived
+ - [ ] Update security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/main/PROJECT_SECURITY_REPORTING.md))
+
+### Clean Up
+
+- [ ] Confirm all official domains that the project owns have been transferred to the OpenJS Foundation
+- [ ] Cancel all cost-incurring infrastructure deployed by the project that is no longer necessary for Archived stage
+- [ ] Provide admin access to OpenJS to all infrastructure deployed by the project that isn't canceled
+- [ ] Decide on the future of the project's communication channels (e.g., mailing lists, chat rooms). If closing them, provide guidance on where to go for similar projects or communities.
+
+
+## VII. Annual Review Process
+
+### Annual Foundation Project Health Survey
+
+As part of the yearly rhythm of Foundation and Project communications, the CPC will circulate and collect information from a simple ‘project health survey’ during the month of May  each calendar year. The goals, format, and process for this survey are described below.
+
+#### Annual Project Health Survey Goals
+
+* Foster regular communication between the Foundation, CPC, and participating projects.  
+* Maintain an accurate record of key project maintainers' contact information (GitHub handle and email) for all Foundation-participating projects.
+
+#### Annual Project Health Survey Format and Process
+
+* A Project Health Survey Google Form will be created and shared via a GitHub issue in the CPC repository, email to CPC-private group, and posted to Slack. 
+* The survey will be published yearly, on or before the fifth of May, with a time-bound window for feedback prior to the end of May
+* Projects that do not or are unable to respond by the end of May will be contacted individually to confirm maintainer and operational contacts.
+* The Project Health Survey Google Form will include fields to:
+   * Verify or update their maintainers' contact information (GitHub handle and email).
+   * Raise concerns with the CPC
+   * Provide other relevant information
+* Responses from the Project Health Survey will be delivered to the Foundation and CPC for consideration, including discussions of Archiving and End of Life activities, and proactive support for projects in need.
+
+
 
 [Incubating]: #incubating
