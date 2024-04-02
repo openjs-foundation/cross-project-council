@@ -61,7 +61,7 @@ The Team follows a [Lazy Consensus Seeking][] decision-making model.
 
 Lazy consensus is achieved by making a proposal in a forum that will reach all
 members of the group who should have the opportunity to participate in reaching
-consensus and waiting for an appropriate amount of time for anyone to object.
+consensus and waiting for an appropriate amount of time given the nature of the decision for anyone to object.
 It is not necessary to get explicit approval to proceed from all members,
 silence indicates consent. However, objections must be resolved in order
 to achieve consensus.
