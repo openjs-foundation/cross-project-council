@@ -86,7 +86,7 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 
 | Name                                         |  Repository                        | Description                                                     |
 | -------------------------------------------- |:----------------------------------:|-----------------------------------------------------------------|
-| Ecosystem Report                             | [Repository][ecosystem-report]     | JavaScript ecosystem anual end-users poll and report            |
+| Ecosystem Report                             | [Repository][ecosystem-report]     | JavaScript ecosystem annual end-users poll and report            |
 | Open Visualization (OpenVis)                 | [Repository][openvis]              | Visualization libraries based on JavaScript and WebGL           |
 | Package Metadata Interop                     | [Repository][pkg-metadata-interop] | Interoperability of package.json across the JS ecosystem        |
 | Package Vulnerability Management & Reporting | [Repository][pkg-vuln]             | Package vulnerability management and reporting                  |
