@@ -57,21 +57,7 @@ To improve organizational transparency and collaboration between the CPC and Boa
 
 ## Consensus Seeking Process
 
-The Team follows a [Lazy Consensus Seeking][] decision-making model.
-
-Lazy consensus is achieved by making a proposal in a forum that will reach all
-members of the group who should have the opportunity to participate in reaching
-consensus and waiting for an appropriate amount of time given the nature of the decision for anyone to object.
-It is not necessary to get explicit approval to proceed from all members,
-silence indicates consent. However, objections must be resolved in order
-to achieve consensus.
-
-If a proposal cannot reach a consensus, a group member can call for
-the proposal to be decided by a vote. This should only be done as a last resort
-when consensus cannot be reached after a reasonable period of discussion.
-For all votes, a simple majority of all group voting members for, or against,
-the issue wins. A group voting member may choose to participate in any vote
-through abstention.
+The team follows the [decision-making][cpc charter decision making] and [voting][cpc charter voting] policies described in the charter.
 
 ## Term for Voting Members
 
@@ -233,10 +219,11 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [cpc charter]: ../CPC-CHARTER.md
 [cpc charter term]: ../CPC-CHARTER.md#voting-members
 [CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
+[cpc charter decision making]: ../CPC-CHARTER.md#section-9-decision-making
+[cpc charter voting]: ../CPC-CHARTER.md#section-10-voting
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
 [README]: ../README.md
 [OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/cpc-private.md
-[Lazy Consensus Seeking]: https://community.apache.org/committers/decisionMaking.html#lazy-consensus
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
 [Primary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-primary-cpc-director-as-defined-in-43d-in-the-openjs-foundation-bylaws
 [Secondary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-secondary-cpc-director-as-defined-in-43e-in-theopenjs-foundation-bylaws

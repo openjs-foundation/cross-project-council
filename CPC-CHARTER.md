@@ -176,12 +176,9 @@ The CPC Voting Members will vote on candidates as described in the [Elections][]
 
 ## Section 9. Decision Making
 
-For internal Project decisions, Collaborators shall operate under Lazy Consensus.
-The CPC follows a [Consensus Seeking][] decision making model.
-When an agenda item has appeared to reach a consensus the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
+The CPC follows a Lazy Consensus Seeking decision-making model inspired by the [Apache Software Foundation's model][ASF community].
 
-If an agenda item cannot reach a consensus a CPC member can call for either a closing vote or a vote to table the issue to the next meeting.
-Votes shall follow the procedure described in the [Voting][] section of this charter.
+Lazy consensus is achieved by making a proposal in a forum that will reach all members of the group who should have the opportunity to participate in reaching consensus and waiting for an appropriate amount of time given the nature of the decision for anyone to object. It is not necessary to get explicit approval to proceed from all members, silence indicates consent. However, objections must be resolved in order to achieve consensus.
 
 ## Section 10. Voting
 
@@ -213,7 +210,7 @@ Contributors should rarely be encumbered by the CPC or Board.
 [Foundation bylaws]:  https://bylaws.openjsf.org
 [Voting]:  #section-10-voting
 [Elections]: #section-7-elections
-[Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
+[AS community]: https://community.apache.org/committers/decisionMaking.html#lazy-consensus
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
 [OpenJS Foundation bylaws]: https://bylaws.openjsf.org/
