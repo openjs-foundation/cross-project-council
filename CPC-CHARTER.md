@@ -184,9 +184,9 @@ Lazy consensus is achieved by making a proposal in a forum that will reach all m
 
 Voting should only be done as a last resort.
 
-If an agenda item cannot reach consensus after a reasonable period of discussion, a voting member can call for objections to be overruled through an asynchronous vote. If this call is seconded by another voting member, an asynchronous vote must be organized. For the objections to be overruled, at least 2/3 of all voting members must vote in favor of overruling the objections.
+If a proposal cannot reach consensus after a reasonable period of discussion, a voting member can call for objections to be overruled through an asynchronous vote. If this call is seconded by another voting member, an asynchronous vote must be organized. For the objections to be overruled, at least 2/3 of all voting members must vote in favor of overruling the objections.
 
-This voting process is designed to make it difficult to move an agenda item forward without consensus, but prevent somenone from blocking progress through objections.
+This voting process is designed to make it difficult to move an proposal forward without consensus, but prevent somenone from blocking progress through objections.
 
 ## Section 11. Definitions
 
