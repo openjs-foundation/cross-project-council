@@ -182,14 +182,11 @@ Lazy consensus is achieved by making a proposal in a forum that will reach all m
 
 ## Section 10. Voting
 
-The CPC follows a [Consensus Seeking][] decision making model.
-When an agenda item has appeared to reach a consensus the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
+Voting should only be done as a last resort.
 
-If an agenda item cannot reach a consensus a CPC member can call for either a closing vote or a vote to table the issue to the next meeting.
-The call for a vote must be seconded by a majority of the CPC or else the discussion will continue.
+If an agenda item cannot reach consensus after a reasonable period of discussion, a voting member can call for objections to be overruled through an asynchronous vote. If this call is seconded by another voting member, an asynchronous vote must be organized. For the objections to be overruled, at least 2/3 of all voting members must vote in favor of overruling the objections.
 
-For all votes, a simple majority of all Voting CPC members for, or against, the issue wins.
-A Voting CPC member may choose to participate in any vote through abstention.
+This voting process is designed to make it difficult to move an agenda item forward without consensus, but prevent somenone from blocking progress through objections.
 
 Note that, in addition to requiring a simple majority vote of the CPC Voting CPC members, all changes to this charter are also subject to approval from the OpenJS Foundation board.
 
