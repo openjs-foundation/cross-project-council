@@ -188,8 +188,6 @@ If an agenda item cannot reach consensus after a reasonable period of discussion
 
 This voting process is designed to make it difficult to move an agenda item forward without consensus, but prevent somenone from blocking progress through objections.
 
-Note that, in addition to requiring a simple majority vote of the CPC Voting CPC members, all changes to this charter are also subject to approval from the OpenJS Foundation board.
-
 ## Section 11. Definitions
 
 **Project**: a technical collaboration effort that is organized through the project mentorship process and approved by the CPC.
@@ -202,6 +200,11 @@ Contributors should rarely be encumbered by the CPC or Board.
 **Collaborator**: a Contributor within a Project that has made significant and valuable contributions and has been given commit-access to that Project repository.
 
 **Governing Body**: a  group of Collaborators within a Project elected to represent the Project in an official decision making role as defined in the Project's governance policies.
+
+## Section 12. Changes to this Document
+
+Changes to this document require CPC consensus and approval from the OpenJS Foundation Board.
+
 
 [Foundation mission and vision statements]:  https://openjsf.org/about/
 [Foundation bylaws]:  https://bylaws.openjsf.org
