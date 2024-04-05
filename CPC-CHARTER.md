@@ -208,9 +208,7 @@ Changes to this document require CPC consensus and approval from the OpenJS Foun
 
 [Foundation mission and vision statements]:  https://openjsf.org/about/
 [Foundation bylaws]:  https://bylaws.openjsf.org
-[Voting]:  #section-10.-voting
-[Elections]: #section-7.-elections
-[AS community]: https://community.apache.org/committers/decisionMaking.html#lazy-consensus
+[Elections]: #section-7-elections
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
 [OpenJS Foundation bylaws]: https://bylaws.openjsf.org/
