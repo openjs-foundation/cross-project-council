@@ -14,6 +14,8 @@ This governance policy sets forth the proposal process for projects to be accept
 
 ### Project Lifecycle
 
+```mermaid
+
 flowchart TD
     A((Project Decides\nTo Apply)) --> 
     B(Submit Application)
@@ -30,6 +32,7 @@ flowchart TD
     Graduated --> H([Project Status: EOL])
     H -->I
     Graduated --> I([Project Status: Archived])
+```
 
 ### Project Proposal Requirements
 
