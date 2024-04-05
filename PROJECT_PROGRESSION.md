@@ -12,6 +12,25 @@ Project progression - movement from one stage to another - allows projects to pa
 
 This governance policy sets forth the proposal process for projects to be accepted into the Foundation. The process is the same for both existing projects which seek to move into the Foundation, and new projects to be formed within the Foundation.
 
+### Project Lifecycle
+
+flowchart TD
+    A((Project Decides\nTo Apply)) --> 
+    B(Submit Application)
+    B --> C{CPC Approval?}    
+    C --> |No|A
+    C --> |Yes|D([Project Status: Incubating])
+    D --> E{Complete Onboarding\n Checklist?}
+    E --> |Yes|F([Project Status: Graduated])
+    F --> Graduated 
+    subgraph Graduated
+       direction LR
+       a([Project Status: At Large]) <--> b([Project Status: Impact])
+    end
+    Graduated --> H([Project Status: EOL])
+    H -->I
+    Graduated --> I([Project Status: Archived])
+
 ### Project Proposal Requirements
 
 New projects should express interest to join the OpenJS Foundation via an email to new-projects@lists.openjsf.org with a filled-out [Project Application Template](./NEW_PROJECT_APPLICATION.md). The initial application will have a silent period for internal only discussion. It's worth noting that this is not a commitment to transfer IP, but rather an initial exploration - IP transfer would happen once the project is moved into incubation. If your application is denied during this phase you will be notified privately. If there are no objections to the application, projects will given an `incubation` status and begin the on-boarding process. **Note** the `incubation` status is temporary as we determine if the project is a good fit. At any time during the `incubation` process a project can withdraw either voluntarily or at the request of the CPC.
@@ -218,28 +237,38 @@ It is expected that incubating project will make an active effort to work throug
 1. consensus within private mailing list to move into incubation process
 
 <!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/02-project-sunsetting-checklist-template.md` is updated as well -->
-### End of Life
 
-#### Definition
+### Sunsetting Projects
 
-When an OpenJS software project reaches its end of life, it means that the developers responsible for it will no longer provide support, updates, patches, or enhancements for that version of the software. This includes security updates. The software doesn't disappear; it remains functional but won't receive any further official updates or fixes.
+Projects that are being sunset fall into two statuses: End Of Life and Archived.
 
-In most cases, End Of Life (EOL) projects will have a publicly communicated EOL milestone/date, indicating when they will no longer receive support or updates. Once this date is reached, the project should follow the steps outlined in the Archived project checklist.
+| Stage | Feature Development | Security patching |
+|-------|----------------------|--------------------|
+| End Of Life | ❌ | ✅ |
+| Archived | ❌ |  ❌ |
 
-#### Acceptance Criteria
+#### End Of Life
+
+##### Definition
+
+An OpenJS software project is in End Of Life, when the developers responsible for it are no longer providing feature development or enhancements and are solely providing security updates. The software doesn't disappear; it remains functional but is not under active development.
+
+End Of Life projects should have a publicly communicated milestone/date, indicating when all activity on the project will cease. Once this date is reached, the project should follow the steps outlined in the Archived project checklist.
+
+##### Acceptance Criteria
 
 Projects may be granted End of Life status through CPC consensus and with the approval of the maintainers of the project.
 
-In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to End of Life stage, the CPC may proceed with the stage change without approval from the maintainers.
+In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to End of Life stage, the CPC may proceed with the stage change to either End of Life or Archived without approval from the maintainers.
 
 
-### Archived
+#### Archived
 
 When an OpenJS project is Archived, it is typically moved to a storage state where the code and resources remain accessible but are no longer actively developed or maintained. Archiving is often done to projects that are obsolete, have been superseded by newer projects, or are no longer viable to maintain.
 
 Archiving is a way of preserving the historical state of a project for reference, educational purposes, or forking by others interested in reviving or branching the project for new purposes.
 
-#### Acceptance Criteria
+##### Acceptance Criteria
 
 Projects may be granted Archived status through CPC consensus and with the approval of the maintainers of the project.
 
