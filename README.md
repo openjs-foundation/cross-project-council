@@ -171,6 +171,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Marco Ippolito ([@marco-ippolito](https://github.com/marco-ippolito))
+- Mert Can Altin ([@mertcanaltin](https://github.com/mertcanaltin))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
 - Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
