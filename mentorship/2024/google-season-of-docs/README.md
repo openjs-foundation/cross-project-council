@@ -37,47 +37,9 @@ If you would like to submit a proposal for an initiative that you would like to 
 ```
 
 
-## Projects
+## 2024 Selected Project
 
-### Project Idea: Node.js Undici Documentation Improvement
-
-#### Problem
-Node.js Undici is a high-performance HTTP/1.1 client with connection pooling, KeepAlive, and more, providing a low-level HTTP client API. However, its documentation lacks completeness, clarity, and examples, which makes it challenging for developers to understand and utilize the full potential of Undici effectively.
-
-#### How would we measure success?
-Success can be measured by:
-- Improved documentation completeness, covering all aspects of Undici's functionality.
-- Enhanced clarity, ensuring that developers can easily understand the concepts and usage of Undici.
-- Increased usage and adoption of Undici due to improved documentation quality.
-- Positive feedback and reduced queries related to Undici usage on community forums and GitHub issues.
-
-#### What skills would a technical writer need to work on this project?
-- Proficiency in understanding technical concepts related to HTTP/1.1 clients, connection pooling, KeepAlive, and related networking topics.
-- Ability to translate complex technical information into clear and concise documentation suitable for developers of varying skill levels.
-- Experience writing code examples and tutorials for Node.js/JavaScript.
-- Familiarity with Markdown for documentation formatting.
-- Strong communication skills to collaborate with developers, gather feedback, and iterate on documentation improvements.
-
-#### Expected outcomes:
-
-* **Must Have**
-  - Comprehensive documentation covering Undici's features, including detailed explanations and usage examples.
-  - Clear and concise API reference documentation.
-  - Tutorials and guides for common Undici usage scenarios.
-  - Improved organization and navigation within the documentation to enhance usability.
-
-* **Nice To Have**
-  - Contributions to Undici's official website for seamless integration of the updated documentation.
-  - Interactive examples or demos showcasing Undici's capabilities.
-  - Better/Newer website (e.g. Docusaurus or Next.js based) 
-
-#### Volunteers / Mentors
-- Lead Mentor: [Matteo Collina](https://github.com/mcollina)
-- Co-Mentor: [Ethan Arrowood](https://github.com/ethan-arrowood)
-
-#### Contact info
-For inquiries or to express interest in contributing, please reach out to hello AT matteocollina.com. You can also join the Node.js Undici community on GitHub or the OpenJS Slack for discussions and support.
-
+See formal [Google proposal](https://github.com/openjs-foundation/cross-project-council/blob/main/mentorship/2024/google-season-of-docs/node-2024-learn-proposal.md) for more information.
 
 ### Project Idea: Node.js Learn -- Creating World-class Learning material for Node.js
 
@@ -145,6 +107,50 @@ Inquiries should, in general, be made through [OpenJS's Slack](https://openjsf.o
 or through direct contact with the mentors through OpenJS's Slack or an e-mail to `cwunder@gnome.org`
 
 ---
+
+## Submission Archive (Not Selected)
+
+### Project Idea: Node.js Undici Documentation Improvement
+
+#### Problem
+Node.js Undici is a high-performance HTTP/1.1 client with connection pooling, KeepAlive, and more, providing a low-level HTTP client API. However, its documentation lacks completeness, clarity, and examples, which makes it challenging for developers to understand and utilize the full potential of Undici effectively.
+
+#### How would we measure success?
+Success can be measured by:
+- Improved documentation completeness, covering all aspects of Undici's functionality.
+- Enhanced clarity, ensuring that developers can easily understand the concepts and usage of Undici.
+- Increased usage and adoption of Undici due to improved documentation quality.
+- Positive feedback and reduced queries related to Undici usage on community forums and GitHub issues.
+
+#### What skills would a technical writer need to work on this project?
+- Proficiency in understanding technical concepts related to HTTP/1.1 clients, connection pooling, KeepAlive, and related networking topics.
+- Ability to translate complex technical information into clear and concise documentation suitable for developers of varying skill levels.
+- Experience writing code examples and tutorials for Node.js/JavaScript.
+- Familiarity with Markdown for documentation formatting.
+- Strong communication skills to collaborate with developers, gather feedback, and iterate on documentation improvements.
+
+#### Expected outcomes:
+
+* **Must Have**
+  - Comprehensive documentation covering Undici's features, including detailed explanations and usage examples.
+  - Clear and concise API reference documentation.
+  - Tutorials and guides for common Undici usage scenarios.
+  - Improved organization and navigation within the documentation to enhance usability.
+
+* **Nice To Have**
+  - Contributions to Undici's official website for seamless integration of the updated documentation.
+  - Interactive examples or demos showcasing Undici's capabilities.
+  - Better/Newer website (e.g. Docusaurus or Next.js based) 
+
+#### Volunteers / Mentors
+- Lead Mentor: [Matteo Collina](https://github.com/mcollina)
+- Co-Mentor: [Ethan Arrowood](https://github.com/ethan-arrowood)
+
+#### Contact info
+For inquiries or to express interest in contributing, please reach out to hello AT matteocollina.com. You can also join the Node.js Undici community on GitHub or the OpenJS Slack for discussions and support.
+
+
+
 
 ## Resources
 
