@@ -29,10 +29,17 @@ flowchart TD
        direction LR
        a([Project Status: At Large]) <--> b([Project Status: Impact])
     end
-    Graduated --> H([Project Status: EOL])
+    Graduated --> H([Project Status: Complete])
     H -->I
     Graduated --> I([Project Status: Archived])
 ```
+
+#### Project Stages
+| Stage | New Feature Development | Vulnerability & Bug fixes |
+|-------|---------------------|--------------|
+| Active (At Large/Impact) | ✅ | ✅ | 
+| Complete | ❌ | ✅ |
+| Archived | ❌ | ❌ |
 
 ### Project Proposal Requirements
 
@@ -243,26 +250,22 @@ It is expected that incubating project will make an active effort to work throug
 
 ### Sunsetting Projects
 
-Projects that are being sunset fall into two statuses: End Of Life and Archived.
+Projects that are being sunset fall into two statuses: Complete and Archived.
 
-| Stage | Feature Development | Security patching |
-|-------|----------------------|--------------------|
-| End Of Life | ❌ | ✅ |
-| Archived | ❌ |  ❌ |
 
-#### End Of Life
+#### Complete
 
 ##### Definition
 
-An OpenJS software project is in End Of Life, when the developers responsible for it are no longer providing feature development or enhancements and are solely providing security updates. The software doesn't disappear; it remains functional but is not under active development.
+An OpenJS software project is Complete, when the developers responsible for it are no longer providing feature development or enhancements and are solely providing security updates and bug fixes. The software doesn't disappear; it remains functional but is not under active development.
 
-End Of Life projects should have a publicly communicated milestone/date, indicating when all activity on the project will cease. Once this date is reached, the project should follow the steps outlined in the Archived project checklist.
+If a Complete project plans to cease security updates and bug fixes it should have a publicly communicated milestone/date, indicating when all activity on the project will cease. Once this date is reached, the project should follow the steps outlined in the Archived project checklist.
 
 ##### Acceptance Criteria
 
-Projects may be granted End of Life status through CPC consensus and with the approval of the maintainers of the project.
+Projects may be granted Complete status through CPC consensus and with the approval of the maintainers of the project.
 
-In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to End of Life stage, the CPC may proceed with the stage change to either End of Life or Archived without approval from the maintainers.
+In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to Complete stage, the CPC may proceed with the stage change to either Complete or Archived without approval from the maintainers.
 
 
 #### Archived
@@ -287,39 +290,40 @@ A project's progress toward its growth plan goals will be reviewed on a regular 
 
 Projects are generally expected to meet their growth plan goals within two years.
 
-## V. End of Life Project Checklist
+## V. Complete Project Checklist
 
-Projects that are transitioning to End of Life should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+Projects that are transitioning to Complete should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
-### Prepare Project For End of Life
+### Prepare Project For Complete
 
-- [ ] Decide in collaboration with the CPC if the project should go through the End of Life process or be directly moved to Archived
-- [ ] Update the README with a prominent notice declaring the project's EOL and the specific date when updates will no longer be made 
-- [ ] Provide a clear explanation for the decision to End of Life the project.
-- [ ]  Consider creating a separate "EOL notice" issue or blog post for wider visibility.  
+- [ ] Decide in collaboration with the CPC if the project should go through the Complete phase or be directly moved to Archived
+- [ ] Update the README with a prominent notice declaring the project to be "Complete" and what kind of updates the project will continue to receive
+- [ ] If all updates to the project are planned to eventually stop, provide a date when this would occur
+- [ ] Provide a clear explanation for the decision to cease active developement on the project.
+- [ ] Consider creating a separate notice, issue, or blog post for wider visibility.  
 
 ### Address Usage
 
-- [ ] Offer guidance on migrating to alternative projects that provide similar functionality.
-- [ ] For critical projects, explore creating a long-term support (LTS) branch with limited bug fixes (if feasible).
+- [ ] If applicable, offer guidance on migrating to alternative projects that provide similar functionality.
+- [ ] For critical projects, explore creating a long-term support (LTS) branch  
 
 ### Community Communication
 
-- [ ] Notify active contributors and the project community about the EOL decision.
-- [ ] If the project is a dependency for other projects, consider working with their maintainers to find alternatives or update their dependencies.
+- [ ] Notify active contributors and the project community about the decision.
+- [ ] If the project is a dependency for other projects, if applicable, consider working with their maintainers to find alternatives or update their dependencies.
 
 ### Project Updates
 
-- [ ] Create a list of collaborators/contributors in the archived repository for historical reference.
-- [ ] Address any outstanding issues or pull requests with a closing message explaining the EOL status.
-- [ ] Update project website, charter, and README to reflect EOL Stage
-- [ ] Mark project in the CPC repo's README.md as EOL
+- [ ] Create a list of collaborators/contributors in the repository for historical reference.
+- [ ] Address any outstanding issues or pull requests with a closing message explaining the status.
+- [ ] Update project website, charter, and README to reflect the Stage
+- [ ] Mark project in the CPC repo's README.md as "Complete"
 - [ ] Update security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/main/PROJECT_SECURITY_REPORTING.md)) (if applicable)
 
 
 ## VI. Archived Project Checklist
 
-Projects that are transitioning to Archived should follow this checklist.  Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+Projects that are transitioning to Archived should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
 ### Prepare Project For Archiving
 
@@ -377,7 +381,7 @@ As part of the yearly rhythm of Foundation and Project communications, the CPC w
    * Verify or update their maintainers' contact information (GitHub handle and email).
    * Raise concerns with the CPC
    * Provide other relevant information
-* Responses from the Project Health Survey will be delivered to the Foundation and CPC for consideration, including discussions of Archiving and End of Life activities, and proactive support for projects in need.
+* Responses from the Project Health Survey will be delivered to the Foundation and CPC for consideration, including discussions of Archiving and Complete activities, and proactive support for projects in need.
 
 
 
