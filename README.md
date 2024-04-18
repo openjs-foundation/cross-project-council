@@ -59,7 +59,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project WebdriverIO" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/webdriverio/webdriverio-icon-color.svg" width="30" /> | [WebdriverIO](https://webdriver.io/)    | [Charter](https://github.com/webdriverio/webdriverio/blob/HEAD/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/webdriverio/webdriverio/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project webhint" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/webhint/webhint-icon-color.svg" width="30" /> | [webhint](https://webhint.io/)          |    | [Contributing Guide](https://github.com/webhintio/hint/blob/HEAD/.github/CONTRIBUTING.md) |
 
-#### Emeritus Projects
+#### Archived Projects
 
 | | Project        | Charter           | Contributing       |
 |-|----------------|:-----------------:|:------------------:|
