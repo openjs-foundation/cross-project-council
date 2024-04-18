@@ -27,10 +27,9 @@ flowchart TD
     F --> Graduated 
     subgraph Graduated
        direction LR
-       a([Project Status: At Large]) <--> b([Project Status: Impact])
+       a([Project Status: Impact]) <--> b([Project Status: At Large])
+       b <--> c([Project Status: Complete])
     end
-    Graduated --> H([Project Status: Complete])
-    H -->I
     Graduated --> I([Project Status: Archived])
 ```
 
@@ -232,7 +231,7 @@ To graduate from At Large stage or for a new project to join as an Impact projec
 
 #### Definition
 
-Incubating projects are projects that are in the process of completing their on-boarding checklist to join the foundation. Projects in this phase may be looking to join the foundation as At-Large or Impact Stage. Members of incubating projects are invited to join Cross Project Council meetings as a guest, please refer to the [CPC Charter](./CPC-CHARTER.md) for details on how guests may participate in the meetings.
+Incubating projects are projects that are in the process of completing their on-boarding checklist to join the foundation. Projects in this phase may be looking to join the foundation as At-Large, Impact, or Complete Stage. Members of incubating projects are invited to join Cross Project Council meetings as a guest, please refer to the [CPC Charter](./CPC-CHARTER.md) for details on how guests may participate in the meetings.
 
 #### Examples
 
