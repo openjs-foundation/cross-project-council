@@ -6,18 +6,18 @@ If you want to report an incident, go to [code-of-conduct.openjsf.org][CoC].
 
 # Code of Conduct Team Charter
 
-The Cross Project Council (CPC) delegates enforcement of the [Code of Conduct](CoC) to the Code of Conduct Team (CoC Team) through this Code of Conduct Team Charter. This charter defines the composition and roles of the CoC Team, along with CoC team responsibilities and operations.
+The Cross Project Council (CPC) delegates enforcement of the [Code of Conduct][CoC] to the Code of Conduct Team (CoC Team) through this Code of Conduct Team Charter. This charter defines the composition and roles of the CoC Team, along with CoC team responsibilities and operations.
 
 ## Responsibilities
 
 The CoC Team's responsibilities are to:
 
-- Handle code of conduct [incident reports](incident report).
-- Handle code of conduct [escalation requests](escalation).
-- Handle code of conduct [appeals](appeal).
+- Handle code of conduct [incident reports][incident report].
+- Handle code of conduct [escalation requests][escalation].
+- Handle code of conduct [appeals][appeal].
 - Keep the CPC up to date on cases requiring the CPC's attention.
 - Provide regular transparency reports to the CPC.
-- Uphold this charter, the [code of conduct](CoC), and the [code of conduct policy](CoC Policy).
+- Uphold this charter, the [code of conduct][CoC], and the [code of conduct policy][CoC Policy].
 
 ## CoC Team Structure
 
@@ -33,7 +33,7 @@ The five primary members are:
 * The OpenJS Foundation Communications Manager
 * Three (3) community members
 
-The name and email address of the primary members are documented in the [code of conduct](primary members).
+The name and email address of the primary members are documented in the [code of conduct][primary members].
 
 ### Alternate community members
 
@@ -53,8 +53,8 @@ Candidates must meet the [eligibility requirements](#eligibility).
 
 Primary and alternate community members of the CoC Team must: 
 
-* Commit to uphold the Foundation's [Code of Conduct](CoC)
-* Commit to uphold the Foundation's [Code of Conduct Policy](CoC Policy)
+* Commit to uphold the Foundation's [Code of Conduct][CoC]
+* Commit to uphold the Foundation's [Code of Conduct Policy][CoC Policy]
 * Commit to uphold this charter
 * Be willing to treat every accused individual in the same way regardless of the impact of their contributions to open source
 
@@ -76,7 +76,7 @@ Appeals to responses provided by the CoC Team itself should be handled by a diff
 
 ## Decision making process
 
-The CoC Team uses the Cross Project Council's [Decision Making Process](decision-making).
+The CoC Team uses the Cross Project Council's [Decision Making Process][decision-making].
 
 
 [CoC]: https://code-of-conduct.openjsf.org/
