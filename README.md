@@ -174,6 +174,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
 - Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
+- Natalia Venditto ([@anfibiacreativa](https://github.com/anfibiacreativa))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Nitin Kumar ([@snitin315](https://github.com/snitin315))
 - Paula Paul ([@paulapaul](https://github.com/paulapaul))
