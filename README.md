@@ -46,6 +46,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project Interledger.js" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/interledgerjs/interledgerjs-icon-color.svg" width="30" /> | [Interledger.js](https://interledger.org/) |    | [Contributing Guide](https://github.com/interledger/rfcs/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Intern" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/intern/intern-icon-color.svg" width="30" /> | [Intern](https://theintern.github.io/)  |    | [Contributing Guide](https://github.com/theintern/intern/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project JerryScript" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jerryscript/jerryscript-icon-color.svg" width="30" /> | [JerryScript](https://jerryscript.net/)    |    | [Contributing Guide](https://github.com/jerryscript-project/jerryscript/blob/HEAD/CONTRIBUTING.md) |
+| <img alt="logo of project Jest" src="https://raw.githubusercontent.com/facebook/jest/main/website/static/img/jest.svg" width="30" />  | [Jest](https://jestjs.io/) | [Charter](https://github.com/jestjs/jest/blob/main/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/facebook/jest#contributing) |
 | <img alt="logo of project Lodash" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/lodash/lodash-icon-color.svg" width="30" /> | [Lodash](https://lodash.com/)              |    | [Contributing Guide](https://github.com/lodash/lodash/blob/HEAD/.github/CONTRIBUTING.md) |
 | <img alt="logo of project LoopBack" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/loopback/mark/blue/loopback.svg" width="30" /> | [LoopBack](https://loopback.io) |   | [Contributing Guide](https://github.com/loopbackio/loopback-next/blob/HEAD/docs/CONTRIBUTING.md) |
 | <img alt="logo of project Marko" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/marko/marko-icon-color.svg" width="30" /> | [Marko](https://markojs.com/)              |    | [Contributing Guide](https://github.com/marko-js/marko/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -74,7 +75,6 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | | Project        | Charter           | Contributing       |
 |-|----------------|:-----------------:|:------------------:|
 | <img alt="logo of project ajv" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/ajv/ajv-logo-color.svg" width="30" />  | [Ajv](https://ajv.js.org/) |   | [Contributing Guide](https://ajv.js.org/contributing) |
-| <img alt="logo of project Jest" src="https://raw.githubusercontent.com/facebook/jest/main/website/static/img/jest.svg" width="30" />  | [Jest](https://jestjs.io/) |   | [Contributing Guide](https://github.com/facebook/jest#contributing) |
 |   | [kepler.gl](https://kepler.gl/) |   | [Contributing Guide](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing) |
 | <img alt="logo of project NativeScript" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/nativescript/nativescript-icon-color.svg" width="30" /> | [NativeScript](https://nativescript.org/) |   | [Contributing Guide](https://github.com/NativeScript/NativeScript/blob/HEAD/tools/notes/CONTRIBUTING.md) |
 |   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) |
@@ -175,6 +175,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
 - Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
+- Natalia Venditto ([@anfibiacreativa](https://github.com/anfibiacreativa))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Nitin Kumar ([@snitin315](https://github.com/snitin315))
 - Paula Paul ([@paulapaul](https://github.com/paulapaul))
