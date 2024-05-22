@@ -168,6 +168,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Ethan Arrowood ([@Ethan-Arrowood](https://github.com/Ethan-Arrowood))
 - Even Stensberg ([@evenstensberg](https://github.com/evenstensberg))
 - Jean Burellier ([@sheplu](https://github.com/sheplu))
+- Jon Church ([@jonchurch](https://github.com/jonchurch))
 - Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Marco Ippolito ([@marco-ippolito](https://github.com/marco-ippolito))
