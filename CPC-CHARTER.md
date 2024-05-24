@@ -176,25 +176,17 @@ The CPC Voting Members will vote on candidates as described in the [Elections][]
 
 ## Section 9. Decision Making
 
-For internal Project decisions, Collaborators shall operate under Lazy Consensus.
-The CPC follows a [Consensus Seeking][] decision making model.
-When an agenda item has appeared to reach a consensus the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
+The CPC follows a Lazy Consensus Seeking decision-making model inspired by the [Apache Software Foundation's model][ASF community].
 
-If an agenda item cannot reach a consensus a CPC member can call for either a closing vote or a vote to table the issue to the next meeting.
-Votes shall follow the procedure described in the [Voting][] section of this charter.
+Lazy consensus is achieved by making a proposal in a forum that will reach all members of the group who should have the opportunity to participate in reaching consensus and waiting for an appropriate amount of time given the nature of the decision for anyone to object. It is not necessary to get explicit approval to proceed from all members, silence indicates consent. However, objections must be resolved in order to achieve consensus.
 
 ## Section 10. Voting
 
-The CPC follows a [Consensus Seeking][] decision making model.
-When an agenda item has appeared to reach a consensus the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
+Voting should only be done as a last resort.
 
-If an agenda item cannot reach a consensus a CPC member can call for either a closing vote or a vote to table the issue to the next meeting.
-The call for a vote must be seconded by a majority of the CPC or else the discussion will continue.
+If a proposal cannot reach consensus after a reasonable period of discussion, a voting member can call for objections to be overruled through an asynchronous vote. If this call is seconded by another voting member, an asynchronous vote must be organized. For the objections to be overruled, at least 2/3 of all voting members must vote in favor of overruling the objections.
 
-For all votes, a simple majority of all Voting CPC members for, or against, the issue wins.
-A Voting CPC member may choose to participate in any vote through abstention.
-
-Note that, in addition to requiring a simple majority vote of the CPC Voting CPC members, all changes to this charter are also subject to approval from the OpenJS Foundation board.
+This voting process is designed to make it difficult to move a proposal forward without consensus, but prevent somenone from blocking progress through objections.
 
 ## Section 11. Definitions
 
@@ -209,11 +201,14 @@ Contributors should rarely be encumbered by the CPC or Board.
 
 **Governing Body**: a  group of Collaborators within a Project elected to represent the Project in an official decision making role as defined in the Project's governance policies.
 
+## Section 12. Changes to this Document
+
+Changes to this document require CPC consensus and approval from the OpenJS Foundation Board.
+
+
 [Foundation mission and vision statements]:  https://openjsf.org/about/
 [Foundation bylaws]:  https://bylaws.openjsf.org
-[Voting]:  #section-10-voting
 [Elections]: #section-7-elections
-[Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
 [OpenJS Foundation bylaws]: https://bylaws.openjsf.org/

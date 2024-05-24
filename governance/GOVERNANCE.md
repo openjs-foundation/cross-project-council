@@ -57,17 +57,7 @@ To improve organizational transparency and collaboration between the CPC and Boa
 
 ## Consensus Seeking Process
 
-The Team follows a [Consensus Seeking][] decision-making model.
-
-When an agenda item has appeared to reach a consensus, the moderator
-will ask "Does anyone object?" as a final call for dissent from the
-consensus.
-
-If an agenda item cannot reach a consensus, a Team member can call for
-the item to be decided by a vote or to table the issue to the next
-meeting. In both cases the decision must be seconded by a majority of the Team
-or else the discussion will continue. Simple majority wins. Only Active
-Members participate in a vote.
+The team follows the [decision-making][cpc charter decision making] and [voting][cpc charter voting] policies described in the charter.
 
 ## Term for Voting Members
 
@@ -229,10 +219,11 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [cpc charter]: ../CPC-CHARTER.md
 [cpc charter term]: ../CPC-CHARTER.md#voting-members
 [CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
+[cpc charter decision making]: ../CPC-CHARTER.md#section-9-decision-making
+[cpc charter voting]: ../CPC-CHARTER.md#section-10-voting
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
 [README]: ../README.md
 [OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/cpc-private.md
-[Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
 [Primary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-primary-cpc-director-as-defined-in-43d-in-the-openjs-foundation-bylaws
 [Secondary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-secondary-cpc-director-as-defined-in-43e-in-theopenjs-foundation-bylaws
