@@ -245,7 +245,7 @@ If an Observer fails to meet these expectations they can be excluded from future
 
 #### OpenJS Ecosystem Sustainability Program 
 
-* [OpenJS Ecosystem Sustainability Program](./project-resources/ESP/ECOSYSTEM_SUSTAINABILITY_PROGRAM.md) - The Ecosystem Sustainability Program is an opt-in OpenJS partner program to help secure outdated software and create new revenue streams for our projects and commercial participants.  
+* [OpenJS Ecosystem Sustainability Program](./project-resources/ESP/ECOSYSTEM_SUSTAINABILITY_PROGRAM.md) - The Ecosystem Sustainability Program is an opt-in OpenJS partner program to help secure outdated software and create new revenue streams for our projects.
 
 ### Policy Change Proposal Process
 

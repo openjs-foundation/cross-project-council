@@ -2,7 +2,7 @@
 
 ## Summary 
 
-The Ecosystem Sustainability Program is an opt-in OpenJS partner program to help secure outdated software and create new revenue streams for our projects and commercial participants.  
+The Ecosystem Sustainability Program is an opt-in OpenJS partner program to help secure outdated software and create new revenue streams for our projects. Working in partnership with the Foundation and participating projects, ESP partners provide a revenue share based on sales generated through co-marketing efforts. 
 
 ## Benefits
 
