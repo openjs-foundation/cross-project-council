@@ -160,7 +160,6 @@ The pull request may be fast-tracked if two CPC members approve the fast-trackin
 CPC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
 
 [cpc repo]: https://github.com/openjs-foundation/cross-project-council
-[cpc charter]: ../CPC-CHARTER.md
 [CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
 [cpc charter decision making]: ../CPC-CHARTER.md#section-9-decision-making
 [cpc charter voting]: ../CPC-CHARTER.md#section-10-voting
