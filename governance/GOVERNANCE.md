@@ -161,7 +161,6 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 
 [cpc repo]: https://github.com/openjs-foundation/cross-project-council
 [cpc charter]: ../CPC-CHARTER.md
-[cpc charter term]: ../CPC-CHARTER.md#voting-members
 [CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
 [cpc charter decision making]: ../CPC-CHARTER.md#section-9-decision-making
 [cpc charter voting]: ../CPC-CHARTER.md#section-10-voting
