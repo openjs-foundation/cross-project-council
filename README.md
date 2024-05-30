@@ -243,6 +243,10 @@ If an Observer fails to meet these expectations they can be excluded from future
 
 * [Community / Travel Fund](./community-fund/COMMUNITY_FUND_POLICY.md) - OpenJS Foundation projects and their community members are able to take advantage of our community fund.
 
+#### OpenJS Ecosystem Sustainability Program 
+
+* [OpenJS Ecosystem Sustainability Program](./project-resources/ESP/ECOSYSTEM_SUSTAINABILITY_PROGRAM.md) - The Ecosystem Sustainability Program is an opt-in OpenJS partner program to help secure outdated software and create new revenue streams for our projects.
+
 ### Policy Change Proposal Process
 
 The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projects, Collaboration spaces and Working Groups under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Collaboration spaces. Projects have broad powers of self-governance.
