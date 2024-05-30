@@ -61,7 +61,7 @@ The team follows the [decision-making][cpc charter decision making] and [voting]
 
 ## Elections
 
-Elections are organized by the OpenJSF Program Directior, following the [election calendar](https://github.com/openjs-foundation/cross-project-council/blob/main/Dates-and-Reminders.md#elections-calendar) and the policies defined in the [CPC charter][cpc charter].
+Elections are organized by the OpenJSF Program Director, following the [election calendar](https://github.com/openjs-foundation/cross-project-council/blob/main/Dates-and-Reminders.md#elections-calendar) and the policies defined in the [CPC charter][cpc charter].
 
 ## Approving and Onboarding Regular Members
 
