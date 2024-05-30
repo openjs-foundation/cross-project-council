@@ -61,7 +61,7 @@ The team follows the [decision-making][cpc charter decision making] and [voting]
 
 ## Elections
 
-Elections are organized by the OpenJSF Program Director, following the [election calendar](https://github.com/openjs-foundation/cross-project-council/blob/main/Dates-and-Reminders.md#elections-calendar) and the policies defined in the [CPC charter][cpc charter].
+Elections are organized by the OpenJSF Program Director, following the [election calendar][] and the policies defined in the [CPC charter][cpc charter elections].
 
 ## Approving and Onboarding Regular Members
 
@@ -164,6 +164,8 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
 [cpc charter decision making]: ../CPC-CHARTER.md#section-9-decision-making
 [cpc charter voting]: ../CPC-CHARTER.md#section-10-voting
+[cpc charter elections]: ../CPC-CHARTER.md#section-7-elections
+[election calendar]: ../Dates-and-Reminders.md#elections-calendar
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
 [README]: ../README.md
 [OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/cpc-private.md
