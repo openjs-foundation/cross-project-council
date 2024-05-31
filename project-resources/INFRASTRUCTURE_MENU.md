@@ -21,6 +21,9 @@ The OpenJS Foundation can either manage your DNS for you, or delegate to one of 
 ## SSL Certificates
 The OpenJS Foundation will purchase 2-year wildcard SSL certs for each project's managed domains as needed.
 
+## Software Signing Certificates
+The OpenJS Foundation can purchase software signing certificates for Apple and Windows (via DigiCert).
+
 ## Source Control
 By default all OpenJS Foundation projects have open source repositories in their own GitHub Organizations. The OpenJS Foundation admin account must be added as administrator for each repository. Two-factor authentication must be required for everyone in the organization.
 
