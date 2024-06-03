@@ -175,17 +175,17 @@ The request is approved when:
 * The board has been consulted in the case of substantial changes
 * The issue has been open for at least 14 days
 
-## Merging PRs into this Repository
+## Merging PRs into any openjs-foundation's repository
 
-Pull requests that do not change the charter or governance of the CPC can be merged into this repository provided the following conditions have been met:
+Pull requests that do not change the charter or governance of the CPC can be merged into the relevant repository provided the following conditions have been met:
 
 * There are no outstanding objections
 * There are two approvals by CPC members
 * The PR has been open for at least 72 hours
 
-Pull requests that change governance of the CPC (including approving changes to Working Groups) must meet the following conditions in addition to the ones listed for regular PRs.
+Pull requests that change the governance of the CPC (including approving changes to Working Groups) must meet the following conditions in addition to the ones listed for regular PRs.
 
-* The PR has been open for at least 14 days OR consensus is reached in a meeting with quorum of voting members.
+* The PR has been open for at least 14 days OR consensus is reached in a meeting with a quorum of voting members.
 
 Pull requests that change the charter of the CPC must meet the following conditions in addition to the ones listed for changing CPC governance:
 
@@ -196,8 +196,8 @@ If consensus cannot be reached, a pull request may still be landed after a vote 
 
 ### Fast-Tracking PRs
 
-Special exception is made for pull requests seeking to make any of the following
-changes to this repository:
+A special exception is made for pull requests seeking to make any of the following
+changes to any openjs-foundation's repository:
 
 - Errata fixes.
 - Editorial changes.
@@ -213,7 +213,7 @@ If someone disagrees with the fast-tracking request, remove the label. Do not fa
 
 The pull request may be fast-tracked if two CPC members approve the fast-tracking request. To land, the pull request itself still needs two CPC member approvals.
 
-CPC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
+CPC members may request fast-tracking of pull requests they did not author. In that case, only the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
 
 [cpc repo]: https://github.com/openjs-foundation/cross-project-council
 [cpc charter]: ../CPC-CHARTER.md
