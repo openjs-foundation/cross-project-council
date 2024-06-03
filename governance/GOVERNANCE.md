@@ -59,65 +59,9 @@ To improve organizational transparency and collaboration between the CPC and Boa
 
 The team follows the [decision-making][cpc charter decision making] and [voting][cpc charter voting] policies described in the charter.
 
-## Term for Voting Members
+## Elections
 
-As per the [CPC charter][cpc charter term], the term for all voting members is 1 year:
-
-> Voting members serve for a term of 1 year and must be re-nominated and ratified
-> by the Voting CPC members each year.
-
-The term for all voting members ends March 31st. In the event annual elections are not complete before the end of a term year, voting members will hold their seats until that election is complete.
-
-## Term for CPC Board representatives
-
-As per the CPC charter, the term for CPC Board representatives is 1 year. Due to the bootstrap
-process and the decision to stagger CPC representative terms by 6 months, the initial term for the
-[Primary CPC Director][] will end February 28, 2021 and the initial term for the
-[Secondary CPC Director][] will end August 31, 2020. Subsequent terms will be for a period
-of 1 year ending the last day of February for the Primary CPC Director and August 31 for the
-Secondary CPC Director.
-
-In the event that the [Tertiary CPC Director][] seat is activated and a start date is determined,
-the Tertiary CPC Director will then serve for a term of 1 year from that start date.
-
-The election process will be started 1 month in advance of the end of the term for each Director
-with the goal of having it be complete 2 weeks before the term ends. We will not share the specific
-results in terms of votes received by each candidate as this could discourage candidates.
-Instead, general election data will be made available, for example the percentage of voter turnout.
-
-## Election process for Non-Impact Voting CPC members
-
-As per the [CPC charter][cpc charter], the non-impact projects elect 2 voting CPC members:
-
-> up to two (2) Voting members may be nominated by the non-impact projects based on a process set by the CPC.
-
-These members will be elected for a term of 1 year as follows:
-
-* Once a year an issue will be opened in the CPC repo announcing that the period for nominations is open.
-
-* Any member from one of the non-impact projects can self-nominate emailing the chair of the CPC with their interest in running for the CPC.
-
-* The nomination period will be open for 2 weeks at which point the CPC chair will list the nominees in the issue.
-
-* Each of the candidates listed will be asked to open an issue in the CPC repo which includes the following:
-  * Projects they are part of
-  * Description of their background
-  * The reasons they would like to act as a non-impact CPC voting member
-  * Confirmation that they can devote the required time/effort.
-  * Their employer (if applicable). This is needed due to the limitations on maximum employer representation in the CPC voting members.
-
-* The projects will be asked to confirm membership as identified by the nominees.
-
-* Each non-impact project will nominate two `voters` through a process of their choosing.
-
-* Each voter will be able to vote for as many or as few candidates as they wish.
-
-* Voting will start a week after the nomination period ends, and be open for two weeks.
-
-* Those candidates who receive the greatest number of votes will be confirmed as the winners.
-  In the case of a tie between 2 or more candidates, the winner will be chosen randomly unless:
-   * There are only 2 candidates tied for the largest number of votes, in which case those 2 candidates will be the winners, or
-   * all but one of the candidates that are tied for the number of votes choose to conceed.
+Elections are organized by the OpenJSF Program Director, following the [election calendar][] and the policies defined in the [CPC charter][cpc charter elections].
 
 ## Approving and Onboarding Regular Members
 
@@ -216,15 +160,12 @@ The pull request may be fast-tracked if two CPC members approve the fast-trackin
 CPC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
 
 [cpc repo]: https://github.com/openjs-foundation/cross-project-council
-[cpc charter]: ../CPC-CHARTER.md
-[cpc charter term]: ../CPC-CHARTER.md#voting-members
 [CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
 [cpc charter decision making]: ../CPC-CHARTER.md#section-9-decision-making
 [cpc charter voting]: ../CPC-CHARTER.md#section-10-voting
+[cpc charter elections]: ../CPC-CHARTER.md#section-7-elections
+[election calendar]: ../Dates-and-Reminders.md#elections-calendar
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
 [README]: ../README.md
 [OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/cpc-private.md
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
-[Primary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-primary-cpc-director-as-defined-in-43d-in-the-openjs-foundation-bylaws
-[Secondary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-secondary-cpc-director-as-defined-in-43e-in-theopenjs-foundation-bylaws
-[Tertiary CPC Director]: https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#the-tertiary-cpc-director-as-defined-in-43f-in-the-openjs-foundation-bylaws
