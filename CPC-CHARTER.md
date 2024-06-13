@@ -205,7 +205,7 @@ Contributors should rarely be encumbered by the CPC or Board.
 
 Changes to this document require CPC consensus and approval from the OpenJS Foundation Board.
 
-
+[ASF community]: https://community.apache.org/committers/decisionMaking.html#lazy-consensus
 [Foundation mission and vision statements]:  https://openjsf.org/about/
 [Foundation bylaws]:  https://bylaws.openjsf.org
 [Elections]: #section-7-elections
