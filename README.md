@@ -159,6 +159,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 
 - Abigail Cabunoc Mayes ([@abbycabs](https://github.com/abbycabs))
 - Adrian Estrada ([@edsadr](https://github.com/edsadr))
+- Chris de Almeida ([@ctcpip](https://github.com/ctcpip))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
 - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
 - Cody Zuschlag([@codyzu](https://github.com/codyzu))
@@ -168,6 +169,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Ethan Arrowood ([@Ethan-Arrowood](https://github.com/Ethan-Arrowood))
 - Even Stensberg ([@evenstensberg](https://github.com/evenstensberg))
 - Jean Burellier ([@sheplu](https://github.com/sheplu))
+- Jon Church ([@jonchurch](https://github.com/jonchurch))
 - Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Marco Ippolito ([@marco-ippolito](https://github.com/marco-ippolito))
@@ -242,6 +244,10 @@ If an Observer fails to meet these expectations they can be excluded from future
 #### Community Fund
 
 * [Community / Travel Fund](./community-fund/COMMUNITY_FUND_POLICY.md) - OpenJS Foundation projects and their community members are able to take advantage of our community fund.
+
+#### OpenJS Ecosystem Sustainability Program 
+
+* [OpenJS Ecosystem Sustainability Program](./project-resources/ESP/ECOSYSTEM_SUSTAINABILITY_PROGRAM.md) - The Ecosystem Sustainability Program is an opt-in OpenJS partner program to help secure outdated software and create new revenue streams for our projects.
 
 ### Policy Change Proposal Process
 
