@@ -80,7 +80,7 @@ Some events might have a fixed deadline for applications. Those deadlines will b
 
 - CPC will review requests once a month in the CPC private session
 - Pending requests will be sent to the private CPC mailing list prior to the review meeting.
-  In the context of the lazy concensus process, the pending request list is a proposal to accept
+  In the context of the lazy consensus process, the pending request list is a proposal to accept
   all of the requests. CPC members may raise any objections before the scheduled meeting,
   otherwise a final decision to approve a request can be confirmed in the meeting.
 - The CPC will use a scoring rubric to help with decision making
