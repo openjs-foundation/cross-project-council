@@ -63,6 +63,7 @@ The team follows the [decision-making][cpc charter decision making] and [voting]
 
 Elections are organized by the OpenJSF Program Director, following the [election calendar][] and the policies defined in the [CPC charter][cpc charter elections].
 
+
 ## Approving and Onboarding Regular Members
 
 Our goal in the OpenJS Foundation is to do most of our work in public.
@@ -72,28 +73,34 @@ Observers can participate in almost all aspects of the work of the CPC except th
 
 ### Eligibility to become a Regular member
 
-One must already be an [Active OpenJS Collaborator][], as described below, to be eligible to become a Regular Member of the CPC.
+One must already be an Active OpenJS Collaborator, as described below, to be eligible to become a Regular Member of the CPC.
 
-### Means for approval/rejection, if citing project affiliation: (one of the following approvals is required)
+### How To Apply As A Regular Member
 
-- Project representatives from the project the user is claiming affiliation with have the ability to approve/reject the nomination.
-- Voting members from the project the user is claiming affiliation with have the ability to approve/reject the nomination.
+1. Please submit the [Regular Member Application Form](https://forms.gle/vAKptPXXz8StL4yh6)     
+2. The CPC will review requests as soon as possible, usually in the next CPC private session (every 2 weeks)
 
-Regular members can self-nominate by opening a PR to add themselves to the Regular member list in the [README.md][README]. The PR should include information about how the potential new member has been active in the foundation or its member projects as described below in the [Active OpenJS Collaborator][] section of this document.
+### CPC Review Process
 
-In addition to being an [Active OpenJS Collaborator][], the PR to add a Regular member is approved when:
+- Pending requests will be sent to the private CPC mailing list prior to the review meeting
+- In the context of the lazy consensus process, the pending request list is a proposal to accept
+  all of the requests. CPC members may raise any objections before the scheduled meeting,
+  otherwise a final decision to approve a request can be confirmed in the meeting.
+- If any requests are rejected, an email with the rejected requests will be sent to the private
+  CPC mailing list and CPC members will have 2 days to object before the decision is confirmed.
 
-* There are no outstanding objections
-* There are two or more approvals by voting CPC members
-* The PR has been opened for at least 1 week
+### Approved
 
-Once a PR is ready to be landed, the CPC member who lands the pull request should:
+* The CPC will create a pull request adding your name to the Regular member list in the [README.md][README].
+* The OpenJS Foundation Operations <operations@openjsf.org> team will:
+   * Add the member to the github `cpc-regular-members` [team][cpc regular members team]
+   * Add the member to the `cpc-private` email list
+* The CPC Chair or Vice-Chair will introduce the new member at the next CPC meeting. 
 
-* Send a notification to the project contacts for the project identified in the PR indicating that a new Regular CPC member has joined the CPC on behalf of the project.
-* Contact OpenJS Foundation Operations <operations@openjsf.org> and let them know we have a new Regular CPC Member:
-   * Operations will add the member to the github `cpc-regular-members` [team][cpc regular members team]
-   * Operations will add the member to the `cpc-private` email list
-* Introduce the new member at the next CPC meeting.
+
+### Not Approved
+
+* If you are not approved you will be notified privately via email
 
 _Note: Former Voting members whose terms have just ended will automatically become Regular members, unless they indicate otherwise._
 
