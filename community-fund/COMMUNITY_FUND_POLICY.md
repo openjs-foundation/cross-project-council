@@ -78,7 +78,7 @@ Some events might have a fixed deadline for applications. Those deadlines will b
 
 ## CPC Review Schedule & Process 
 
-- CPC will review requests once a month in the CPC private session
+- CPC will review requests as soon as possible, usually in the next CPC private session (every 2 weeks)
 - Pending requests will be sent to the private CPC mailing list prior to the review meeting.
   In the context of the lazy consensus process, the pending request list is a proposal to accept
   all of the requests. CPC members may raise any objections before the scheduled meeting,
