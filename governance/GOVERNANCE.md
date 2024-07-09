@@ -93,7 +93,7 @@ One must already be an Active OpenJS Collaborator, as described below, to be eli
 
 * The CPC will create a pull request adding your name to the Regular member list in the [README.md][README].
 * The OpenJS Foundation Operations <operations@openjsf.org> team will:
-   * Add the member to the github `cpc-regular-members` [team][cpc regular members team]
+   * Add the member to the GitHub `cpc-regular-members` [team][cpc regular members team]
    * Add the member to the `cpc-private` email list
 * The CPC Chair or Vice-Chair will introduce the new member at the next CPC meeting. 
 
