@@ -73,7 +73,7 @@ Observers can participate in almost all aspects of the work of the CPC except th
 
 ### Eligibility to become a Regular member
 
-One must already be an Active OpenJS Collaborator, as described below, to be eligible to become a Regular Member of the CPC.
+One must already be an [Active OpenJS Collaborator], as described below, to be eligible to become a Regular Member of the CPC.
 
 ### How To Apply to Become a Regular Member
 
