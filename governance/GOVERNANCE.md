@@ -1,6 +1,6 @@
 # OpenJS Cross Project Council
 
-For the current list of Team members, see the project [README.md][README] and the [OpenJS Foundation Directory][] (restricted access for privacy reasons).
+For the current list of Team members, see the project [README.md][README].
 
 ## Members
 
@@ -174,5 +174,4 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 [election calendar]: ../Dates-and-Reminders.md#elections-calendar
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
 [README]: ../README.md
-[OpenJS Foundation Directory]: https://github.com/openjs-foundation/directory-private/blob/HEAD/cpc-private.md
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
