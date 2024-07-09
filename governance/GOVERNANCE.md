@@ -100,7 +100,7 @@ One must already be an Active OpenJS Collaborator, as described below, to be eli
 
 ### Not Approved
 
-* If you are not approved you will be notified privately via email
+* If you are not approved you will be notified privately via email.
 
 _Note: Former Voting members whose terms have just ended will automatically become Regular members, unless they indicate otherwise._
 
