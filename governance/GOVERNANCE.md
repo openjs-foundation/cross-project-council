@@ -75,7 +75,7 @@ Observers can participate in almost all aspects of the work of the CPC except th
 
 One must already be an Active OpenJS Collaborator, as described below, to be eligible to become a Regular Member of the CPC.
 
-### How To Apply As A Regular Member
+### How To Apply to Become a Regular Member
 
 1. Please submit the [Regular Member Application Form](https://forms.gle/vAKptPXXz8StL4yh6)     
 2. The CPC will review requests as soon as possible, usually in the next CPC private session (every 2 weeks)
