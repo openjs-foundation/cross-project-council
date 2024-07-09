@@ -108,11 +108,11 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 ### CPC Chair
 
-Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+- Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
 
 ### CPC Vice Chair
 
-Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
+- Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
 
 ### CPC Directors
 
@@ -128,12 +128,23 @@ Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
 
 Each Impact Project may appoint 2 representatives to the CPC as outlined in the [CPC Charter](./CPC-CHARTER.md#voting-members)
 
-- **Appium**: Jonathan Lipps ([@jlipps](https://github.com/jlipps)) & Kazuaki Matsuo ([@KazuCocoa](https://github.com/KazuCocoa))
-- **Dojo**: Dylan Schiemann ([@dylans](https://github.com/dylans), Living Spec)
-- **Electron**: Erick Zhao ([@erickzhao](https://github.com/erickzhao), Slack) & Michaela Laurencin ([@mlaurencin](https://github.com/mlaurencin), Microsoft)
-- **jQuery**: Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol)) & Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
-- **Node.js**: Joe Sepi ([@joesepi](https://github.com/joesepi), IBM) & Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
-- **webpack**: Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft) & Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
+- **Appium**
+  - Jonathan Lipps ([@jlipps](https://github.com/jlipps))
+  - Kazuaki Matsuo ([@KazuCocoa](https://github.com/KazuCocoa))
+- **Dojo**
+  - Dylan Schiemann ([@dylans](https://github.com/dylans), Living Spec)
+- **Electron**
+  - Erick Zhao ([@erickzhao](https://github.com/erickzhao), Slack)
+  - Michaela Laurencin ([@mlaurencin](https://github.com/mlaurencin), Microsoft)
+- **jQuery**
+  - Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol))
+  - Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
+- **Node.js**
+  - Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+  - Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
+- **webpack**
+  - Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
+  - Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn), Microsoft)
 
 #### At Large Project Representatives
 
