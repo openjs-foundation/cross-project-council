@@ -134,7 +134,10 @@ Pull requests that do not change the charter or governance of the CPC can be mer
 * There are two approvals by CPC members
 * The PR has been open for at least 72 hours
 
-Pull requests that change governance of the CPC (including approving changes to Working Groups) must meet the following conditions in addition to the ones listed for regular PRs.
+The Cross Project Council (CPC) may [formally delegate authority](./COLLABORATION_NETWORK.md#authority-delegation) to a `Collaboration Space`, so that the `Collaboration Space` can make autonomous decisions with respect to the delegated scope.
+
+
+Pull requests that change governance of the CPC (including changes to [auhtority delegation to Collaboration Spaces](./COLLABORATION_NETWORK.md#authority-delegation)) must meet the following conditions in addition to the ones listed for regular PRs.
 
 * The PR has been open for at least 14 days OR consensus is reached in a meeting with quorum of voting members.
 

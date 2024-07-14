@@ -84,19 +84,22 @@ The following projects are official OpenJS Foundation projects. If you are inter
 The following are official OpenJS Collaboration spaces.
 If you are interested in fostering collaboration with the support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
 
-| Name                                         |  Repository                        | Description                                                     |
-| -------------------------------------------- |:----------------------------------:|-----------------------------------------------------------------|
-| Ecosystem Report                             | [Repository][ecosystem-report]     | JavaScript ecosystem annual end-users poll and report            |
-| Open Visualization (OpenVis)                 | [Repository][openvis]              | Visualization libraries based on JavaScript and WebGL           |
-| Package Metadata Interop                     | [Repository][pkg-metadata-interop] | Interoperability of package.json across the JS ecosystem        |
-| Package Vulnerability Management & Reporting | [Repository][pkg-vuln]             | Package vulnerability management and reporting                  |
-| Security                                     | [Repository][security]             | Documentation and coordination of the Foundation's security effort |
+| Name                                         |  Repository                        | Authority Delegation   | Description                                                     |
+| -------------------------------------------- |:----------------------------------:| ---------------------- | ----------------------------------------------------------------|
+| Ecosystem Report                             | [Repository][ecosystem-report]     | No                     | JavaScript ecosystem annual end-users poll and report            |
+| Open Visualization (OpenVis)                 | [Repository][openvis]              | No                     | Visualization libraries based on JavaScript and WebGL           |
+| Package Metadata Interop                     | [Repository][pkg-metadata-interop] | No                     | Interoperability of package.json across the JS ecosystem        |
+| Package Vulnerability Management & Reporting | [Repository][pkg-vuln]             | No                     | Package vulnerability management and reporting                  |
+| Security                                     | [Repository][security]             | No                     | Documentation and coordination of the Foundation's security effort |
+| Standards                                    | [Repository][standards]            | [Yes][standards-deleg] | Facilitate the engagement of projects and collaborators in standards organizations |
 
 [ecosystem-report]: https://github.com/openjs-foundation/ecosystem-report
 [openvis]: https://github.com/openjs-foundation/openvis-collab-space
 [pkg-metadata-interop]: https://github.com/openjs-foundation/package-metadata-interoperability-collab-space
 [pkg-vuln]: https://github.com/openjs-foundation/pkg-vuln-collab-space
 [security]: https://github.com/openjs-foundation/security-collab-space
+[standards]: https://github.com/openjs-foundation/standards
+[standards-deleg]: ./collaboration-spaces/COLLABORATION_NETWORK.md#standards-collaboration-space
 
 ## CPC Meetings
 
@@ -236,10 +239,9 @@ If an Observer fails to meet these expectations they can be excluded from future
 * [Policy Proposal Process](PROPOSAL_PROCESS.md) - Process by which the CPC creates new policies and processes.
 * [GitHub organization Management Policy](./governance/GITHUB_ORG_MANAGEMENT_POLICY.md) - Policy for managing the CPC's GitHub organization.
 
-#### Collaboration Spaces and Working Groups
+#### Collaboration Spaces
 * [Collaboration Network](./collaboration-spaces/COLLABORATION_NETWORK.md)
 * [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
-* [Working Groups](./governance/WORKING_GROUPS.md)
 
 #### Community Fund
 
@@ -251,7 +253,7 @@ If an Observer fails to meet these expectations they can be excluded from future
 
 ### Policy Change Proposal Process
 
-The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projects, Collaboration spaces and Working Groups under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Collaboration spaces. Projects have broad powers of self-governance.
+The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projects and Collaboration spaces under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Collaboration spaces. Projects have broad powers of self-governance.
 
 Anyone may submit an idea for a policy or program following the [proposal process](PROPOSAL_PROCESS.md).
 

@@ -18,10 +18,26 @@ Support includes but not be limited to:
 
 The current Collaboration Networks spaces are listed in the main README.md in the CPC repository.
 
-Collaboration spaces differ from Working Groups in that existing authority is not delegated from the CPC as is the case with a Working Group.
-Instead of delegation of authority, the goal of a collaboration space is to support collaboration in a more independent manner.
-The work of the space does not necessarily represent the Foundation (just like the views and direction of an individual project do not
-necessarily represent the views of the Foundation) but is instead fostered and supported by the Foundation.
-In this sense the relationship is more like that of projects to the Foundation versus Working Groups.
-
 The [Collaboration Space Progression](./COLLABORATION_SPACE_PROGRESSION.md) document explains how a proposal for a new Collaboration space may be submitted and how Collaboration spaces move between stages.
+
+## Authority Delegation
+
+The Cross Project Council (CPC) main delegate scoped authority to a collaboration space. In such cases, the collaboration space may formally represent the Foundation, for example in a standards organization.
+
+Collaboration Spaces to which the CPC delegates authority are listed below:
+
+### Standards Collaboration Space
+
+The purpose of the Standards Collaboration Space is to act as a facilitator for OpenJS Foundation projects to support their engagement in various Standards Organizations, Working Groups, Technical Committees, and other spaces where internationally recognized standards are collaborated upon.
+
+Responsibilities include:
+
+* approve and support OpenJS Foundation project contributors in attending meetings held by standards organizations
+* make OpenJS Foundation project contributors aware of developments in relevant standards
+* help OpenJS Foundation projects formulate a standards strategy
+* support new contributors to standards-making activities
+* mentor project contributors who are unfamiliar with standards-making processes
+* make recommendations to the Cross Project Council regarding standards organization membership
+* managing ongoing relationships with standards ogranizations
+* ensuring that OpenJS representatives are aware of the responsibility of being a delegate of the foundation as outlined in [the membership expectations](https://github.com/openjs-foundation/standards/blob/HEAD/MEMBER_EXPECTATIONS.md)
+* facilitate when different projects' needs conflict resolution

@@ -23,7 +23,7 @@ The following groups are granted Ownership permissions:
 
 ### Members
 
-GitHub users are added as members to the [OpenJS GitHub Organization][] when they are added to any Working Group or team. Organization Owners should add new members to the organization when requested by a Working Group, or team.
+GitHub users are added as members to the [OpenJS GitHub Organization][] when they are added to any Collaboration Space. Organization Owners should add new members to the organization when requested by a Collaboration Space or team.
 
 ## Repositories
 
