@@ -6,12 +6,18 @@ The OpenJS Foundation’s community fund supports travel and attendance at event
 
 * Collaborators
 * Standards body participants
-* Speakers
 
-The fund can cover the costs, in whole or in part, of a participant's hotel, transportation, and some event registrations.
+> [!Note]
+> If you're _speaking_ at an event, you should apply through the [OpenJS Foundation's Speakers Bureau](https://openjsf.org/events#:~:text=Speakers%20Bureau) instead.
+
+The fund can cover the costs, in whole or in part, of a participant's hotel, transportation, and event registration for approved events.
 Applicants should explore employer-sponsored funding options as their first source of financial support.
 Additionally, 25% of the community fund is allocated specifically to support underrepresented groups.
 Funding decisions are determined by a combination of need and potential impact.
+
+## Confidentiality
+
+All travel fund requests are treated confidentialy: only CPC members and OpenJS Foundation staff have access to the requests. Trip reports are managed according to the Foundation's [Privacy Policy](https://privacy-policy.openjsf.org/).
 
 ## Transparency
 
@@ -46,8 +52,7 @@ Please see [Deadlines and Timelines](#deadlines-and-timelines) for information a
 
 ### Wait For Approval
 
-The Cross Project Council reviews requests once per month. If your request is approved, you will be notified via email. Only
-approved requests are eligible for reimbursement. 
+The Cross Project Council reviews requests at least once per month. If your request is approved, you will be notified via email. Only approved requests are eligible for reimbursement. 
 
 ## Getting Reimbursed
 
@@ -66,15 +71,18 @@ The process for submitting a trip report is TBD.
 <!-- Provide a trip report by filling out the following form. Preferably, also provide pictures and video of the 
 event for use on social media. -->
 
+> [!Note]
+> The faster trip reports are submitted, the faster any leftover funds that were allocated to you can be freed to allow additional people to travel. So please **submit your trip reports as quickly as possible**. Thank you! 
+
 ### Receiving Payment
 
 Payments are processed within 30 days.
 
 ## Deadlines and Timelines 
 
-The default deadline for submitting a community fund request is 8 weeks prior to the travel date to allow for all requests for an event to be reviewed at the same time. 
+The default deadline for submitting a community fund request is 8 weeks prior to the travel date to allow for all requests for an event to be reviewed at the same time. If you've missed a deadline, or if a deadline was impossible to meet, please submit your request anyway, explaining why you weren't able to meet the deadline if possible.
 
-Some events might have a fixed deadline for applications. Those deadlines will be posted to this repository.
+Some events might have a fixed deadline for applications. Those deadlines will be posted below.
 
 ## CPC Review Schedule & Process 
 
