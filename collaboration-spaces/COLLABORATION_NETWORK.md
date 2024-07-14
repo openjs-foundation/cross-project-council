@@ -22,7 +22,7 @@ The [Collaboration Space Progression](./COLLABORATION_SPACE_PROGRESSION.md) docu
 
 ## Authority Delegation
 
-The Cross Project Council (CPC) main delegate scoped authority to a collaboration space. In such cases, the collaboration space may formally represent the Foundation, for example in a standards organization.
+The Cross Project Council (CPC) may delegate scoped authority to a collaboration space. In such cases, the collaboration space may formally represent the Foundation, for example in a standards organization.
 
 Collaboration Spaces to which the CPC delegates authority are listed below:
 
