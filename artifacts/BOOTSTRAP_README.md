@@ -42,4 +42,4 @@ The deliverables from this body will be:
 
 ## Making proposals
 
-Anyone may submit an idea for a policy or program following the [proposal process](../PROPOSAL_PROCESS.md).
+Anyone may submit an idea for a policy or program following the [proposal process](https://github.com/openjs-foundation/cross-project-council/blob/a376c1dabb01fb1f0ac66affa9104876dee76fa9/PROPOSAL_PROCESS.md).
