@@ -5,7 +5,7 @@ It describes the [Stages](#stages) a collaboration space may be admitted under a
 
 The Cross Project Council (CPC) may [formally delegate authority](./COLLABORATION_NETWORK.md#authority-delegation) to a `Collaboration Space`, so that the `Collaboration Space` can make autonomous decisions with respect to the delegated scope.
 
-`Collaboration Spaces` are intended to expand the group of contributors to the work of the OpenJS Foundation's work by allowing people outside the OpenJS member projects to propose/collaborate on areas of importance to the JavaScript ecosystem.
+`Collaboration Spaces` aim to expand the group of contributors to the OpenJS Foundation by enabling individuals outside of OpenJS Foundation projects to propose and collaborate on areas important to the JavaScript ecosystem.
 
 `Collaboration Spaces` may graduate between levels as outlined in this document.
 
