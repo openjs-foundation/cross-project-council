@@ -47,51 +47,45 @@ Funding is not transferable to another person, or any other event.
 
 ### Submit Travel Fund Request
 
-Submit your travel fund request to the Cross Project Council by completing [this application](https://forms.gle/QDt3iqoXXB5Ycovz8).
+Submit your travel fund request to the Cross Project Council (CPC) by completing [this application](https://forms.gle/QDt3iqoXXB5Ycovz8).
 Please see [Deadlines and Timelines](#deadlines-and-timelines) for information about cut-off dates. 
 
 ### Wait For Approval
 
-The Cross Project Council reviews requests at least once per month. If your request is approved, you will be notified via email. Only approved requests are eligible for reimbursement. 
+The CPC will review requests as soon as possible, usually in the next CPC private session (every 2 weeks).
+You will be notified by email if your request is approved or denied. Only approved requests are eligible for reimbursement. 
 
 ## Getting Reimbursed
 
 ### Submitting Expenses
 
-After the event, kindly submit your expenses within 30 days:
+After the event, kindly submit your expenses within 30 days.
+
+> [!Note]
+> The faster expenses are submitted, the faster any leftover funds can be reallocated to allow additional people to travel. So **please submit your expenses as quickly as possible**. Thank you! 
 
 * Fill out these [two forms](https://drive.google.com/drive/folders/1E-dTuqnIWpZN2NP-1ioAWzK_W2zSwa_P?usp=share_link)
 * Submit the forms along with **all** receipts [here](https://form.asana.com/?k=S6lGzAjHv2uv7M8llnhO_w&d=9283783873717)
 
 Please note that expenses without receipts can not be paid.
 
-### Submitting A Trip Report
-
-The process for submitting a trip report is TBD.
-<!-- Provide a trip report by filling out the following form. Preferably, also provide pictures and video of the 
-event for use on social media. -->
-
-> [!Note]
-> The faster trip reports are submitted, the faster any leftover funds that were allocated to you can be freed to allow additional people to travel. So please **submit your trip reports as quickly as possible**. Thank you! 
-
 ### Receiving Payment
 
 Payments are processed within 30 days.
 
-## Deadlines and Timelines 
+## Deadlines and Timelines
 
 The default deadline for submitting a community fund request is 8 weeks prior to the travel date to allow for all requests for an event to be reviewed at the same time. If you've missed a deadline, or if a deadline was impossible to meet, please submit your request anyway, explaining why you weren't able to meet the deadline if possible.
 
 Some events might have a fixed deadline for applications. Those deadlines will be posted below.
 
-## CPC Review Schedule & Process 
+## CPC Review Process
 
-- CPC will review requests as soon as possible, usually in the next CPC private session (every 2 weeks)
 - Pending requests will be sent to the private CPC mailing list prior to the review meeting.
   In the context of the lazy consensus process, the pending request list is a proposal to accept
   all of the requests. CPC members may raise any objections before the scheduled meeting,
   otherwise a final decision to approve a request can be confirmed in the meeting.
-- The CPC will use a scoring rubric to help with decision making
+- The CPC will use a scoring rubric to help with decision making.
 - If any requests are rejected, an email with the rejected requests will be sent to the private
   CPC mailing list and CPC members will have 2 days to object before the decision is confirmed.
   Approved requests will be confirmed right away.
