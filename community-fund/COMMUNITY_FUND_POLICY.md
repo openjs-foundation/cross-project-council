@@ -17,7 +17,7 @@ Funding decisions are determined by a combination of need and potential impact.
 
 ## Confidentiality
 
-All travel fund requests are treated confidentially: only CPC members and OpenJS Foundation staff have access to the requests. Trip reports are managed according to the Foundation's [Privacy Policy](https://privacy-policy.openjsf.org/).
+All travel fund requests are treated confidentially: only CPC members and OpenJS Foundation staff have access to the requests. Expense reports are managed according to the Foundation's [Privacy Policy](https://privacy-policy.openjsf.org/).
 
 ## Transparency
 
