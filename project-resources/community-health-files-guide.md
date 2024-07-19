@@ -39,7 +39,7 @@ Where possible, it is best to have only one file for each type of community heal
 Organizations/projects should use the following content for their `CODE_OF_CONDUCT.md` file. This will avoid any issues that would arise by duplicating content.
 
 ```md
-This repository is an OpenJS Foundation project and subscribes to its [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md).
+This project follows the OpenJS Foundation Code of Conduct available at [code-of-conduct.openjsf.org](https://code-of-conduct.openjsf.org/).
 ```
 
 #### `SECURITY.md`
