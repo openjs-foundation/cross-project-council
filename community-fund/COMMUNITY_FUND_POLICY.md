@@ -85,7 +85,7 @@ Some events might have a fixed deadline for applications. Those deadlines will b
   In the context of the lazy consensus process, the pending request list is a proposal to accept
   all of the requests. CPC members may raise any objections before the scheduled meeting,
   otherwise a final decision to approve a request can be confirmed in the meeting.
-- The CPC will use a scoring rubric to help with decision making.
+- The CPC will use a [scoring rubric](#scoring-rubric) to help with decision making.
 - If any requests are rejected, an email with the rejected requests will be sent to the private
   CPC mailing list and CPC members will have 2 days to object before the decision is confirmed.
   Approved requests will be confirmed right away.
