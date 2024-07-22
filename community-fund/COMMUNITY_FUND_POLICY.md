@@ -28,7 +28,7 @@ All requests were granted.
 
 For 2024, $60,000 was allocated to the fund.
 
-_All ammounts are in United States dollar._
+_All ammounts are in United States dollars._
 
 ## Community Fund Rules
 
