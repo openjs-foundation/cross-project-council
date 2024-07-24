@@ -233,6 +233,7 @@ If an Observer fails to meet these expectations they can be excluded from future
 * [Project Charter Template](PROJECT_CHARTER_TEMPLATE.md) - Template document to be used by new projects to write their charter as part of onboarding.
 * [Project Security Reporting](PROJECT_SECURITY_REPORTING.md) - Describes the requirements for reporting security vulnerabilities.
 * [IP_Policy Guidance](./governance/IP_POLICY_GUIDANCE.md) - Outlines the relevant aspects of the Foundation's IP policy to make it easier for new projects to implement them.
+* [Guide to Community Health Files](./project-resources/community-health-files-guide.md) - Provides guidance on how to organize community health files, as well as which files are expected for OpenJS Foundation Projects
 
 #### Code of Conduct
 * [Code of Conduct](CODE_OF_CONDUCT.md) - This is the canonical version of the code of conduct adopted by the Foundation and all of its projects.
