@@ -38,6 +38,6 @@ Responsibilities include:
 * support new contributors to standards-making activities
 * mentor project contributors who are unfamiliar with standards-making processes
 * make recommendations to the Cross Project Council regarding standards organization membership
-* managing ongoing relationships with standards ogranizations
+* managing ongoing relationships with standards organizations
 * ensuring that OpenJS representatives are aware of the responsibility of being a delegate of the foundation as outlined in [the membership expectations](https://github.com/openjs-foundation/standards/blob/HEAD/MEMBER_EXPECTATIONS.md)
-* facilitate when different projects' needs conflict resolution
+* facilitate when different projects' needs conflict
