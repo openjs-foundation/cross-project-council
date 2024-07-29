@@ -22,7 +22,7 @@ as an admin to your project.
 If you select this option, you will add your Organization to the OpenJS Foundation enterprise account. Doing so gives 
 the foundation the option to become an organization owner if necessary.  The admins of the enterprise account are 
 currently limited to the [Executive Director](https://github.com/rginn) 
-and[ Director Of Program Management](https://github.com/bensternthal). 
+and [Director Of Program Management](https://github.com/bensternthal). 
 
 ### Option 3: Opt-out
 
