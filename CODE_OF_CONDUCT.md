@@ -30,7 +30,11 @@ The Code of Conduct Team (CoC Team) is a foundation-wide team established to man
 
 - Robin Ginn (OpenJSF Executive Director) <rginn@linuxfoundation.org>
 - Kylie Wagar-Dirks (OpenJSF Communications Manager) <kwagar@linuxfoundation.org>
-- Joe Sepi (Cross Project Council Chair) <sepi@joesepi.com> 
+- Benjamin Gruenbaum (Primary Community Member) <email>
+- Chris de Almeida (Primary Community Member) <email>
+- Paula Paul (Primary Community Member) <email>
+
+Additionally, the following [alternate community members][alternate] are available as back-up in case any of the primary community members listed above aren't available: Claudio Wunder, Matteo Collina, Meghan Denny, Michaela Laurencin, Natalia Venditto, and Tobie Langel.
 
 You may contact the CoC Team at <coc@openjsf.org> or contact any of its members.
 
@@ -176,4 +180,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [appeal]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeals
 [CoC Team]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#code-of-conduct-team-coc-team
 [opted-in]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#delegation-to-projects
-
+[alternate]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_TEAM_CHARTER.md#alternate-community-members
