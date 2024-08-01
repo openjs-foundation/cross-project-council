@@ -34,7 +34,7 @@ The Code of Conduct Team (CoC Team) is a foundation-wide team established to man
 - Chris de Almeida (Primary Community Member) <email>
 - Paula Paul (Primary Community Member) <email>
 
-Additionally, the following [alternate community members][alternate] are available as back-up in case any of the primary community members listed above aren't available: Claudio Wunder, Matteo Collina, Meghan Denny, Michaela Laurencin, Natalia Venditto, and Tobie Langel.
+Additionally, the following [alternate community members][alternate] are available as back-up: Claudio Wunder, Matteo Collina, Meghan Denny, Michaela Laurencin, Natalia Venditto, and Tobie Langel.
 
 You may contact the CoC Team at <coc@openjsf.org> or contact any of its members.
 
