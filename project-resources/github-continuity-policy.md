@@ -2,7 +2,7 @@
 
 ## Summary
 
-This policy is intended to ensure that OpenJS GithHub projects remain accessible and manageable. 
+This policy is intended to ensure that OpenJS GitHub projects remain accessible and manageable. 
 
 It addresses the following use cases:
 
@@ -14,12 +14,11 @@ It addresses the following use cases:
 
 ### Option 1: Add The Executive Director As An Admin
 
-If you select this option, you will add the OpenJS Foundation executive director (currently https://github.com/rginn) 
-as an admin to your project.
+If you select this option, you will add the OpenJS Foundation executive director (currently https://github.com/rginn)  as an admin to your project.
 
 ### Option 2: Add Your Organization To The OpenJS Enterprise
 
-If you select this option, you will add your Organization to the OpenJS Foundation enterprise account. Doing so gives 
+If you select this option, you will add your Organization to the [OpenJS Foundation enterprise account](https://github.com/enterprises/openjs-foundation). Doing so gives 
 the foundation the option to become an organization owner if necessary.  The admins of the enterprise account are 
 currently limited to the [Executive Director](https://github.com/rginn) 
 and [Director Of Program Management](https://github.com/bensternthal). 
