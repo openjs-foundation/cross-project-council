@@ -18,13 +18,8 @@ If you select this option, you will add the OpenJS Foundation executive director
 
 ### Option 2: Add Your Organization To The OpenJS Enterprise
 
-If you select this option, you will add your Organization to the [OpenJS Foundation enterprise account](https://github.com/enterprises/openjs-foundation). Doing so gives 
-the foundation the option to become an organization owner if necessary.  The admins of the enterprise account are 
-currently limited to the [Executive Director](https://github.com/rginn) 
-and [Director Of Program Management](https://github.com/bensternthal). 
+If you select this option, you will add your Organization to the [OpenJS Foundation enterprise account](https://github.com/enterprises/openjs-foundation). Doing so gives the foundation the option to become an organization owner if necessary.  The admins of the enterprise account are currently limited to the [Executive Director](https://github.com/rginn) and [Director Of Program Management](https://github.com/bensternthal). 
 
 ### Option 3: Opt-out
 
-Projects that feel their governance is sufficient to provide continuity may opt out of this policy by requesting an 
-exception from the CPC. This can be done by filing an issue in the 
-[CPC repository](https://github.com/openjs-foundation/cross-project-council/issues).
+Projects that feel their governance is sufficient to provide continuity may opt out of this policy by requesting an exception from the CPC. This can be done by filing an issue in the [CPC repository](https://github.com/openjs-foundation/cross-project-council/issues).
