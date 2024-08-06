@@ -86,8 +86,8 @@ Voting members have the roles and responsibilities as outlined below.
 
 Subject to such policies as may be set by the Board, the CPC is responsible for:
 
-   1. When needed, members of the CPC will be expected to create subcommittees or working groups.
-      The CPC will delegate responsibilities and empower these groups to make decisions.
+   1. When needed, members of the CPC will be expected to create subcommittees or `collaboration spaces`.
+      The CPC may delegate responsibilities and empower these groups to make decisions.
       Any of the responsibilities listed below not identified as being responsibilities of the Voting members may be delegated.
       For the remaining responsibilities, day-to-day work, investigation, and building recommendations may be delegated, however, the final responsibility will remain with the Voting members.
    1. Ensuring collaboration is the driving principle within a Project, between OpenJS Foundation Projects, and between OpenJS Foundation Projects and the broader community.
