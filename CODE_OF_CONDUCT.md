@@ -30,7 +30,7 @@ The Code of Conduct Team (CoC Team) is a foundation-wide team established to man
 
 - Robin Ginn (OpenJSF Executive Director) <rginn@linuxfoundation.org>
 - Kylie Wagar-Dirks (OpenJSF Communications Manager) <kwagar@linuxfoundation.org>
-- Benjamin Gruenbaum (Primary Community Member) <email>
+- Benjamin Gruenbaum (Primary Community Member) <benjamingr@gmail.com>
 - Chris de Almeida (Primary Community Member) <OpenJS@SoftwareChris.com>
 - Paula Paul (Primary Community Member) <email>
 
