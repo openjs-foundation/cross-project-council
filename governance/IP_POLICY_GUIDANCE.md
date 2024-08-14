@@ -10,10 +10,16 @@ If in doubt about anything related to IP after reading this document, first read
 
 There are four key requirements for all OpenJS Foundation projects:
 
-1. [Licensing](#1-licensing)
-2. [Copyright notices](#2-copyright-notices)
-3. Displaying the [standard website footer](#3-standard-website-footer) on the project's website
-4. [Adopting the DCO or a CLA](#4-adopting-the-dco-or-a-cla)
+- [OpenJS Foundation IP Policy Guidance](#openjs-foundation-ip-policy-guidance)
+  - [Basic requirements](#basic-requirements)
+    - [1. Licensing](#1-licensing)
+    - [2. Copyright notices](#2-copyright-notices)
+    - [3. Standard website footer](#3-standard-website-footer)
+    - [4. Adopting the DCO or a CLA](#4-adopting-the-dco-or-a-cla)
+      - [DCO](#dco)
+      - [CLA](#cla)
+  - [Obtaining an exemption from the Board](#obtaining-an-exemption-from-the-board)
+  - [Getting help](#getting-help)
 
 ### 1. Licensing
 
@@ -53,15 +59,27 @@ All project websites need to have a [standard website footer][].
 
 Each project must adopt either the [Developer Certificate of Origin (DCO)][DCO] or a Contributor License Agreement (CLA).
 
+#### DCO
+
+There are two options for implementing a DCO on your project:
+
+1. Via installing the [DCO bot](https://github.com/apps/dco) 
+2. By including the following in your repository:
+   1. Adding the DCO to your CONTRIBUTING.md file, [example](https://github.com/nodejs/node/blob/main/CONTRIBUTING.md)
+   2. Adding the DCO to your PR templates, [example](https://raw.githubusercontent.com/nodejs/node/main/.github/PULL_REQUEST_TEMPLATE.md)
+
+The DCO Bot is the preferred method and is mandatory for any new projects joining the foundation. We also recommend this method for existing projects that require stricter enforcement.
+
+#### CLA
+
 The Board has pre-approved an [individual CLA][ICLA] and a [corporate CLA][CCLA].
 Projects can choose to adopt either the individual CLA by itself or both the individual CLA and the corporate CLA without any further review.
 
 If you need to use a different CLA, you must
 [obtain an exemption from the board](#obtaining-an-exemption-from-the-board).
 
-We are preparing additional guidance documentation on how to implement the DCO or a CLA, what infrastructure the foundation provides to help with this, what steps maintainers need to make when merging pull requests, and how to fix common issues that arise when using either solution.
+CLAs are managed through [EasyCLA](https://docs.linuxfoundation.org/lfx/easycla). Please reach out to the [OpenJS staff](mailto:operations@openjsf.org) for assistance with implementation.
 
-To setup the CLA infrastructure until this additional documentation is ready, please [reach out to foundation staff](#getting-help).
 
 ## Obtaining an exemption from the Board
 
