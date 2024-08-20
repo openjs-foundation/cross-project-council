@@ -32,7 +32,7 @@ The Code of Conduct Team (CoC Team) is a foundation-wide team established to man
 - Kylie Wagar-Dirks (OpenJSF Communications Manager) <kwagar@linuxfoundation.org>
 - Benjamin Gruenbaum (Primary Community Member) <benjamingr@gmail.com>
 - Chris de Almeida (Primary Community Member) <OpenJS@SoftwareChris.com>
-- Paula Paul (Primary Community Member) <email>
+- Paula Paul (Primary Community Member) <paula@greyshore.com>
 
 Additionally, the following [alternate community members][alternate] are available as back-up: Claudio Wunder, Matteo Collina, Meghan Denny, Michaela Laurencin, Natalia Venditto, and Tobie Langel.
 
