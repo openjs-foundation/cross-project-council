@@ -245,7 +245,6 @@ If an Observer fails to meet these expectations they can be excluded from future
 * [CPC Charter](CPC-CHARTER.md) - The CPC's charter describes the CPC's mission as defined in the Bylaws.
 * [OpenJS Cross Project Council Governance](./governance/GOVERNANCE.md) - Describes how the CPC operates.
 * [Expectations of the Community Board of Directors Representatives](./governance/COMMUNITY_BOARD_SEAT_EXPECTATIONS.md) - Description of the role and responsibilities of the Community Board of Directors Representatives.
-* [Policy Proposal Process](PROPOSAL_PROCESS.md) - Process by which the CPC creates new policies and processes.
 * [GitHub organization Management Policy](./governance/GITHUB_ORG_MANAGEMENT_POLICY.md) - Policy for managing the CPC's GitHub organization.
 
 #### Collaboration Spaces and Working Groups
@@ -265,9 +264,7 @@ If an Observer fails to meet these expectations they can be excluded from future
 
 The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projects, Collaboration spaces and Working Groups under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Collaboration spaces. Projects have broad powers of self-governance.
 
-Anyone may submit an idea for a policy or program following the [proposal process](PROPOSAL_PROCESS.md).
-
-The pull request can be labeled cross-project-council-agenda to request that it be put on the agenda for the next CPC meeting.
+Anyone may submit an idea for a policy or program by opening an issue in this repository. The issue should be reviewed at the next CPC meeting.
 
 The OpenJS Foundation Board of Directors retains certain rights (especially legal considerations). If the CPC endorses a proposal, they will escalate to the OpenJS Foundation Board of Directors when required to do so.
 
