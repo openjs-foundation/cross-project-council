@@ -168,9 +168,9 @@ CPC members may request fast-tracking of pull requests they did not author. In t
 
 ### Removing obsolete content
 
-The CPC aims to keep this repository up to date and void of obsolte information. The default is therefore to remove obsolete information. It is always possible to open a pull request to re-include deleted information. Please explain the rationale for doing so in that case, and please make sure such information is clearly labeled as obsolete.
+The CPC aims to keep this repository up-to-date and devoid of obsolete information. The default is therefore to remove obsolete information. It is always possible to open a pull request to restore deleted information. Please explain the rationale for doing so in that case, and ensure such information is clearly labeled as obsolete.
 
-In order to make it easier to search for deleted information in the website, it is recommended to pay particular attention to commit messages when deleting content. In particular, note what content is being removed and why.
+To facilitate locating deleted information, please pay close attention to commit messages when deleting content. In particular, note what content is being removed and why.
 
 [cpc repo]: https://github.com/openjs-foundation/cross-project-council
 [CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
