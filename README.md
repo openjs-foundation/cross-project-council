@@ -285,7 +285,12 @@ Discussion should be held in the open whenever possible. However, if you need to
 
 OpenJS Foundation Collaboration spaces are able to take advantage of several services and benefits as outlined in [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md).
 
-### Help with project infrastructure
+### Help with LF IT supported infrastructure
+
+OpenJS projects that have formally engaged with LF IT to support one or more of their services should follow [this guide](./project-resources/requesting_LFIT_support.md) for requesting support. 
+
+
+### Help with non LF IT supported project infrastructure
 
 In almost all situations, the best way to get support is to
 [file a ticket with The Linux Foundation](https://members.openjsf.org). For example:
