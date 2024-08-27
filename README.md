@@ -17,20 +17,20 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 
 ## Projects
 
-- [All foundation projects][]
+- [All foundation projects](#)
 
 - [Project Progression](PROJECT_PROGRESSION.md) - This describes the different stages a project can go through at the Foundation, from applying to retiring, and provides relevant processes and checklists for moving along them.
-- [How to apply to the foundation as a project][]
+- [How to apply to the foundation as a project](#)
   - [New Project Application Template](NEW_PROJECT_APPLICATION.md) - Template document that should be used by projects that want to apply to the Foundation.
-- [Resources for onboarding projects][]
+- [Resources for onboarding projects](#)
   - [Project Charter Template](PROJECT_CHARTER_TEMPLATE.md) - Template document to be used by new projects to write their charter as part of onboarding.
   * [IP Policy Guidance](./governance/IP_POLICY_GUIDANCE.md) - Outlines the relevant aspects of the Foundation's IP policy to make it easier for new projects to implement them.
   * [Guide to Community Health Files](./project-resources/community-health-files-guide.md) - Provides guidance on how to organize community health files, as well as which files are expected for OpenJS Foundation Projects
   * [Project Security Reporting](PROJECT_SECURITY_REPORTING.md) - Describes the requirements for reporting security vulnerabilities.
 - Resources for Foundation projects
-  * [Infrastructure resources][]
-  * [Marketing services][]
-  * [Project Fund][]
+  * [Infrastructure resources](#)
+  * [Marketing services](#)
+  * [Project Fund](#)
   * [OpenJS Ecosystem Sustainability Program](./project-resources/ESP/ECOSYSTEM_SUSTAINABILITY_PROGRAM.md) - The Ecosystem Sustainability Program is an opt-in OpenJS partner program to help secure outdated software and create new revenue streams for our projects.
 
 ## Collaboration Spaces
@@ -40,19 +40,19 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 ## Community Support
 
 * [Community / Travel Fund](./community-fund/COMMUNITY_FUND_POLICY.md) - OpenJS Foundation projects and their community members are able to take advantage of our community fund.
-* [Speaker bureau][]
+* [Speaker bureau](#)
 
 
 ## The CPC itself
 * [CPC Charter](CPC-CHARTER.md) - The CPC's charter describes the CPC's mission as defined in the Bylaws.
-* [CPC members][]
+* [CPC members](#)
 * [OpenJS Cross Project Council Governance](./governance/GOVERNANCE.md) - Describes how the CPC operates.
 * [GitHub organization Management Policy](./governance/GITHUB_ORG_MANAGEMENT_POLICY.md) - Policy for managing the CPC's GitHub organization.
 * [Expectations of the Community Board of Directors Representatives](./governance/COMMUNITY_BOARD_SEAT_EXPECTATIONS.md) - Description of the role and responsibilities of the Community Board of Directors Representatives.
 
 ## Communication Channels
-* [CPC Meetings][]
-* [Other][]
+* [CPC Meetings](#)
+* [Other](#)
 
 ## Code of Conduct
 * [Code of Conduct](CODE_OF_CONDUCT.md) - This is the canonical version of the code of conduct adopted by the Foundation and all of its projects.
@@ -61,5 +61,6 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 * [Member Expectations](./conduct/MEMBER_EXPECTATIONS.md) - Additional behavior expectations of CPC members and project leaders.
 
 ## Getting Help
+
 
 
