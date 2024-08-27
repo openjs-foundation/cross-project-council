@@ -20,14 +20,18 @@ The CPC exercises autonomy in managing its responsibilities and seeks agreement 
 - [All foundation projects](#)
 
 - [Project Progression](PROJECT_PROGRESSION.md) - This describes the different stages a project can go through at the Foundation, from applying to retiring, and provides relevant processes and checklists for moving along them.
-- [How to apply to the foundation as a project](#)
+
+### How to apply to the foundation as a project
+  - [Project Progression](PROJECT_PROGRESSION.md)
   - [New Project Application Template](NEW_PROJECT_APPLICATION.md) - Template document that should be used by projects that want to apply to the Foundation.
-- [Resources for onboarding projects](#)
+  
+### Resources for onboarding projects
   - [Project Charter Template](PROJECT_CHARTER_TEMPLATE.md) - Template document to be used by new projects to write their charter as part of onboarding.
   * [IP Policy Guidance](./governance/IP_POLICY_GUIDANCE.md) - Outlines the relevant aspects of the Foundation's IP policy to make it easier for new projects to implement them.
   * [Guide to Community Health Files](./project-resources/community-health-files-guide.md) - Provides guidance on how to organize community health files, as well as which files are expected for OpenJS Foundation Projects
   * [Project Security Reporting](PROJECT_SECURITY_REPORTING.md) - Describes the requirements for reporting security vulnerabilities.
-- Resources for Foundation projects
+
+### Resources for foundation projects
   * [Infrastructure resources](#)
   * [Marketing services](#)
   * [Project Fund](#)
