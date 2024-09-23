@@ -7,5 +7,5 @@ contact_links:
     url: https://github.com/openjs-foundation/cross-project-council#help-with-legal-questions-for-existing-projects-only
     about: "Do you need help with legal matters concerning an OpenJSF project?"
   - name: Infrastructure Request
-    url: https://github.com/openjs-foundation/cross-project-council#help-with-project-infrastructure
+    url: https://github.com/openjs-foundation/cross-project-council#help-with-lf-it-supported-infrastructure
     about: "Do you want to request infrastructure resources for your OpenJSF project?"
