@@ -286,7 +286,7 @@ Discussion should be held in the open whenever possible. However, if you need to
 OpenJS Foundation Collaboration spaces are able to take advantage of several services and benefits as outlined in [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md).
 
 <!-- original link id for infrastructure support -->
-<div id="help-with-project-infrastructure"></div>
+<a id="help-with-project-infrastructure"></a>
 
 ### Help with LF IT supported infrastructure
 
