@@ -62,7 +62,7 @@ There are two options for implementing a DCO on your project:
    1. Adding the DCO to your CONTRIBUTING.md file, [example](https://github.com/nodejs/node/blob/main/CONTRIBUTING.md)
    2. Adding the DCO to your PR templates, [example](https://raw.githubusercontent.com/nodejs/node/main/.github/PULL_REQUEST_TEMPLATE.md)
 
-The DCO Bot is the preferred method and is also recommended for projects that require strict enforcement.”
+The DCO Bot is the preferred method and is also recommended for projects that require strict enforcement.
 
 #### CLA
 
