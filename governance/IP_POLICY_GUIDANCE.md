@@ -10,16 +10,10 @@ If in doubt about anything related to IP after reading this document, first read
 
 There are four key requirements for all OpenJS Foundation projects:
 
-- [OpenJS Foundation IP Policy Guidance](#openjs-foundation-ip-policy-guidance)
-  - [Basic requirements](#basic-requirements)
-    - [1. Licensing](#1-licensing)
-    - [2. Copyright notices](#2-copyright-notices)
-    - [3. Standard website footer](#3-standard-website-footer)
-    - [4. Adopting the DCO or a CLA](#4-adopting-the-dco-or-a-cla)
-      - [DCO](#dco)
-      - [CLA](#cla)
-  - [Obtaining an exemption from the Board](#obtaining-an-exemption-from-the-board)
-  - [Getting help](#getting-help)
+1. [Licensing](#1-licensing)
+2. [Copyright notices](#2-copyright-notices)
+3. Displaying the [standard website footer](#3-standard-website-footer) on the project's website
+4. [Adopting the DCO or a CLA](#4-adopting-the-dco-or-a-cla)
 
 ### 1. Licensing
 
@@ -68,7 +62,7 @@ There are two options for implementing a DCO on your project:
    1. Adding the DCO to your CONTRIBUTING.md file, [example](https://github.com/nodejs/node/blob/main/CONTRIBUTING.md)
    2. Adding the DCO to your PR templates, [example](https://raw.githubusercontent.com/nodejs/node/main/.github/PULL_REQUEST_TEMPLATE.md)
 
-The DCO Bot is the preferred method and is mandatory for any new projects joining the foundation. We also recommend this method for existing projects that require stricter enforcement.
+The DCO Bot is the preferred method and is also recommended for projects that require strict enforcement.”
 
 #### CLA
 
