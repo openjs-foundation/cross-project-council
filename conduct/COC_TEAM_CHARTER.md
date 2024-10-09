@@ -45,7 +45,7 @@ The Cross Project Council (CPC) will hold an annual selection process in order t
 
 The CPC is responsible for ensuring that the CoC Team is as representative and diverse as possible. To do so, the CPC commits to reach out proactively to individuals from underrepresented groups.
 
-Candidates can self-nominate to be selected as an alternate community member, a primary member, or both. If there is an objection to a nomination and consensus cannot be reached on that nomination then a vote will occur on that nomination. 
+Candidates can self-nominate to be selected as an alternate community member, a primary member, or both.
 
 Once the nomination period has ended, primary and alternate members will be selected based on consensus (and voting if necessary). Our policy on consensus and voting is outlined in our [Charter](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making). 
 
