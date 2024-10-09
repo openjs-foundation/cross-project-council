@@ -47,7 +47,9 @@ The CPC is responsible for ensuring that the CoC Team is as representative and d
 
 Candidates can self-nominate to be selected as an alternate community member, a primary member, or both.
 
-Once the nomination period has ended, primary and alternate members will be selected based on consensus (and voting if necessary). Our policy on consensus and voting is outlined in our [Charter](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making). 
+Once the nomination period has ended, primary and alternate members will be selected through [consensus][decision-making] during a private CPC meeting. If there is an objection to a candidate being selected and consensus cannot be reached, a [vote][voting] will occur for that candidate.
+
+[voting]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting
 
 Candidates must meet the [eligibility requirements](#eligibility).
 
