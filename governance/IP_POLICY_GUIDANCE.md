@@ -55,9 +55,9 @@ Each project must adopt either the [Developer Certificate of Origin (DCO)][DCO] 
 
 #### DCO
 
-There are two options for implementing a DCO on your project:
+There are two options for implementing the DCO on your project:
 
-1. Via installing the [DCO bot](https://github.com/apps/dco) 
+1. By installing the [DCO bot](https://github.com/apps/dco) 
 2. By including the following in your repository:
    1. Adding the DCO to your CONTRIBUTING.md file, [example](https://github.com/nodejs/node/blob/main/CONTRIBUTING.md)
    2. Adding the DCO to your PR templates, [example](https://raw.githubusercontent.com/nodejs/node/main/.github/PULL_REQUEST_TEMPLATE.md)
@@ -72,7 +72,7 @@ Projects can choose to adopt either the individual CLA by itself or both the ind
 If you need to use a different CLA, you must
 [obtain an exemption from the board](#obtaining-an-exemption-from-the-board).
 
-CLAs are managed through [EasyCLA](https://docs.linuxfoundation.org/lfx/easycla). Please reach out to the [OpenJS staff](mailto:operations@openjsf.org) for assistance with implementation.
+CLAs are managed through [EasyCLA](https://docs.linuxfoundation.org/lfx/easycla). 
 
 
 ## Obtaining an exemption from the Board
@@ -82,7 +82,7 @@ To do so, please [open an issue in the Cross Project Council repository](https:/
 
 ## Getting help
 
-If you have a question about this policy or how to implement it, please reach out to [legal-questions@lists.openjsf.org](mailto:legal-questions@lists.openjsf.org).
+If you have any questions about this policy or need assistance with its implementation, please contact the [OpenJS staff](mailto:operations@openjsf.org).
 
 [IP Policy]: https://ip-policy.openjsf.org
 [DCO]: https://developercertificate.org
