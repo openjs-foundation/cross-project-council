@@ -49,9 +49,6 @@ Candidates can self-nominate to be selected as an alternate community member, a 
 
 Once the nomination period has ended, primary and alternate members will be selected through [consensus][decision-making] during a private CPC meeting. If there is an objection to a candidate being selected and consensus cannot be reached, a [vote][voting] will occur for that candidate.
 
-[decision-making]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making
-[voting]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting
-
 Candidates must meet the [eligibility requirements](#eligibility).
 
 ### Eligibility
@@ -91,3 +88,4 @@ The CoC Team uses the Cross Project Council's [Decision Making Process][decision
 [escalation]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation
 [appeal]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeals
 [decision-making]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making
+[voting]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting
