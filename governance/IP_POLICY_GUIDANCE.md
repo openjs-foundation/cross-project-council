@@ -53,15 +53,27 @@ All project websites need to have a [standard website footer][].
 
 Each project must adopt either the [Developer Certificate of Origin (DCO)][DCO] or a Contributor License Agreement (CLA).
 
+#### DCO
+
+There are two options for implementing the DCO on your project:
+
+1. By installing the [DCO bot](https://github.com/apps/dco) 
+2. By including the following in your repository:
+   1. Adding the DCO to your CONTRIBUTING.md file, [example](https://github.com/nodejs/node/blob/main/CONTRIBUTING.md)
+   2. Adding the DCO to your PR templates, [example](https://raw.githubusercontent.com/nodejs/node/main/.github/PULL_REQUEST_TEMPLATE.md)
+
+The DCO Bot is the preferred method and is also recommended for projects that require strict enforcement.
+
+#### CLA
+
 The Board has pre-approved an [individual CLA][ICLA] and a [corporate CLA][CCLA].
 Projects can choose to adopt either the individual CLA by itself or both the individual CLA and the corporate CLA without any further review.
 
 If you need to use a different CLA, you must
 [obtain an exemption from the board](#obtaining-an-exemption-from-the-board).
 
-We are preparing additional guidance documentation on how to implement the DCO or a CLA, what infrastructure the foundation provides to help with this, what steps maintainers need to make when merging pull requests, and how to fix common issues that arise when using either solution.
+CLAs are managed through [EasyCLA](https://docs.linuxfoundation.org/lfx/easycla). 
 
-To setup the CLA infrastructure until this additional documentation is ready, please [reach out to foundation staff](#getting-help).
 
 ## Obtaining an exemption from the Board
 
@@ -70,7 +82,7 @@ To do so, please [open an issue in the Cross Project Council repository](https:/
 
 ## Getting help
 
-If you have a question about this policy or how to implement it, please reach out to [legal-questions@lists.openjsf.org](mailto:legal-questions@lists.openjsf.org).
+If you have any questions about this policy or need assistance with its implementation, please contact the [OpenJS staff](mailto:operations@openjsf.org).
 
 [IP Policy]: https://ip-policy.openjsf.org
 [DCO]: https://developercertificate.org
