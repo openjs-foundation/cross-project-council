@@ -6,6 +6,7 @@ The OpenJS Foundation’s community fund supports travel and attendance at event
 
 * Collaborators
 * Standards body participants
+* Over the age of 18
 
 > [!Note]
 > If you're _speaking_ at an event, you should apply through the [OpenJS Foundation's Speakers Bureau](https://openjsf.org/events#:~:text=Speakers%20Bureau) instead.
