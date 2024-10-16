@@ -6,7 +6,7 @@ The OpenJS Foundation’s community fund supports travel and attendance at event
 
 * Collaborators
 * Standards body participants
-* At least 18 years old and recognized as adults in the destination country, based on local laws (ref: [Age of Majority](https://en.wikipedia.org/wiki/Age_of_majority))
+* At least 18 years old and recognized as adults in both the country of departure and the destination country, based on local laws (ref: [Age of Majority](https://en.wikipedia.org/wiki/Age_of_majority))
 
 > [!Note]
 > If you're _speaking_ at an event, you should apply through the [OpenJS Foundation's Speakers Bureau](https://openjsf.org/events#:~:text=Speakers%20Bureau) instead.
