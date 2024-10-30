@@ -146,22 +146,22 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
   - Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
   - Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
 - **webpack**
-  - Even Stensberg ([@evenstensberg](https://github.com/evenstensberg))
   - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
+  - Even Stensberg ([@evenstensberg](https://github.com/evenstensberg))
 
 #### At Large Project Representatives
 
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
-- Jordan Harband ([@ljharb](https://github.com/ljharb))
-- Ulises Gascón ([@UlisesGascon](https://github.com/ulisesgascon))
+- Jordan Harband ([@ljharb](https://github.com/ljharb), HeroDevs)
+- Ulises Gascón ([@UlisesGascon](https://github.com/ulisesgascon), NodeSource)
 
 #### Elected by Regular Members
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regular
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
+- Chris de Almeida ([@ctcpip](https://github.com/ctcpip), IBM)
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson), Red Hat)
-- Chris de Almeida ([@ctcpip](https://github.com/ctcpip))
 
 #### Collaboration space representatives
 
@@ -173,22 +173,31 @@ Anyone who has been active in the foundation or one of its member projects, as d
 
 - Abigail Cabunoc Mayes ([@abbycabs](https://github.com/abbycabs))
 - Adrian Estrada ([@edsadr](https://github.com/edsadr))
+- Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
 - Chris de Almeida ([@ctcpip](https://github.com/ctcpip))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
 - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
 - Cody Zuschlag([@codyzu](https://github.com/codyzu))
 - Darcy Clarke ([@darcyclarke](https://github.com/darcyclarke))
 - Divy Tolia ([@designmoreweb](https://github.com/designmoreweb))
+- Dylan Schiemann ([@dylans](https://github.com/dylans))
 - Eemeli Aro ([@eemeli](https://github.com/eemeli))
+- Erick Zhao ([@erickzhao](https://github.com/erickzhao))
 - Ethan Arrowood ([@Ethan-Arrowood](https://github.com/Ethan-Arrowood))
 - Even Stensberg ([@evenstensberg](https://github.com/evenstensberg))
 - Jean Burellier ([@sheplu](https://github.com/sheplu))
+- Joe Sepi ([@joesepi](https://github.com/joesepi))
 - Jon Church ([@jonchurch](https://github.com/jonchurch))
+- Jonathan Lipps ([@jlipps](https://github.com/jlipps))
 - Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
+- Kazuaki Matsuo ([@KazuCocoa](https://github.com/KazuCocoa))
 - Marco Ippolito ([@marco-ippolito](https://github.com/marco-ippolito))
+- Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Mert Can Altin ([@mertcanaltin](https://github.com/mertcanaltin))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
+- Michaela Laurencin ([@mlaurencin](https://github.com/mlaurencin))
+- Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
 - Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
 - Natalia Venditto ([@anfibiacreativa](https://github.com/anfibiacreativa))
@@ -200,13 +209,17 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Rifa Achrinza ([@achrinza](https://github.com/achrinza))
 - Ruy Adorno ([@ruyadorno](https://github.com/ruyadorno))
 - Sara Chipps ([@sarajo](https://github.com/sarajo))
+- Sean Larkin ([@TheLarkInn](https://github.com/TheLarkInn))
 - Shelley Vohr ([@codebytere](https://github.com/codebytere))
+- Timmy Willison ([@timmywil](https://github.com/timmywil))
+- Tobie Langel ([@tobie](https://github.com/tobie))
 - Ulises Gascón ([@ulisesgascon](https://github.com/ulisesgascon))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
 - Wes Todd ([@wesleytodd](https://github.com/wesleytodd))
 - Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
 
 ### Regular Member emeriti
+
 - Abraham Jr Agiri ([@codeekage](https://github.com/codeekage))
 - Antón Molleda ([@molant](https://github.com/molant))
 - Ben Hutton ([@relequestual](https://github.com/relequestual))
