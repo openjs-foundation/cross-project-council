@@ -171,7 +171,7 @@ Members of the Collaboration spaces at the `Core` stage may nominate a candidate
 
 Anyone who has been active in the foundation or one of its member projects, as described in the [CPC Governance](./governance/GOVERNANCE.md#approving-and-onboarding-regular-members) may request to become a [regular member](./governance/GOVERNANCE.md#approving-and-onboarding-regular-members). Outgoing Voting members automatically become Regular members, although they must remain active to retain their status.
 
-- Abigail Cabunoc Mayes ([@abbycabs](https://github.com/abbycabs))
+- Abby Cabunoc Mayes ([@abbycabs](https://github.com/abbycabs))
 - Adrian Estrada ([@edsadr](https://github.com/edsadr))
 - Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
 - Chris de Almeida ([@ctcpip](https://github.com/ctcpip))
