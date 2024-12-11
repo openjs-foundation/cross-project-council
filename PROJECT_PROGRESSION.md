@@ -199,7 +199,7 @@ To be considered for the At Large Stage, the project must meet the following req
 
 #### Definition
 
-The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.    
+The Impact Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Impact Stage projects are used commonly in enterprise production environments and have large, well-established project communities.
 Impact projects offer long-term stability guarantees, and therefore the governing body of Impact projects are expected to have representatives from at least three organizations.
 
 #### Examples
