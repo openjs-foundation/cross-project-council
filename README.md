@@ -26,6 +26,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project Appium" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/appium/appium-icon-color.svg" width="30" /> | [Appium](https://appium.io/)       |      | [Contributing Guide](https://github.com/appium/appium/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Dojo" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/dojo/dojo-icon-color.svg" width="30" /> | [Dojo](https://dojo.io/)               |      | [Contributing Guide](https://github.com/dojo/framework/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Electron" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/electron/electron-icon-color.svg" width="30" /> | [Electron](https://electronjs.org) | [Charter](https://github.com/electron/governance/tree/main/charter) | [Contributing Guide](https://github.com/electron/electron/blob/HEAD/CONTRIBUTING.md) |
+| <img alt="logo of project Express" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/express/express-icon-black.svg" width="30" /> | [Express](https://expressjs.com/)          |    | [Contributing Guide](https://expressjs.com/en/resources/contributing.html) |
 | <img alt="logo of project jQuery" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jquery/jquery-icon-color.svg" width="30" /> | [jQuery](https://jquery.com/)      |      | [Contributing Guide](https://github.com/jquery/jquery/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Node.js" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/nodejs/nodejs-icon-color.svg" width="30" /> | [Node.js](https://nodejs.org)      |      | [Contributing Guide](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project webpack" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/webpack/webpack-icon-color.svg" width="30" /> | [webpack](https://webpack.js.org/) |      | [Contributing Guide](https://github.com/webpack/webpack/blob/HEAD/CONTRIBUTING.md) |
@@ -38,7 +39,6 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project architect" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/architect/architect-icon-grayscale.svg" width="30" /> | [architect](https://arc.codes/)         |   |  [Contributing Guide](https://github.com/architect/architect/blob/HEAD/.github/contributing.md)   |
 | <img alt="logo of project ESLint" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/eslint/eslint-icon-color.svg" width="30" /> | [ESLint](https://eslint.org/)              |    | [Contributing Guide](https://github.com/eslint/eslint/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Esprima" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/esprima/esprima-icon-color.svg" width="30" /> | [Esprima](https://esprima.org/)            |    | [Contributing Guide](https://github.com/jquery/esprima/blob/HEAD/CONTRIBUTING.md) |
-| <img alt="logo of project Express" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/express/express-icon-black.svg" width="30" /> | [Express](https://expressjs.com/)          |    | [Contributing Guide](https://expressjs.com/en/resources/contributing.html) |
 | <img alt="logo of project Fastify" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/fastify/fastify-icon-black.svg" width="30" /> | [Fastify](https://fastify.io)          |    | [Contributing Guide](https://github.com/fastify/fastify/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Globalize" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/globalize/globalize-icon-color-dark_background.svg" width="30" /> | [Globalize](https://github.com/jquery/globalize)  |    | [Contributing Guide](https://github.com/globalizejs/globalize/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Grunt" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/grunt/grunt-icon-color.svg" width="30" /> | [Grunt](https://gruntjs.com/)              |    | [Contributing Guide](https://github.com/gruntjs/grunt/blob/HEAD/CONTRIBUTING.md) |
@@ -139,6 +139,9 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 - **Electron**
   - Erick Zhao ([@erickzhao](https://github.com/erickzhao), Slack)
   - Michaela Laurencin ([@mlaurencin](https://github.com/mlaurencin), Microsoft)
+- **Express**
+  - Ulises Gascón ([@UlisesGascon](https://github.com/ulisesgascon), NodeSource)
+  - Wes Todd ([@wesleytodd](https://github.com/wesleytodd))
 - **jQuery**
   - Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol))
   - Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
@@ -154,7 +157,6 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
 - Jordan Harband ([@ljharb](https://github.com/ljharb), HeroDevs)
-- Ulises Gascón ([@UlisesGascon](https://github.com/ulisesgascon), NodeSource)
 
 #### Elected by Regular Members
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regular
