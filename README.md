@@ -141,7 +141,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
   - Michaela Laurencin ([@mlaurencin](https://github.com/mlaurencin), Microsoft)
 - **Express**
   - Ulises Gascón ([@UlisesGascon](https://github.com/ulisesgascon), NodeSource)
-  - Wes Todd ([@wesleytodd](https://github.com/wesleytodd))
+  - Wes Todd ([@wesleytodd](https://github.com/wesleytodd), Netflix)
 - **jQuery**
   - Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol))
   - Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
