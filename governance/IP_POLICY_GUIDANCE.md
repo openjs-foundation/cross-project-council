@@ -41,9 +41,20 @@ The recommendation is to use a general copyright statement of the following form
 
 By using this format, the project avoids having to deal with names of copyright holders, years or ranges of years, and variations on the (c) symbol.
 
-_Please note that you **must not** change or remove existing copyright lines unless you put them there **and** have the right to do so.
 If there are existing copyright lines add the recommended copyright statement below the existing copyright lines.
-You may however update copyright lines that say "JS Foundation" or "Node.js Foundation" to "OpenJS Foundation" as this simply reflects the merged status of the organizations._
+
+#### Editing existing copyright notices
+
+You **must not** modify or remove existing copyright lines unless you put them there **and** have the right to do so.
+
+However, you may update copyright lines that say "JS Foundation" or "Node.js Foundation" to "OpenJS Foundation" (as this simply reflects the merged status of the organizations) and remove the year(s) from copyright lines that mention the project or the foundation's name.
+
+For example:
+
+    * `Copyright 2025 John Doe.` **must not** be modified or removed.
+    * `Copyright 2025 The XYZ Authors.` may be updated to `Copyright The XYZ Authors.`
+    * `Copyright 2025 Node.js Foundation.` may be updated to `Copyright OpenJS Foundation.`
+
 
 ### 3. Standard website footer
 
