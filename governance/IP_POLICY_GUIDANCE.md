@@ -43,7 +43,20 @@ By using this format, the project avoids having to deal with names of copyright 
 
 _Please note that you **must not** change or remove existing copyright lines unless you put them there **and** have the right to do so.
 If there are existing copyright lines add the recommended copyright statement below the existing copyright lines.
-You may however update copyright lines that say "JS Foundation" or "Node.js Foundation" to "OpenJS Foundation" as this simply reflects the merged status of the organizations._
+You may however update copyright lines that say "JS Foundation" or "Node.js Foundation" to "OpenJS Foundation" as this simply reflects the merged status of the organizations.
+The same applies for individual projects that change names._
+
+_Examples:_
+
+**Lines you can update:**
+
+- `Copyright 2025 The XYZ Authors.` to `Copyright The XYZ Authors.`
+- `Copyright 2025 Node.js Foundation.` to `Copyright OpenJS Foundation.`
+
+**Lines you CANNOT update:**
+
+- `Copyright 2025 John Doe.`
+- `Copyright Jane Doe.`
 
 ### 3. Standard website footer
 
