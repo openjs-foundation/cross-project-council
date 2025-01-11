@@ -92,6 +92,7 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 | Package Vulnerability Management & Reporting | [Repository][pkg-vuln]             | No                     | Package vulnerability management and reporting                  |
 | Security                                     | [Repository][security]             | No                     | Documentation and coordination of the Foundation's security effort |
 | Standards                                    | [Repository][standards]            | [Yes][standards-deleg] | Facilitate the engagement of projects and collaborators in standards organizations |
+| Sustainability                               | [Repository][sustainability]       | No                     | Ensuring long-term sustainability of all OpenJS projects |
 
 [ecosystem-report]: https://github.com/openjs-foundation/ecosystem-report
 [openvis]: https://github.com/openjs-foundation/openvis-collab-space
@@ -100,6 +101,7 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 [security]: https://github.com/openjs-foundation/security-collab-space
 [standards]: https://github.com/openjs-foundation/standards
 [standards-deleg]: ./collaboration-spaces/COLLABORATION_NETWORK.md#standards-collaboration-space
+[sustainability]: https://github.com/openjs-foundation/sustainability-collab-space
 
 ## CPC Meetings
 
