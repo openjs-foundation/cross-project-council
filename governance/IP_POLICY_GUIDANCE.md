@@ -48,7 +48,7 @@ The same applies for individual projects that change names._
 
 _Examples:_
 
-**Lines you can update:**
+**Lines you may update:**
 
 - `Copyright 2025 The XYZ Authors.` to `Copyright The XYZ Authors.`
 - `Copyright 2025 Node.js Foundation.` to `Copyright OpenJS Foundation.`
