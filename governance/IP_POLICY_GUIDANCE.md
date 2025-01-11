@@ -53,7 +53,7 @@ _Examples:_
 - `Copyright 2025 The XYZ Authors.` to `Copyright The XYZ Authors.`
 - `Copyright 2025 Node.js Foundation.` to `Copyright OpenJS Foundation.`
 
-**Lines you CANNOT update:**
+**Lines you MUST NOT update nor remove:**
 
 - `Copyright 2025 John Doe.`
 - `Copyright Jane Doe.`
