@@ -31,6 +31,13 @@ Critical issues resulting in unplanned downtime will be prioritized over other s
 
 All non-confidential issues are tracked via a public [Github project board](https://github.com/orgs/openjs-foundation/projects/10).
 
+## What To Do In An Emergency
+
+In the event of an emergency (e.g., a critical system is down or there is a security incident), you can use Jira to request priority support 24/7.
+
+1. Please fill out the following ticket in Jira [(Report a serious problem](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2/create/30))
+2. Set urgency and impact appropriately
+
 ## Have A Unique Situation?
 
 For urgent, unique, or complex issues that require discussion, please contact operations@openjsf.org.
