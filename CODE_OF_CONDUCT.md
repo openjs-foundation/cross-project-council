@@ -6,6 +6,7 @@
     * **AMP Project:** <code-of-conduct@amp.dev>
     * **Appium:** email maintainers
     * **Electron:** <coc@electronjs.org>
+    * **ESLint:** <conduct@eslint.org>
     * **Express.js:** <express-coc@lists.openjsf.org>
     * **Fastify:** <hello@matteocollina.com> or <tommydelved@gmail.com>
     * **HospitalRun:** <hello@hospitalrun.io>
