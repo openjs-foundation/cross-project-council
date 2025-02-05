@@ -22,12 +22,17 @@ All travel fund requests are treated confidentially: only CPC members and OpenJS
 
 ## Transparency
 
+In **2024**, 27 funding requests were made by 25 contributors for a total requested sum of $36,654 with a maximum of 2 requests per contributor.
+Requested sums per trip ranged from $140 to $6,400, with a median of $1,227 and an average of $1,466. ~37% of the funding requests stated that they identified as being from an underrepresented group.
+All requests were granted.
+
+
 In **2023**, 26 funding requests were made by 22 contributors for a total requested sum of $47,500 with a maximum of 2 requests per contributor.
 Requested sums per trip ranged from $750 to $5,750, with a median of $1,525 and an average of $1,825.
 Requested sums per individual ranged from $1,000 to $7,350, with a median of $1,950 and an average of $2,150.
 All requests were granted.
 
-For 2024, $60,000 was allocated to the fund.
+For 2025, $60,000 was allocated to the fund.
 
 _All amounts are in United States dollars._
 
