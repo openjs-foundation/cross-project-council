@@ -14,9 +14,18 @@
     * **Node-RED:** <team@nodered.org>
     * **Webdriver.io:** [contact TSC reps](https://github.com/webdriverio/webdriverio/blob/HEAD/AUTHORS.md)
     * **Webhint:** <support@webhint.io>
+    * **Any other project**: See point 2 below.
     
     In case of a conflict of interest, if the report is not handled appropriately (for example, if there are unacceptable delays, a lack of communication, confidentiality isn't respected, etc.), or in case of an emergency, you may [escalate the report][escalation] to the [Code of Conduct Team (CoC Team)][CoC Team] by emailing <coc@openjsf.org> or by contacting any of its members.
-2.  **To report any other incident** (for example: in an OpenJS Foundation project not listed above, in a Collab Space, in the Cross Project Council, or during an event), please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc@openjsf.org> or contact any of its members.
+2.  To report an incident in:
+    
+    * an **OpenJS Project not listed above**,
+    * a **Collab Space**,
+    * the **Cross Project Council**,
+    * **during an event**, or
+    * **in any other circumstances** related to the the OpenJS Foundation,
+        
+    please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc@openjsf.org> or contact any of its members.
 
 ### Appeal a decision
 
