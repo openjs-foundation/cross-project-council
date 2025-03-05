@@ -2,12 +2,19 @@
 
 The OpenJS Foundation provides a number of services to support critical infrastructure for hosted projects. We expect projects to be respectful of these services, to abide by their terms of use, and to be put into use for the good of the project and the OpenJS Foundation.
 
-## Billing for services and mitigating the bus factor
+## Billing For Services and Mitigating the Bus Factor
 **For all project services, please add an OpenJS Foundation account at an owner or highest-level of permission access.**  This helps ensure continuity by reducing the bus factor on the project, and ensures you are never locked out. It is also **required** in order for the OpenJS Foundation to pay service fees on behalf of your project. Access to the OpenJS Foundation administrator/owner account will never be shared with others, and will only be granted to operations, IT, and finance staff at the Linux Foundation.
 
 If you don’t know the name of the OpenJS Foundation account for a service, please contact operations@openjsf.org.
 
-## Cloud Resources
+## Engaging with a New Third-Party Provider
+
+Before committing to a new significant third-party provider, please file an [issue](https://github.com/openjs-foundation/cross-project-council/blob/main/project-resources/requesting_LFIT_support.md) for OpenJS to review.
+
+* OpenJS may already have an existing agreement with the provider that you can take advantage of.
+* If no agreement exists, we may want to establish one to benefit the broader OpenJS community.
+
+## Supported Cloud Resources
 
 Our strategic partners have generously committed valuable services to support OpenJS projects. If your project would like to utilize any of the services listed below, please follow the instructions [here](https://github.com/openjs-foundation/cross-project-council/blob/main/project-resources/requesting_LFIT_support.md) to file a ticket.
 
@@ -41,7 +48,7 @@ Projects with a technical need for a CDN should attempt to use no-cost services 
 ## Open Source Dependency Monitoring (FOSSA)
 
 ## Credential Storage
-The OpenJS Foundation can provide credential storage and sharing through 1Password.
+You can request a 1password account for your project via their [open source program](https://github.com/1Password/for-open-source). Please ensure that you add the OpenJS operations account to any vaults you create. 
 
 ## Email
 The OpenJS Foundation uses Groups.io for mailing lists on the openjsf.org domain. All projects are welcome to request their own lists on the @lists.openjsf.org subdomain.
