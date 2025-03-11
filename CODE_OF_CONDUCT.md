@@ -187,6 +187,6 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 [escalation]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation
 [appeal]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeals
-[CoC Team]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#code-of-conduct-team-coc-team
+[CoC Team]: #code-of-conduct-team-coc-team
 [opted-in]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#delegation-to-projects
 [alternate]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_TEAM_CHARTER.md#alternate-community-members
