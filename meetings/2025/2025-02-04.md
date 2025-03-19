@@ -1,0 +1,98 @@
+# OpenJS Foundation Cross Project Council Meeting 2025-02-04
+
+## Links
+
+* **Recording**:
+* **GitHub Issue**: https://github.com/openjs-foundation/cross-project-council/issues/1414
+
+## Present
+
+* Michael Dawson (@mhdawson)
+* Joe Sepi (@joesepi)
+* Meghan Denny (@nektro)
+* Tobie Langel (@tobie)
+* Sebastian Beltran (@bjohansebas)
+* Michaela Laurencin (@mlaurencin)
+* Ben Sternthal (@bensternthal)
+* Jon Church (@jonchurch)
+* Chris de Almeida (@ctcpip)
+* Ulises Gascón (@UlisesGascon)
+* Claudio Wunder (@ovflowd)
+* Robin Ginn (@rginn)
+* Jordan Harband (@ljharb)
+
+## Agenda
+Private session → travel fund approvals
+
+### Announcements
+JSConf NA October 14-16 2025, tickets will be available in the next few weeks. Tickets for maintainers and project members will be reserved for early bird rates
+European Cyber Resilience Act (CRA), OpenJS collaborating with others at the LF to develop guidance and best practices
+OpenJS CNA Town Halls are scheduled and folks should have seen a note about them, if not reach out to Chris, Ben, or Rudd
+
+### Board Meeting Updates
+
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-board
+
+### Staff Updates
+
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-legal-info
+https://github.com/openjs-foundation/cross-project-council/issues/1359
+- minor wording change; doesn’t materially impact anything; legal says its fine
+
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-staff-update
+https://github.com/openjs-foundation/cross-project-council/issues/1307
+Hospital Run project archive process; Ben is waiting on a couple things; Robin has created an npm account
+
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-website-update
+
+_Extracted from **cross-project-council-agenda** labeled issues and pull requests from the **openjs-foundation org** prior to the meeting._
+
+### openjs-foundation/cross-project-council
+
+* Discuss travel fund budget [#1412](https://github.com/openjs-foundation/cross-project-council/issues/1412)
+   * JH - Are there ways to incentivize folks to request travel fund early?
+   * CDA - Often booking early is significantly cheaper, can this be added to the policy in some way
+   * TL - supports Jordan’s comments, and reminded folks about the existing timelines defined in the policy
+   * JS - Next Steps? Tobie, will formulate next steps based on reviewing the points broached in the issue. 
+   * BS - will create an eoy 2024 report following the same format as last year, this week
+
+* Audit new project application process and implementation [#1398](https://github.com/openjs-foundation/cross-project-council/issues/1398)
+
+* Health-check on the NativeScript TSC charter [#1387](https://github.com/openjs-foundation/cross-project-council/issues/1387)
+   * moving along; no update
+
+* Adding affiliation clause to NativeScript charter [#1386](https://github.com/openjs-foundation/cross-project-council/issues/1386)
+   * same status as 1387
+
+* Create process docs to request infrastructure resources through OpenJSF partners [#1367](https://github.com/openjs-foundation/cross-project-council/issues/1367)
+   * BS - I suggest we close this out as we have a process defined and rolled out, we can always tweak as needed. 
+
+* Code of Conduct Plan of Action [#1122](https://github.com/openjs-foundation/cross-project-council/issues/1122)
+
+* Non-violent communication / strategic workplace conflict resolution training? [#1106](https://github.com/openjs-foundation/cross-project-council/issues/1106)
+
+### openjs-foundation/sustainability-collab-space
+
+* OpenJS + Open Source Pledge [#12](https://github.com/openjs-foundation/sustainability-collab-space/issues/12)
+
+### Next week's working session
+
+Are there any initiatives or agenda items that we should use a working session to further progress on?
+- https://github.com/openjs-foundation/cross-project-council/labels/cpc-working-session
+Work on CoC Plan of Action – an issue was created by Michaela that lists just what needs to be done to complete the list of tasks
+
+### Regular reviews
+
+Please review regularly our list of dates and reminders, our quarterly review issues, and check the list of issues that can be closed:
+
+- https://github.com/openjs-foundation/cross-project-council/blob/main/Dates-and-Reminders.md
+- https://github.com/openjs-foundation/cross-project-council/labels/cpc-quartely-review
+- https://github.com/openjs-foundation/cross-project-council/labels/cpc-can-issue-be-closed
+
+### Q&A, Other
+
+## Upcoming Meetings
+
+- **Calendar**: <https://calendar.openjsf.org>
+
+Click `+GoogleCalendar` at the bottom right to add to your own Google calendar.
