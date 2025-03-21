@@ -74,7 +74,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 | | Project        | Charter           | Contributing       |
 |-|----------------|:-----------------:|:------------------:|
-| <img alt="logo of project ajv" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/ajv/ajv-logo-color.svg" width="30" />  | [Ajv](https://ajv.js.org/) |   | [Contributing Guide](https://ajv.js.org/contributing) |
+| 🪐  | [Cosmos](https://cosmograph-org.github.io/cosmos/) |   | [Contributing Guide](https://github.com/cosmograph-org/cosmos/blob/main/CONTRIBUTING.md) |
 |   | [kepler.gl](https://kepler.gl/) |   | [Contributing Guide](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing) |
 | <img alt="logo of project NativeScript" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/nativescript/nativescript-icon-color.svg" width="30" /> | [NativeScript](https://nativescript.org/) |   | [Contributing Guide](https://github.com/NativeScript/NativeScript/blob/HEAD/tools/notes/CONTRIBUTING.md) |
 |   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) |
