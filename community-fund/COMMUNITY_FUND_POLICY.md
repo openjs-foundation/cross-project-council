@@ -42,7 +42,7 @@ Valid travel expenses are:
 
 * Airfare, train, or ferry tickets in economy/coach class only
 * Accommodations (dates of the event plus one night prior are eligible for reimbursement)
-* Visa
+* Visa fees (even in case the visa is denied)
 * Ground transportation to/from the airport
 
 NOTE: Funds may not be used for miscellaneous travel expenses including food, non-airport transportation, baggage fees, etc.
