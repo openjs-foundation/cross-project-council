@@ -11,7 +11,7 @@ The OpenJS Foundation’s community fund supports travel and attendance at event
 > [!Note]
 > If you're _speaking_ at an event, you should apply through the [OpenJS Foundation's Speakers Bureau](https://openjsf.org/events#:~:text=Speakers%20Bureau) instead.
 
-The fund can cover the costs, in whole or in part, of a participant's hotel, transportation, and event registration for approved events.
+The fund can cover the costs, in whole or in part, of a participant's hotel, transportation, visa, and event registration for approved events.
 Applicants should explore employer-sponsored funding options as their first source of financial support.
 Additionally, 25% of the community fund is allocated specifically to support underrepresented groups.
 Funding decisions are determined by a combination of need and potential impact.
@@ -41,10 +41,11 @@ _All amounts are in United States dollars._
 Valid travel expenses are:
 
 * Airfare, train, or ferry tickets in economy/coach class only
-* Accommodations (Dates of the event plus one night prior are eligible for reimbursement)
+* Accommodations (dates of the event plus one night prior are eligible for reimbursement)
+* Visa
 * Ground transportation to/from the airport
 
-NOTE: Funds may not be used for miscellaneous travel expenses including food, visa costs, non-airport transportation, baggage fees, etc.
+NOTE: Funds may not be used for miscellaneous travel expenses including food, non-airport transportation, baggage fees, etc.
 Generally, registration can be reimbursed if the attendee is speaking on behalf of OpenJS, the CPC, or OpenJS-hosted projects.
 Funding is not transferable to another person, or any other event. 
 
