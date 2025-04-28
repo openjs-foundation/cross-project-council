@@ -8,8 +8,10 @@ The OpenJS Foundation’s community fund supports travel and attendance at event
 * Standards body participants
 * At least 18 years old and recognized as adults in both the country of departure and the destination country, based on local laws (ref: [Age of Majority](https://en.wikipedia.org/wiki/Age_of_majority))
 
+<!-- On Hold For 2025
 > [!Note]
 > If you're _speaking_ at an event, you should apply through the [OpenJS Foundation's Speakers Bureau](https://openjsf.org/events#:~:text=Speakers%20Bureau) instead.
+-->
 
 The fund can cover the costs, in whole or in part, of a participant's hotel, transportation, visa, and event registration for approved events.
 Applicants should explore employer-sponsored funding options as their first source of financial support.
