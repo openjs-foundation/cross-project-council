@@ -1,0 +1,97 @@
+# OpenJS Foundation Cross Project Council Meeting 2025-02-18
+
+## Links
+
+* **Recording**: https://www.youtube.com/watch?v=ra28G4cXvEk&ab_channel=OpenJSFoundation
+* **GitHub Issue**: https://github.com/openjs-foundation/cross-project-council/issues/1421
+
+## Present
+
+* Robin Ginn (@rginn)
+* Ben Sternthal (@bensternthal)
+* Tobie Langel
+* Ethan Arrowood (@Ethan-Arrowood)
+* Wes Todd (@wesleytodd)
+* Michaela Laurencin (@mlaurencin)
+* Jean Burellier (@sheplu)
+* Sebastian Beltran (@bjohansebas)
+
+* OpenJS Foundation Cross Project Council
+* OpenJS Foundation Project Maintainers
+* OpenJS Foundation Board of Directors
+
+## Agenda
+
+* Pending travel fund approvals (private session)
+
+### Announcements
+
+### Board Meeting Updates
+
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-board
+
+### Staff Updates
+
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-legal-info
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-staff-update
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-website-update
+
+_Extracted from **cross-project-council-agenda** labeled issues and pull requests from the **openjs-foundation org** prior to the meeting._
+
+### openjs-foundation/cross-project-council
+
+* Make sure Github teams for voting and regular CPC members is accurate [#1419](https://github.com/openjs-foundation/cross-project-council/issues/1419)
+
+* Improve visibility of CoC email address [#1418](https://github.com/openjs-foundation/cross-project-council/pull/1418)
+  * merged
+
+* Code of Conduct Plan of Action - Remaining Items [#1417](https://github.com/openjs-foundation/cross-project-council/issues/1417)
+  * Working in next working session
+  * Would be nice to do some evangelizing around the CPC policy updates once this is wrapped up.
+
+* Discuss travel fund budget [#1412](https://github.com/openjs-foundation/cross-project-council/issues/1412)
+  * didn’t have time to address this issue
+
+* Add CPC Private Mailing List To Form Submissions [#1408](https://github.com/openjs-foundation/cross-project-council/issues/1408)
+  * didn’t have time to address this issue
+
+* Audit new project application process and implementation [#1398](https://github.com/openjs-foundation/cross-project-council/issues/1398)
+  * didn’t have time to address this issue
+
+* Health-check on the NativeScript TSC charter [#1387](https://github.com/openjs-foundation/cross-project-council/issues/1387)
+  * didn’t have time to address this issue
+
+* Adding affiliation clause to NativeScript charter [#1386](https://github.com/openjs-foundation/cross-project-council/issues/1386)
+  * didn’t have time to address this issue
+
+* Code of Conduct Plan of Action [#1122](https://github.com/openjs-foundation/cross-project-council/issues/1122)
+  * remove CPC-meeting label
+
+* Non-violent communication / strategic workplace conflict resolution training? [#1106](https://github.com/openjs-foundation/cross-project-council/issues/1106)
+  * didn’t have time to address this issue
+
+### openjs-foundation/sustainability-collab-space
+
+* OpenJS + Open Source Pledge [#12](https://github.com/openjs-foundation/sustainability-collab-space/issues/12)
+
+### Next week's working session
+
+Are there any initiatives or agenda items that we should use a working session to further progress on?
+- https://github.com/openjs-foundation/cross-project-council/labels/cpc-working-session
+
+### Regular reviews
+
+Please review regularly our list of dates and reminders, our quarterly review issues, and check the list of issues that can be closed:
+
+- https://github.com/openjs-foundation/cross-project-council/blob/main/Dates-and-Reminders.md
+- https://github.com/openjs-foundation/cross-project-council/labels/cpc-quartely-review
+- https://github.com/openjs-foundation/cross-project-council/labels/cpc-can-issue-be-closed
+
+### Q&A, Other
+
+## Upcoming Meetings
+
+- **Calendar**: <https://calendar.openjsf.org>
+
+Click `+GoogleCalendar` at the bottom right to add to your own Google calendar.
+
