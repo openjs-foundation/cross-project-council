@@ -76,10 +76,9 @@ If not enough primary community members are available to meet those requirements
 
 Appeals to responses provided by the CoC Team itself should be handled by a different set of members than those responsible for the initial response.
 
-## Decision making process
+### Decision-making process for responding to incident reports
 
-The CoC Team uses the Cross Project Council's [Decision Making Process][decision-making].
-
+The CoC Team must agree on a resolution by complete, unanimous consensus. This means that all members involved in [handling](#handling-cases) an incident must agree on its resolution.
 
 [CoC]: https://code-of-conduct.openjsf.org/
 [CoC Policy]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md
