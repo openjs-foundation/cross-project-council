@@ -167,6 +167,10 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within the
 project community.
 
+## Decision-making process for responding to incident reports
+
+The CoC Team must agree on a resolution by complete consensus.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
