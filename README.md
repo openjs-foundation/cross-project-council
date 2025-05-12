@@ -207,6 +207,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
 - Natalia Venditto ([@anfibiacreativa](https://github.com/anfibiacreativa))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
+- Nikita Rokotyan [@rokotyan](https://github.com/rokotyan)
 - Nitin Kumar ([@snitin315](https://github.com/snitin315))
 - Paula Paul ([@paulapaul](https://github.com/paulapaul))
 - Rick Markins ([@rxmarbles](https://github.com/rxmarbles))
