@@ -36,7 +36,7 @@ Projects may choose to use an OpenJS services.md file or their own service regis
 
 Projects have two options for how to:
 
-* **Option 1**: Use an `services.md` file  
+* **Option 1:** Use a `services.md` file  
 * **Option 2:** Use their own service registry file that contains at least the equivalent detail as an OpenJS `services.md` file
 
 Regardless of their choice, the file must be shared with the OpenJS Foundation (Robin Ginn and Ben Sternthal).
