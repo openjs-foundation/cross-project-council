@@ -1,4 +1,4 @@
-# **OpenJS Third Party Services Documentation Policy**
+# OpenJS Third Party Services Documentation Policy
 
 ## **Summary**
 
