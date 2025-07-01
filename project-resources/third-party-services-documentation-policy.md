@@ -26,11 +26,11 @@ Projects may choose to use an OpenJS services.md file or their own service regis
 
 **Policy Table of Contents**
 
-- [1) Have a service registry file](#have-a-service-registry-file)  
-  - [Option 1: Use an OpenJS services.md file](#option-1:-use-a-services.md-file)  
-  - [Option 2: Use your own service registry documentation](#option-2:-use-your-own-services-registry-documentation)  
-- [2) Ensure the service registry is accessible to the OpenJS Foundation](#ensure-the-service-registry-is-accessible-to-the-openjs-foundation)  
-- [3) Keep the service registry file up to date and notify the OpenJS Foundation of changes](#keep-the-service-registry-file-up-to-date-and-notify-the-openjs-foundation-of-changes)
+- [1) Have a service registry file  
+  - Option 1: Use an OpenJS services.md file  
+  - Option 2: Use your own service registry documentation
+- [2) Ensure the service registry is accessible to the OpenJS Foundation
+- [3) Keep the service registry file up to date and notify the OpenJS Foundation of changes
 
 ## **1. Have a service registry file**
 
@@ -41,7 +41,7 @@ Projects have two options for how to:
 
 Regardless of their choice, the file must be shared with the OpenJS Foundation (Robin Ginn and Ben Sternthal).
 
-### **Option 1: Use a services.md file** {#option-1:-use-a-services.md-file}
+### **Option 1: Use a services.md file**
 
 Project maintainers can choose to use a `services.md` file to document significant third-party SaaS products and infrastructure providers used by the project.
 
