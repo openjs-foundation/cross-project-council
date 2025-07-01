@@ -12,7 +12,7 @@ It addresses the following use cases:
 
 # Continuity Options for Projects
 
-### Option 1: Add an OpenJS Continuity Account to your npm Organization(s) and/or Packages**
+### Option 1: Add an OpenJS Continuity Account to your npm Organization(s) and/or Packages
 
 If you select this option a new, dedicated OpenJS account will be created specifically for your Project. This account will be managed by the OpenJS Executive Director (Robin Ginn, [@rginn](https://github.com/rginn)).
 
