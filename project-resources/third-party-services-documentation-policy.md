@@ -45,7 +45,7 @@ Regardless of their choice, the file must be shared with the OpenJS Foundation (
 
 Project maintainers can choose to use a `services.md` file to document significant third-party SaaS products and infrastructure providers used by the project.
 
-`Services.md` may be as simple as a Markdown list like the one illustrated below.. This example is illustrative and not intended to necessarily be comprehensive on what could be included as each project may have additional items unique to them.
+`Services.md` may be as simple as a Markdown list like the one illustrated below. This example is illustrative and not intended to necessarily be comprehensive on what could be included as each project may have additional items unique to them.
 
 #### **`Services.md` content and format**
 
