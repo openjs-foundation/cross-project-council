@@ -2,7 +2,7 @@
 
 ## Summary
 
-This policy is intended to ensure that OpenJS npm Organizations remain accessible and manageable.
+This policy is intended to ensure that OpenJS npm Packages and Organizations remain accessible and manageable. It applies to all packages that are published on npm and part of a project.
 
 It addresses the following use cases:
 
