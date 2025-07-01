@@ -94,7 +94,7 @@ Project maintainers must proactively inform the Foundation of where their servic
 
 Projects may choose, at their own discretion, to place this file anywhere in their GitHub organization in either a public or private repository. The level of detail expected of the `services.md` file is typically not sensitive and often easily discovered; however, the Foundation leaves the decision of where the file is stored to each project's preferences and governance.
 
-### **Option 2: Store the service registry file in elsewhere**
+### **Option 2: Store the service registry file elsewhere**
 
 Projects are free to choose another location, such as a Google Workspace or hackmd.io, to store their service registry file.
 
