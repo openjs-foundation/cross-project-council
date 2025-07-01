@@ -81,7 +81,7 @@ Keep entries high-level. Do not include sensitive information such as vendor con
 
 Project maintainers may choose to continue using their own existing service registry or create a more customized service registry file. The only requirement for this is that the service registry file contains the same level of detail as an OpenJS `services.md` file.
 
-## **2. Ensure the service registry is accessible to the OpenJS Foundation** {#ensure-the-service-registry-is-accessible-to-the-openjs-foundation}
+## **2. Ensure the service registry is accessible to the OpenJS Foundation**
 
 Projects have two options on how to approach storing and granting OpenJS access to their service registry file. Regardless of the approach, the service registry file must be accessible to the OpenJS Executive Director Robin Ginn ([@rginn](https://www.github.com/rginn), [rginn@openjsf.org](mailto:rginn@openjsf.org)) and OpenJS Director of Program Management Ben Sternthal ([@bensternthal](https://www.github.com/bensternthal), [bsternthal@linuxfondation.org](mailto:bsternthal@linuxfondation.org)).
 
