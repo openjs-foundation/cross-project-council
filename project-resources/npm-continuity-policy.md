@@ -19,7 +19,7 @@ If you select this option a new, dedicated OpenJS account will be created specif
 To initiate this process, please create an issue in the [Infrastructure repository](https://github.com/openjs-foundation/infrastructure/issues/new?template=IT-SUPPORT-REQUEST.yml).
 
 * If you use npm Organizations, you will add this account to your Organization(s) and grant it the Owner role.  
-* If you don’t use npm Organizations, you will add this account as a Maintainer to your npm Packages.
+* If you don’t use npm Organizations, you will add this account as an Owner to your npm Packages.
 
 ### Option 2: Opt Out**
 
