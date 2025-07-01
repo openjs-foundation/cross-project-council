@@ -21,7 +21,7 @@ To initiate this process, please create an issue in the [Infrastructure reposito
 * If you use npm Organizations, you will add this account to your Organization(s) and grant it the Owner role.  
 * If you don’t use npm Organizations, you will add this account as an Owner to your npm Packages.
 
-### Option 2: Opt Out**
+### Option 2: Opt Out
 
 Projects that feel their governance is sufficient to provide continuity may opt out of this policy by requesting an exception from the CPC.
 
