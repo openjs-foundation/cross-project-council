@@ -20,7 +20,7 @@ Before engaging with a significant third-party SaaS or infrastructure provider, 
 
 All projects hosted by the OpenJS Foundation are asked to maintain a service registry file that documents significant third-party SaaS products and infrastructure providers used by the project. An example of the content and structure of this file can be found below under [services.md content and format](#services.md-content-and-format).
 
-This policy has three components: 1) have the file, 2) make it accessible to OpenJS, 3) keep the file up to date and notify OpenJS.
+This policy has three components: 1) have the file, 2) make it accessible to OpenJS, and 3) keep the file up to date and notify OpenJS.
 
 Projects may choose to use an OpenJS services.md file or their own service registry documentation.
 
