@@ -14,7 +14,8 @@ It addresses the following use cases:
 
 ### Option 1: Add an OpenJS Continuity Account to your npm Organization(s) and/or Packages
 
-If you select this option a new, dedicated OpenJS account will be created specifically for your Project. This account will be managed by the OpenJS Executive Director (Robin Ginn, [@rginn](https://github.com/rginn)).
+If you select this option a new, dedicated OpenJS account will be created specifically for your Project. The OpenJS Executive Director will manage this account.
+If your project already has a dedicated continuity account in place, share the credentials securely (ideally a shared password manager) with the Executive Director.
 
 To initiate this process, please create an issue in the [Infrastructure repository](https://github.com/openjs-foundation/infrastructure/issues/new?template=IT-SUPPORT-REQUEST.yml).
 
