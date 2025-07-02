@@ -30,3 +30,6 @@ To initiate this process, please create an issue in the [CPC repository](https:/
 
 - Organizations with 1-2 maintainers in the Owner role are the highest priority for this policy and are unlikely to be granted an exception.  
 - Organizations with 3 or more maintainers in the Owner role who have been active in the past [6||12] months will be considered for an exception.
+
+Please contact the OpenJS Foundation ([operations@openjsf.org](mailto:operations@openjsf.org)) for questions or help with this policy.
+
