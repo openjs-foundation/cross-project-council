@@ -14,7 +14,7 @@ This policy is intended to be structured in a way that enables the Foundation to
 
 # Policy: Notify the Foundation before changing existing significant service providers or engaging new ones
 
-Before engaging with a significant third-party SaaS or infrastructure provider, projects are asked to contact the OpenJS Foundation (Robin Ginn and Ben Sternthal) at [operations@openjsf.org](operations@openjsf.org). The Foundation may have an existing arrangement or might want to establish a new partnership. 
+Before engaging with a significant third-party SaaS or infrastructure provider, projects are asked to contact the OpenJS Foundation at [operations@openjsf.org](operations@openjsf.org). The Foundation may have an existing arrangement or might want to establish a new partnership. 
 
 # Policy: Maintain documentation of services
 
@@ -83,7 +83,7 @@ Project maintainers may choose to continue using their own existing service regi
 
 ## 2. Ensure the service registry is accessible to the OpenJS Foundation
 
-Projects have two options on how to approach storing and granting OpenJS access to their service registry file. Regardless of the approach, the service registry file must be accessible to the OpenJS Executive Director Robin Ginn ([@rginn](https://www.github.com/rginn), [rginn@openjsf.org](mailto:rginn@openjsf.org)) and OpenJS Director of Program Management Ben Sternthal ([@bensternthal](https://www.github.com/bensternthal), [bsternthal@linuxfondation.org](mailto:bsternthal@linuxfondation.org)).
+Projects have two options on how to approach storing and granting OpenJS access to their service registry file. Regardless of the approach, the service registry file must be accessible to the OpenJS Leadership ([operations@openjsf.org](mailto:operations@openjsf.org)).
 
 * Option 1: Store the service registry file in the Project’s own GitHub organization
 * Option 2: Store the service registry file elsewhere
@@ -105,17 +105,8 @@ The service registry file is to be updated as necessary to remain an accurate re
 When considering or performing updates to the service registry file, regardless of where it is stored, inform Robin Ginn and Ben Sternthal by:
 
 * Contacting [operations@openjsf.org](mailto:operations@openjsf.org) in advance of making a change.  
-* Including [@rginn](https://www.github.com/rginn) and [@bensternthal](https://www.github.com/bensternthal) on issues, discussions, and pull requests regarding the change.
-
-**If the service registry is stored in GitHub:**
-
-* Include Robin Ginn ([@rginn](https://www.github.com/rginn)) and Ben Sternthal ([@bensternthal](https://www.github.com/bensternthal)) as collaborators with read access to the repository containing the service registry file so they can watch the repository for changes.
-
-**If the service registry is stored elsewhere:**
-
-* Grant Robin Ginn ([rginn@openjsf.org](mailto:rginn@openjsf.org)) and Ben Sternthnal ([bsternthal@linuxfondation.org](mailto:bsternthal@linuxfondation.org)) adequate permissions so that they can monitor the file for changes.
-
+  
 ## Questions and Support
 
-For questions about this policy or assistance with implementation, please contact the [OpenJS Foundation](operations@openjsf.org).
+For questions about this policy or assistance with implementation, please contact the [OpenJS Foundation](mailto:operations@openjsf.org).
 
