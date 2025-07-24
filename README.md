@@ -76,6 +76,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | | Project        | Charter           | Contributing       |
 |-|----------------|:-----------------:|:------------------:|
 | 🪐  | [Cosmos](https://cosmograph-org.github.io/cosmos/) |   | [Contributing Guide](https://github.com/cosmograph-org/cosmos/blob/main/CONTRIBUTING.md) |
+|   | [GeoDa](https://geodacenter.github.io/) |   | [Contributing Guide](https://github.com/GeoDaCenter/geoda/blob/HEAD/CONTRIBUTING.md) |
 |   | [kepler.gl](https://kepler.gl/) |   | [Contributing Guide](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing) |
 |   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) |
 
