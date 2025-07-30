@@ -53,7 +53,7 @@ The number and relevant details of the reported incidents, escalation requests, 
 
 ## Record keeping
 
-A record of all communications related to an incident report, escalation request, or appeal must be kept.
+A record of all communications related to an incident report, escalation request, or appeal must be kept, while ensuring that the requirements of OpenJS’s [privacy policy][] are met.
 
 ## Confidentiality
 
@@ -110,7 +110,7 @@ The CoC Team is empowered to manage escalation requests of incident reports mana
 
 If the CoC Team finds that the escalation request has merit, the CoC Team may decide to take over the management of the incident report or refer the issue to the Cross Project Council which may request changes to the existing management process. 
 
-Projects are expected to participate in good faith in the escalation process and to share all the information related to the incident report with the CoC Team. The CoC Team is expected to consider project and community needs during the escalation process and may involve the Cross Project Council if necessary and project leadership if appropriate.
+Projects are expected to participate in good faith in the escalation process and to share all [relevant records][records] with the CoC Team. The CoC Team is expected to consider project and community needs during the escalation process and may involve the Cross Project Council if necessary and project leadership if appropriate.
 
 ## Appeals
 
@@ -118,7 +118,7 @@ Harmed individuals and accused individuals have thirty (30) days after a respons
 
 If the initial report was already managed by the CoC Team, a different set of CoC Team members should be chosen to manage the appeal process. The CoC Team may choose to involve external people if needed.
 
-If the appeal follows an incident report managed by a project, the project is expected to participate in good faith in the appeal process and to share all the information related to the incident report with the CoC Team. The CoC Team is expected to consider project and community needs during the appeal and may involve the Cross Project Council if necessary and project leadership if appropriate.
+If the appeal follows an incident report managed by a project, the project is expected to participate in good faith in the appeal process and to share all [relevant records][records] with the CoC Team. The CoC Team is expected to consider project and community needs during the appeal and may involve the Cross Project Council if necessary and project leadership if appropriate.
 
 Appeals do not delay or block the execution of decisions communicated in the response.
 
@@ -126,3 +126,5 @@ Appeals do not delay or block the execution of decisions communicated in the res
 [Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
 [CoC Team Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_TEAM_CHARTER.md
 [incident management processes]:  https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_PROCESS_FOR_INCIDENT_MANAGEMENT.md
+[privacy policy]: https://privacy-policy.openjsf.org/
+[records]: #record-keeping
