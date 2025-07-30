@@ -1,6 +1,6 @@
 # Expectations of the CPC Board Directors
 
-The OpenJS Foundation bylaws provide a number of boards seats for the CPC as described in [Section 8 of the CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#section-8-board-representation). This is a brief description of why they exist, and what responsibilities they carry.
+The OpenJS Foundation bylaws provide a number of board seats for the CPC as described in [Section 8 of the CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#section-8-board-representation). This is a brief description of why they exist, and what responsibilities they carry.
 
 ## About the OpenJS Foundation Board of Directors
 
