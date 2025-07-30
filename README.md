@@ -267,7 +267,7 @@ If an Observer fails to meet these expectations they can be excluded from future
 #### The CPC itself
 * [CPC Charter](CPC-CHARTER.md) - The CPC's charter describes the CPC's mission as defined in the Bylaws.
 * [OpenJS Cross Project Council Governance](./governance/GOVERNANCE.md) - Describes how the CPC operates.
-* [Expectations of the Community Board of Directors Representatives](./governance/COMMUNITY_BOARD_SEAT_EXPECTATIONS.md) - Description of the role and responsibilities of the Community Board of Directors Representatives.
+* [Expectations of the CPC Board Directors](./governance/CPC_BOARD_DIRECTOR_EXPECTATIONS.md) - Description of the role and responsibilities of the CPC Board Directors.
 * [GitHub organization Management Policy](./governance/GITHUB_ORG_MANAGEMENT_POLICY.md) - Policy for managing the CPC's GitHub organization.
 
 #### Collaboration Spaces
