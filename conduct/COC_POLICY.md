@@ -53,7 +53,7 @@ The number and relevant details of the reported incidents, escalation requests, 
 
 ## Record keeping
 
-A record of all communications related to an incident report, escalation request, or appeal must be kept, while ensuring that the requirements of OpenJS’s [privacy policy][] are met.
+A record of all information and communications related to an incident report, escalation request, or appeal must be kept, while ensuring that the requirements of OpenJS’s [privacy policy][] are met.
 
 ## Confidentiality
 
