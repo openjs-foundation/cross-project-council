@@ -97,7 +97,8 @@ Projects may opt-in to enforce the code of conduct themselves provided they meet
 6. Publicly document their decision-making process for responding to incident reports.
 7. Document the foundation's escalation and appeal process alongside the code of conduct.
 8. Participate in good faith in the [escalation](#escalation) and [appeal](#appeals) processes.
-
+9. Raise questions or concerns arising during management of an incident report with the CoC Team.
+ 
 ## Moderation
 
 Each project is free to implement moderation processes appropriate for the size and scope of the project provided these processes abide by the code of conduct and by this policy.
