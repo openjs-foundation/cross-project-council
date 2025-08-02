@@ -1,0 +1,73 @@
+{
+  "title": "KoKyat \u2014 Proof of Build, Treasury & DAO Ownership",
+  "sections": [
+    {
+      "title": "I. On-Chain Contracts",
+      "items": [
+        "Wallet: 0xb2cA1CAecd1D3e9bF84B9332cb4aB11961639a5c",
+        "Movement Explorer: https://explorer.movementnetwork.xyz",
+        "Smartmuv Explorer: https://explorer.smartmuv.app/0xf1df43a3053cd18e477233b59a25fc483c2cbe0f",
+        "Verified Contracts: Add here",
+        "Deployment Hash: Add here",
+        "Minting Hash: Add here"
+      ]
+    },
+    {
+      "title": "II. Treasury & Multisig",
+      "items": [
+        "Safe Address: Add Safe Link",
+        "Treasury Balance Screenshot: Add Screenshot",
+        "Reown Role Mapping: Add Link or Screenshot"
+      ]
+    },
+    {
+      "title": "III. DAO Governance",
+      "items": [
+        "Snapshot: https://snapshot.box/#/profile/0xb2cA1CAecd1D3e9bF84B9332cb4aB11961639a5c",
+        "Tally: https://www.tally.xyz/profile/0xb2ca1caecd1d3e9bf84b9332cb4ab11961639a5c",
+        "Balancer Forum: https://forum.balancer.fi/u/kokyat/notifications"
+      ]
+    },
+    {
+      "title": "IV. Public Log",
+      "items": [
+        "Mirror.xyz: https://mirror.xyz/0xb2cA1CAecd1D3e9bF84B9332cb4aB11961639a5c/collection",
+        "Medium: https://movementfdn.medium.com",
+        "Twitter: https://twitter.com/hazelellie538",
+        "Telegram: https://t.me/c/1619606348/17775",
+        "Warpcast: https://warpcast.com/movementlabsxyz"
+      ]
+    },
+    {
+      "title": "V. Repo & Docs",
+      "items": [
+        "Github Repo: https://github.com/cshein45/nextjs",
+        "Docs Repo: https://github.com/cshein45/docs",
+        "Vercel Deploy: https://vercel.com/new"
+      ]
+    },
+    {
+      "title": "VI. Extra Channels",
+      "items": [
+        "WordPress: https://movementfdn.wordpress.com",
+        "Forem: https://forem.com/ko_kyat_d35ca8b4dc85d61fc",
+        "StackExchange: https://meta.stackexchange.com/users/1717146/kokyat",
+        "Solana StackExchange: https://solana.stackexchange.com/users/42368/kokyat"
+      ]
+    },
+    {
+      "title": "VII. ENS / IPFS Record",
+      "items": [
+        "ENS: kokyat.eth",
+        "TXT Record: Link to this Notion Page",
+        "IPFS Hash: Add if pinned"
+      ]
+    },
+    {
+      "title": "VIII. Contact",
+      "items": [
+        "Contact: Twitter | Telegram | Email if needed"
+      ]
+    }
+  ]
+}
