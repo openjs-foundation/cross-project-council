@@ -37,6 +37,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 |-|----------------|:-----------------:|:------------------:|
 | <img alt="logo of AMP project" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/amp/amp-icon-color.svg" width="30" /> | [AMP](https://amp.dev/) | [Charter](https://github.com/ampproject/meta/blob/main/CHARTER.md) | [Contributing Guide](https://github.com/ampproject/amphtml/blob/HEAD/docs/contributing.md) |
 | <img alt="logo of project architect" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/architect/architect-icon-grayscale.svg" width="30" /> | [architect](https://arc.codes/)         |   |  [Contributing Guide](https://github.com/architect/architect/blob/HEAD/.github/contributing.md)   |
+| <img alt="logo of Cosmos.gl project" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/cosmos/cosmos-light-theme.svg" width="30" />   | [Cosmos](https://github.com/cosmosgl) | [Charter](https://github.com/cosmosgl/graph/blob/main/CHARTER.md)  | [Contributing Guide](https://github.com/cosmosgl/graph/blob/main/CONTRIBUTING.md) 
 | <img alt="logo of project ESLint" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/eslint/eslint-icon-color.svg" width="30" /> | [ESLint](https://eslint.org/)              |    | [Contributing Guide](https://github.com/eslint/eslint/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Esprima" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/esprima/esprima-icon-color.svg" width="30" /> | [Esprima](https://esprima.org/)            |    | [Contributing Guide](https://github.com/jquery/esprima/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Fastify" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/fastify/fastify-icon-black.svg" width="30" /> | [Fastify](https://fastify.io)          |    | [Contributing Guide](https://github.com/fastify/fastify/blob/HEAD/CONTRIBUTING.md) |
@@ -75,7 +76,6 @@ The following projects are official OpenJS Foundation projects. If you are inter
 
 | | Project        | Charter           | Contributing       |
 |-|----------------|:-----------------:|:------------------:|
-| 🪐  | [Cosmos](https://cosmograph-org.github.io/cosmos/) |   | [Contributing Guide](https://github.com/cosmograph-org/cosmos/blob/main/CONTRIBUTING.md) |
 |   | [GeoDa](https://geodacenter.github.io/) |   | [Contributing Guide](https://github.com/GeoDaCenter/geoda/blob/HEAD/CONTRIBUTING.md) |
 |   | [kepler.gl](https://kepler.gl/) |   | [Contributing Guide](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing) |
 |   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) |
