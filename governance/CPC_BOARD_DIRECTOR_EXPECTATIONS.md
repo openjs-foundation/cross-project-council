@@ -1,6 +1,6 @@
-# Expectations of the Community Board of Directors representatives
+# Expectations of the CPC Board Directors
 
-The OpenJS Foundation bylaws provide for up to three board seats to be filled by the community. This is a brief description of why they exist, and what responsibilities they carry.
+The OpenJS Foundation bylaws provide a number of board seats for the CPC as described in [Section 8 of the CPC Charter](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CPC-CHARTER.md#section-8-board-representation). This is a brief description of why they exist, and what responsibilities they carry.
 
 ## About the OpenJS Foundation Board of Directors
 
@@ -19,7 +19,7 @@ There are three ways by which one becomes a Director.
 
 *   Your company is a Platinum member, and you are appointed.
 *   Your company is a Gold or Silver member, and you are elected by the other Gold or Silver members.
-*   You are chosen by the community to fill one of the community seats.
+*   You are chosen by the CPC to fill one of the CPC seats.
 
 ## Responsibilities of Directors
 
@@ -28,7 +28,7 @@ All Directors have a responsibility to represent the organization or community g
 At a high level, a Director’s responsibilities include:
 
 *   Attending as many board meetings as possible. The board generally meets once per month for two hours. Board meetings require quorum in order to vote, and every meeting includes a vote on the prior meeting’s minutes.
-*   Be in touch with your constituents. The most effective board members are in tune with the facts of their community, and opinions held by the people they represent. Their objective is to represent these faithfully and articulately in board matters. Community Directors are expected to be active participants in CPC meetings.
+*   Be in touch with your constituents. The most effective board members are in tune with the facts of their community, and opinions held by the people they represent. Their objective is to represent these faithfully and articulately in board matters. CPC Directors are expected to be active participants in CPC meetings.
 *   Be in touch with your legal counsel. The OpenJS Foundation has legal counsel to advise the Foundation itself. However, for matters of policy, corporate Directors should discuss their positions with corporate counsel to ensure they are aligned with their organization’s positions.
 *   Direct Foundation marketing and communication efforts through events, press and analyst outreach, web, social and other marketing efforts.
 *   Assist in fundraising and financial governance overall.
@@ -36,9 +36,9 @@ At a high level, a Director’s responsibilities include:
 *   Review monthly meeting minutes. The Board is required to take minutes. These are captured by The Linux Foundation and distributed prior to each call. Directors should review these and make comments and clarifications as needed.
 *   Participate in special meetings and committees. There are a few special committees which meet quarterly, including the audit and finance committee. Also, the Board may hold working sessions from time to time. Directors are expected to participate as they are able.
 
-As a community director there are also a few more specific responsibilities:
+As a CPC Director there are also a few more specific responsibilities:
 
-*   Bring issues from the CPC to the board, follow up to ensure progress and help manage the tracking board https://github.com/openjs-foundation/cross-project-council/projects/5
+*   Bring [issues](https://github.com/openjs-foundation/cross-project-council/issues?q=is:issue%20state:open%20(label:%22board%20approval%20required%22%20OR%20label:waiting-on-board)) from the CPC to the board, follow up to ensure progress and help manages these issues.
 *   Request and follow up on votes on changes to governance that require board input.
 *   Advocate for and facilitate sharing of information between the board, the CPC and the projects.
 *   Act as one of the main contacts between the board, Foundation staff and the CPC and the projects.
@@ -46,7 +46,7 @@ As a community director there are also a few more specific responsibilities:
 
 While the Board aspires to meet in-person at least once per year, face-to-face attendance is not mandatory. If a Director cannot secure funding from their organization to attend, or if the schedule does not work, the Foundation provides the ability to dial in.
 
-Estimated time commitment per month for Community Directors:
+Estimated time commitment per month for CPC Directors:
 
 *   Board/committee meetings: 2-3 hours
 *   CPC meetings: 4-5 hours
