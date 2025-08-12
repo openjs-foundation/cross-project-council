@@ -228,7 +228,6 @@ To graduate from At Large stage or for a new project to join as an Impact projec
  * Obtain approval from the CPC to graduate to Impact stage, following the [decision-making][cpc charter decision making] and [voting][cpc charter voting] policies described in the CPC charter.
     * An issue must be opened in the CPC repo which clearly states the project is being proposed for graduation to Impact stage.
     * The issue must remain open for minimum of 14 days to allow for a sufficient feedback period.
- * Projects can move directly from At Large to Impact, if they can demonstrate sufficient maturity and have met all requirements.
 
 ### Incubating
 
