@@ -103,7 +103,7 @@ The Application Champion *must not* be the Applicant.
         (ex. perhaps a different foundation would be a more suitable endeavor.)
    * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date.
 1. Project goes through process of adhering to [on-boarding checklist](#onboarding-checklist).
-1. Project completes a charter review process by the CPC as outlined in the [CPC Governance](./governance/GOVERNANCE.md#approving-project-charters). NOTE: this process takes two weeks to complete
+1. Project completes a charter review process by the CPC as outlined in the [CPC Governance][]. NOTE: this process takes two weeks to complete
 1. Project graduates from incubation by a pull request adding the project to the [README.md](./README.md) file at its appropriate initial stage. The merging of this pull request proceeds as any other pull request to the README.md file.
 
 ##### Initial fit checklist
@@ -225,9 +225,7 @@ To graduate from At Large stage or for a new project to join as an Impact projec
  * Adopt the Foundation Code of Conduct.
  * Accept security reports and publicly disclose them after the fix has been made available.
  * Other metrics as defined by the applying Project during the application process in cooperation with the CPC.
- * Obtain approval from the CPC to graduate to Impact stage, following the [decision-making][cpc charter decision making] and [voting][cpc charter voting] policies described in the CPC charter.
-    * An issue must be opened in the CPC repo which clearly states the project is being proposed for graduation to Impact stage.
-    * The issue must remain open for minimum of 14 days to allow for a sufficient feedback period.
+ * Project obtains approval from the CPC to graduate to Impact as outlined in the [CPC Governance][]. NOTE: this process takes two weeks to complete
 
 ### Incubating
 
@@ -389,3 +387,4 @@ As part of the yearly rhythm of Foundation and Project communications, the CPC w
 [Incubating]: #incubating
 [cpc charter decision making]: ./CPC-CHARTER.md#section-9-decision-making
 [cpc charter voting]: ./CPC-CHARTER.md#section-10-voting
+[CPC Governance]: ./governance/GOVERNANCE.md#approving-project-charters-and-project-stage-changes
