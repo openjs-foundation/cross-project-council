@@ -124,7 +124,7 @@ Approval of a stage change will be requested by opening a pull request changing 
 
 The request is approved when:
 
-* There are no outstanding objections
+* There are no outstanding objections or they have been overruled
 * There are two or more approvals by voting CPC members
 * The board has been consulted in the case of substantial changes
 * The issue or pull request has been open for at least 14 days
@@ -133,7 +133,7 @@ The request is approved when:
 
 Pull requests that do not change the charter or governance of the CPC can be merged into this repository provided the following conditions have been met:
 
-* There are no outstanding objections
+* There are no outstanding objections or they have been overruled
 * There are two approvals by CPC members
 * The PR has been open for at least 72 hours
 
@@ -147,8 +147,6 @@ Pull requests that change the charter of the CPC must meet the following conditi
 
 * The text of the PR must be approved by a simple majority of the voting members.
 * The text of the PR must be approved by the board.
-
-If consensus cannot be reached, a pull request may still be landed after a vote by the Voting CPC members to override outstanding objections.
 
 ### Fast-Tracking PRs
 
