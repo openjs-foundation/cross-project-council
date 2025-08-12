@@ -225,7 +225,8 @@ To graduate from At Large stage or for a new project to join as an Impact projec
  * Adopt the Foundation Code of Conduct.
  * Accept security reports and publicly disclose them after the fix has been made available.
  * Other metrics as defined by the applying Project during the application process in cooperation with the CPC.
- * Receive a supermajority vote from the CPC to move to Impact stage. Projects can move directly from At Large to Impact, if they can demonstrate sufficient maturity and have met all requirements. 
+ * Obtain approval from the CPC to graduate to Impact stage, following the [decision-making][cpc charter decision making] and [voting][cpc charter voting] policies described in the CPC charter.
+ * Projects can move directly from At Large to Impact, if they can demonstrate sufficient maturity and have met all requirements.
 
 ### Incubating
 
@@ -385,3 +386,5 @@ As part of the yearly rhythm of Foundation and Project communications, the CPC w
 
 
 [Incubating]: #incubating
+[cpc charter decision making]: ./CPC-CHARTER.md#section-9-decision-making
+[cpc charter voting]: ./CPC-CHARTER.md#section-10-voting
