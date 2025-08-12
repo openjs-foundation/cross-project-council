@@ -113,7 +113,7 @@ _Note: Former Voting members whose terms have just ended will automatically beco
 
 _Note: "Activity" is defined as recent, sustained contributions during the past 90 days. Contributions can include, but are not limited to, participation in meetings, issues or pull-requests, editing documentation, community management, marketing, organizing events, as well as similar activities as they relate to the OpenJS Foundation and its member projects._
 
-## Approving Project Charters and Project Progression Updates
+## Approving Project Charters and Project Stage Changes
 
 Per the [CPC charter section 5][], the voting CPC members are responsible for approving new project charters and changes to them along with changes to a [project's stage][stages].
 
