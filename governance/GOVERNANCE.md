@@ -113,18 +113,21 @@ _Note: Former Voting members whose terms have just ended will automatically beco
 
 _Note: "Activity" is defined as recent, sustained contributions during the past 90 days. Contributions can include, but are not limited to, participation in meetings, issues or pull-requests, editing documentation, community management, marketing, organizing events, as well as similar activities as they relate to the OpenJS Foundation and its member projects._
 
-## Approving Project Charters
+## Approving Project Charters and Project Progression Updates
 
-Per the [CPC charter section 5][], the voting CPC members are responsible for approving project charters and changes to them.
+Per the [CPC charter section 5][], the voting CPC members are responsible for approving new project charters and changes to them along with changes to a [project's stage][stages].
 
 Approval of the initial charter or changes to an existing charter will be requested by opening an issue requesting approval in the cross-project-council [repository][cpc repo].
+
+Approval of a stage change will be requested by opening a pull request changing the stage of the project in the [README.md][README] of the cross-project-council [repository][cpc repo].
+
 
 The request is approved when:
 
 * There are no outstanding objections
 * There are two or more approvals by voting CPC members
 * The board has been consulted in the case of substantial changes
-* The issue has been open for at least 14 days
+* The issue or pull request has been open for at least 14 days
 
 ## Merging PRs into this Repository
 
@@ -181,5 +184,6 @@ To facilitate locating deleted information, please pay close attention to commit
 [cpc charter elections]: ../CPC-CHARTER.md#section-7-elections
 [election calendar]: ../Dates-and-Reminders.md#elections-calendar
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
+[stages]: ../PROJECT_PROGRESSION.md#project-stages
 [README]: ../README.md
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
