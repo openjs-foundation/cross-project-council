@@ -226,7 +226,6 @@ To graduate from At Large stage or for a new project to join as an Impact projec
  * Accept security reports and publicly disclose them after the fix has been made available.
  * Other metrics as defined by the applying Project during the application process in cooperation with the CPC.
  * Obtain approval from the CPC to graduate to Impact stage, following the [decision-making][cpc charter decision making] and [voting][cpc charter voting] policies described in the CPC charter.
- * Projects can move directly from At Large to Impact, if they can demonstrate sufficient maturity and have met all requirements.
 
 ### Incubating
 
