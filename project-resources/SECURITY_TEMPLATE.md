@@ -15,7 +15,9 @@ When reporting, please include:
 - Reproduction steps or PoC (if available)
 - Your contact and preferred credit name
 
-If you do not receive an acknowledgement within **6 business days**, or cannot find a private contact, you may **escalate to the OpenJS Foundation CNA** at `security@lists.openjsf.org`. If a project does not respond within **14 days**, escalation is appropriate.
+If you do not receive an acknowledgement of your report within **6 business days**, or if you cannot find a private security contact for the project, you may **escalate to the OpenJS Foundation CNA** at `security@lists.openjsf.org`.
+
+If the project acknowledges your report but does not provide any further response or engagement within **14 days**, escalation is also appropriate.
 
 ## Coordination & Disclosure
 
