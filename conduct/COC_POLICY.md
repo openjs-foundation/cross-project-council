@@ -55,6 +55,10 @@ The number and relevant details of the reported incidents, escalation requests, 
 
 A record of all information and communications related to an incident report, escalation request, or appeal must be kept, while ensuring that the requirements of OpenJS’s [privacy policy][] are met.
 
+## Informed decision-making
+
+Any person involved in the management of an incident report, its escalation, or its appeal must have access to all [records][] related to that incident report.
+
 ## Confidentiality
 
 The identity of the harmed individual(s) and the reporter(s) of an incident report must be kept confidential.
@@ -63,7 +67,7 @@ The identity of the accused individual should be kept confidential. However, inc
 
 ## Conflict of Interest
 
-Any person involved with the management of an incident report must immediately notify the CoC Team in writing and recuse themselves from the process if they have been involved in the incident itself or have any other conflict of interest with any of the involved parties (e.g. same employer).
+Any person involved with the management of an incident report must immediately notify the CoC Team in writing and recuse themselves from the process if they have been involved in the incident itself or have any other conflict of interest with any of the involved parties (e.g. same employer, knowledge of private information that could impact their decision-making, etc.).
 
 ## Enforcement
 
