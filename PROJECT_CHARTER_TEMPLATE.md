@@ -1,10 +1,9 @@
 # ${PROJECT} Charter
 
 _note: the purpose of a project charter is to provide a brief introduction_
-_to the project from a technical, community, or business perspective. The_ 
+_to the project from a technical and community perspective. The_ 
 _document also connects a project's community leadership and governance with the_
 _OpenJS Foundation's governance._
-
 
 ## Section 0: Guiding Principles (optional)
 
@@ -46,10 +45,9 @@ ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/
 
 ## Section 2: Relationship with OpenJS Foundation CPC.
 
-_directions: describe how the project intersects with the Cross Project_
-_Council._ 
+The OpenJS Cross Project Council (CPC) delegates technical leadership of this project to the governing body defined in Section 3 of this charter.
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-2-evolution-of-openjs-foundation-governance)
+This project is entiteld to representation in the CPC through voting members as described in [Section 4](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#voting-members) of the CPC's Charter.
 
 ### 2.1 Other Formal Project Relationships (optional)
 
@@ -71,8 +69,7 @@ ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md
 
 _directions: describe the roles and responsibilities of the ${PROJECT} Governing Body._
 
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#roles-and-organization-management)
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-4-responsibilities-of-the-tsc)
+The responsabilities of this project's governing body are described in [Section 6](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-6-non-responsibilities-of-the-cpc) of the CPC Charter.
 
 ### Section 4.1 Project Operations & Management (optional)
 
@@ -81,15 +78,16 @@ _${PROJECT} Governing Body may be responsible for regarding process or project_
 _operations and management. If you are not using this section, please indicate_
 _your intent with the phrase, 'Section Intentionally Left Blank'._
 
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#roles-and-organization-management)
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-5-nodejs-project-operations)
+### Section 4.2: Decision-making, Voting, and/or Elections
 
-### Section 4.2: Decision-making, Voting, and/or Elections (optional)
+_directions: the recommendation is to adopt the CPC decision-making and voting processes,_
+_as described in Section 9 and 10 of the CPC's charter. If so, just leave the below text.
+_Aternatively, replace the below text with a different process, or include this information_
+_by reference to your governance.md document._
 
-_directions: describe any provisions the project makes for decision-making_
-_or include the information by reference your governance.md document._
-_If you are not using this section, please indicate your intent with the_
-_phrase, 'Section Intentionally Left Blank'._
+Decision making and voting follow the practices adopted by the CPC and described in [Section 9](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and [Section 10](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting) of the CPC Charter respectively.
+
+_directions: please describe any election mechanism you might have below._
 
 ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-6-elections)
 
