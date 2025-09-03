@@ -47,7 +47,7 @@ ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/
 
 The OpenJS Cross Project Council (CPC) delegates technical leadership of this project to the governing body defined in Section 3 of this charter.
 
-This project is entiteld to representation in the CPC through voting members as described in [Section 4](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#voting-members) of the CPC's Charter.
+This project is entiteld to representation in the CPC through voting members as described in [Section 4](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#voting-members) of the CPC Charter.
 
 ### 2.1 Other Formal Project Relationships (optional)
 
@@ -81,7 +81,7 @@ _your intent with the phrase, 'Section Intentionally Left Blank'._
 ### Section 4.2: Decision-making, Voting, and/or Elections
 
 _directions: the recommendation is to adopt the CPC decision-making and voting processes,_
-_as described in Section 9 and 10 of the CPC's charter. If so, just leave the below text.
+_as described in Section 9 and 10 of the CPC Charter. If so, just leave the below text.
 _Aternatively, replace the below text with a different process, or include this information_
 _by reference to your governance.md document._
 
