@@ -15,6 +15,7 @@ The CoC Team's responsibilities are to:
 - Handle code of conduct [incident reports][incident report].
 - Handle code of conduct [escalation requests][escalation].
 - Handle code of conduct [appeals][appeal].
+- Address or escalate questions and concerns raised by a project that is handling an incident report.
 - Keep the CPC up to date on cases requiring the CPC's attention.
 - Provide regular transparency reports to the CPC.
 - Uphold this charter, the [code of conduct][CoC], and the [code of conduct policy][CoC Policy].
