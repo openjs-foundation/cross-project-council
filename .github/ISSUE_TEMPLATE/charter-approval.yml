@@ -1,3 +1,4 @@
+name: "Charter approval request"
 body:
 - type: input
   id: name
