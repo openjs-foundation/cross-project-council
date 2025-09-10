@@ -1,6 +1,6 @@
 name: "Charter approval"
 description: "Request for the CPC to review and approve a new charter or a charter change."
-labels: "cross-project-agenda"
+labels: "cross-project-council-agenda"
 body:
 - type: input
   id: name
