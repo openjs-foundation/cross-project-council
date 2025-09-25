@@ -122,9 +122,9 @@ Approval of the initial charter or changes to an existing charter will be reques
 The request is approved when:
 
 * There are no outstanding objections
-* There are five or more approvals by voting CPC members
+* There are two or more approvals by voting CPC members
 * The board has been consulted in the case of substantial changes
-* The PR has been open for at least 72 hours
+* The PR has been open for at least 14 days
 
 ## Merging PRs into this Repository
 
