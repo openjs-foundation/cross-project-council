@@ -27,23 +27,21 @@ flowchart TD
     F --> Graduated 
     subgraph Graduated
        direction LR
-       a([Project Status: Impact]) <--> b([Project Status: At Large])
+       a([Project Status: Impact]) <--> b([Project Status: At Large]) <--> G([Project Status: Feature-complete])
     end
-    Graduated --> G([Project Status: Feature-complete])
-    G --> J{EOL Announced?}
+    Graduated --> J{EOL announced?}
     J --> |Yes| H([Project Status: Sunsetting])
-    J --> |No| G
-    H --> I([Project Status: Archived])
-    G --> I
+    H --> K{EOL reached?}
+    K --> |Yes| I([Project Status: Archived])
 ```
 
 #### Project Stages
-| Stage | New Feature Development | Vulnerability & Bug fixes | EOL Announced |
-|-------|---------------------|------------------|---------------|
-| Active (At Large/Impact) | ✅ | ✅ | ❌ |
-| Feature-complete | ❌ | ✅ | ❌ |
-| Sunsetting | ❌ | ✅ | ✅ |
-| Archived | ❌ | ❌ | N/A |
+| Stage | New Feature Development | Vulnerability & Bug Fixes | EOL Announced | EOL Reached |
+|-------|-------------------------|---------------------------|---------------|-------------|
+| Active (At Large/Impact) | ✅ | ✅ | ❌ | ❌ |
+| Feature-complete | ❌ | ✅ | ❌ | ❌ |
+| Sunsetting | ❌ | ✅ | ✅ | ❌ |
+| Archived | ❌ | ❌ | ✅ | ✅ |
 
 ### Project Proposal Requirements
 
