@@ -22,7 +22,7 @@ flowchart TD
     B --> C{CPC Approval?}    
     C --> |No|A
     C --> |Yes|D([Project Status: Incubating])
-    D --> E{Ccomplete Onboarding\n Checklist?}
+    D --> E{Complete Onboarding\n Checklist?}
     E --> |Yes|F([Project Status: Graduated])
     F --> Graduated 
     subgraph Graduated
