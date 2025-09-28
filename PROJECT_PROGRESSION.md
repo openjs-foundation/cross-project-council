@@ -21,18 +21,18 @@ flowchart TD
     B(Submit Application)
     B --> C{CPC Approval?}    
     C --> |No|A
-    C --> |Yes|D([Project Status: Incubating])
+    C --> |Yes|D([Stage: Incubating])
     D --> E{Complete Onboarding\n Checklist?}
-    E --> |Yes|F([Project Status: Graduated])
+    E --> |Yes|F([Stage: Graduated])
     F --> Graduated 
     subgraph Graduated
        direction LR
-       a([Project Status: Impact]) <--> b([Project Status: At Large]) <--> G([Project Status: Feature-complete])
+       a([Stage: Impact]) <--> b([Stage: At Large]) <--> G([Stage: Feature-complete])
     end
     Graduated --> J{EOL announced?}
-    J --> |Yes| H([Project Status: Sunsetting])
+    J --> |Yes| H([Stage: Sunsetting])
     H --> K{EOL reached?}
-    K --> |Yes| I([Project Status: Archived])
+    K --> |Yes| I([Stage: Archived])
 ```
 
 #### Project Stages
