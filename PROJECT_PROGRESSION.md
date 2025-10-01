@@ -37,7 +37,7 @@ flowchart TD
 
 #### Project Stages
 | Stage | New Feature Development | Vulnerability & Bug Fixes | EOL Announced | EOL Reached |
-|-------|-------------------------|---------------------------|---------------|-------------|
+|-------|:-----------------------:|:-------------------------:|:-------------:|:-----------:|
 | Active (At Large/Impact) | ✅ | ✅ | ❌ | ❌ |
 | Feature-complete | ❌ | ✅ | ❌ | ❌ |
 | Sunsetting | ❌ | ✅ | ✅ | ❌ |
