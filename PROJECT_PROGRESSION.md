@@ -270,7 +270,7 @@ An OpenJS software project is Sunsetting when the developers responsible for it 
 
 #### Acceptance Criteria
 
-Projects move to Sunsetting status when maintainers of a Feature-complete project announce an end-of-life date. Once this date is reached, the project should follow the steps outlined in the Archived project checklist.
+Projects move to Sunsetting status when maintainers of a project announce an end-of-life date. Once this date is reached, the project should follow the steps outlined in the Archived project checklist.
 
 In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to Sunsetting stage, the CPC may proceed with the stage change to either Sunsetting or Archived without approval from the maintainers.
 
