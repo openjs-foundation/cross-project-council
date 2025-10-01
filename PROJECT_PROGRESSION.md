@@ -27,7 +27,7 @@ flowchart TD
     F --> Graduated 
     subgraph Graduated
        direction LR
-       a([Stage: Impact]) <--> b([Stage: At Large]) <--> G([Stage: Feature-complete])
+       a([Stage: Impact]) <--> b([Stage: At Large]) <--> G([Stage: Feature-Complete])
     end
     Graduated --> J{EOL announced?}
     J --> |Yes| H([Stage: Sunsetting])
@@ -39,7 +39,7 @@ flowchart TD
 | Stage | New Feature Development | Vulnerability & Bug Fixes | EOL Announced | EOL Reached |
 |-------|:-----------------------:|:-------------------------:|:-------------:|:-----------:|
 | Active (At Large/Impact) | ✅ | ✅ | ❌ | ❌ |
-| Feature-complete | ❌ | ✅ | ❌ | ❌ |
+| Feature-Complete | ❌ | ✅ | ❌ | ❌ |
 | Sunsetting | ❌ | ✅ | ✅ | ❌ |
 | Archived | ❌ | ❌ | ✅ | ✅ |
 
@@ -234,7 +234,7 @@ To graduate from At Large stage or for a new project to join as an Impact projec
 
 #### Definition
 
-Incubating projects are projects that are in the process of completing their on-boarding checklist to join the foundation. Projects in this phase may be looking to join the foundation as At-Large, Impact, or Feature-complete Stage. Members of incubating projects are invited to join Cross Project Council meetings as a guest, please refer to the [CPC Charter](./CPC-CHARTER.md) for details on how guests may participate in the meetings.
+Incubating projects are projects that are in the process of completing their on-boarding checklist to join the foundation. Projects in this phase may be looking to join the foundation as At-Large, Impact, or Feature-Complete Stage. Members of incubating projects are invited to join Cross Project Council meetings as a guest, please refer to the [CPC Charter](./CPC-CHARTER.md) for details on how guests may participate in the meetings.
 
 #### Examples
 
@@ -250,17 +250,17 @@ It is expected that incubating project will make an active effort to work throug
 
 <!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/02-project-sunsetting-checklist-template.md` is updated as well -->
 
-### Feature-complete Projects
+### Feature-Complete Projects
 
 #### Definition
 
-An OpenJS software project is Feature-complete when the developers responsible for it are no longer providing feature development or enhancements and are solely providing security updates and bug fixes. The software doesn't disappear; it remains functional but is not under active development.
+An OpenJS software project is Feature-Complete when the developers responsible for it are no longer providing feature development or enhancements and are solely providing security updates and bug fixes. The software doesn't disappear; it remains functional but is not under active development.
 
 #### Acceptance Criteria
 
-Projects may be granted Feature-complete status through CPC consensus and with the approval of the maintainers of the project.
+Projects may be granted Feature-Complete status through CPC consensus and with the approval of the maintainers of the project.
 
-In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to Feature-complete stage, the CPC may proceed with the stage change to either Feature-complete, Sunsetting, or Archived without approval from the maintainers.
+In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to Feature-Complete stage, the CPC may proceed with the stage change to either Feature-Complete, Sunsetting, or Archived without approval from the maintainers.
 
 ### Sunsetting Projects
 
@@ -298,14 +298,14 @@ A project's progress toward its growth plan goals will be reviewed on a regular 
 
 Projects are generally expected to meet their growth plan goals within two years.
 
-## V. Feature-complete Project Checklist
+## V. Feature-Complete Project Checklist
 
-Projects that are transitioning to Feature-complete stage should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+Projects that are transitioning to Feature-Complete stage should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
-### Prepare Project for Feature-complete Stage
+### Prepare Project for Feature-Complete Stage
 
-- [ ] Decide in collaboration with the CPC if the project should move to Feature-complete stage, or transition directly to Sunsetting or Archived
-- [ ] Update the README with a prominent notice declaring the project to be "Feature-complete" and what kind of updates the project will continue to receive
+- [ ] Decide in collaboration with the CPC if the project should move to Feature-Complete stage, or transition directly to Sunsetting or Archived
+- [ ] Update the README with a prominent notice declaring the project to be "Feature-Complete" and what kind of updates the project will continue to receive
 - [ ] If announcing an end-of-life date for maintenance, the project will move to Sunsetting stage instead
 - [ ] Provide a clear explanation for the decision to cease active developement on the project.
 - [ ] Consider creating a separate notice, issue, or blog post for wider visibility.  
@@ -325,7 +325,7 @@ Projects that are transitioning to Feature-complete stage should follow this che
 - [ ] Create a list of collaborators/contributors in the repository for historical reference.
 - [ ] Address any outstanding issues or pull requests with a closing message explaining the status.
 - [ ] Update project website, charter, and README to reflect the Stage
-- [ ] Mark project in the CPC repo's README.md as "Feature-complete"
+- [ ] Mark project in the CPC repo's README.md as "Feature-Complete"
 - [ ] Update security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/main/PROJECT_SECURITY_REPORTING.md)) (if applicable)
 
 
@@ -401,7 +401,7 @@ As part of the yearly rhythm of Foundation and Project communications, the CPC w
    * Verify or update their maintainers' contact information (GitHub handle and email).
    * Raise concerns with the CPC
    * Provide other relevant information
-* Responses from the Project Health Survey will be delivered to the Foundation and CPC for consideration, including discussions of transitioning projects to Feature-complete, Sunsetting or Archived stage, and proactive support for projects in need.
+* Responses from the Project Health Survey will be delivered to the Foundation and CPC for consideration, including discussions of transitioning projects to Feature-Complete, Sunsetting or Archived stage, and proactive support for projects in need.
 
 
 
