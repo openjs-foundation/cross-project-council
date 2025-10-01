@@ -1,0 +1,121 @@
+# OpenJS Foundation Cross Project Council Meeting 2025-08-05
+
+## Links
+
+* **Recording**: https://www.youtube.com/watch?v=q08Xq5fumKU
+* **GitHub Issue**: https://github.com/openjs-foundation/cross-project-council/issues/1529
+
+## Present
+
+* Joe Sepi (@joesepi)
+* Chris de Almeida (@ctcpip)
+* Ben Sternthal
+* Kate Powell (@kj-powell)
+* Tobie Langel (@tobie)
+* Wes Todd (@wesleytodd)
+* Jean Burellier (@sheplu)
+* Michaela Laurencin (@mlaurencin)
+* Ethan Arrowood
+* Sebastian Beltran
+* Meghan Denny (@nektro)
+* Ulises Gascón (@UlisesGascon)
+
+## Agenda
+
+Private session - travel fund approval
+
+### Announcements
+
+* JSConf event reminder – tickets still available!
+
+### Board Meeting Updates
+
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-board
+- Governance for sharing board info with CPC: https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#guidelines-for-sharing-board-information-in-cpc-meetings
+
+### Staff Updates
+
+* No staff updates
+
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-legal-info
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-staff-update
+- https://github.com/openjs-foundation/cross-project-council/labels/waiting-on-website-update
+
+_Extracted from **cross-project-council-agenda** labeled issues and pull requests from the **openjs-foundation org** prior to the meeting._
+
+### openjs-foundation/cross-project-council
+
+* docs: remove express from handling the CoC [#1521](https://github.com/openjs-foundation/cross-project-council/pull/1521)
+  * merged
+
+* Clarify what information is collected about individuals as part of CoC incident handling [#1528](https://github.com/openjs-foundation/cross-project-council/issues/1528)
+  * Decide to ask for board and/or legal advice
+  * pause decisions until then
+
+* CoC record keeping must abide by privacy policy [#1523](https://github.com/openjs-foundation/cross-project-council/pull/1523)
+  * Decide to ask for board and/or legal advice
+  * pause decisions until then
+
+* Possible GDPR Conflict Summary for Code of Conduct Report Privacy [#1522](https://github.com/openjs-foundation/cross-project-council/issues/1522)
+  * Decide to ask for board and/or legal advice
+  * pause decisions until then
+
+* Code of Conduct Information sharing between a project and the foundation [#1470](https://github.com/openjs-foundation/cross-project-council/issues/1470)
+  * Decide to ask for board and/or legal advice
+  * pause decisions until then
+
+* Update onboarding and post-graduation checklists to match new CoC policy [#1255](https://github.com/openjs-foundation/cross-project-council/issues/1255)
+  * pending #1457
+
+* What version of the Contributor Covenant Code of Conduct should we use? [#1457](https://github.com/openjs-foundation/cross-project-council/issues/1457)
+  * Need to wait on other CoC issues around privacy and potentially adapt V3 accordingly
+
+* Code of Conduct Plan of Action - Remaining Items [#1417](https://github.com/openjs-foundation/cross-project-council/issues/1417)
+
+* Move kepler user guides to open format to enable updating [#1526](https://github.com/openjs-foundation/cross-project-council/issues/1526)
+
+* Project Website Footers [#1525](https://github.com/openjs-foundation/cross-project-council/issues/1525)
+
+* Update CPC Director expectations [#1524](https://github.com/openjs-foundation/cross-project-council/pull/1524)
+
+* Create an AI Collab Space [#1520](https://github.com/openjs-foundation/cross-project-council/issues/1520)
+
+* \[Webpack\] Organization of a Webpack Hackathon [#1510](https://github.com/openjs-foundation/cross-project-council/issues/1510)
+
+* Is AI-assisted development allowed? [#1509](https://github.com/openjs-foundation/cross-project-council/issues/1509)
+
+* \[GeoDa - Onboarding\] Publish Project Charter on website or GitHub (see charter template) [#1496](https://github.com/openjs-foundation/cross-project-council/issues/1496)
+
+* Organize regular batched policy updates for foundation projects [#1486](https://github.com/openjs-foundation/cross-project-council/issues/1486)
+
+* Create third-party-services-documentation-policy.md [#1482](https://github.com/openjs-foundation/cross-project-council/pull/1482)
+
+* Resources: GitHub's DevConnect Program [#1472](https://github.com/openjs-foundation/cross-project-council/issues/1472)
+
+* Review NativeScript Charter for Approval [#1467](https://github.com/openjs-foundation/cross-project-council/issues/1467)
+
+* Proposal To Add A SERVICES.md or similar documentation to OpenJS Projects [#1425](https://github.com/openjs-foundation/cross-project-council/issues/1425)
+
+* continuity policy and package registries? [#1355](https://github.com/openjs-foundation/cross-project-council/issues/1355)
+
+### Next week's working session
+
+Are there any initiatives or agenda items that we should use a working session to further progress on?
+
+- https://github.com/openjs-foundation/cross-project-council/labels/cpc-working-session
+
+### Regular reviews
+
+Please review regularly our list of dates and reminders, our quarterly review issues, and check the list of issues that can be closed:
+
+- https://github.com/openjs-foundation/cross-project-council/blob/main/Dates-and-Reminders.md
+- https://github.com/openjs-foundation/cross-project-council/labels/cpc-quartely-review
+- https://github.com/openjs-foundation/cross-project-council/labels/cpc-can-issue-be-closed
+
+### Q&A, Other
+
+## Upcoming Meetings
+
+- **Calendar**: <https://calendar.openjsf.org>
+
+Click `+GoogleCalendar` at the bottom right to add to your own Google calendar.
