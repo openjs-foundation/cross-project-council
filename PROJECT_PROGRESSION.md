@@ -21,24 +21,27 @@ flowchart TD
     B(Submit Application)
     B --> C{CPC Approval?}    
     C --> |No|A
-    C --> |Yes|D([Project Status: Incubating])
+    C --> |Yes|D([Stage: Incubating])
     D --> E{Complete Onboarding\n Checklist?}
-    E --> |Yes|F([Project Status: Graduated])
+    E --> |Yes|F([Stage: Graduated])
     F --> Graduated 
     subgraph Graduated
        direction LR
-       a([Project Status: Impact]) <--> b([Project Status: At Large])
-       b <--> c([Project Status: Complete])
+       a([Stage: Impact]) <--> b([Stage: At Large]) <--> G([Stage: Feature-Complete])
     end
-    Graduated --> I([Project Status: Archived])
+    Graduated --> J{EOL announced?}
+    J --> |Yes| H([Stage: Sunsetting])
+    H --> K{EOL reached?}
+    K --> |Yes| I([Stage: Archived])
 ```
 
 #### Project Stages
-| Stage | New Feature Development | Vulnerability & Bug fixes |
-|-------|---------------------|--------------|
-| Active (At Large/Impact) | ✅ | ✅ | 
-| Complete | ❌ | ✅ |
-| Archived | ❌ | ❌ |
+| Stage | New Feature Development | Vulnerability & Bug Fixes | EOL Announced | EOL Reached |
+|-------|:-----------------------:|:-------------------------:|:-------------:|:-----------:|
+| Active (At Large/Impact) | ✅ | ✅ | ❌ | ❌ |
+| Feature-Complete | ❌ | ✅ | ❌ | ❌ |
+| Sunsetting | ❌ | ✅ | ✅ | ❌ |
+| Archived | ❌ | ❌ | ✅ | ✅ |
 
 ### Project Proposal Requirements
 
@@ -231,7 +234,7 @@ To graduate from At Large stage or for a new project to join as an Impact projec
 
 #### Definition
 
-Incubating projects are projects that are in the process of completing their on-boarding checklist to join the foundation. Projects in this phase may be looking to join the foundation as At-Large, Impact, or Complete Stage. Members of incubating projects are invited to join Cross Project Council meetings as a guest, please refer to the [CPC Charter](./CPC-CHARTER.md) for details on how guests may participate in the meetings.
+Incubating projects are projects that are in the process of completing their on-boarding checklist to join the foundation. Projects in this phase may be looking to join the foundation as At-Large, Impact, or Feature-Complete Stage. Members of incubating projects are invited to join Cross Project Council meetings as a guest, please refer to the [CPC Charter](./CPC-CHARTER.md) for details on how guests may participate in the meetings.
 
 #### Examples
 
@@ -247,27 +250,33 @@ It is expected that incubating project will make an active effort to work throug
 
 <!--If this checklist is updated please ensure `https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/02-project-sunsetting-checklist-template.md` is updated as well -->
 
+### Feature-Complete Projects
+
+#### Definition
+
+An OpenJS software project is Feature-Complete when the developers responsible for it are no longer providing feature development or enhancements and are solely providing security updates and bug fixes. The software doesn't disappear; it remains functional but is not under active development.
+
+#### Acceptance Criteria
+
+Projects may be granted Feature-Complete status through CPC consensus and with the approval of the maintainers of the project.
+
+In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to Feature-Complete stage, the CPC may proceed with the stage change to either Feature-Complete, Sunsetting, or Archived without approval from the maintainers.
+
 ### Sunsetting Projects
 
-Projects that are being sunset fall into two statuses: Complete and Archived.
+#### Definition
 
+An OpenJS software project is Sunsetting when the developers responsible for it have announced a publicly communicated milestone/date indicating when all maintenance activity will cease. During this period, the project continues to provide security updates and bug fixes until the announced end-of-life date.
 
-#### Complete
+#### Acceptance Criteria
 
-##### Definition
+Projects move to Sunsetting status when maintainers of a project announce an end-of-life date. Once this date is reached, the project should follow the steps outlined in the Archived project checklist.
 
-An OpenJS software project is Complete, when the developers responsible for it are no longer providing feature development or enhancements and are solely providing security updates and bug fixes. The software doesn't disappear; it remains functional but is not under active development.
+In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to Sunsetting stage, the CPC may proceed with the stage change to either Sunsetting or Archived without approval from the maintainers.
 
-If a Complete project plans to cease security updates and bug fixes it should have a publicly communicated milestone/date, indicating when all activity on the project will cease. Once this date is reached, the project should follow the steps outlined in the Archived project checklist.
+### Archived Projects
 
-##### Acceptance Criteria
-
-Projects may be granted Complete status through CPC consensus and with the approval of the maintainers of the project.
-
-In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to Complete stage, the CPC may proceed with the stage change to either Complete or Archived without approval from the maintainers.
-
-
-#### Archived
+#### Definition
 
 When an OpenJS project is Archived, it is typically moved to a storage state where the code and resources remain accessible but are no longer actively developed or maintained. Archiving is often done to projects that are obsolete, have been superseded by newer projects, or are no longer viable to maintain.
 
@@ -289,15 +298,15 @@ A project's progress toward its growth plan goals will be reviewed on a regular 
 
 Projects are generally expected to meet their growth plan goals within two years.
 
-## V. Complete Project Checklist
+## V. Feature-Complete Project Checklist
 
-Projects that are transitioning to Complete should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+Projects that are transitioning to Feature-Complete stage should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
-### Prepare Project For Complete
+### Prepare Project for Feature-Complete Stage
 
-- [ ] Decide in collaboration with the CPC if the project should go through the Complete phase or be directly moved to Archived
-- [ ] Update the README with a prominent notice declaring the project to be "Complete" and what kind of updates the project will continue to receive
-- [ ] If all updates to the project are planned to eventually stop, provide a date when this would occur
+- [ ] Decide in collaboration with the CPC if the project should move to Feature-Complete stage, or transition directly to Sunsetting or Archived
+- [ ] Update the README with a prominent notice declaring the project to be "Feature-Complete" and what kind of updates the project will continue to receive
+- [ ] If announcing an end-of-life date for maintenance, the project will move to Sunsetting stage instead
 - [ ] Provide a clear explanation for the decision to cease active developement on the project.
 - [ ] Consider creating a separate notice, issue, or blog post for wider visibility.  
 
@@ -316,26 +325,38 @@ Projects that are transitioning to Complete should follow this checklist. Tasks 
 - [ ] Create a list of collaborators/contributors in the repository for historical reference.
 - [ ] Address any outstanding issues or pull requests with a closing message explaining the status.
 - [ ] Update project website, charter, and README to reflect the Stage
-- [ ] Mark project in the CPC repo's README.md as "Complete"
+- [ ] Mark project in the CPC repo's README.md as "Feature-Complete"
 - [ ] Update security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/main/PROJECT_SECURITY_REPORTING.md)) (if applicable)
 
 
-## VI. Archived Project Checklist
+## VI. Sunsetting Project Checklist
+
+Projects that have announced an end-of-life date for maintenance activities and are therefore transitioning to Sunsetting stage should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. The goal is to provide clear communication about the end-of-life timeline while continuing maintenance until the announced date. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+
+### Prepare Project For Sunsetting
+
+- [ ] Decide in collaboration with the CPC on the end-of-life date for when maintenance will cease
+
+### Community Communication
+
+- [ ] Announce the end-of-life date and intention to eventually archive the project through all available channels, such as the project's mailing list, social media, and GitHub itself
+- [ ] Provide a clear explanation for why the project is sunsetting and, if possible, recommend alternatives or forks
+- [ ] Open a discussion for community feedback and potential maintainers interested in forking or taking over the project before the end-of-life date
+
+### Project Updates
+
+- [ ] Update project website, charter, and README to reflect Sunsetting stage
+- [ ] Mark project in the CPC repo's README.md as "Sunsetting"
+
+## VII. Archived Project Checklist
 
 Projects that are transitioning to Archived should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. The goal is to make sure that the Foundation is able to make required changes to the project if the need arises, and revive the project should this become desirable. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
 ### Prepare Project For Archiving
 
-- [ ] Decide in collaboration with the CPC whether the project needs to be Archived or whether a call for maintenance is warranted.
-- [ ] Ensure all critical issues and pull requests are resolved or properly documented.
-- [ ] Before archiving, thoroughly review the repository for any sensitive data such as credentials, API keys, or personal information that should not be publicly archived.
-- [ ] Release a final version of the project, if applicable, marking or tagging it clearly as the last official release.
-
-### Community Communication
-
-- [ ] Announce the intention to archive the project well in advance through all available channels, such as the project's mailing list, social media, and GitHub itself.
-- [ ] Provide a clear explanation for why the project is being archived and, if possible, recommend alternatives or forks.
-- [ ] Open a discussion for community feedback and potential maintainers interested in forking or taking over the project
+- [ ] Ensure all critical issues and pull requests are resolved or properly documented
+- [ ] Before archiving, thoroughly review the repository for any sensitive data such as credentials, API keys, or personal information that should not be publicly archived
+- [ ] Release a final version of the project, if applicable, marking or tagging it clearly as the last official release
 
 ### Archive Related Materials
 
@@ -380,7 +401,7 @@ As part of the yearly rhythm of Foundation and Project communications, the CPC w
    * Verify or update their maintainers' contact information (GitHub handle and email).
    * Raise concerns with the CPC
    * Provide other relevant information
-* Responses from the Project Health Survey will be delivered to the Foundation and CPC for consideration, including discussions of Archiving and Complete activities, and proactive support for projects in need.
+* Responses from the Project Health Survey will be delivered to the Foundation and CPC for consideration, including discussions of transitioning projects to Feature-Complete, Sunsetting or Archived stage, and proactive support for projects in need.
 
 
 
