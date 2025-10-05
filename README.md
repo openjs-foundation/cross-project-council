@@ -166,7 +166,6 @@ According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regul
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
 - Chris de Almeida ([@ctcpip](https://github.com/ctcpip), IBM)
-- Michael Dawson ([@mhdawson](https://github.com/mhdawson), Red Hat)
 
 #### Collaboration space representatives
 
@@ -201,7 +200,6 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Meghan Denny ([@nektro](https://github.com/nektro))
 - Mert Can Altin ([@mertcanaltin](https://github.com/mertcanaltin))
-- Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Michaela Laurencin ([@mlaurencin](https://github.com/mlaurencin))
 - Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
@@ -236,6 +234,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Dhruv Jain ([@maddhruv](https://github.com/maddhruv))
 - Kris Borchers ([@kborchers](https://github.com/kborchers))
 - Marcin Hoppe ([@MarcinHoppe](https://github.com/MarcinHoppe))
+- Michael Dawson ([@mhdawson](https://github.com/mhdawson))
 - Myles Borins ([@MylesBorins](https://github.com/MylesBorins))
 - Parris Lucas ([@GrooveCS](https://github.com/groovecs))
 - Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
