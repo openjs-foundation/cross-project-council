@@ -82,7 +82,7 @@ _your intent with the phrase, 'Section Intentionally Left Blank'._
 
 _directions: the recommendation is to adopt the CPC decision-making and voting processes,_
 _as described in Section 9 and 10 of the CPC Charter. If so, just leave the below text._
-_Aternatively, replace the below text with a different process, or include this information_
+_Alternatively, replace the below text with a different process, or include this information_
 _by reference to your governance.md document._
 
 Decision making and voting follow the practices adopted by the CPC and described in [Section 9](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and [Section 10](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting) of the CPC Charter respectively.
