@@ -19,7 +19,9 @@ When possible, automation and tools should be used to reduce the breadth of acce
 
 The following groups are granted Ownership permissions:
 
-* CPC members
+* [CPC Chair](https://github.com/openjs-foundation/cross-project-council?tab=readme-ov-file#cpc-chair) and [CPC Vice Chair](https://github.com/openjs-foundation/cross-project-council?tab=readme-ov-file#cpc-vice-chair)
+* [CPC Voting Members](https://github.com/openjs-foundation/cross-project-council?tab=readme-ov-file#voting-members)
+* OpenJS Staff
 
 ### Members
 
