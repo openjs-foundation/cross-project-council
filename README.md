@@ -106,7 +106,7 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 
 ## CPC Meetings
 
-The CPC meets weekly. We publish meeting agendas as [issues](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), and also [publish meetings on our calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com). ([iCal](https://calendar.google.com/calendar/ical/linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com/public/basic.ics)) ([Add to Google Calendar](https://calendar.google.com/calendar?cid=bGludXhmb3VuZGF0aW9uLm9yZ19mdW9wNHVmdjc2NmY5YXZjNTE3dWpzNGkwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
+The CPC meets weekly. We publish meeting agendas as [issues](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), and also [publish meetings on our calendar](https://calendar.openjsf.org/).([iCal](https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBygAAE_sub)).
 
 CPC members should attend as many meetings as possible, and non-members are welcome to join as observers. To add an item to the agenda, [create an issue and add the cross-project-council-agenda label](https://github.com/openjs-foundation/cross-project-council/issues?q=is%3Aissue+is%3Aopen+label%3Across-project-council-agenda).
 
