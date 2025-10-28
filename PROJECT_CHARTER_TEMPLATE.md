@@ -60,14 +60,11 @@ _phrase, 'Section Intentionally Left Blank'._
 
 _directions: describe the structure of the group responsible for managing_
 _the project and its respective organization and repositories. If there are_
-_specific rules for membership or participation in the group, list them here or_
-_by reference to a governance.md document._
+_specific rules for membership or participation in the group, list them here._
 
 ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-3-establishment-of-the-tsc)
 
 ## Section 4: Roles & Responsibilities 
-
-_directions: describe the roles and responsibilities of the ${PROJECT} Governing Body._
 
 The responsibilities of this project's governing body are described in [Section 6](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-6-non-responsibilities-of-the-cpc) of the CPC Charter.
 
@@ -82,8 +79,7 @@ _your intent with the phrase, 'Section Intentionally Left Blank'._
 
 _directions: the recommendation is to adopt the CPC decision-making and voting processes,_
 _as described in Section 9 and 10 of the CPC Charter. If so, just leave the below text._
-_Alternatively, replace the below text with a different process, or include this information_
-_by reference to your governance.md document._
+_Alternatively, replace the below text with a different process._
 
 Decision making and voting follow the practices adopted by the CPC and described in [Section 9](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and [Section 10](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting) of the CPC Charter respectively.
 
