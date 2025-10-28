@@ -119,7 +119,9 @@ Subject to such policies as may be set by the Board, the CPC is responsible for:
    1. Voting members are responsible for making a final decision if consensus cannot be reached among members.
    1. Members of the CPC, or committees consisting of subsets of the CPC membership will be expected to meet on a regular basis to discuss topics such as new project acceptance into the mentorship program, project graduation from the mentorship program, Project issues and conflicts, opportunities for collaboration between Projects, opportunities for the Foundation in the greater JavaScript community, etc.
 
-## Section 6. Non-Responsibilities of the CPC
+<a name="section-6-non-responsibilities-of-the-cpc"></a>
+
+## Section 6. Responsibilities Delegated to OpenJS Foundation Projects
 
 OpenJS Foundation Projects are self-governing entities. All policies and procedures for interacting with, contributing to and making decisions within a Project are defined, implemented, and documented by that Project’s Governing Body and community during the mentorship process. Specific technical decisions within a Project will be the responsibility of the Project and establishment and implementation of the decision making process will be done within the guidelines as defined by CPC charter. Those Project decisions and responsibilities include but are not limited to:
 
