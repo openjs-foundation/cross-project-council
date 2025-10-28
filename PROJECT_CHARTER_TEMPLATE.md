@@ -109,3 +109,9 @@ _in this charter document. If you are not using this section, please indicate_
 _your intent with the phrase, 'Section Intentionally Left Blank'._
 
 ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-9-definitions)
+
+## Section 6: Changes to this Document
+
+Changes to this document require [approval from the CPC](https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#approving-project-charters).
+
+
