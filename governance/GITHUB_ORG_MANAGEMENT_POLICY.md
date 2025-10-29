@@ -10,16 +10,12 @@ The [OpenJS Cross Project Council Repository][] serves as the central location f
 
 ### Owners
 
-Granting Owner permissions is determined by optimizing for the following conflicting requirements:
+The following are granted Ownership permissions:
 
-* Limiting access to reduce risk
-* Enabling individuals to move community work forward without undue delay
-
-When possible, automation and tools should be used to reduce the breadth of access that needs to be provided in order to enable individuals to move community work forward. As these tools are created, the groups to which Ownership permissions are granted will be reduced.
-
-The following groups are granted Ownership permissions:
-
-* CPC members
+* The OpenJS Executive Director
+* The OpenJS Director Of Program Management
+* The CPC Chair
+* The CPC Vice-Chair
 
 ### Members
 
