@@ -88,8 +88,11 @@ Section intentionally left blank.
 
 <!-- directions: the recommendation is to adopt the CPC decision-making and voting processes, as described in Section 9 and 10 of the CPC Charter. If so, just leave the below text. Alternatively, replace the below text with a different process. -->
 
-Decision making and voting follow the practices adopted by the CPC and described in [Section 9](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and [Section 10](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting) of the CPC Charter respectively.
+Decision-making and voting follow:
 
+- [X] the practices adopted by the CPC and described in [Section 9](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and [Section 10](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting) of the CPC Charter respectively.
+- [ ] Project-specific practices defined below:
+ 
 <!-- directions: please describe any election mechanism you might have below.
 
 ex. Node.js TSC Charter: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-6-elections
