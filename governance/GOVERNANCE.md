@@ -64,6 +64,13 @@ The team follows the [decision-making][cpc charter decision making] and [voting]
 Elections are organized by the OpenJSF Program Director, following the [election calendar][] and the policies defined in the [CPC charter][cpc charter elections].
 
 
+## Non Impact & Regular Voting Member Elections
+
+- Elections are held according to the schedule published in [dates and reminders](../Dates-and-Reminders.md).
+- On the first day of the nomination period an issue is filed in the CPC repository linking to a self nomination form.
+- Elections follow the policies defined in the [CPC Charter](../CPC-CHARTER.md#section-7-elections)
+
+
 ## Approving and Onboarding Regular Members
 
 Our goal in the OpenJS Foundation is to do most of our work in public.
