@@ -51,17 +51,16 @@ In addition, a Regular CPC member can be removed by voluntary resignation, or by
 
 Voting members are selected as follows:
 
-* Each Impact project may nominate up to two members through a process of their choosing. Once nominated the member must be ratified by the CPC Voting members before becoming a Voting member.
+* Each Impact project may appoint up to two members through a process of their choosing. Once appointed, ratification occurs by opening an issue in the CPC repository announcing the appointment and following the [guidlines for merging PRs](./governance/GOVERNANCE.md#merging-prs-into-this-repository). Impact project voting members serve until they voluntarily step down or until their project appoints a replacement.
 
-* up to two Voting members may be nominated by the non Impact projects based on a process set by the CPC.
+* Up to two Voting members may be nominated by the non Impact projects based on a [process set by the CPC](./governance/GOVERNANCE.md#non-impact--regular-voting-member-elections).
 
-* up to two Voting members may be nominated by the Regular members. Once nominated these members must be ratified by the CPC Voting members before becoming a Voting member.
+* Up to two Voting members may be nominated by the Regular members based on a [process set by the CPC](./governance/GOVERNANCE.md#non-impact--regular-voting-member-elections).
 
 Voting members are expected to make a time commitment which allows them to be responsive to CPC business, participate regularly in meetings and to participate in all voting matters (either by voting or specifically abstaining).
 They are also expected to help to enable work of the regular CPC members by providing leadership, help with interactions with the board and Foundation staff and to generally help keep things moving.
 
-Voting members serve for a term of 1 year and must be re-nominated and ratified by the Voting CPC members each year.
-In addition, a Voting CPC member can be removed by voluntary resignation, by a standard CPC motion, or in accordance to the participation rules described for Regular members.
+Non Impact Voting members serve for a term of 1 year and must be re-nominated and ratified by the Voting CPC members each year. In addition, a Voting CPC member can be removed by voluntary resignation, by a standard CPC motion, or in accordance to the participation rules described for Regular members.
 
 Changes to CPC membership should be posted in the agenda, and may be suggested as any other agenda item.
 
