@@ -127,6 +127,8 @@ If the appeal follows an incident report managed by a project, the project is ex
 
 Appeals do not delay or block the execution of decisions communicated in the response.
 
+Appeals must be communicated to all parties involved.
+
 [CoC]: https://code-of-conduct.openjsf.org/
 [Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md
 [CoC Team Charter]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_TEAM_CHARTER.md
