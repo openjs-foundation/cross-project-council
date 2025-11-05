@@ -120,6 +120,7 @@ Projects are expected to participate in good faith in the escalation process and
 ## Appeals
 
 Harmed individuals and accused individuals have thirty (30) days after a response was provided to appeal to the CoC Team a decision made in response to an incident report. Decisions may only be appealed on the grounds that the documented process was not properly followed or that it did not meet the requirements of this policy. If the CoC Team finds that the appeal has merit, it may decide to override the decision that was previously made.
+The decision of the CoC team must be communicated to all parties involved within thirty (30) days.
 
 If the initial report was already managed by the CoC Team, a different set of CoC Team members should be chosen to manage the appeal process. The CoC Team may choose to involve external people if needed.
 
