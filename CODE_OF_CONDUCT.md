@@ -7,7 +7,6 @@
     * **Appium:** email maintainers
     * **Electron:** <coc@electronjs.org>
     * **Fastify:** <hello@matteocollina.com> or <tommydelved@gmail.com>
-    * **HospitalRun:** <hello@hospitalrun.io>
     * **LoopBack** <tsc@loopback.io>
     * **Node.js:** <report@nodejs.org>
     * **Node-RED:** <team@nodered.org>
