@@ -166,6 +166,7 @@ According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regul
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
 - Chris de Almeida ([@ctcpip](https://github.com/ctcpip), IBM)
+- Ethan Arrowood ([@Ethan-Arrowood](https://github.com/Ethan-Arrowood), Harper)
 
 #### Collaboration space representatives
 
