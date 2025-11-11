@@ -120,6 +120,7 @@ Subject to such policies as may be set by the Board, the CPC is responsible for:
    1. Members of the CPC, or committees consisting of subsets of the CPC membership will be expected to meet on a regular basis to discuss topics such as new project acceptance into the mentorship program, project graduation from the mentorship program, Project issues and conflicts, opportunities for collaboration between Projects, opportunities for the Foundation in the greater JavaScript community, etc.
 
 <a name="section-6-non-responsibilities-of-the-cpc"></a>
+<!-- this anchor tag exists to preserve links to the old name of the section -->
 
 ## Section 6. Responsibilities Delegated to OpenJS Foundation Projects
 
