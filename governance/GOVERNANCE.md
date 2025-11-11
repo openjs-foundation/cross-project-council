@@ -61,15 +61,13 @@ The team follows the [decision-making][cpc charter decision making] and [voting]
 
 ## Elections
 
-Elections are organized by the OpenJSF Program Director, following the [election calendar][] and the policies defined in the [CPC charter][cpc charter elections].
+Elections are organized by the OpenJSF Staff according to the schedule published in the [Dates and Reminders](../Dates-and-Reminders.md) document and following the policies defined in the [CPC Charter](../CPC-CHARTER.md#section-7-elections).
 
+### Election Process
 
-## Non Impact & Regular Voting Member Elections
-
-- Elections are held according to the schedule published in [dates and reminders](../Dates-and-Reminders.md).
-- On the first day of the nomination period an issue is filed in the CPC repository linking to a self nomination form.
+- On the first day of the nomination period, an issue is filed in the CPC repository announcing the election and providing instructions to self-nominate
 - Elections follow the policies defined in the [CPC Charter](../CPC-CHARTER.md#section-7-elections)
-
+- After an election is concluded, a PR is created with the relevant updates to the README and a note with the results is posted to the cpc-private email list
 
 ## Approving and Onboarding Regular Members
 
