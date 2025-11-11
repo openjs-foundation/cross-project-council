@@ -51,7 +51,7 @@ Generally, registration can be reimbursed if the attendee is speaking on behalf 
 Funding is not transferable to another person, or any other event. 
 
 > [!IMPORTANT]
-> Travel fund requests should be reasonable and cost-effective. Please make travel choices that support your safety and well-being so you arrive ready to participate, while being mindful of the limited budget and ensuring that others can also benefit from it. For example: book early, select standard accommodation, choose the lowest practical airfare, and take advantage of any available conference or group rates. When in doubt, feel free to ask for advice in your request. Please note that CPC may choose to only offer funding corresponding to the estimated cost of reasonable and cost-effective traveling.
+> Travel fund requests should be reasonable and cost-effective. Please make travel choices that support your safety and well-being so you arrive ready to participate, while being mindful of the limited budget and ensuring that others can also benefit from it. For example: book early, select standard accommodation, choose the lowest practical airfare, and take advantage of any available conference or group rates. When in doubt, feel free to ask for advice in your request. Please note that CPC may choose to only offer funding corresponding to the estimated cost of reasonable and cost-effective travel.
 
 ## How To Apply
 
