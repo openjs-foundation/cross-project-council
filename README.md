@@ -112,12 +112,9 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 ## CPC Members
 
-### CPC Chair
+### CPC Chairs
 
 - Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
-
-### CPC Vice Chair
-
 - Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
 
 ### CPC Directors
