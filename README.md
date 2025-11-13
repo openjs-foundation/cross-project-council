@@ -87,7 +87,8 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 
 | Name                                         |  Repository                        | Authority Delegation   | Description                                                     |
 | -------------------------------------------- |:----------------------------------:| ---------------------- | ----------------------------------------------------------------|
-| Ecosystem Report                             | [Repository][ecosystem-report]     | No                     | JavaScript ecosystem annual end-users poll and report            |
+| AI                                           | [Repository][ai]                   | No                     | Exlore impact of generative AI on JS, open source, and development |
+| Ecosystem Report                             | [Repository][ecosystem-report]     | No                     | JavaScript ecosystem annual end-users poll and report           |
 | Open Visualization (OpenVis)                 | [Repository][openvis]              | No                     | Visualization libraries based on JavaScript and WebGL           |
 | Package Metadata Interop                     | [Repository][pkg-metadata-interop] | No                     | Interoperability of package.json across the JS ecosystem        |
 | Package Vulnerability Management & Reporting | [Repository][pkg-vuln]             | No                     | Package vulnerability management and reporting                  |
@@ -95,6 +96,7 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 | Standards                                    | [Repository][standards]            | [Yes][standards-deleg] | Facilitate the engagement of projects and collaborators in standards organizations |
 | Sustainability                               | [Repository][sustainability]       | No                     | Ensuring long-term sustainability of all OpenJS projects |
 
+[ai]: https://github.com/openjs-foundation/ai-collab-space
 [ecosystem-report]: https://github.com/openjs-foundation/ecosystem-report
 [openvis]: https://github.com/openjs-foundation/openvis-collab-space
 [pkg-metadata-interop]: https://github.com/openjs-foundation/package-metadata-interoperability-collab-space
