@@ -61,7 +61,7 @@ Voting members are selected as follows:
 
 Beginning with the Fall 2026 election cycle, the CPC will transition from separate non-Impact project and Regular Member voting representatives to a unified class of Community Voting Members. Under this structure, voting members will be selected as follows:
 
-* Each Impact project may nominate up to two members through a process of their choosing. Once appointed, ratification occurs by opening an issue in the CPC repository announcing the appointment and following the [guidelines for merging PRs](./governance/GOVERNANCE.md#merging-prs-into-this-repository). Impact project voting members serve until they voluntarily step down, until their project appoints a replacement, or if they are removed by a CPC vote.
+* Each Impact project may nominate up to two Voting members through a process of their choosing. Once appointed, ratification occurs by opening an issue in the CPC repository announcing the appointment and following the [guidelines for merging PRs](./governance/GOVERNANCE.md#merging-prs-into-this-repository). Impact project voting members serve until they voluntarily step down, until their project appoints a replacement, or if they are removed by a CPC motion.
 * Up to five Community Voting Members may be elected through a process defined in [Section 7. Elections](#section-7-elections). Community Voting Members must be Regular members of the CPC and must not currently be serving as a voting representative for an Impact project. 
 
 ### General Requirements and Expectations
