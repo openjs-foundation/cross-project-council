@@ -148,8 +148,6 @@ Not withstanding the above, the Projects and the entire technical community will
 
 ## Section 7. Elections
 
-Leadership roles in OpenJS Foundation will be peer elected representatives of the community.
-
 For election of persons (such as the CPC Chair), a multiple-candidate method should be used, such as:
 
 * [Condorcet][] or
@@ -157,7 +155,6 @@ For election of persons (such as the CPC Chair), a multiple-candidate method sho
 
 Multiple-candidate methods may be reduced to simple election by plurality when there are only two candidates for one position to be filled.
 No election is required if there is only one candidate and no objections to the candidates election.
-Elections shall be done within the Projects by the Collaborators active in the Project.
 
 The CPC will elect from amongst Regular and Voting members of the CPC:
 
@@ -172,6 +169,10 @@ The CPC can choose to hold those elections at different times of the year or con
 There are no limits on the number of terms a CPC Chair, Vice Chair, or Director may serve.
 
 The CPC Chair and Vice Chair may be (but are not required to be) CPC Directors.
+
+### Who Votes
+
+CPC Voting members at the time of the election may vote.
 
 ## Section 8. Board Representation
 
