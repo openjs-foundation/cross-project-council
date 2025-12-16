@@ -133,7 +133,7 @@ The Application Champion *must not* be the Applicant.
 This is an informational checklist to help projects onboard into the OpenJS Foundation - tasks we will complete together after your project has been accepted into the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
 - [ ] Work with the foundation to sign a [Project Contribution Agreement](./project-resources/Contribution_Agreement_Template_2025-09-04.SAMPLE_ONLY.pdf) 
-- [ ] Adopt the [OpenJS Foundation Code of Conduct](https://code-of-conduct.openjsf.org/)
+- [ ] Decide to adopt the [OpenJS Foundation Code of Conduct](https://code-of-conduct.openjsf.org/) or [opt-in to enforcing the code of conduct themselves](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#delegation-to-projects).
 - [ ] Update project CoC reporting methods to include OpenJS Foundation escalation path
 - [ ] List official domains that the project commits to transfer to the OpenJS Foundation following graduation
 - [ ] Identify and document other core project infrastructure
