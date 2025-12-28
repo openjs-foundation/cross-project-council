@@ -25,6 +25,13 @@
         
     please email the [Code of Conduct Team (CoC Team)][CoC Team] at <coc@openjsf.org> or contact any of its members.
 
+### Escalation to the OpenJS Foundation
+
+If a report cannot be handled at the project level, involves a project maintainer, or if there is a conflict of interest, lack of response, or urgency, the incident may be escalated to the OpenJS Foundation Code of Conduct Team.
+
+To escalate a report, email the OpenJS Foundation Code of Conduct Team at <coc@openjsf.org> or contact any of its members directly.
+
+
 ### Appeal a decision
 
 Harmed individuals and accused individuals may [appeal][] the decision to the CoC Team up to thirty (30) days after a response was provided if they believe that the process was not followed properly. Appeals do not delay or block the execution of decisions communicated in the response.
