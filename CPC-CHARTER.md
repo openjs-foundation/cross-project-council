@@ -174,6 +174,11 @@ The CPC Chair and Vice Chair may be (but are not required to be) CPC Directors.
 
 CPC Voting members at the time of the election may vote.
 
+#### Community Voting Member Elections (Effective Fall 2026)
+
+For the election of Community Voting Members, the electorate includes all CPC members: Impact Project Voting Members and Regular Members.
+
+
 ## Section 8. Board Representation
 
 There are Board seats allocated for CPC members to represent the Foundation's projects and related communities to the Board.
