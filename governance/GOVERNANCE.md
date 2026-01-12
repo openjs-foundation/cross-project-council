@@ -53,7 +53,7 @@ To improve organizational transparency and collaboration between the CPC and Boa
 
 - CPC Directors should use their own judgement about what may be shared with the CPC. When in doubt they should abstain from sharing information and seek explicit permission to do so. In particular, information pertaining to a specific member, staff, or about legal matters should never be shared.
 - Board updates are not streamed and they are limited to CPC members.
-- CPC Directors wanting to report on a Board meeting should inform the CPC Chair at the beginning of the call so that sufficient time can be carved out at the end of the call for the update.
+- CPC Directors wanting to report on a Board meeting should inform the CPC Chairs at the beginning of the call so that sufficient time can be carved out at the end of the call for the update.
 
 ## Consensus Seeking Process
 
@@ -95,7 +95,7 @@ One must already be an [Active OpenJS Collaborator], as described below, to be e
 * The OpenJS Foundation Operations <operations@openjsf.org> team will:
    * Add the member to the GitHub `cpc-regular-members` [team][cpc regular members team]
    * Add the member to the `cpc-private` email list
-* The CPC Chair or Vice-Chair will introduce the new member at the next CPC meeting. 
+* The CPC Chairs will introduce the new member at the next CPC meeting.
 
 
 ### Not Approved

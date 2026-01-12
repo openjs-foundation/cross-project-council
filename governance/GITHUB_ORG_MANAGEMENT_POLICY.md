@@ -14,8 +14,7 @@ The following are granted Ownership permissions:
 
 * The OpenJS Executive Director
 * The OpenJS Director Of Program Management
-* The CPC Chair
-* The CPC Vice-Chair
+* The CPC Chairs
 
 ### Members
 
