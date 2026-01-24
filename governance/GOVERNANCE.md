@@ -183,8 +183,6 @@ To facilitate locating deleted information, please pay close attention to commit
 [CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
 [cpc charter decision making]: ../CPC-CHARTER.md#section-9-decision-making
 [cpc charter voting]: ../CPC-CHARTER.md#section-10-voting
-[cpc charter elections]: ../CPC-CHARTER.md#section-7-elections
-[election calendar]: ../Dates-and-Reminders.md#elections-calendar
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
 [README]: ../README.md
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
