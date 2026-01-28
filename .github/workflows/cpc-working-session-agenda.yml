@@ -2,15 +2,15 @@ name: CPC Working Session Agenda
 
 on:
   schedule:
-    # Runs every Monday at 9am PT (5pm UTC)
-    - cron: "0 17 * * 1"
+    # Runs daily at 3am PT (11am UTC)
+    - cron: "0 11 * * *"
   workflow_dispatch:
 
 jobs:
   create-agenda:
     runs-on: ubuntu-latest
     steps:
-      - name: Check iCal for tomorrow's meeting
+      - name: Check iCal for CPC Working Session meeting occuring today
         id: check-meeting
         run: |
           # Fetch the iCal feed
@@ -23,26 +23,26 @@ jobs:
           # Unfold iCal lines (lines starting with space are continuations)
           perl -0777 -pe 's/\r?\n[ \t]//g' /tmp/calendar_raw.ics > /tmp/calendar.ics
 
-          # Calculate tomorrow's date
-          TOMORROW=$(date -u -d "tomorrow" +%Y%m%d)
-          TOMORROW_DISPLAY=$(date -u -d "tomorrow" +%Y-%m-%d)
-          echo "Checking for CPC working session on: $TOMORROW_DISPLAY"
+          # Get today's date
+          TODAY=$(date +%Y%m%d)
+          TODAY_DISPLAY=$(date +%Y-%m-%d)
+          echo "Checking for CPC working session on: $TODAY_DISPLAY"
 
           MEETING_FOUND="false"
           ZOOM_LINK=""
           PASSCODE=""
           MEETING_TIME=""
 
-          # Extract events with "CPC working session" (case insensitive) occurring tomorrow
-          awk -v tomorrow="$TOMORROW" '
+          # Extract events with "CPC working session" (case insensitive) occurring today
+          awk -v today="$TODAY" '
           BEGIN { RS="BEGIN:VEVENT"; FS="\n"; ORS="" }
-          /[Cc][Pp][Cc] [Ww]orking [Ss]ession/ && $0 ~ "DTSTART[^:]*:" tomorrow {
+          /[Cc][Pp][Cc] [Ww]orking [Ss]ession/ && $0 ~ "DTSTART[^:]*:" today {
             print "BEGIN:VEVENT" $0
           }
           ' /tmp/calendar.ics > /tmp/cpc_events.ics
 
           if [ -s /tmp/cpc_events.ics ]; then
-            echo "Found CPC working session on $TOMORROW_DISPLAY"
+            echo "Found CPC working session on $TODAY_DISPLAY"
             MEETING_FOUND="true"
 
             # Extract Zoom link from LOCATION field
@@ -76,7 +76,7 @@ jobs:
             echo "Passcode: $PASSCODE"
             echo "Meeting Time: $MEETING_TIME"
           else
-            echo "No CPC working session found on $TOMORROW_DISPLAY"
+            echo "No CPC working session found on $TODAY_DISPLAY"
           fi
 
           # Output results
@@ -85,7 +85,7 @@ jobs:
             echo "zoom_link=$ZOOM_LINK"
             echo "passcode=$PASSCODE"
             echo "meeting_time=$MEETING_TIME"
-            echo "meeting_date=$TOMORROW_DISPLAY"
+            echo "meeting_date=$TODAY_DISPLAY"
           } >> $GITHUB_OUTPUT
 
           echo "Meeting found: $MEETING_FOUND"
