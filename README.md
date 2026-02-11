@@ -121,7 +121,7 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 ### CPC Chair
 
-- Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+- Joe Sepi ([@joesepi](https://github.com/joesepi))
 
 ### CPC Vice Chair
 
@@ -156,7 +156,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
   - Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol))
   - Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
 - **Node.js**
-  - Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+  - Joe Sepi ([@joesepi](https://github.com/joesepi))
   - Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
 - **webpack**
   - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
@@ -186,29 +186,18 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Abigail Cabunoc Mayes ([@abbycabs](https://github.com/abbycabs))
 - Adrian Estrada ([@edsadr](https://github.com/edsadr))
 - Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
-- Chris de Almeida ([@ctcpip](https://github.com/ctcpip))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
-- Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
 - Cody Zuschlag([@codyzu](https://github.com/codyzu))
 - Darcy Clarke ([@darcyclarke](https://github.com/darcyclarke))
 - Divy Tolia ([@designmoreweb](https://github.com/designmoreweb))
-- Dylan Schiemann ([@dylans](https://github.com/dylans))
 - Eemeli Aro ([@eemeli](https://github.com/eemeli))
-- Erick Zhao ([@erickzhao](https://github.com/erickzhao))
-- Ethan Arrowood ([@Ethan-Arrowood](https://github.com/Ethan-Arrowood))
-- Even Stensberg ([@evenstensberg](https://github.com/evenstensberg))
 - Jean Burellier ([@sheplu](https://github.com/sheplu))
-- Joe Sepi ([@joesepi](https://github.com/joesepi))
 - Jon Church ([@jonchurch](https://github.com/jonchurch))
-- Jonathan Lipps ([@jlipps](https://github.com/jlipps))
-- Jordan Harband ([@ljharb](https://github.com/ljharb))
 - Jory Burson ([@jorydotcom](https://github.com/jorydotcom))
 - Kazuaki Matsuo ([@KazuCocoa](https://github.com/KazuCocoa))
 - Marco Ippolito ([@marco-ippolito](https://github.com/marco-ippolito))
-- Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Meghan Denny ([@nektro](https://github.com/nektro))
 - Mert Can Altin ([@mertcanaltin](https://github.com/mertcanaltin))
-- Michaela Laurencin ([@mlaurencin](https://github.com/mlaurencin))
 - Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
 - Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
@@ -226,10 +215,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Sebastian Beltran ([@bjohansebas](https://github.com/bjohansebas))
 - Shelley Vohr ([@codebytere](https://github.com/codebytere))
 - Timmy Willison ([@timmywil](https://github.com/timmywil))
-- Tobie Langel ([@tobie](https://github.com/tobie))
-- Ulises Gascón ([@ulisesgascon](https://github.com/ulisesgascon))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
-- Wes Todd ([@wesleytodd](https://github.com/wesleytodd))
 - Yagiz Nizipli ([@anonrig](https://github.com/anonrig))
 
 ### Regular Member emeriti
