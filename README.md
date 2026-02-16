@@ -162,13 +162,25 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
   - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
   - Even Stensberg ([@evenstensberg](https://github.com/evenstensberg))
 
-#### At Large Project Representatives
+### Community Voting Members (Effective Fall 2026 Election Cycle)
+
+Beginning with the Fall 2026 election cycle, the CPC will transition from separate At Large and Regular Member voting 
+representatives to a unified class of Community Voting Members. These members will be elected annually according to 
+requirements defined in the [CPC Charter](./CPC-CHARTER.md#voting-members) and 
+the [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
+
+**Note:** Current At Large and Regular Member voting representatives elected under the previous structure will 
+continue to serve their terms through the Fall 2026 elections. The Community Voting Member structure will take effect
+once those terms conclude.
+
+
+#### At Large Project Representatives (Through Fall 2026)
 
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
 - Jordan Harband ([@ljharb](https://github.com/ljharb), HeroDevs)
 
-#### Elected by Regular Members
+#### Elected by Regular Members (Through Fall 2026)
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regular
 members can be elected as voting members. The two regular members elected as voting members are currently:
 

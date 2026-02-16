@@ -61,8 +61,13 @@ The team follows the [decision-making][cpc charter decision making] and [voting]
 
 ## Elections
 
-Elections are organized by the OpenJSF Program Director, following the [election calendar][] and the policies defined in the [CPC charter][cpc charter elections].
+Elections are organized by the OpenJSF Staff according to the schedule published in the [Dates and Reminders](../Dates-and-Reminders.md) document and following the policies defined in the [CPC Charter](../CPC-CHARTER.md#section-7-elections).
 
+### Election Process
+
+- On the first day of the nomination period, an issue is filed in the CPC repository announcing the election and providing instructions to self-nominate
+- Elections follow the policies defined in the [CPC Charter](../CPC-CHARTER.md#section-7-elections)
+- After an election is concluded, a PR is created with the relevant updates to the README and a note with the results is posted to the cpc-private email list
 
 ## Approving and Onboarding Regular Members
 
@@ -178,8 +183,6 @@ To facilitate locating deleted information, please pay close attention to commit
 [CPC charter section 5]: ../CPC-CHARTER.md#section-5-responsibilities-and-expectations-of-the-cpc
 [cpc charter decision making]: ../CPC-CHARTER.md#section-9-decision-making
 [cpc charter voting]: ../CPC-CHARTER.md#section-10-voting
-[cpc charter elections]: ../CPC-CHARTER.md#section-7-elections
-[election calendar]: ../Dates-and-Reminders.md#elections-calendar
 [cpc regular members team]: https://github.com/orgs/openjs-foundation/teams/cpc-regular-members
 [README]: ../README.md
 [Active OpenJS Collaborator]: #definition-of-an-active-openjs-collaborator
