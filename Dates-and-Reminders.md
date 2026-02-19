@@ -13,6 +13,4 @@ CPC Regular voting members (2) | 1 Year | Oct: 1st & 2nd Week | Oct: 3rd week | 
 
 Position  | Term Length | Nomination Period | Voting Period | Term Start/End
 -- | -- | -- | -- | --
-CPC Chair  | 1 Year | Nov: 1st Week | Nov: 2nd Week | Nov 15
-CPC Vice Chair  | 1 Year | Nov: 1st Week | Nov: 2nd Week | Nov 15
-
+CPC Chairs (3) | 1 Year | Nov: 1st Week | Nov: 2nd Week | Nov 15

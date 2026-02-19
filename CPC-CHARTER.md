@@ -75,9 +75,9 @@ In this case the member will serve out the remainder of the term and must be re-
 The public portion of the CPC discussions and meetings will be open to all observers and members.
 
 The CPC shall meet regularly using tools that enable participation by the community.
-The meeting shall be directed by the CPC Chair or the CPC Vice Chair.
-Responsibility for directing individual meetings may be delegated by the CPC Chair or by the CPC Vice Chair to any other CPC member.
-The CPC Chair and CPC Vice Chair roles confer Voting member status, and will be selected by the CPC members through consensus or if necessary a vote as described in the section titled "Voting".
+The meeting shall be directed by the CPC Chairs.
+Responsibility for directing individual meetings may be delegated by the CPC Chairs to any other CPC member.
+The CPC Chair roles confer Voting member status, and will be selected by the CPC members through consensus or if necessary a vote as described in the section titled "Voting".
 Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
 
 Voting members have the roles and responsibilities as outlined below.
@@ -142,7 +142,7 @@ Not withstanding the above, the Projects and the entire technical community will
 
 Leadership roles in OpenJS Foundation will be peer elected representatives of the community.
 
-For election of persons (such as the CPC Chair), a multiple-candidate method should be used, such as:
+For election of persons (such as the CPC Chairs), a multiple-candidate method should be used, such as:
 
 * [Condorcet][] or
 * [Single Transferable Vote][]
@@ -153,17 +153,17 @@ Elections shall be done within the Projects by the Collaborators active in the P
 
 The CPC will elect from amongst Regular and Voting members of the CPC:
 
-* a CPC Chair and a CPC Vice Chair to work on building an agenda for CPC meetings
+* CPC Chairs to work on building an agenda for CPC meetings
 * CPC Directors to represent the Foundation's projects and related communities to the Board
 
 The term for each of these roles is one year (as defined in the [OpenJS Foundation bylaws][]).
 
-The CPC shall hold annual elections to select a CPC Chair, Vice Chair, and Directors.
+The CPC shall hold annual elections to select CPC Chairs (up to three), and Directors.
 The CPC can choose to hold those elections at different times of the year or concurrently.
 
-There are no limits on the number of terms a CPC Chair, Vice Chair, or Director may serve.
+There are no limits on the number of terms a CPC Chair or Director may serve.
 
-The CPC Chair and Vice Chair may be (but are not required to be) CPC Directors.
+The CPC Chairs may be (but are not required to be) CPC Directors.
 
 ## Section 8. Board Representation
 
