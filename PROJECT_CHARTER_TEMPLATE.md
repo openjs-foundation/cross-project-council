@@ -43,12 +43,6 @@ ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/
 
 _Section intentionally left blank._
 
-### 1.3: Project maturity stage
-
-<!-- directions: indicate the maturity stage of this project. -->
-
-This project's [maturity stage](https://github.com/openjs-foundation/cross-project-council/blob/tobie-patch-3/PROJECT_PROGRESSION.md#project-stages) is: _Onboarding_.
-
 ## Section 2: Relationship with OpenJS Foundation CPC
 
 <!-- directions: do not modify this section. -->
