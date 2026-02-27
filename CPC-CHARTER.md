@@ -49,19 +49,27 @@ In addition, a Regular CPC member can be removed by voluntary resignation, or by
 
 ### Voting members
 
+### Current Structure (Through Fall 2026)
+
 Voting members are selected as follows:
 
 * Each Impact project may nominate up to two members through a process of their choosing. Once nominated the member must be ratified by the CPC Voting members before becoming a Voting member.
+* Up to two Voting members may be nominated by the non-Impact projects based on a process set by the CPC.
+* Up to two Voting members may be nominated by the Regular members. Once nominated these members must be ratified by the CPC Voting members before becoming a Voting member.
 
-* up to two Voting members may be nominated by the non Impact projects based on a process set by the CPC.
+### New Structure (Effective Fall 2026 Election Cycle)
 
-* up to two Voting members may be nominated by the Regular members. Once nominated these members must be ratified by the CPC Voting members before becoming a Voting member.
+Beginning with the Fall 2026 election cycle, the CPC will transition from separate non-Impact project and Regular Member voting representatives to a unified class of Community Voting Members. Under this structure, voting members will be selected as follows:
+
+* Each Impact project may nominate up to two Voting members through a process of their choosing. Once appointed, ratification occurs by opening an issue in the CPC repository announcing the appointment and following the [guidelines for merging PRs](./governance/GOVERNANCE.md#merging-prs-into-this-repository). Impact project voting members serve until they voluntarily step down, until their project appoints a replacement, or if they are removed by a CPC motion.
+* Up to five Community Voting Members may be elected through a process defined in [Section 7. Elections](#section-7-elections). Community Voting Members must be Regular members of the CPC and must not currently be serving as a voting representative for an Impact project. 
+
+### General Requirements and Expectations
 
 Voting members are expected to make a time commitment which allows them to be responsive to CPC business, participate regularly in meetings and to participate in all voting matters (either by voting or specifically abstaining).
 They are also expected to help to enable work of the regular CPC members by providing leadership, help with interactions with the board and Foundation staff and to generally help keep things moving.
 
-Voting members serve for a term of 1 year and must be re-nominated and ratified by the Voting CPC members each year.
-In addition, a Voting CPC member can be removed by voluntary resignation, by a standard CPC motion, or in accordance to the participation rules described for Regular members.
+Non Impact Voting members serve for a term of 1 year and must be re-nominated and ratified by the Voting CPC members each year. In addition, a Voting CPC member can be removed by voluntary resignation, by a standard CPC motion, or in accordance to the participation rules described for Regular members.
 
 Changes to CPC membership should be posted in the agenda, and may be suggested as any other agenda item.
 
@@ -140,8 +148,6 @@ Not withstanding the above, the Projects and the entire technical community will
 
 ## Section 7. Elections
 
-Leadership roles in OpenJS Foundation will be peer elected representatives of the community.
-
 For election of persons (such as the CPC Chair), a multiple-candidate method should be used, such as:
 
 * [Condorcet][] or
@@ -149,7 +155,6 @@ For election of persons (such as the CPC Chair), a multiple-candidate method sho
 
 Multiple-candidate methods may be reduced to simple election by plurality when there are only two candidates for one position to be filled.
 No election is required if there is only one candidate and no objections to the candidates election.
-Elections shall be done within the Projects by the Collaborators active in the Project.
 
 The CPC will elect from amongst Regular and Voting members of the CPC:
 
@@ -164,6 +169,15 @@ The CPC can choose to hold those elections at different times of the year or con
 There are no limits on the number of terms a CPC Chair, Vice Chair, or Director may serve.
 
 The CPC Chair and Vice Chair may be (but are not required to be) CPC Directors.
+
+### Who Votes
+
+CPC Voting members at the time of the election may vote.
+
+#### Community Voting Member Elections (Effective Fall 2026)
+
+For the election of Community Voting Members, the electorate includes all CPC members: Impact Project Voting Members and Regular Members.
+
 
 ## Section 8. Board Representation
 
