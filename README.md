@@ -83,9 +83,9 @@ The following projects are official OpenJS Foundation projects. If you are inter
 |-|----------------|:-----------------:|:------------------:|
 |   | [GeoDa](https://geodacenter.github.io/) |   | [Contributing Guide](https://github.com/GeoDaCenter/geoda/blob/HEAD/CONTRIBUTING.md) |
 |   | [kepler.gl](https://kepler.gl/) |   | [Contributing Guide](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing) |
-|   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) |
 |   | [Lit](https://lit.dev/) |   | [Contributing Guide](https://github.com/lit/lit/blob/main/CONTRIBUTING.md) |
 |   | [Perspective](https://perspective-dev.github.io/) |   | [Contributing Guide](https://github.com/perspective-dev/perspective/blob/master/CONTRIBUTING.md) |
+|   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) |
 
 ### OpenJS Collaboration Spaces
 
