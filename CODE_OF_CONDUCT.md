@@ -105,27 +105,31 @@ Tensions can occur between community members even when they are trying their bes
 
 When an incident does occur, it is important to report it promptly. To report a possible violation, contact the community leaders responsible for enforcement at the email addresses listed above in the [Reporting](#report-an-incident) section. 
 
-Community Moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
+Community moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Mmderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
+
+## Confidentiality & Reporting an Issue
+
+Information shared as part of a Code of Conduct violation report or investigation is exempt from the restricted behavior of "violating confidentiality" as defined in this Code of Conduct. All information shared will be handled confidentially and in a manner consistent with the OpenJS's GDPR compliant [Privacy Policy]([url](https://images.prismic.io/openjsf/ba00b254-685f-4e54-b1ca-17984b0f3e55_OpenJS-Foundation-Privacy-Policy-2019-11-15.pdf)).
 
 
 ## Addressing and Repairing Harm
 
-If an investigation by the Community Moderators finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
+If an investigation by the community moderators finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
 
 1. Warning
     1. Event: A violation involving a single incident or series of incidents.
-    2. Consequence: A private, written warning from the Community Moderators.
+    2. Consequence: A private, written warning from the communitymModerators.
     3. Repair: Examples of repair include a private written apology, acknowledgement of responsibility, and seeking clarification on expectations.
 2. Temporarily Limited Activities
     1. Event: A repeated incidence of a violation that previously resulted in a warning, or the first incidence of a more serious violation.
     2. Consequence: A private, written warning with a time-limited cooldown period designed to underscore the seriousness of the situation and give the community members involved time to process the incident. The cooldown period may be limited to particular communication channels or interactions with particular community members.
     3. Repair: Examples of repair may include making an apology, using the cooldown period to reflect on actions and impact, and being thoughtful about re-entering community spaces after the period is over.
 3. Temporary Suspension
-    1. Event: A pattern of repeated violation which the Community Moderators have tried to address with warnings, or a single serious violation.
+    1. Event: A pattern of repeated violation which the community moderators have tried to address with warnings, or a single serious violation.
     2. Consequence: A private written warning with conditions for return from suspension. In general, temporary suspensions give the person being suspended time to reflect upon their behavior and possible corrective actions.
     3. Repair: Examples of repair include respecting the spirit of the suspension, meeting the specified conditions for return, and being thoughtful about how to reintegrate with the community when the suspension is lifted.
 4. Permanent Ban
-    1. Event: A pattern of repeated code of conduct violations that other steps on the ladder have failed to resolve, or a violation so serious that the Community Moderators determine there is no way to keep the community safe with this person as a member.
+    1. Event: A pattern of repeated code of conduct violations that other steps on the ladder have failed to resolve, or a violation so serious that the community moderators determine there is no way to keep the community safe with this person as a member.
     2. Consequence: Access to all community spaces, tools, and communication channels is removed. In general, permanent bans should be rarely used, should have strong reasoning behind them, and should only be resorted to if working through other remedies has failed to change the behavior.
     3. Repair: There is no possible repair in cases of this severity.
 
