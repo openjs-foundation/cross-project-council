@@ -107,7 +107,7 @@ When an incident does occur, it is important to report it promptly. To report a 
 
 Community moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Mmderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
 
-## Confidentiality & Reporting an Issue
+### Confidentiality
 
 Information shared as part of a Code of Conduct violation report or investigation is exempt from the restricted behavior of "violating confidentiality" as defined in this Code of Conduct. All information shared will be handled confidentially and in a manner consistent with the OpenJS's GDPR compliant [Privacy Policy]([url](https://images.prismic.io/openjsf/ba00b254-685f-4e54-b1ca-17984b0f3e55_OpenJS-Foundation-Privacy-Policy-2019-11-15.pdf)).
 
