@@ -5,7 +5,7 @@ The OpenJS Foundation provides a number of services to support critical infrastr
 ## Billing For Services and Mitigating the Bus Factor
 **For all project services, please add an OpenJS Foundation account at an owner or highest-level of permission access.**  This helps ensure continuity by reducing the bus factor on the project, and ensures you are never locked out. It is also **required** in order for the OpenJS Foundation to pay service fees on behalf of your project. Access to the OpenJS Foundation administrator/owner account will never be shared with others, and will only be granted to operations, IT, and finance staff at the Linux Foundation.
 
-If you don’t know the name of the OpenJS Foundation account for a service, please contact operations@openjsf.org.
+If you don’t know the name of the OpenJS Foundation account for a service, please contact support@openjsf.org.
 
 ## Engaging with a New Third-Party Provider
 
@@ -60,6 +60,6 @@ Projects are welcome to create channels on the OpenJS Foundation Slack (https://
 Projects may request that standing meetings be created and managed via LFX. Community members can request access to manage these meetings.
 
 ## Other services
-We recognize that some projects may have needs not addressed by the above list. For no-cost services, please let us know what you’re using at operations@openjsf.org so that we can add the service to our inventory. For services with a fee, please reach out to operations@openjsf.org to coordinate a proposal and budget request.
+We recognize that some projects may have needs not addressed by the above list. For no-cost services, please let us know what you’re using at support@openjsf.org so that we can add the service to our inventory. For services with a fee, please reach out to support@openjsf.org to coordinate a proposal and budget request.
 
-OpenJS Foundation Member companies can sponsor additional per-project services subject to limitations set by the board. 
+OpenJS Foundation Member companies can sponsor additional per-project services subject to limitations set by the board.

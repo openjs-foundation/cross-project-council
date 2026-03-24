@@ -21,7 +21,7 @@ This governance policy sets forth the proposal process for collaboration spaces 
 
 ### Collaboration Space Proposal Requirements
 
-The proposal to form a new collaboration space in the OpenJS Foundation can be made via an email to operations@openjsf.org with a filled out [Collaboration Space Application Template](./NEW_COLLABORATION_SPACE_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, the space will given an `incubation` status and begin the onboarding process. **Note** the `incubation` status is temporary as we determine if the space is a good fit. At any time during the `incubation` process a space can withdraw either voluntarily or at the request of the CPC.
+The proposal to form a new collaboration space in the OpenJS Foundation can be made via an email to support@openjsf.org with a filled out [Collaboration Space Application Template](./NEW_COLLABORATION_SPACE_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, the space will given an `incubation` status and begin the onboarding process. **Note** the `incubation` status is temporary as we determine if the space is a good fit. At any time during the `incubation` process a space can withdraw either voluntarily or at the request of the CPC.
 
 #### Roles
 
@@ -41,7 +41,7 @@ The Application Champion is a member of the CPC or Foundation staff who commits 
 
 #### Process
 
-1. Initial email sent to operations@openjsf.org with filled out [Collaboration Space Application Template](./NEW_COLLABORATION_SPACE_APPLICATION.md)
+1. Initial email sent to support@openjsf.org with filled out [Collaboration Space Application Template](./NEW_COLLABORATION_SPACE_APPLICATION.md)
 1. Silent period. Internal only discussion.
 1. Initial acceptance as [Incubating] Collaboration Space.
 1. An acknowledgement is sent to the applicant by Foundation staff within 48 hours (striving to reply within 24 hours when possible).

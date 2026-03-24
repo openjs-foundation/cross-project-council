@@ -118,6 +118,4 @@ Total Amount Requested Less Than X (e.g. $1,500) | +1
 
 ## Getting Help
 
-Please direct any questions to operations@openjsf.org or reach out to Foundation staff on the [OpenJS Foundation Slack]([url](https://openjs-foundation.slack.com/archives/C01AM9J51J8)https://openjs-foundation.slack.com/archives/C01AM9J51J8).
-
-
+Please direct any questions to support@openjsf.org or reach out to Foundation staff on the [OpenJS Foundation Slack]([url](https://openjs-foundation.slack.com/archives/C01AM9J51J8)https://openjs-foundation.slack.com/archives/C01AM9J51J8).
