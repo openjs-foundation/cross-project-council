@@ -93,7 +93,7 @@ To do so, please [open an issue in the Cross Project Council repository](https:/
 
 ## Getting help
 
-If you have any questions about this policy or need assistance with its implementation, please contact the [OpenJS staff](mailto:operations@openjsf.org).
+If you have any questions about this policy or need assistance with its implementation, please contact the [OpenJS staff](mailto:support@openjsf.org).
 
 [IP Policy]: https://ip-policy.openjsf.org
 [DCO]: https://developercertificate.org
