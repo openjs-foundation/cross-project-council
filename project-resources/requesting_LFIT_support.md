@@ -4,7 +4,7 @@ This guide explains how to request help from the Linux Foundation IT team.
 
 ## Who Is This Document For?
 
-This document is for OpenJS projects that have formally engaged with LF IT to support one or more of their services. If you have questions about a non-LF supported service, please contact operations@openjsf.org.
+This document is for OpenJS projects that have formally engaged with LF IT to support one or more of their services. If you have questions about a non-LF supported service, please contact support@openjsf.org.
 
 ## How To Contact Linux Foundation IT For Support
 
@@ -40,4 +40,4 @@ In the event of an emergency (e.g., a critical system is down or there is a secu
 
 ## Have A Unique Situation?
 
-For urgent, unique, or complex issues that require discussion, please contact operations@openjsf.org.
+For urgent, unique, or complex issues that require discussion, please contact support@openjsf.org.
