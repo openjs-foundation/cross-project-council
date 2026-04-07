@@ -8,32 +8,15 @@ All sections marked optional are… optional! If you're not using them, please l
 <a name="section-0-guiding-principles-optional"></a>
 
 <a name="section-1-scope"></a>
-## Section 1: Scope
+<a name="section-11-in-scope-optional"></a>
+<a name="section-12-out-of-scope-optional"></a>
 
-<!-- directions: Include a 3-4 sentence summary of what the project does, and/or what problems it solves. Imagine trying to explain your work to a colleague who is familiar with related technical concepts but unfamiliar with the project. You may also want to describe the project's value to community and/or business stakeholders.
+## Section 1: Mission and Scope of the Project
 
-ex. K8s SIG Architecture Charter: https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#scope
+<!-- directions: Include a 2-3 sentence summary of what the project does, and/or what problems it solves. Imagine trying to explain your work to a colleague who is familiar with related technical concepts but unfamiliar with the project. You may also want to describe the project's value to community and/or business stakeholders.
 -->
 
 [TODO]
-
-### 1.1: In-scope (optional)
-
-<!-- directions: list or bullet out problem spaces, use cases, repositories or other projects which are included with the work but may not be readily apparent. This may help differentiate the project from other solutions in the space.
-
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#in-scope)
--->
-
-_Section intentionally left blank._
-
-### 1.2: Out-of-Scope (optional)
-
-<!-- directions: list or bullet out areas that may be seen to be related but are not included in the scope of this project. This may help clarify the kind of features, contributions, issues or problems the project is looking for.
-
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#out-of-scope)
--->
-
-_Section intentionally left blank._
 
 ## Section 2: Relationship with OpenJS Foundation CPC
 
