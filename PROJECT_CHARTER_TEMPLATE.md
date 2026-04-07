@@ -18,21 +18,20 @@ All sections marked optional are… optional! If you're not using them, please l
 
 [TODO]
 
+<a name="#21-other-formal-project-relationships-optional"></a>
+
 ## Section 2: Relationship with OpenJS Foundation CPC
 
 <!-- directions: do not modify this section. -->
 
-The OpenJS Cross Project Council (CPC) delegates technical leadership of this project to the governing body defined in Section 3 of this charter.
+The OpenJS Cross Project Council (CPC) delegates technical leadership of this project to the governing body defined in [Section 3 of this charter](#section-3).
 
 This project is entitled to representation in the CPC through voting members as described in [Section 4](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#voting-members) of the CPC Charter.
 
-### 2.1 Other Formal Project Relationships (optional)
+<a name="section-3"></a>
+<a name="section-3-project-tsc-governing-body"></a>
 
-<!-- directions: describe any additional affiliations or groups that liaise with the project in a formal way (such as a W3C Community Group, for example). -->
-
-_Section intentionally left blank._
-
-## Section 3: ${PROJECT TSC} Governing Body
+## Section 3: Governing Body of the Project
 
 <!-- directions: describe the structure of the group responsible for managing the project and its respective organization and repositories. If there are specific rules for membership or participation in the group, list them here.
 
