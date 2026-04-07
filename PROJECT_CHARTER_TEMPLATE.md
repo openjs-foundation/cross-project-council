@@ -84,25 +84,15 @@ ex. Node.js TSC Charter: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#
 
 _Section intentionally left blank._
 
+
 <a name="section-5"></a>
 <a name="section-5-definitions-optional"></a>
-
-## Section 5: Definitions (optional)
-
-<!-- directions: include any definitions that may help clarify terms or ideas found in this charter document.
-
-ex. Node.js TSC Charter: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-9-definitions
--->
-
-_Section intentionally left blank._
-
-<a name="section-6"></a>
 <a name="section-6-changes-to-this-document"></a>
 
-## Section 6: Changes to this Document
-
-<!-- directions: Do not modify this section. -->
+## Section 5: Changes to this Document
 
 Changes to this document require [approval from the CPC][charter-approval].
+
+
 
 [charter-approval]: https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#approving-project-charters
