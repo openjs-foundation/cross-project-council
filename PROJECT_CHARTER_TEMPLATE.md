@@ -52,20 +52,13 @@ This project is governed by its maintainers/Technical Steering Committee (TSC).
 
 <a name="section-4"></a>
 <a name="section-4-roles--responsibilities"></a>
+<a name="section-41-project-operations--management-optional"></a>
 
 ## Section 4: Responsibilities of the Governing Body of the Project
 
 <!-- directions: Do not modify this section. -->
 
 The responsibilities of this project's governing body are described in [Section 6](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-6-non-responsibilities-of-the-cpc) of the CPC Charter.
-
-<a name="section-41-project-operations--management-optional"></a>
-
-### Section 4.1 Project Operations & Management (optional)
-
-<!-- directions: use this section to describe any other specific tasks the project's Governing Body may be responsible for regarding process or project operations and management. -->
-
-Section intentionally left blank.
 
 <a name="section-42-decision-making-voting-andor-elections"></a>
 
