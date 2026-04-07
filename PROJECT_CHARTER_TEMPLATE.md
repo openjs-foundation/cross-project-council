@@ -5,18 +5,10 @@
 All sections marked optional are… optional! If you're not using them, please leave them in the charter with the phrase, '_Section intentionally left blank._'
 -->
 
-## Section 0: Guiding Principles (optional)
-
-<!-- directions: provide a concise, high-level statement about the project's long-term principles, values, or mission.
-
-ex. Electron Governance Charte: https://github.com/electron/governance/tree/main/charter#core-values
-ex. AMP Charter: https://github.com/ampproject/meta/blob/main/CHARTER.md#section-0-guiding-principles-optional
--->
-
-_Section intentionally left blank._
+<a name="section-0-guiding-principles-optional"></a>
 
 <a name="section-1-scope"></a>
-## Section 1: Scope & Maturity Stage
+## Section 1: Scope
 
 <!-- directions: Include a 3-4 sentence summary of what the project does, and/or what problems it solves. Imagine trying to explain your work to a colleague who is familiar with related technical concepts but unfamiliar with the project. You may also want to describe the project's value to community and/or business stakeholders.
 
