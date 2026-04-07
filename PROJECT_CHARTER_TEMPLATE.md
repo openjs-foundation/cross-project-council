@@ -7,9 +7,10 @@ All sections marked optional are… optional! If you're not using them, please l
 
 <a name="section-0-guiding-principles-optional"></a>
 
+<a name="section-1"></a>
 <a name="section-1-scope"></a>
-<a name="section-11-in-scope-optional"></a>
-<a name="section-12-out-of-scope-optional"></a>
+<a name="11-in-scope-optional"></a>
+<a name="12-out-of-scope-optional"></a>
 
 ## Section 1: Mission and Scope of the Project
 
@@ -18,7 +19,9 @@ All sections marked optional are… optional! If you're not using them, please l
 
 [TODO]
 
-<a name="#21-other-formal-project-relationships-optional"></a>
+
+<a name="section-2"></a>
+<a name="21-other-formal-project-relationships-optional"></a>
 
 ## Section 2: Relationship with OpenJS Foundation CPC
 
@@ -34,23 +37,28 @@ This project is entitled to representation in the CPC through voting members as 
 ## Section 3: Governing Body of the Project
 
 <!-- directions: describe the structure of the group responsible for managing the project and its respective organization and repositories. If there are specific rules for membership or participation in the group, list them here.
-
-ex. Node.js TSC Charter: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-3-establishment-of-the-tsc
 -->
 
 [TODO]
 
-## Section 4: Roles & Responsibilities 
+<a name="section-4"></a>
+<a name="section-4-roles--responsibilities"></a>
+
+## Section 4: Responsibilities of the Governing Body of the Project
 
 <!-- directions: Do not modify this section. -->
 
 The responsibilities of this project's governing body are described in [Section 6](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-6-non-responsibilities-of-the-cpc) of the CPC Charter.
+
+<a name="section-41-project-operations--management-optional"></a>
 
 ### Section 4.1 Project Operations & Management (optional)
 
 <!-- directions: use this section to describe any other specific tasks the project's Governing Body may be responsible for regarding process or project operations and management. -->
 
 Section intentionally left blank.
+
+<a name="section-42-decision-making-voting-andor-elections"></a>
 
 ### Section 4.2: Decision-making, Voting, and/or Elections
 
@@ -63,6 +71,8 @@ Decision making and voting follow the practices adopted by the CPC and described
 ex. Node.js TSC Charter: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-6-elections
 -->
 
+<a name="section-43-other-project-roles-optional"></a>
+
 ### Section 4.3: Other Project Roles (optional)
 
 <!-- directions: describe other roles within the project, such as chairperson, tech lead, collaborator, contributor, maintainer, etc. and any responsibilities or rights such role confers. You can also include this information by reference to your governance.md document. 
@@ -72,6 +82,9 @@ ex. Node.js TSC Charter: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#
 
 _Section intentionally left blank._
 
+<a name="section-5"></a>
+<a name="section-5-definitions-optional"></a>
+
 ## Section 5: Definitions (optional)
 
 <!-- directions: include any definitions that may help clarify terms or ideas found in this charter document.
@@ -80,6 +93,9 @@ ex. Node.js TSC Charter: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#
 -->
 
 _Section intentionally left blank._
+
+<a name="section-6"></a>
+<a name="section-6-changes-to-this-document"></a>
 
 ## Section 6: Changes to this Document
 
