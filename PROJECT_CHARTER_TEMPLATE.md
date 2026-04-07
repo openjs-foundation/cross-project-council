@@ -1,9 +1,21 @@
-# ${PROJECT} Charter
 
-<!-- note: the purpose of a project charter is to provide a brief introduction to the project from a technical and community perspective. The document also connects a project's community leadership and governance with the OpenJS Foundation's governance and the Cross Project Council.
 
-All sections marked optional are… optional! If you're not using them, please leave them in the charter with the phrase, '_Section intentionally left blank._'
--->
+> [!NOTE]
+> The purpose of a project charter is to provide a brief introduction to the project from a technical and community perspective. The document also connects a project's community leadership and governance with the OpenJS Foundation's governance and the Cross Project Council (CPC).
+>
+> Adapting the template charter to your project's needs should be as simple as:
+>
+> - [ ] Replace `${PROJECT_NAME}` with th name of your project in the title just below.
+> - [ ] Explain what the project is about (see Section 1).
+> - [ ] Clarify whether the project is governed by its maintainers or a Technical Steering Commmittee (see Section 3).
+> - [ ] Remove this note and the various tips on the page.
+>
+> To get the charter reviewed:
+> 
+> - [ ] Open a pull request with the draft charter in your own repository. Do not merge it!
+> - [ ] Follow the [CPC's process for charter approval][charter-approval].
+
+# ${PROJECT_NAME} Charter
 
 <a name="section-0-guiding-principles-optional"></a>
 
@@ -15,7 +27,7 @@ All sections marked optional are… optional! If you're not using them, please l
 ## Section 1: Mission and Scope of the Project
 
 > [!TIP]
-> _Include a 2-3 sentence summary of what the project does, and/or what problems it solves. Imagine trying to explain your work to a colleague who is familiar with related technical concepts but unfamiliar with the project. You may also want to describe the project's value to community and/or business stakeholders._
+> Include a 2-3 sentence summary of what the project does, and/or what problems it solves. Imagine trying to explain your work to a colleague who is familiar with related technical concepts but unfamiliar with the project. You may also want to describe the project's value to community and/or business stakeholders.
 
 <a name="section-2"></a>
 <a name="21-other-formal-project-relationships-optional"></a>
@@ -34,7 +46,7 @@ This project is entitled to representation in the CPC through voting members as 
 ## Section 3: Governing Body of the Project
 
 > [!TIP]
-> _Choose whether the project is governed by its maintainers or by a Technical Steering Committee (TSC)._
+> Choose whether the project is governed by its maintainers or by a Technical Steering Committee (TSC).
 
 This project is governed by its maintainers/Technical Steering Committee (TSC).
 
@@ -98,6 +110,6 @@ _Section intentionally left blank._
 
 <!-- directions: Do not modify this section. -->
 
-Changes to this document require [approval from the CPC](https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#approving-project-charters).
+Changes to this document require [approval from the CPC][charter-approval].
 
-
+[charter-approval]: https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#approving-project-charters
