@@ -14,11 +14,8 @@ All sections marked optional are… optional! If you're not using them, please l
 
 ## Section 1: Mission and Scope of the Project
 
-<!-- directions: Include a 2-3 sentence summary of what the project does, and/or what problems it solves. Imagine trying to explain your work to a colleague who is familiar with related technical concepts but unfamiliar with the project. You may also want to describe the project's value to community and/or business stakeholders.
--->
-
-[TODO]
-
+> [!TIP]
+> _Include a 2-3 sentence summary of what the project does, and/or what problems it solves. Imagine trying to explain your work to a colleague who is familiar with related technical concepts but unfamiliar with the project. You may also want to describe the project's value to community and/or business stakeholders._
 
 <a name="section-2"></a>
 <a name="21-other-formal-project-relationships-optional"></a>
@@ -36,10 +33,10 @@ This project is entitled to representation in the CPC through voting members as 
 
 ## Section 3: Governing Body of the Project
 
-<!-- directions: describe the structure of the group responsible for managing the project and its respective organization and repositories. If there are specific rules for membership or participation in the group, list them here.
--->
+> [!TIP]
+> _Choose whether the project is governed by its maintainers or by a Technical Steering Committee (TSC)._
 
-[TODO]
+This project is governed by its maintainers/Technical Steering Committee (TSC).
 
 <a name="section-4"></a>
 <a name="section-4-roles--responsibilities"></a>
