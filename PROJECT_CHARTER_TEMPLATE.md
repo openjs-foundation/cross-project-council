@@ -82,7 +82,7 @@ Voting follows the practices adopted by the CPC and described in [Section 10](ht
 > [!TIP]
 > Check that the link to GOVERNANCE.md is correct.
 
-Governing body Membership and governance of this project are defined in [GOVERNANCE.md](./GOVERNANCE.md).
+Governing body membership and governance of this project are defined in [GOVERNANCE.md](./GOVERNANCE.md).
 
 <a name="section-6-changes-to-this-document"></a>
 <a name="section-8"></a>
