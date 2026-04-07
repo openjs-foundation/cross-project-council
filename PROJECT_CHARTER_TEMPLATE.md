@@ -8,7 +8,10 @@
 > - [ ] Replace `${PROJECT_NAME}` with th name of your project in the title just below.
 > - [ ] Explain what the project is about (see Section 1).
 > - [ ] Clarify whether the project is governed by its maintainers or a Technical Steering Commmittee (see Section 3).
+> - [ ] Provide a link to your `GOVERNANCE.md` file (see Section 7).
 > - [ ] Remove this note and the various tips on the page.
+>
+> Please reach out to the CPC for pre-approval prior to modifying any of the other parts of the charter.
 >
 > To get the charter reviewed:
 > 
@@ -56,40 +59,35 @@ This project is governed by its maintainers/Technical Steering Committee (TSC).
 
 ## Section 4: Responsibilities of the Governing Body of the Project
 
-<!-- directions: Do not modify this section. -->
-
 The responsibilities of this project's governing body are described in [Section 6](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-6-non-responsibilities-of-the-cpc) of the CPC Charter.
 
 <a name="section-42-decision-making-voting-andor-elections"></a>
 
-### Section 4.2: Decision-making, Voting, and/or Elections
+<a name="section-5"></a>
+## Section 5: Decision-making
 
-<!-- directions: the recommendation is to adopt the CPC decision-making and voting processes, as described in Section 9 and 10 of the CPC Charter. If so, just leave the below text. Alternatively, replace the below text with a different process. -->
+Decision making follows the practice adopted by the CPC and described in [Section 9](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) of the CPC Charter.
 
-Decision making and voting follow the practices adopted by the CPC and described in [Section 9](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and [Section 10](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting) of the CPC Charter respectively.
+<a name="section-6"></a>
+## Section 6: Voting
 
-<!-- directions: please describe any election mechanism you might have below.
-
-ex. Node.js TSC Charter: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-6-elections
--->
+Voting follows the practices adopted by the CPC and described in [Section 10](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting) of the CPC Charter.
 
 <a name="section-43-other-project-roles-optional"></a>
-
-### Section 4.3: Other Project Roles (optional)
-
-<!-- directions: describe other roles within the project, such as chairperson, tech lead, collaborator, contributor, maintainer, etc. and any responsibilities or rights such role confers. You can also include this information by reference to your governance.md document. 
-
-ex. Node.js TSC Charter: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-8-project-roles
--->
-
-_Section intentionally left blank._
-
-
-<a name="section-5"></a>
 <a name="section-5-definitions-optional"></a>
-<a name="section-6-changes-to-this-document"></a>
 
-## Section 5: Changes to this Document
+<a name="section-7"></a>
+## Section 7: Project Governance
+
+> [!TIP]
+> Check that the link to GOVERNANCE.md is correct.
+
+Governing body Membership and governance of this project are defined in [GOVERNANCE.md](./GOVERNANCE.md).
+
+<a name="section-6-changes-to-this-document"></a>
+<a name="section-8"></a>
+
+## Section 8: Changes to this Document
 
 Changes to this document require [approval from the CPC][charter-approval].
 
