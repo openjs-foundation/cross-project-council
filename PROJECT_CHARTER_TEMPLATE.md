@@ -1,9 +1,9 @@
 
 
 > [!NOTE]
-> The purpose of a project charter is to provide a brief introduction to the project from a technical and community perspective. The document also connects a project's community leadership and governance with the OpenJS Foundation's governance and the Cross Project Council (CPC).
+> The purpose of a project charter is to define the governance, operations, and scope of a project within the OpenJS Foundation, and to connect the project's leadership structure with the Foundation's governance through the Cross Project Council (CPC).
 >
-> Adapting the template charter to your project's needs should be as simple as:
+> Adapting this template charter to your project's needs should be as simple as:
 >
 > - [ ] Replace `${PROJECT_NAME}` with th name of your project in the title just below.
 > - [ ] Explain what the project is about (see Section 1).
