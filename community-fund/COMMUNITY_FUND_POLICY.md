@@ -24,17 +24,18 @@ All travel fund requests are treated confidentially: only CPC members and OpenJS
 
 ## Transparency
 
+In **2025**, 40 funding requests were made by 36 contributors for a total requested sum of $56,262 with a maximum of 2 requests per contributor. Requested sums per trip ranged from $300 to $7,083, with a median of $1,330 and an average of $1,550. Of the 40 requests, 23 were approved (totaling $35,647), 12 were denied, and 5 were cancelled by the applicant.
+
 In **2024**, 27 funding requests were made by 25 contributors for a total requested sum of $36,654 with a maximum of 2 requests per contributor.
 Requested sums per trip ranged from $140 to $6,400, with a median of $1,227 and an average of $1,466. ~37% of the funding requests stated that they identified as being from an underrepresented group.
 All requests were granted.
-
 
 In **2023**, 26 funding requests were made by 22 contributors for a total requested sum of $47,500 with a maximum of 2 requests per contributor.
 Requested sums per trip ranged from $750 to $5,750, with a median of $1,525 and an average of $1,825.
 Requested sums per individual ranged from $1,000 to $7,350, with a median of $1,950 and an average of $2,150.
 All requests were granted.
 
-For 2025, $60,000 was allocated to the fund.
+For 2026, $60,000 was allocated to the fund.
 
 _All amounts are in United States dollars._
 
@@ -51,6 +52,8 @@ NOTE: Funds may not be used for miscellaneous travel expenses including food, no
 Generally, registration can be reimbursed if the attendee is speaking on behalf of OpenJS, the CPC, or OpenJS-hosted projects.
 Funding is not transferable to another person, or any other event. 
 
+> [!IMPORTANT]
+> Travel fund requests should be reasonable and cost-effective. Please make travel choices that support your safety and well-being so you arrive ready to participate, while being mindful of the limited budget and ensuring that others can also benefit from it. For example: book early, select standard accommodation, choose the lowest practical airfare, and take advantage of any available conference or group rates. When in doubt, feel free to ask for advice in your request. Please note that the Cross Project Council (CPC) may choose to only offer funding corresponding to the estimated cost of reasonable and cost-effective travel.
 
 ## How To Apply
 
@@ -115,6 +118,4 @@ Total Amount Requested Less Than X (e.g. $1,500) | +1
 
 ## Getting Help
 
-Please direct any questions to operations@openjsf.org or reach out to Foundation staff on the [OpenJS Foundation Slack]([url](https://openjs-foundation.slack.com/archives/C01AM9J51J8)https://openjs-foundation.slack.com/archives/C01AM9J51J8).
-
-
+Please direct any questions to support@openjsf.org or reach out to Foundation staff on the [OpenJS Foundation Slack]([url](https://openjs-foundation.slack.com/archives/C01AM9J51J8)https://openjs-foundation.slack.com/archives/C01AM9J51J8).

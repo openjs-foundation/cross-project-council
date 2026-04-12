@@ -132,7 +132,8 @@ The Application Champion *must not* be the Applicant.
 
 This is an informational checklist to help projects onboard into the OpenJS Foundation - tasks we will complete together after your project has been accepted into the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
 
-- [ ] Adopt the [OpenJS Foundation Code of Conduct](https://code-of-conduct.openjsf.org/)
+- [ ] Work with the foundation to sign a [Project Contribution Agreement](./project-resources/Contribution_Agreement_Template_2025-09-04.SAMPLE_ONLY.pdf) 
+- [ ] Delegate Code of Conduct enforcement to OpenJS([OpenJS Foundation Code of Conduct](https://code-of-conduct.openjsf.org/)) or [opt-in to the project enforcing the code of conduct](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#delegation-to-projects).
 - [ ] Update project CoC reporting methods to include OpenJS Foundation escalation path
 - [ ] List official domains that the project commits to transfer to the OpenJS Foundation following graduation
 - [ ] Identify and document other core project infrastructure
@@ -153,7 +154,6 @@ This is an informational checklist to help projects onboard into the OpenJS Foun
   * infrastructure
   * legal/governance help
 - [ ] Publish security policy (see [PROJECT_SECURITY_REPORTING](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_SECURITY_REPORTING.md))
-- [ ] Work with the foundation to sign a [Project Contribution Agreement](https://docs.google.com/document/d/1Luq5JSUeDPGxj3vyttQvgItHPmj7v39QoKZqpJ9x_sU/edit?usp=sharing) (if needed)
 - [ ] Implement an option from the [Github Continuity Policy](./project-resources/github-continuity-policy.md)
 
 ## Post-graduation Checklist

@@ -27,7 +27,7 @@ For a project to participate in the program:
 
 ## How To Participate
 
-Projects that are interested in participating in the program should contact operations@openjsf.org.
+Projects that are interested in participating in the program should contact support@openjsf.org.
 
 ## How To Enroll In Open Collective
 

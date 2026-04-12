@@ -1,0 +1,289 @@
+name: CPC Working Session Agenda
+
+on:
+  schedule:
+    # Runs daily at 3am PT (11am UTC)
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+jobs:
+  create-agenda:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check iCal for CPC Working Session meeting occurring today
+        id: check-meeting
+        run: |
+          # Fetch the iCal feed
+          ICAL_URL="https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBygAAE"
+          HTTPS_URL="${ICAL_URL/webcal:/https:}"
+
+          echo "Fetching calendar from: $HTTPS_URL"
+          curl -sL "$HTTPS_URL" > /tmp/calendar_raw.ics
+
+          # Unfold iCal lines (lines starting with space are continuations)
+          perl -0777 -pe 's/\r?\n[ \t]//g' /tmp/calendar_raw.ics > /tmp/calendar.ics
+
+          # Get today's date
+          TODAY=$(date +%Y%m%d)
+          TODAY_DISPLAY=$(date +%Y-%m-%d)
+          echo "Checking for CPC working session on: $TODAY_DISPLAY"
+
+          MEETING_FOUND="false"
+          ZOOM_LINK=""
+          PASSCODE=""
+          MEETING_TIME=""
+
+          # Extract all CPC working session events (without date filtering)
+          # Recurring events only store the series start date in DTSTART,
+          # so we must evaluate the RRULE to determine if today is an occurrence.
+          awk '
+          BEGIN { RS="BEGIN:VEVENT"; FS="\n"; ORS="" }
+          /[Cc][Pp][Cc] [Ww]orking [Ss]ession/ {
+            print "BEGIN:VEVENT" $0
+          }
+          ' /tmp/calendar.ics > /tmp/cpc_events.ics
+
+          if [ -s /tmp/cpc_events.ics ]; then
+            echo "Found CPC working session event(s) in calendar"
+
+            # Split events into separate files for processing
+            awk '/BEGIN:VEVENT/{n++; f="/tmp/cpc_event_" sprintf("%02d",n) ".ics"} n>0{print > f}' /tmp/cpc_events.ics
+
+            for EVENT_FILE in /tmp/cpc_event_*.ics; do
+              [ -f "$EVENT_FILE" ] || continue
+
+              echo "---"
+              echo "Processing event from $EVENT_FILE"
+
+              # Extract DTSTART date (YYYYMMDD)
+              DTSTART=$(grep "DTSTART" "$EVENT_FILE" | head -1 | grep -oE '[0-9]{8}' | head -1)
+              echo "DTSTART: $DTSTART"
+
+              if [ -z "$DTSTART" ]; then
+                echo "No DTSTART found, skipping"
+                continue
+              fi
+
+              # Check if this is a recurring event with RRULE
+              if grep -q "RRULE:" "$EVENT_FILE"; then
+                RRULE=$(grep "RRULE:" "$EVENT_FILE" | head -1)
+                echo "RRULE: $RRULE"
+
+                # Check if the event recurs on the right day of the week
+                BYDAY=$(echo "$RRULE" | sed -n 's/.*BYDAY=\([A-Z,+0-9]*\).*/\1/p')
+                echo "BYDAY: $BYDAY"
+
+                # Get today's day abbreviation (MO, TU, WE, TH, FR, SA, SU)
+                TODAY_DOW=$(date +%u) # 1=Monday, 7=Sunday
+                case $TODAY_DOW in
+                  1) TODAY_DAY="MO" ;;
+                  2) TODAY_DAY="TU" ;;
+                  3) TODAY_DAY="WE" ;;
+                  4) TODAY_DAY="TH" ;;
+                  5) TODAY_DAY="FR" ;;
+                  6) TODAY_DAY="SA" ;;
+                  7) TODAY_DAY="SU" ;;
+                esac
+                echo "Today is: $TODAY_DAY"
+
+                if ! echo "$BYDAY" | grep -q "$TODAY_DAY"; then
+                  echo "Event does not recur on $TODAY_DAY, skipping"
+                  continue
+                fi
+
+                # Get the interval (default to 1 if not specified)
+                INTERVAL=$(echo "$RRULE" | sed -n 's/.*INTERVAL=\([0-9]*\).*/\1/p')
+                INTERVAL=${INTERVAL:-1}
+                echo "Interval: $INTERVAL weeks"
+
+                # Calculate if today is a valid occurrence
+                DTSTART_FMT="${DTSTART:0:4}-${DTSTART:4:2}-${DTSTART:6:2}"
+                TODAY_FMT="${TODAY:0:4}-${TODAY:4:2}-${TODAY:6:2}"
+                DTSTART_SEC=$(date -d "$DTSTART_FMT" +%s)
+                TODAY_SEC=$(date -d "$TODAY_FMT" +%s)
+
+                DIFF_SEC=$((TODAY_SEC - DTSTART_SEC))
+                if [ $DIFF_SEC -lt 0 ]; then
+                  echo "Today is before DTSTART, skipping"
+                  continue
+                fi
+
+                DIFF_WEEKS=$((DIFF_SEC / 604800))
+                echo "Weeks since DTSTART: $DIFF_WEEKS"
+
+                if [ $((DIFF_WEEKS % INTERVAL)) -eq 0 ]; then
+                  echo "Today IS a scheduled occurrence (week $DIFF_WEEKS, interval $INTERVAL)"
+
+                  # Check EXDATE - skip if today is excluded
+                  EXCLUDED="false"
+                  while IFS= read -r EXDATE_LINE; do
+                    EXDATE_DATE=$(echo "$EXDATE_LINE" | grep -oE '[0-9]{8}' | head -1)
+                    if [ "$EXDATE_DATE" = "$TODAY" ]; then
+                      echo "Today is in EXDATE list, skipping"
+                      EXCLUDED="true"
+                      break
+                    fi
+                  done < <(grep "EXDATE" "$EVENT_FILE")
+
+                  if [ "$EXCLUDED" = "true" ]; then
+                    continue
+                  fi
+
+                  MEETING_FOUND="true"
+                else
+                  echo "Today is NOT a scheduled occurrence (off-week)"
+                  continue
+                fi
+              else
+                # Single event - check if DTSTART matches today
+                if [ "$DTSTART" = "$TODAY" ]; then
+                  echo "Found single event on today"
+                  MEETING_FOUND="true"
+                else
+                  echo "Single event not on today, skipping"
+                  continue
+                fi
+              fi
+
+              # If we got here, meeting was found - extract details
+              if [ "$MEETING_FOUND" = "true" ]; then
+                # Extract Zoom link from LOCATION field
+                ZOOM_LINK=$(grep "^LOCATION:" "$EVENT_FILE" | grep -oE 'https://zoom-lfx\.platform\.linuxfoundation\.org/meeting/[0-9]+\?password=[a-f0-9-]+' | head -1)
+
+                # If not in LOCATION, try URL field
+                if [ -z "$ZOOM_LINK" ]; then
+                  ZOOM_LINK=$(grep "^URL" "$EVENT_FILE" | grep -oE 'https://zoom-lfx\.platform\.linuxfoundation\.org/meeting/[0-9]+\?password=[a-f0-9-]+' | head -1)
+                fi
+
+                # Extract passcode from DESCRIPTION
+                PASSCODE=$(grep "^DESCRIPTION:" "$EVENT_FILE" | sed -n 's/.*Passcode:[[:space:]]*\([0-9]*\).*/\1/p' | head -1)
+
+                # Extract meeting time from DTSTART
+                TIME_RAW=$(grep "DTSTART" "$EVENT_FILE" | head -1 | sed -n 's/.*T\([0-9]\{4\}\).*/\1/p')
+                if [ -n "$TIME_RAW" ]; then
+                  HOUR=${TIME_RAW:0:2}
+                  HOUR_12=$((10#$HOUR % 12))
+                  [ $HOUR_12 -eq 0 ] && HOUR_12=12
+                  if [ $((10#$HOUR)) -lt 12 ]; then
+                    AMPM="AM"
+                  else
+                    AMPM="PM"
+                  fi
+                  MEETING_TIME="${HOUR_12}:00 ${AMPM} Pacific Time"
+                else
+                  MEETING_TIME="See calendar for time"
+                fi
+
+                echo "Zoom Link: $ZOOM_LINK"
+                echo "Passcode: $PASSCODE"
+                echo "Meeting Time: $MEETING_TIME"
+                break
+              fi
+            done
+          else
+            echo "No CPC working session events found in calendar"
+          fi
+
+          # Output results
+          {
+            echo "meeting_found=$MEETING_FOUND"
+            echo "zoom_link=$ZOOM_LINK"
+            echo "passcode=$PASSCODE"
+            echo "meeting_time=$MEETING_TIME"
+            echo "meeting_date=$TODAY_DISPLAY"
+          } >> $GITHUB_OUTPUT
+
+          echo "Meeting found: $MEETING_FOUND"
+
+      - name: Checkout repository
+        if: steps.check-meeting.outputs.meeting_found == 'true'
+        uses: actions/checkout@v4
+
+      - name: Get issues with cpc-working-session label
+        if: steps.check-meeting.outputs.meeting_found == 'true'
+        id: get-issues
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: 'cpc-working-session',
+              state: 'open',
+              per_page: 100
+            });
+
+            let issueList = '';
+            if (issues.length === 0) {
+              issueList = '_No issues currently labeled for working session discussion._';
+            } else {
+              issueList = issues.map(issue => {
+                return `* ${issue.title} [#${issue.number}](${issue.html_url})`;
+              }).join('\n');
+            }
+
+            core.setOutput('issue_list', issueList);
+            core.setOutput('issue_count', issues.length);
+
+      - name: Create agenda issue
+        if: steps.check-meeting.outputs.meeting_found == 'true'
+        uses: actions/github-script@v7
+        env:
+          ZOOM_LINK: ${{ steps.check-meeting.outputs.zoom_link }}
+          MEETING_TIME: ${{ steps.check-meeting.outputs.meeting_time }}
+          PASSCODE: ${{ steps.check-meeting.outputs.passcode }}
+          MEETING_DATE: ${{ steps.check-meeting.outputs.meeting_date }}
+          ISSUE_LIST: ${{ steps.get-issues.outputs.issue_list }}
+          ISSUE_COUNT: ${{ steps.get-issues.outputs.issue_count }}
+        with:
+          script: |
+            const meetingDate = process.env.MEETING_DATE;
+            const zoomLink = process.env.ZOOM_LINK;
+            const meetingTime = process.env.MEETING_TIME;
+            const passcode = process.env.PASSCODE;
+            const issueList = process.env.ISSUE_LIST;
+            const issueCount = process.env.ISSUE_COUNT;
+
+            const title = 'CPC Working Session Agenda - ' + meetingDate;
+
+            const bullet = String.fromCharCode(42);
+            const lines = [
+              '# CPC Working Session - ' + meetingDate,
+              '',
+              '## Meeting Details',
+              '',
+              bullet + ' **Date:** ' + meetingDate,
+              bullet + ' **Time:** ' + meetingTime,
+              bullet + ' **Zoom:** ' + zoomLink,
+            ];
+
+            if (passcode) {
+              lines.push(bullet + ' **Passcode:** ' + passcode);
+            }
+
+            lines.push(bullet + ' **Calendar:** https://calendar.openjsf.org');
+            lines.push('');
+            lines.push('## Working Session Agenda Items');
+            lines.push('');
+            lines.push('The following issues are labeled with `cpc-working-session` for discussion:');
+            lines.push('');
+            lines.push(issueList);
+            lines.push('');
+            lines.push('---');
+            lines.push('');
+            lines.push('_This agenda was automatically generated. To add items to a future working session, apply the `cpc-working-session` label to the relevant issue._');
+            lines.push('');
+            lines.push('_Issues labeled: ' + issueCount + '_');
+
+            const body = lines.join('\n');
+
+            const { data: issue } = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: title,
+              body: body,
+              labels: ['cpc-working-session-agenda']
+            });
+
+            console.log('Created issue #' + issue.number + ': ' + issue.title);
+            console.log('URL: ' + issue.html_url);

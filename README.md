@@ -24,7 +24,6 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | | Project        | Charter           | Contributing       |
 |-|----------------|:-----------------:|:------------------:|
 | <img alt="logo of project Appium" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/appium/appium-icon-color.svg" width="30" /> | [Appium](https://appium.io/)       |      | [Contributing Guide](https://github.com/appium/appium/blob/HEAD/CONTRIBUTING.md) |
-| <img alt="logo of project Dojo" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/dojo/dojo-icon-color.svg" width="30" /> | [Dojo](https://dojo.io/)               |      | [Contributing Guide](https://github.com/dojo/framework/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Electron" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/electron/electron-icon-color.svg" width="30" /> | [Electron](https://electronjs.org) | [Charter](https://github.com/electron/governance/tree/main/charter) | [Contributing Guide](https://github.com/electron/electron/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Express" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/express/express-icon-black.svg" width="30" /> | [Express](https://expressjs.com/)          | [Charter](https://github.com/expressjs/discussions/blob/HEAD/docs/CHARTER.md) | [Contributing Guide](https://expressjs.com/en/resources/contributing.html) |
 | <img alt="logo of project jQuery" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jquery/jquery-icon-color.svg" width="30" /> | [jQuery](https://jquery.com/)      |      | [Contributing Guide](https://github.com/jquery/jquery/blob/HEAD/CONTRIBUTING.md) |
@@ -39,12 +38,10 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project architect" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/architect/architect-icon-grayscale.svg" width="30" /> | [architect](https://arc.codes/)         |   |  [Contributing Guide](https://github.com/architect/architect/blob/HEAD/.github/contributing.md)   |
 | <img alt="logo of Cosmos.gl project" src="https://raw.githubusercontent.com/openjs-foundation/artwork/refs/heads/main/projects/cosmos/cosmos-icon-color.svg" width="30" />   | [Cosmos](https://github.com/cosmosgl) | [Charter](https://github.com/cosmosgl/graph/blob/main/CHARTER.md)  | [Contributing Guide](https://github.com/cosmosgl/graph/blob/main/CONTRIBUTING.md) 
 | <img alt="logo of project ESLint" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/eslint/eslint-icon-color.svg" width="30" /> | [ESLint](https://eslint.org/)              |    | [Contributing Guide](https://github.com/eslint/eslint/blob/HEAD/CONTRIBUTING.md) |
-| <img alt="logo of project Esprima" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/esprima/esprima-icon-color.svg" width="30" /> | [Esprima](https://esprima.org/)            |    | [Contributing Guide](https://github.com/jquery/esprima/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Fastify" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/fastify/fastify-icon-black.svg" width="30" /> | [Fastify](https://fastify.io)          |    | [Contributing Guide](https://github.com/fastify/fastify/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Globalize" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/globalize/globalize-icon-color-dark_background.svg" width="30" /> | [Globalize](https://github.com/jquery/globalize)  |    | [Contributing Guide](https://github.com/globalizejs/globalize/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Grunt" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/grunt/grunt-icon-color.svg" width="30" /> | [Grunt](https://gruntjs.com/)              |    | [Contributing Guide](https://github.com/gruntjs/grunt/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Interledger.js" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/interledgerjs/interledgerjs-icon-color.svg" width="30" /> | [Interledger.js](https://interledger.org/) |    | [Contributing Guide](https://github.com/interledger/rfcs/blob/HEAD/CONTRIBUTING.md) |
-| <img alt="logo of project Intern" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/intern/intern-icon-color.svg" width="30" /> | [Intern](https://theintern.github.io/)  |    | [Contributing Guide](https://github.com/theintern/intern/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project JerryScript" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jerryscript/jerryscript-icon-color.svg" width="30" /> | [JerryScript](https://jerryscript.net/)    |    | [Contributing Guide](https://github.com/jerryscript-project/jerryscript/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Jest" src="https://raw.githubusercontent.com/facebook/jest/main/website/static/img/jest.svg" width="30" />  | [Jest](https://jestjs.io/) | [Charter](https://github.com/jestjs/jest/blob/main/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/facebook/jest#contributing) |
 | <img alt="logo of project Lodash" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/lodash/lodash-icon-color.svg" width="30" /> | [Lodash](https://lodash.com/)              |    | [Contributing Guide](https://github.com/lodash/lodash/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -52,13 +49,20 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project Marko" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/marko/marko-icon-color.svg" width="30" /> | [Marko](https://markojs.com/)              |    | [Contributing Guide](https://github.com/marko-js/marko/blob/HEAD/.github/CONTRIBUTING.md) |
 | <img alt="logo of project messageformat" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/messageformat/messageformat-icon-color.svg" width="30" /> | [messageformat](https://messageformat.github.io/messageformat/)  |    | [Contributing Guide](https://github.com/messageformat/messageformat/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Mocha" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/mocha/mocha-icon-color.svg" width="30" /> | [Mocha](https://mochajs.org/)           |    | [Contributing Guide](https://github.com/mochajs/mocha/blob/HEAD/.github/CONTRIBUTING.md) |
-| <img alt="logo of project Moment" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/moment/moment-icon-color.svg" width="30" /> | [Moment](https://momentjs.com/)            |    | [Contributing Guide](https://github.com/moment/moment/blob/develop/CONTRIBUTING.md) |
 | <img alt="logo of project NativeScript" src="https://raw.githubusercontent.com/openjs-foundation/artwork/refs/heads/main/projects/nativescript/icon/PNG/nativescriptTM-icon-color.png" width="30" /> | [NativeScript](https://nativescript.org/) |   | [Contributing Guide](https://github.com/NativeScript/NativeScript/blob/HEAD/tools/notes/CONTRIBUTING.md) |
 | <img alt="logo of project Node-RED" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/node_red/node_red-icon-color.svg" width="30" /> | [Node-RED](https://nodered.org/)        |    | [Contributing Guide](https://nodered.org/about/contribute/) |
 | <img alt="logo of project nvm" src="https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg" width="35" />  | [nvm](https://nvm.sh/) | [Charter](https://github.com/nvm-sh/nvm/blob/HEAD/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/nvm-sh/nvm/blob/HEAD/CONTRIBUTING.md) |
-| <img alt="logo of project PEP" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/pep/pep-icon-color.svg" width="30" /> | [PEP](https://github.com/jquery/pep)       |    | [Contributing Guide](https://github.com/jquery/PEP/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project QUnit" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/qunit/qunit-icon-color.svg" width="30" /> | [QUnit](https://qunitjs.com/)              |    | [Contributing Guide](https://github.com/qunitjs/qunit/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project WebdriverIO" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/webdriverio/webdriverio-icon-color.svg" width="30" /> | [WebdriverIO](https://webdriver.io/)    | [Charter](https://github.com/webdriverio/webdriverio/blob/HEAD/PROJECT_CHARTER.md) | [Contributing Guide](https://github.com/webdriverio/webdriverio/blob/HEAD/CONTRIBUTING.md) |
+
+
+#### Feature-Complete
+| | Project        | Charter           | Contributing       |
+|-|----------------|:-----------------:|:------------------:|
+| <img alt="logo of project Dojo" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/dojo/dojo-icon-color.svg" width="30" /> | [Dojo](https://dojo.io/)               |      | [Contributing Guide](https://github.com/dojo/framework/blob/HEAD/CONTRIBUTING.md) |
+| <img alt="logo of project Esprima" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/esprima/esprima-icon-color.svg" width="30" /> | [Esprima](https://esprima.org/)            |    | [Contributing Guide](https://github.com/jquery/esprima/blob/HEAD/CONTRIBUTING.md) |
+| <img alt="logo of project Intern" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/intern/intern-icon-color.svg" width="30" /> | [Intern](https://theintern.github.io/)  |    | [Contributing Guide](https://github.com/theintern/intern/blob/HEAD/CONTRIBUTING.md) |
+| <img alt="logo of project Moment" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/moment/moment-icon-color.svg" width="30" /> | [Moment](https://momentjs.com/)            |    | [Contributing Guide](https://github.com/moment/moment/blob/develop/CONTRIBUTING.md) |
 | <img alt="logo of project webhint" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/webhint/webhint-icon-color.svg" width="30" /> | [webhint](https://webhint.io/)          |    | [Contributing Guide](https://github.com/webhintio/hint/blob/HEAD/.github/CONTRIBUTING.md) |
 
 #### Archived Projects
@@ -69,6 +73,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 | <img alt="logo of project HospitalRun" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/hospitalrun/hospitalrun-icon-color-dark_background.svg" width="30" /> | [HospitalRun](https://hospitalrun.io/)     |    | [Contributing Guide](https://github.com/HospitalRun/hospitalrun/blob/HEAD/.github/CONTRIBUTING.md) |
 | <img alt="logo of project jQuery Mobile" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jquery_mobile/jquery_mobile-icon-color.svg" width="30" /> | [jQuery Mobile](https://jquerymobile.com/)        |    | [Contributing Guide](https://github.com/jquery/jquery-mobile/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project jQuery UI" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/jquery_ui/jquery_ui-icon-color.svg" width="30" /> | [jQuery UI](https://jqueryui.com/)                |    | [Contributing Guide](https://github.com/jquery/jquery-ui/blob/HEAD/CONTRIBUTING.md) |
+| <img alt="logo of project PEP" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/pep/pep-icon-color.svg" width="30" /> | [PEP](https://github.com/jquery/pep)       |    | [Contributing Guide](https://github.com/jquery/PEP/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project RequireJS" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/requirejs/requirejs-logo-stacked-color.svg" width="30" /> | [RequireJS](https://requirejs.org/)               |    | [Contributing Guide](https://requirejs.org/docs/contributing.html) |
 | <img alt="logo of project Sizzle" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/sizzle/sizzle-icon-color.svg" width="30" /> | [Sizzle](https://sizzlejs.com/)                   |    | [Contributing Guide](https://github.com/jquery/sizzle/blob/HEAD/CONTRIBUTING.md) |
 
@@ -78,6 +83,8 @@ The following projects are official OpenJS Foundation projects. If you are inter
 |-|----------------|:-----------------:|:------------------:|
 |   | [GeoDa](https://geodacenter.github.io/) |   | [Contributing Guide](https://github.com/GeoDaCenter/geoda/blob/HEAD/CONTRIBUTING.md) |
 |   | [kepler.gl](https://kepler.gl/) |   | [Contributing Guide](https://github.com/keplergl/kepler.gl/blob/HEAD/contributing) |
+|   | [Lit](https://lit.dev/) |   | [Contributing Guide](https://github.com/lit/lit/blob/main/CONTRIBUTING.md) |
+|   | [Perspective](https://perspective-dev.github.io/) |   | [Contributing Guide](https://github.com/perspective-dev/perspective/blob/master/CONTRIBUTING.md) |
 |   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) |
 
 ### OpenJS Collaboration Spaces
@@ -87,7 +94,8 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 
 | Name                                         |  Repository                        | Authority Delegation   | Description                                                     |
 | -------------------------------------------- |:----------------------------------:| ---------------------- | ----------------------------------------------------------------|
-| Ecosystem Report                             | [Repository][ecosystem-report]     | No                     | JavaScript ecosystem annual end-users poll and report            |
+| AI                                           | [Repository][ai]                   | No                     | Exlore impact of generative AI on JS, open source, and development |
+| Ecosystem Report                             | [Repository][ecosystem-report]     | No                     | JavaScript ecosystem annual end-users poll and report           |
 | Open Visualization (OpenVis)                 | [Repository][openvis]              | No                     | Visualization libraries based on JavaScript and WebGL           |
 | Package Metadata Interop                     | [Repository][pkg-metadata-interop] | No                     | Interoperability of package.json across the JS ecosystem        |
 | Package Vulnerability Management & Reporting | [Repository][pkg-vuln]             | No                     | Package vulnerability management and reporting                  |
@@ -95,6 +103,7 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 | Standards                                    | [Repository][standards]            | [Yes][standards-deleg] | Facilitate the engagement of projects and collaborators in standards organizations |
 | Sustainability                               | [Repository][sustainability]       | No                     | Ensuring long-term sustainability of all OpenJS projects |
 
+[ai]: https://github.com/openjs-foundation/ai-collab-space
 [ecosystem-report]: https://github.com/openjs-foundation/ecosystem-report
 [openvis]: https://github.com/openjs-foundation/openvis-collab-space
 [pkg-metadata-interop]: https://github.com/openjs-foundation/package-metadata-interoperability-collab-space
@@ -106,7 +115,7 @@ If you are interested in fostering collaboration with the support of the OpenJS 
 
 ## CPC Meetings
 
-The CPC meets weekly. We publish meeting agendas as [issues](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), and also [publish meetings on our calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com). ([iCal](https://calendar.google.com/calendar/ical/linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com/public/basic.ics)) ([Add to Google Calendar](https://calendar.google.com/calendar?cid=bGludXhmb3VuZGF0aW9uLm9yZ19mdW9wNHVmdjc2NmY5YXZjNTE3dWpzNGkwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
+The CPC meets weekly. We publish meeting agendas as [issues](https://github.com/openjs-foundation/cross-project-council/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+in%3Atitle+Project+Council+Meeting+), and also [publish meetings on our calendar](https://calendar.openjsf.org/).([iCal](https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBygAAE_sub)).
 
 CPC members should attend as many meetings as possible, and non-members are welcome to join as observers. To add an item to the agenda, [create an issue and add the cross-project-council-agenda label](https://github.com/openjs-foundation/cross-project-council/issues?q=is%3Aissue+is%3Aopen+label%3Across-project-council-agenda).
 
@@ -155,17 +164,30 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
   - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
   - Even Stensberg ([@evenstensberg](https://github.com/evenstensberg))
 
-#### At Large Project Representatives
+### Community Voting Members (Effective Fall 2026 Election Cycle)
+
+Beginning with the Fall 2026 election cycle, the CPC will transition from separate At Large and Regular Member voting 
+representatives to a unified class of Community Voting Members. These members will be elected annually according to 
+requirements defined in the [CPC Charter](./CPC-CHARTER.md#voting-members) and 
+the [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
+
+**Note:** Current At Large and Regular Member voting representatives elected under the previous structure will 
+continue to serve their terms through the Fall 2026 elections. The Community Voting Member structure will take effect
+once those terms conclude.
+
+
+#### At Large Project Representatives (Through Fall 2026)
 
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
 - Jordan Harband ([@ljharb](https://github.com/ljharb), HeroDevs)
 
-#### Elected by Regular Members
+#### Elected by Regular Members (Through Fall 2026)
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regular
 members can be elected as voting members. The two regular members elected as voting members are currently:
 
 - Chris de Almeida ([@ctcpip](https://github.com/ctcpip), IBM)
+- Ethan Arrowood ([@Ethan-Arrowood](https://github.com/Ethan-Arrowood), Harper)
 
 #### Collaboration space representatives
 
