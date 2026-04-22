@@ -225,7 +225,6 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Michaela Laurencin ([@mlaurencin](https://github.com/mlaurencin))
 - Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
-- Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
 - Natalia Venditto ([@anfibiacreativa](https://github.com/anfibiacreativa))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Nikita Rokotyan [@rokotyan](https://github.com/rokotyan)
