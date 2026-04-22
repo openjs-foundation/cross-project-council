@@ -256,6 +256,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Kris Borchers ([@kborchers](https://github.com/kborchers))
 - Marcin Hoppe ([@MarcinHoppe](https://github.com/MarcinHoppe))
 - Michael Dawson ([@mhdawson](https://github.com/mhdawson))
+- Mohammed Keyvanzadeh ([@VoltrexKeyva](https://github.com/VoltrexKeyva))
 - Myles Borins ([@MylesBorins](https://github.com/MylesBorins))
 - Parris Lucas ([@GrooveCS](https://github.com/groovecs))
 - Sendil Kumar ([@sendilkumarn](https://github.com/sendilkumarn))
