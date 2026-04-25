@@ -1,113 +1,96 @@
-# ${PROJECT} Charter
 
-_note: the purpose of a project charter is to provide a brief introduction_
-_to the project from a technical and community perspective. The_ 
-_document also connects a project's community leadership and governance with the_
-_OpenJS Foundation's governance._
 
-## Section 0: Guiding Principles (optional)
+> [!NOTE]
+> The purpose of a project charter is to define the governance, operations, and scope of a project within the OpenJS Foundation, and to connect the project's leadership structure with the Foundation's governance through the Cross Project Council (CPC).
+>
+> Adapting this template charter to your project's needs should be as simple as:
+>
+> - [ ] Replace `${PROJECT_NAME}` with th name of your project in the title just below.
+> - [ ] Explain what the project is about (see Section 1).
+> - [ ] Clarify whether the project is governed by its maintainers or a Technical Steering Commmittee (see Section 3).
+> - [ ] Provide a link to your `GOVERNANCE.md` file (see Section 7).
+> - [ ] Remove this note and the various tips on the page.
+>
+> Please reach out to the CPC for pre-approval prior to modifying any of the other parts of the charter.
+>
+> To get the charter reviewed:
+> 
+> - [ ] Open a pull request with the draft charter in your own repository. Do not merge it!
+> - [ ] Follow the [CPC's process for charter approval][charter-approval].
 
-_directions: provide a concise, high-level statement about_
-_the project's long-term principles, values, or mission._
+# ${PROJECT_NAME} Charter
 
-ex. [Electron Governance Charter](https://github.com/electron/governance/tree/main/charter#core-values)
-ex. [AMP Charter](https://github.com/ampproject/meta/blob/main/CHARTER.md#section-0-guiding-principles-optional)
+<a name="section-0-guiding-principles-optional"></a>
 
-## Section 1: Scope
+<a name="section-1"></a>
+<a name="section-1-scope"></a>
+<a name="11-in-scope-optional"></a>
+<a name="12-out-of-scope-optional"></a>
 
-_directions: Include a 3-4 sentence summary of what the project does,_
-_and/or what problems it solves. Imagine trying to explain your work_
-_to a colleague who is familiar with related technical concepts but unfamiliar_
-_with the project. You may also want to describe the project's value to community_
-_and/or business stakeholders._
+## Section 1: Mission and Scope of the Project
 
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#scope)
+> [!TIP]
+> Include a 2-3 sentence summary of what the project does, and/or what problems it solves. Imagine trying to explain your work to a colleague who is familiar with related technical concepts but unfamiliar with the project. You may also want to describe the project's value to community and/or business stakeholders.
 
-### 1.1: In-scope (optional)
+<a name="section-2"></a>
+<a name="21-other-formal-project-relationships-optional"></a>
 
-_directions: list or bullet out problem spaces, use cases, repositories_
-_or other projects which are included with the work but may not be readily_
-_apparent. This may help differentiate the project from other solutions in the_
-_space. If you are not using this section, please indicate your intent with the_
-_phrase, 'Section Intentionally Left Blank'._
+## Section 2: Relationship with OpenJS Foundation CPC
 
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#in-scope)
+<!-- directions: do not modify this section. -->
 
-### 1.2: Out-of-Scope (optional)
-
-_directions: list or bullet out areas that may be seen to be related but are_
-_not included in the scope of this project. This may help clarify the kind of_
-_features, contributions, issues or problems the project is looking for._
-_If you are not using this section, please indicate your intent with the_
-_phrase, 'Section Intentionally Left Blank'._
-
-ex. [K8s SIG Architecture Charter](https://github.com/kubernetes/community/blob/HEAD/sig-architecture/charter.md#out-of-scope)
-
-## Section 2: Relationship with OpenJS Foundation CPC.
-
-The OpenJS Cross Project Council (CPC) delegates technical leadership of this project to the governing body defined in Section 3 of this charter.
+The OpenJS Cross Project Council (CPC) delegates technical leadership of this project to the governing body defined in [Section 3 of this charter](#section-3).
 
 This project is entitled to representation in the CPC through voting members as described in [Section 4](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#voting-members) of the CPC Charter.
 
-### 2.1 Other Formal Project Relationships (optional)
+<a name="section-3"></a>
+<a name="section-3-project-tsc-governing-body"></a>
 
-_directions: describe any additional affiliations or groups that liaise with_
-_the project in a formal way (such as a W3C Community Group, for example)._ 
-_If you are not using this section, please indicate your intent with the_
-_phrase, 'Section Intentionally Left Blank'._
+## Section 3: Governing Body of the Project
 
-## Section 3: ${PROJECT TSC} Governing Body
+> [!TIP]
+> Choose whether the project is governed by its maintainers or by a Technical Steering Committee (TSC).
 
-_directions: describe the structure of the group responsible for managing_
-_the project and its respective organization and repositories. If there are_
-_specific rules for membership or participation in the group, list them here._
+This project is governed by its maintainers/Technical Steering Committee (TSC).
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-3-establishment-of-the-tsc)
+<a name="section-4"></a>
+<a name="section-4-roles--responsibilities"></a>
+<a name="section-41-project-operations--management-optional"></a>
 
-## Section 4: Roles & Responsibilities 
+## Section 4: Responsibilities of the Governing Body of the Project
 
 The responsibilities of this project's governing body are described in [Section 6](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-6-non-responsibilities-of-the-cpc) of the CPC Charter.
 
-### Section 4.1 Project Operations & Management (optional)
+<a name="section-42-decision-making-voting-andor-elections"></a>
 
-_directions: use this section to describe any other specific tasks the_
-_${PROJECT} Governing Body may be responsible for regarding process or project_
-_operations and management. If you are not using this section, please indicate_
-_your intent with the phrase, 'Section Intentionally Left Blank'._
+<a name="section-5"></a>
+## Section 5: Decision-making
 
-### Section 4.2: Decision-making, Voting, and/or Elections
+Decision making follows the practice adopted by the CPC and described in [Section 9](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) of the CPC Charter.
 
-_directions: the recommendation is to adopt the CPC decision-making and voting processes,_
-_as described in Section 9 and 10 of the CPC Charter. If so, just leave the below text._
-_Alternatively, replace the below text with a different process._
+<a name="section-6"></a>
+## Section 6: Voting
 
-Decision making and voting follow the practices adopted by the CPC and described in [Section 9](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-9-decision-making) and [Section 10](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting) of the CPC Charter respectively.
+Voting follows the practices adopted by the CPC and described in [Section 10](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting) of the CPC Charter.
 
-_directions: please describe any election mechanism you might have below._
+<a name="section-43-other-project-roles-optional"></a>
+<a name="section-5-definitions-optional"></a>
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-6-elections)
+<a name="section-7"></a>
+## Section 7: Project Governance
 
-### Section 4.3: Other Project Roles (optional)
+> [!TIP]
+> Check that the link to GOVERNANCE.md is correct.
 
-_directions: describe other roles within the project, such as chairperson,_
-_tech lead, collaborator, contributor, maintainer, etc. and any responsibilities or_
-_rights such role confers. You can also include this information by_
-_reference to your governance.md document._
-_If you are not using this section, please indicate your intent with the_
-_phrase, 'Section Intentionally Left Blank'._
+Governing body membership and governance of this project are defined in [GOVERNANCE.md](./GOVERNANCE.md).
 
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-8-project-roles)
+<a name="section-6-changes-to-this-document"></a>
+<a name="section-8"></a>
 
-## Section 5: Definitions (optional)
+## Section 8: Changes to this Document
 
-_directions: include any definitions that may help clarify terms or ideas found_
-_in this charter document. If you are not using this section, please indicate_ 
-_your intent with the phrase, 'Section Intentionally Left Blank'._
-
-ex. [Node.js TSC Charter](https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md#section-9-definitions)
-
-## Section 6: Changes to this Document
-
-Changes to this document require [approval from the CPC](https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#approving-project-charters).
+Changes to this document require [approval from the CPC][charter-approval].
 
 
+
+[charter-approval]: https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#approving-project-charters
