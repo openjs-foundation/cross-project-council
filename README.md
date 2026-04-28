@@ -119,6 +119,9 @@ The CPC meets weekly. We publish meeting agendas as [issues](https://github.com/
 
 CPC members should attend as many meetings as possible, and non-members are welcome to join as observers. To add an item to the agenda, [create an issue and add the cross-project-council-agenda label](https://github.com/openjs-foundation/cross-project-council/issues?q=is%3Aissue+is%3Aopen+label%3Across-project-council-agenda).
 
+> [!NOTE]
+> Anyone can participate in CPC meetings as an [observer](#observers). [Active OpenJS collaborators](https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#definition-of-an-active-openjs-collaborator) can join the CPC as [regular members](#regular-members) by filling in the [regular member application form](https://forms.gle/vAKptPXXz8StL4yh6).
+
 ## CPC Members
 
 ### CPC Chair
