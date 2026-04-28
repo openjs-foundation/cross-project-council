@@ -5,7 +5,7 @@
 >
 > Adapting this template charter to your project's needs should be as simple as:
 >
-> - [ ] Replace `${PROJECT_NAME}` with th name of your project in the title just below.
+> - [ ] Replace `${PROJECT_NAME}` with the name of your project in the title just below.
 > - [ ] Explain what the project is about (see Section 1).
 > - [ ] Clarify whether the project is governed by its maintainers or a Technical Steering Commmittee (see Section 3).
 > - [ ] Provide a link to your `GOVERNANCE.md` file (see Section 7).
