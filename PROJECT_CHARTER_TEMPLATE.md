@@ -8,7 +8,7 @@
 > - [ ] Replace `${PROJECT_NAME}` with the name of your project in the title just below.
 > - [ ] Explain what the project is about (see Section 1).
 > - [ ] Clarify whether the project is governed by its maintainers or a Technical Steering Commmittee (see Section 3).
-> - [ ] Provide a link to your `GOVERNANCE.md` file (see Section 7).
+> - [ ] Provide a link to your `GOVERNANCE.md` file (see Section 3).
 > - [ ] Remove this note and the various tips on the page.
 >
 > Please reach out to the CPC for pre-approval prior to modifying any of the other parts of the charter.
@@ -45,13 +45,16 @@ This project is entitled to representation in the CPC through voting members as 
 
 <a name="section-3"></a>
 <a name="section-3-project-tsc-governing-body"></a>
+<a name="section-43-other-project-roles-optional"></a>
 
 ## Section 3: Governing Body of the Project
 
 > [!TIP]
-> Choose whether the project is governed by its maintainers or by a Technical Steering Committee (TSC).
+> Choose whether the project is governed by its maintainers or by a Technical Steering Committee (TSC) and check that the link to GOVERNANCE.md is correct.
 
-This project is governed by its maintainers/Technical Steering Committee (TSC).
+This project is governed by its maintainers/Technical Steering Committee (TSC). 
+
+Governing body membership and governance of this project are defined in [GOVERNANCE.md](./GOVERNANCE.md).
 
 <a name="section-4"></a>
 <a name="section-4-roles--responsibilities"></a>
@@ -73,24 +76,12 @@ Decision making follows the practice adopted by the CPC and described in [Sectio
 
 Voting follows the practices adopted by the CPC and described in [Section 10](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-10-voting) of the CPC Charter.
 
-<a name="section-43-other-project-roles-optional"></a>
 <a name="section-5-definitions-optional"></a>
-
-<a name="section-7"></a>
-## Section 7: Project Governance
-
-> [!TIP]
-> Check that the link to GOVERNANCE.md is correct.
-
-Governing body membership and governance of this project are defined in [GOVERNANCE.md](./GOVERNANCE.md).
-
 <a name="section-6-changes-to-this-document"></a>
-<a name="section-8"></a>
+<a name="section-7"></a>
 
-## Section 8: Changes to this Document
+## Section 7: Changes to this Document
 
 Changes to this document require [approval from the CPC][charter-approval].
-
-
 
 [charter-approval]: https://github.com/openjs-foundation/cross-project-council/blob/main/governance/GOVERNANCE.md#approving-project-charters
