@@ -1,5 +1,3 @@
-
-
 > [!NOTE]
 > The purpose of a project charter is to define the governance, operations, and scope of a project within the OpenJS Foundation, and to connect the project's leadership structure with the Foundation's governance through the Cross Project Council (CPC).
 >
@@ -36,8 +34,6 @@
 <a name="21-other-formal-project-relationships-optional"></a>
 
 ## Section 2: Relationship with OpenJS Foundation CPC
-
-<!-- directions: do not modify this section. -->
 
 The OpenJS Cross Project Council (CPC) delegates technical leadership of this project to the governing body defined in [Section 3 of this charter](#section-3).
 
