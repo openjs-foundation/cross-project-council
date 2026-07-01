@@ -136,7 +136,7 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 - Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
 - Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
-- Tobie Langel ([@tobie](https://github.com/tobie), UnlockOpen)
+- Jordan Harband ([@ljharb](https://github.com/ljharb), HeroDevs)
 
 ### Voting Members
 
