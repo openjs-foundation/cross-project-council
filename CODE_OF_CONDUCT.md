@@ -105,7 +105,7 @@ Tensions can occur between community members even when they are trying their bes
 
 When an incident does occur, it is important to report it promptly. To report a possible violation, contact the community leaders responsible for enforcement at the email addresses listed above in the [Reporting](#report-an-incident) section. 
 
-Community moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Mmderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
+Community moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
 
 ### Confidentiality
 
@@ -118,7 +118,7 @@ If an investigation by the community moderators finds that this Code of Conduct 
 
 1. Warning
     1. Event: A violation involving a single incident or series of incidents.
-    2. Consequence: A private, written warning from the communitymModerators.
+    2. Consequence: A private, written warning from the community moderators.
     3. Repair: Examples of repair include a private written apology, acknowledgement of responsibility, and seeking clarification on expectations.
 2. Temporarily Limited Activities
     1. Event: A repeated incidence of a violation that previously resulted in a warning, or the first incidence of a more serious violation.
