@@ -23,14 +23,9 @@ Projects should touch on these topics, spending more time on whatever is most re
 
 One project per CPC meeting. 
 
-| Date | Project | Category |
+| Date | Project | Recording |
 |------|---------|----------|
-| Apr 28 | TBD | TBD |
-| May 12 | TBD | TBD |
-| May 26 | TBD | TBD |
-| Jun 09 | TBD | TBD |
-| Jun 23 | TBD | TBD |
-| Jul 07 | TBD | TBD |
+| Jul 07 | jQuery | https://www.youtube.com/watch?v=rQjfyHbP1lU |
 | Jul 21 | TBD | TBD |
 | Aug 04 | TBD | TBD |
 | Aug 18 | TBD | TBD |
