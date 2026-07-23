@@ -148,3 +148,10 @@ This Code of Conduct is adapted from the Contributor Covenant, version 3.0, perm
 Contributor Covenant is stewarded by the Organization for Ethical Source and licensed under CC BY-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For answers to common questions about Contributor Covenant, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are provided at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Additional enforcement and community guideline resources can be found at [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). The enforcement ladder was inspired by the work of [Mozilla’s code of conduct team](https://github.com/mozilla/inclusion).
+
+
+[escalation]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation
+[appeal]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeals
+[CoC Team]: #code-of-conduct-team-coc-team
+[opted-in]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#delegation-to-projects
+[alternate]: https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_TEAM_CHARTER.md#alternate-community-members
