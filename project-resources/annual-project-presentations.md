@@ -27,7 +27,7 @@ One project per CPC meeting.
 |------|---------|----------|
 | Jul 07 | jQuery | https://www.youtube.com/watch?v=rQjfyHbP1lU |
 | Jul 21 | TBD | TBD |
-| Aug 04 | TBD | TBD |
+| Aug 04 | Electron | TBD |
 | Aug 18 | TBD | TBD |
 | Sep 01 | TBD | TBD |
 | Sep 15 | TBD | TBD |
