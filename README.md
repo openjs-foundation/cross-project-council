@@ -162,7 +162,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
   - Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
   - Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
 - **webpack**
-  - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
+  - Sean Larkin ([@TheLarkInn](https://github.com/thelarkinn))
   - Even Stensberg ([@evenstensberg](https://github.com/evenstensberg))
 
 ### Community Voting Members (Effective Fall 2026 Election Cycle)
