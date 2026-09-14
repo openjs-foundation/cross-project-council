@@ -136,7 +136,6 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 - Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
 - Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
-- Jordan Harband ([@ljharb](https://github.com/ljharb), Socket)
 
 ### Voting Members
 
@@ -180,8 +179,6 @@ once those terms conclude.
 #### At Large Project Representatives (Through Fall 2026)
 
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), each of the At Large and Incubating Projects may nominate a candidate to fill one of two voting seats on the CPC which represent this group of projects as a whole. From those nominees, two voting members are chosen via an [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
-
-- Jordan Harband ([@ljharb](https://github.com/ljharb), HeroDevs)
 
 #### Elected by Regular Members (Through Fall 2026)
 According to the [CPC Charter](./CPC-CHARTER.md#voting-members), up to two regular
