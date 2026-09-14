@@ -36,7 +36,7 @@ The following projects are official OpenJS Foundation projects. If you are inter
 |-|----------------|:-----------------:|:------------------:|
 | <img alt="logo of AMP project" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/amp/amp-icon-color.svg" width="30" /> | [AMP](https://amp.dev/) | [Charter](https://github.com/ampproject/meta/blob/main/CHARTER.md) | [Contributing Guide](https://github.com/ampproject/amphtml/blob/HEAD/docs/contributing.md) |
 | <img alt="logo of project architect" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/architect/architect-icon-grayscale.svg" width="30" /> | [architect](https://arc.codes/)         |   |  [Contributing Guide](https://github.com/architect/architect/blob/HEAD/.github/contributing.md)   |
-| <img alt="logo of Cosmos.gl project" src="https://raw.githubusercontent.com/openjs-foundation/artwork/refs/heads/main/projects/cosmos/cosmos-icon-color.svg" width="30" />   | [Cosmos](https://github.com/cosmosgl) | [Charter](https://github.com/cosmosgl/graph/blob/main/CHARTER.md)  | [Contributing Guide](https://github.com/cosmosgl/graph/blob/main/CONTRIBUTING.md) 
+| <img alt="logo of Cosmos.gl project" src="https://raw.githubusercontent.com/openjs-foundation/artwork/refs/heads/main/projects/cosmos/cosmos-icon-color.svg" width="30" />   | [Cosmos](https://github.com/cosmosgl) | [Charter](https://github.com/cosmosgl/graph/blob/main/CHARTER.md)  | [Contributing Guide](https://github.com/cosmosgl/graph/blob/main/CONTRIBUTING.md)
 | <img alt="logo of project ESLint" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/eslint/eslint-icon-color.svg" width="30" /> | [ESLint](https://eslint.org/)              |    | [Contributing Guide](https://github.com/eslint/eslint/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Fastify" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/fastify/fastify-icon-black.svg" width="30" /> | [Fastify](https://fastify.io)          |    | [Contributing Guide](https://github.com/fastify/fastify/blob/HEAD/CONTRIBUTING.md) |
 | <img alt="logo of project Globalize" src="https://github.com/openjs-foundation/artwork/raw/HEAD/projects/globalize/globalize-icon-color-dark_background.svg" width="30" /> | [Globalize](https://github.com/jquery/globalize)  |    | [Contributing Guide](https://github.com/globalizejs/globalize/blob/HEAD/CONTRIBUTING.md) |
@@ -167,12 +167,12 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
 
 ### Community Voting Members (Effective Fall 2026 Election Cycle)
 
-Beginning with the Fall 2026 election cycle, the CPC will transition from separate At Large and Regular Member voting 
-representatives to a unified class of Community Voting Members. These members will be elected annually according to 
-requirements defined in the [CPC Charter](./CPC-CHARTER.md#voting-members) and 
+Beginning with the Fall 2026 election cycle, the CPC will transition from separate At Large and Regular Member voting
+representatives to a unified class of Community Voting Members. These members will be elected annually according to
+requirements defined in the [CPC Charter](./CPC-CHARTER.md#voting-members) and
 the [election process outlined in the CPC Governance](./governance/GOVERNANCE.md#election-process-for-non-impact-voting-cpc-members).
 
-**Note:** Current At Large and Regular Member voting representatives elected under the previous structure will 
+**Note:** Current At Large and Regular Member voting representatives elected under the previous structure will
 continue to serve their terms through the Fall 2026 elections. The Community Voting Member structure will take effect
 once those terms conclude.
 
@@ -301,7 +301,7 @@ If an Observer fails to meet these expectations they can be excluded from future
 
 * [Community / Travel Fund](./community-fund/COMMUNITY_FUND_POLICY.md) - OpenJS Foundation projects and their community members are able to take advantage of our community fund.
 
-#### OpenJS Ecosystem Sustainability Program 
+#### OpenJS Ecosystem Sustainability Program
 
 * [OpenJS Ecosystem Sustainability Program](./project-resources/ESP/ECOSYSTEM_SUSTAINABILITY_PROGRAM.md) - The Ecosystem Sustainability Program is an opt-in OpenJS partner program to help secure outdated software and create new revenue streams for our projects.
 
@@ -333,7 +333,7 @@ OpenJS Foundation Collaboration spaces are able to take advantage of several ser
 
 ### Help with LF IT supported infrastructure
 
-OpenJS projects that have formally engaged with LF IT to support one or more of their services should follow [this guide](./project-resources/requesting_LFIT_support.md) for requesting support. 
+OpenJS projects that have formally engaged with LF IT to support one or more of their services should follow [this guide](./project-resources/requesting_LFIT_support.md) for requesting support.
 
 
 ### Help with non LF IT supported project infrastructure
