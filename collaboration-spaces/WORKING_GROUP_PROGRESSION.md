@@ -1,0 +1,185 @@
+## I. Overview
+
+This governance policy describes how a new `Working Group` can be established within the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Working Group Proposal Process](#ii-collaboration-space-proposal-process).
+It describes the [Stages](#stages) a working group may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a group to move from one stage to another.
+
+The Cross Project Council (CPC) may [formally delegate authority](./COLLABORATION_NETWORK.md#authority-delegation) to a `Working Group`, so that the `Working Group` can make autonomous decisions with respect to the delegated scope.
+
+`Working Groups` aim to expand the group of contributors to the OpenJS Foundation by enabling individuals outside of OpenJS Foundation projects to propose and collaborate on areas important to the JavaScript ecosystem.
+
+`Working Groups` may graduate between levels as outlined in this document.
+
+`Working Group` applications must include the champions who will lead the effort and the credentials of the champion and those initially involved will be a key part of the evaluation process to ensure that the work of the groups is aligned/respectful of the foundation vision and expectations.
+
+Working Group progression - movement from one stage to another - allows groups to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all Foundation groups benefit from access to some level of mentorship, support, and foundation resources.
+
+## II. Working Group Proposal Process
+
+### Introduction
+
+This governance policy sets forth the proposal process for working groups to be accepted into the Foundation.
+
+### Working Group Proposal Requirements
+
+The proposal to form a new working group in the OpenJS Foundation can be made via an email to support@openjsf.org with a filled out [Working Group Application Template](./NEW_COLLABORATION_SPACE_APPLICATION.md). The initial application will have a silent period for internal only discussion. If your application is denied during this phase you will be notified privately. If there are no objections to the application, the group will given an `incubation` status and begin the onboarding process. **Note** the `incubation` status is temporary as we determine if the space is a good fit. At any time during the `incubation` process a group can withdraw either voluntarily or at the request of the CPC.
+
+#### Roles
+
+##### Applicant
+
+Individual or group who submits the application on behalf of a working group to join the OpenJS Foundation.
+
+##### Application Champion
+
+The Application Champion is a member of the CPC or Foundation staff who commits to do the following:
+
+1. Work with the applicant to complete the on-boarding process
+1. Be available to answer questions from the Applicant.
+1. Advocate on behalf of the new working group.
+1. Help to explain why the working group is a good fit.
+1. Be available as a primary point of contact through the incubation period if reached.
+
+#### Process
+
+1. Initial email sent to support@openjsf.org with filled out [Working Group Application Template](./NEW_COLLABORATION_SPACE_APPLICATION.md)
+1. Silent period. Internal only discussion.
+1. Initial acceptance as [Incubating] Working Group.
+1. An acknowledgement is sent to the applicant by Foundation staff within 48 hours (striving to reply within 24 hours when possible).
+1. Silent period. Internal only discussion. The content of these discussions along with the content of the application itself are kept confidential.
+1. Initial acceptance as an [Incubating] Working Group Before public announcement there will be:
+   * Private email to the CPC members which asks for +1 or objections to the application becoming public. This email will include:
+     * The name of the application champion for the application
+     * Completed application
+     * Completed Initial-fit checklist.
+     * Confirmation that the Foundation Executive Director has received an FYI and there were no objections.
+     * Confirmation that there are no existing objections from CPC members.
+     This is not a formal vote just the process to ensure we have regular CPC consensus to move forward.
+   * If there is agreement to move forward:
+     * Confirmation to the applicant that they are ready to have their application become public.
+   * If lack of consensus to move forward:
+      * Correspondence from foundation staff to applicant about non-acceptance.
+   * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date. (If appropriate)
+1. Project goes through process of adhering to [working group on-boarding checklist](#collaboration-space-onboarding-checklist).
+1. Project presents to CPC for final acceptance via 2/3 supermajority vote and appropriate initial stage is determined.
+
+##### Initial fit checklist
+
+1. Are the existing members/group leaders agreed to managing the group under open governance?
+1. Have the existing members/group leaders agreed that all work will happen under the [OpenJS Foundation IP Policy](https://ip-policy.openjsf.org)? The IP policy permits projects to use a variety of licenses, including MIT, BSD-2, BSD-3, and Apache 2.0. Where there is no preference otherwise, the Foundation recommends that new work/artifacts be licensed Apache 2.0 due to its explicitly defined rights and responsibilities.
+1. Have the existing members/group leaders agreed that the working group will adopt the [OpenJS CoC](https://code-of-conduct.openjsf.org)?
+1. Are licenses for any existing material that will be added to the working group repo compatible with Foundation requirements?
+1. Fit with OpenJS Foundation (not all of these need to be met, but provide different ways of assessing strategic fit).
+   1. Impact on JavaScript Community.
+   1. How much and how broad of importance is the topic for the JavaScript Community.
+   1. Expected level of activity and progress within the group.
+   1. Synergy or overlap with existing projects and working groups in the Foundation.
+   1. Level of comfort that working group will be successful.
+
+## Onboarding Checklist
+
+This is an informational checklist to help start up a working group into the OpenJS Foundation - tasks we will complete together after your proposed working group has been accepted into the incubation process. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+
+- [ ] Adopt the OpenJS Foundation Code of Conduct
+- [ ] If choosing to use a Contributor License Agreement (CLA) or Developer Certificate of Origin (DCO), make selection and implement appropriate tool
+- [ ] Confirm required files in place (`CODE_OF_CONDUCT.md`, `LICENSE.md`, `Overview.md`, `Governance.md`) and approved by the CPC.
+- [ ] Publish Working Group Overview on Foundation Website
+- [ ] Document initial group `Leaders`.
+
+## Stages
+
+### At Large Working Groups
+
+#### Definition
+
+At Large working groups cover topics which the CPC believes are, or have the potential to be, important to the JS ecosystem as a whole. They may be just getting started, or they may bring together long-established groups with minimal resource needs. The At Large stage provides a beneficial, neutral home for collaboration in order to foster collaborative development and provide a path to deeper alignment with other Foundation projects and working groups via the graduation process.
+
+#### Expectations
+
+At Large working groups are expected to operate with little support from the CPC and the foundation. They will have access to the following resources:
+
+* A repository under the open-js foundation gihub organization.
+* Support/mentoring from the CPC with respect to setting up appropriate governance.
+* Use of the Foundation Zoom and Youtube streaming
+* A slack channel within the Foundation Slack organization
+* Up to 2 mailing lists managed by the Foundation
+* Use of meeting generation tools as may made available by the foundation
+* 2 re-tweets from the OpenJS Foundation twitter account per month. These will be requested through DM.
+
+An at Large working group must have at least one active 'Group Leader' leading the activities of the group.
+All activities of the working group must conform to the Foundation's Code-of-Conduct and the Group Leader must agree to participate in any escalations made to the Foundation Code of Conduct Panel.
+
+#### Acceptance Criteria
+
+To be considered for the At Large Stage, the project must meet the following requirements:
+* An identified `Group Leader`
+* 1 CPC sponsor to champion the application and provide mentorship as needed
+* A presentation to at the meeting of the CPC
+* a 2/3 vote from the CPC.
+
+### Core Working Groups
+
+#### Definition
+
+The Core Stage is for working groups that have demonstrated that there is sustained level of interest and participation in the area of collaboration and wish to work more closely with the Cross Project Council and Foundation.
+
+#### Expectations
+
+Core working groups are expected to have regular meetings, activity and demonstrable forward progress in their area of collaboration.
+In addition it should be well documented how the results of the collaboration are benefitting the JavaScript ecosystem, the Foundation projects, or the activities of other working groups.
+
+In addition to the resources made available to At large working groups they will have access to:
+
+* The OpenJS travel fund.
+* Help from Foundation marketing in publishing 1 blog post per quarter.
+* 4 re-tweets from the OpenJS Foundation twitter account per month. These will be requested through DM.
+
+#### Acceptance Criteria
+
+To be considered for Core Stage, the working group must meet the At Large requirements as well as the following:
+
+ * Demonstrate a substantial ongoing level of collaboration and at least 10 active members
+ * 2 CPC sponsor to champion the application and provide mentorship as needed
+ * a 2/3 vote from the CPC.
+
+### Emeritus Stage
+
+#### Definition
+
+Emeritus groups are working groups which have reached or are nearing end-of-life.
+
+#### Expectations
+
+Working groups in this stage are no longer active.
+The associated repository will be archived.
+Emeritus working groups should clearly state their status.
+The Foundation will continue to hold the IP that was created while the working group was active.
+
+#### Acceptance Criteria
+
+ Working groups may be granted Emeritus status via a 2/3 vote from the CPC.
+
+### Incubating
+
+#### Definition
+
+Incubating groups are working groups that are in the process of completing their onboarding checklist to join the foundation.
+
+#### Expectations
+
+It is expected that incubating working groups will make an active effort to work through the onboarding process in a reasonable timeframe. They will be offered foundation support to help do so.
+
+#### Acceptance Criteria
+
+1. consensus within private mailing list to move into incubation process
+
+#### Graduation Criteria
+
+1. Completion of the onboarding checklist
+1. 2/3 vote from the CPC to accept project
+1. Completion of the entrance criteria for desired stage
+
+## IV. Annual Review Process
+
+The CPC shall develop an annual review process to determine whether projects are in the stage that accurately reflects their needs and goals.
+
+[Incubating]: #incubating
