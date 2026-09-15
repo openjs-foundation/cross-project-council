@@ -11,7 +11,7 @@ The OpenJS Foundation Cross Project Council (CPC) is the technical governing bod
 
 ## CPC Scope
 
-The CPC's primary role is to foster an environment of collaboration. That environment extends within and between OpenJS Foundation Projects, OpenJS Collaboration spaces, and the larger community.
+The CPC's primary role is to foster an environment of collaboration. That environment extends within and between OpenJS Foundation Projects, OpenJS Working Groups, and the larger community.
 
 The CPC exercises autonomy in managing its responsibilities and seeks agreement from the OpenJS Foundation Board on any change to the scope of those responsibilities.
 
@@ -87,10 +87,10 @@ The following projects are official OpenJS Foundation projects. If you are inter
 |   | [Perspective](https://perspective-dev.github.io/) |   | [Contributing Guide](https://github.com/perspective-dev/perspective/blob/master/CONTRIBUTING.md) |
 |   | [vis.gl](https://vis.gl/) |   | [Contributing Guide](https://github.com/visgl/deck.gl/blob/HEAD/CONTRIBUTING.md) |
 
-### OpenJS Collaboration Spaces
+### OpenJS Working Groups
 
-The following are official OpenJS Collaboration spaces.
-If you are interested in fostering collaboration with the support of the OpenJS foundation through a collaboration space, please read our [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
+The following are official OpenJS Working Group.
+If you are interested in fostering collaboration with the support of the OpenJS foundation through a working group, please read our [Working Group Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
 
 | Name                                         |  Repository                        | Authority Delegation   | Description                                                     |
 | -------------------------------------------- |:----------------------------------:| ---------------------- | ----------------------------------------------------------------|
@@ -190,9 +190,9 @@ members can be elected as voting members. The two regular members elected as vot
 - Chris de Almeida ([@ctcpip](https://github.com/ctcpip), IBM)
 - Ethan Arrowood ([@Ethan-Arrowood](https://github.com/Ethan-Arrowood), Harper)
 
-#### Collaboration space representatives
+#### Working Group Representatives
 
-Members of the Collaboration spaces at the `Core` stage may nominate a candidate for one of the voting seats on the CPC which represents the Collaboration spaces. Currently there are no spaces at the `Core` stage and therefore no representative.
+Members of the Working Groups at the `Core` stage may nominate a candidate for one of the voting seats on the CPC which represents the Working Groups. Currently there are no spaces at the `Core` stage and therefore no representative.
 
 ### Regular Members
 
@@ -293,9 +293,9 @@ If an Observer fails to meet these expectations they can be excluded from future
 * [Expectations of the CPC Board Directors](./governance/CPC_BOARD_DIRECTOR_EXPECTATIONS.md) - Description of the role and responsibilities of the CPC Board Directors.
 * [GitHub organization Management Policy](./governance/GITHUB_ORG_MANAGEMENT_POLICY.md) - Policy for managing the CPC's GitHub organization.
 
-#### Collaboration Spaces
+#### Working Groups
 * [Collaboration Network](./collaboration-spaces/COLLABORATION_NETWORK.md)
-* [Collaboration Space Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
+* [Working Group Progression](./collaboration-spaces/COLLABORATION_SPACE_PROGRESSION.md)
 
 #### Community Fund
 
@@ -307,7 +307,7 @@ If an Observer fails to meet these expectations they can be excluded from future
 
 ### Policy Change Proposal Process
 
-The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projects and Collaboration spaces under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Collaboration spaces. Projects have broad powers of self-governance.
+The OpenJS CPC is chartered to oversee the technical governance of all OpenJS Projects and Working Groups under the OpenJS Foundation. The CPC establishes the default governance, conduct, and licensing policies for all Projects and Working Groups. Projects have broad powers of self-governance.
 
 Anyone may submit an idea for a policy or program by opening an issue in this repository. The issue should be reviewed at the next CPC meeting.
 
@@ -326,7 +326,7 @@ Discussion should be held in the open whenever possible. However, if you need to
 
 ### Project Resources
 
-OpenJS Foundation Collaboration spaces are able to take advantage of several services and benefits as outlined in [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md).
+OpenJS Foundation Working Groups are able to take advantage of several services and benefits as outlined in [COLLABORATION_NETWORK.md](./collaboration-spaces/COLLABORATION_NETWORK.md).
 
 <!-- original link id for infrastructure support -->
 <a id="help-with-project-infrastructure"></a>
