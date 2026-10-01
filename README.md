@@ -198,6 +198,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Abigail Cabunoc Mayes ([@abbycabs](https://github.com/abbycabs))
 - Adrian Estrada ([@edsadr](https://github.com/edsadr))
 - Alexander Akait ([@alexander-akait](https://github.com/alexander-akait))
+- Beth Griggs ([@BethGriggs](https://github.com/bethgriggs))
 - Chris de Almeida ([@ctcpip](https://github.com/ctcpip))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
 - Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
