@@ -15,7 +15,7 @@ Eligible projects that opt into the program receive revenue that can be used to:
 
 ## Current Partners
 
-- [HeroDevs](https://www.herodevs.com/)
+A list of current partners is available on the [Partner Program page](https://openjsf.org/partners).
 
 ## Eligibility
 
