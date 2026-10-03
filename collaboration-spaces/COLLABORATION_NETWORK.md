@@ -16,19 +16,19 @@ Support includes but not be limited to:
 * slack channels
 * representation on the CPC
 
-The current Collaboration Networks spaces are listed in the main README.md in the CPC repository.
+The current Collaboration Networks groups are listed in the main README.md in the CPC repository.
 
-The [Collaboration Space Progression](./COLLABORATION_SPACE_PROGRESSION.md) document explains how a proposal for a new Collaboration space may be submitted and how Collaboration spaces move between stages.
+The [Working Group Progression](./WORKING_GROUP_PROGRESSION.md) document explains how a proposal for a new working group may be submitted and how working groups move between stages.
 
 ## Authority Delegation
 
-The Cross Project Council (CPC) may delegate scoped authority to a collaboration space. In such cases, the collaboration space may formally represent the Foundation, for example in a standards organization.
+The Cross Project Council (CPC) may delegate scoped authority to a working group. In such cases, the working group may formally represent the Foundation, for example in a standards organization.
 
-Collaboration Spaces to which the CPC delegates authority are listed below:
+Working groups to which the CPC delegates authority are listed below:
 
-### Standards Collaboration Space
+### Standards Working Group
 
-The purpose of the Standards Collaboration Space is to act as a facilitator for OpenJS Foundation projects to support their engagement in various Standards Organizations, Working Groups, Technical Committees, and other spaces where internationally recognized standards are collaborated upon.
+The purpose of the Standards Working Group is to act as a facilitator for OpenJS Foundation projects to support their engagement in various Standards Organizations, Working Groups, Technical Committees, and other spaces where internationally recognized standards are collaborated upon.
 
 Responsibilities include:
 
