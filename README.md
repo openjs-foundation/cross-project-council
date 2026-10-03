@@ -201,7 +201,6 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Beth Griggs ([@BethGriggs](https://github.com/bethgriggs))
 - Chris de Almeida ([@ctcpip](https://github.com/ctcpip))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
-- Claudio Wunder ([@ovflowd](https://github.com/ovflowd))
 - Cody Zuschlag([@codyzu](https://github.com/codyzu))
 - Darcy Clarke ([@darcyclarke](https://github.com/darcyclarke))
 - Divy Tolia ([@designmoreweb](https://github.com/designmoreweb))
