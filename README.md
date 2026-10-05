@@ -124,7 +124,7 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 ### CPC Chair
 
-- Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+- Joe Sepi ([@joesepi](https://github.com/joesepi), Cloudflare)
 
 ### CPC Vice Chair
 
@@ -134,7 +134,7 @@ CPC members should attend as many meetings as possible, and non-members are welc
 
 [CPC Directors](https://github.com/openjs-foundation/cross-project-council/blob/main/CPC-CHARTER.md#section-8-board-representation) represent the Foundation's projects and related communities to the Board.
 
-- Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+- Joe Sepi ([@joesepi](https://github.com/joesepi), Cloudflare)
 - Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
 
 ### Voting Members
@@ -158,7 +158,7 @@ Each Impact Project may appoint 2 representatives to the CPC as outlined in the 
   - Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol))
   - Timmy Willison ([@timmywil](https://github.com/timmywil), Spokestack)
 - **Node.js**
-  - Joe Sepi ([@joesepi](https://github.com/joesepi), IBM)
+  - Joe Sepi ([@joesepi](https://github.com/joesepi), Cloudflare)
   - Matteo Collina ([@mcollina](https://github.com/mcollina), Platformatic)
 - **webpack**
   - Sean Larkin ([@TheLarkInn](https://github.com/thelarkinn))
