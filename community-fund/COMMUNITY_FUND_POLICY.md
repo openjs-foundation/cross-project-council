@@ -76,7 +76,7 @@ After the event, kindly submit your expenses within 30 days.
 > [!Note]
 > The faster expenses are submitted, the faster any leftover funds can be reallocated to allow additional people to travel. So **please submit your expenses as quickly as possible**. Thank you! 
 
-* Fill out these [two forms](https://drive.google.com/drive/folders/1E-dTuqnIWpZN2NP-1ioAWzK_W2zSwa_P?usp=share_link)
+* Fill out these [two forms](./community-fund-forms/)
 * Submit the forms along with **all** receipts [here](https://form.asana.com/?k=S6lGzAjHv2uv7M8llnhO_w&d=9283783873717)
 
 Please note that expenses without receipts can not be paid.
