@@ -16,8 +16,6 @@ Support includes but not be limited to:
 * slack channels
 * representation on the CPC
 
-The current Collaboration Networks groups are listed in the main README.md in the CPC repository.
-
 The [Working Group Progression](./WORKING_GROUP_PROGRESSION.md) document explains how a proposal for a new working group may be submitted and how working groups move between stages.
 
 ## Authority Delegation
