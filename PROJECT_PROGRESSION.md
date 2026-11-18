@@ -93,7 +93,7 @@ The Application Champion *must not* be the Applicant.
      * Completed application-fit checklist.
      * Confirmation that the board has had an FYI and there were no objections.
      * Confirmation that there are no existing objections from CPC members.
-     This is not a formal vote just the process to ensure we have regular CPC concensus to move forward.
+     This is not a formal vote just the process to ensure we have regular CPC consensus to move forward.
    * If there is agreement to move forward:
      * Confirmation to the applicant that they are ready to have their application become public.
      * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date.
