@@ -83,8 +83,6 @@ The Application Champion *must not* be the Applicant.
 #### Process
 
 1. Initial email sent to new-projects@lists.openjsf.org with filled-out [Project Application Template](./NEW_PROJECT_APPLICATION.md).
-1. Silent period. Internal only discussion.
-1. Initial acceptance as [Incubating] Project.
 1. An acknowledgement is sent to the applicant by Foundation staff within 48 hours (striving to reply within 24 hours when possible).
 1. Silent period. Internal only discussion. The content of these discussion along with the content of the application itself are kept confidential.
 1. Initial acceptance as an [Incubating] Project. Before public announcement there will be:
@@ -104,7 +102,6 @@ The Application Champion *must not* be the Applicant.
       * Correspondence from foundation staff to applicant about non-acceptance.
       * If possible, give guidance to the project in their quest to find a foundation home
         (ex. perhaps a different foundation would be a more suitable endeavor.)
-   * Discussion/agreement between applicant, application manager and Foundation media team to agree on announce date.
 1. Project goes through process of adhering to [on-boarding checklist](#onboarding-checklist).
 1. Project completes a charter review process by the CPC as outlined in the [CPC Governance](./governance/GOVERNANCE.md#approving-project-charters). NOTE: this process takes two weeks to complete
 1. Project graduates from incubation by a pull request adding the project to the [README.md](./README.md) file at its appropriate initial stage. The merging of this pull request proceeds as any other pull request to the README.md file.
