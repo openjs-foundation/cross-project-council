@@ -1,6 +1,6 @@
 ## I. Overview
 
-This governance policy describes how an open source project can formally join the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Project Proposal Process](#ii-project-proposal-process). It describes the [Stages](#iii-stages---definitions--expectations) a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process](#vi-annual-review-process) through which those changes will be evaluated and made. 
+This governance policy describes how an open source project can formally join the OpenJS Foundation, hereinafter referred to as the "Foundation", via the [Project Proposal Process](#ii-project-proposal-process). It describes the [Stages](#iii-stages---definitions--expectations) a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process](#ix-annual-review-process) through which those changes will be evaluated and made, and how a project can [leave the Foundation](#viii-leaving-the-foundation).
 
 Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources such as the travel fund.
 
@@ -33,7 +33,13 @@ flowchart TD
     J --> |Yes| H([Stage: Sunsetting])
     H --> K{EOL reached?}
     K --> |Yes| I([Stage: Archived])
+    Graduated --> L{Project asks\nto leave?}
+    L --> |Yes| M{Receiving organization\nis a nonprofit?}
+    M --> |Yes| N{CPC and Board\napprove transfer?}
+    N --> |Yes| O([Former Project])
 ```
+
+A project that asks to leave remains in the Foundation at its current stage unless and until all the conditions above are met and the transfer is complete. See [Leaving the Foundation](#viii-leaving-the-foundation).
 
 #### Project Stages
 | Stage | New Feature Development | Vulnerability & Bug Fixes | EOL Announced | EOL Reached |
@@ -42,6 +48,9 @@ flowchart TD
 | Feature-Complete | ❌ | ✅ | ❌ | ❌ |
 | Sunsetting | ❌ | ✅ | ✅ | ❌ |
 | Archived | ❌ | ❌ | ✅ | ✅ |
+| Former (left the Foundation) | n/a | n/a | n/a | n/a |
+
+Former projects are no longer Foundation projects. Their development and maintenance are entirely up to the project and its new home.
 
 ### Project Proposal Requirements
 
@@ -288,6 +297,16 @@ Projects may be granted Archived status through CPC consensus and with the appro
 
 In cases where the project maintainers aren't responding after having been repeatedly contacted through appropriate channels about the CPC's intent to move the project to Archived stage, the CPC may proceed with the stage change without approval from the maintainers.
 
+### Former Projects
+
+#### Definition
+
+A Former project is a project that was part of the Foundation and has left it. Its intellectual property has been transferred to another nonprofit organization, and it is no longer governed, supported, or represented by the Foundation. Former is not a stage of the Foundation; it is recorded so that the project's history with the Foundation remains documented.
+
+#### Acceptance Criteria
+
+A project becomes a Former project once its request to leave has been approved by both the CPC and the Board, and the transfer described in [Leaving the Foundation](#viii-leaving-the-foundation) is complete.
+
 ## IV. Growth Plan
 
 At Large project that are interested in reaching Impact Stage need to develop a growth plan to so do. This plan needs to be developed in collaboration with the CPC and approved by it.
@@ -380,8 +399,60 @@ Projects that are transitioning to Archived should follow this checklist. Tasks 
 - [ ] Provide admin access to OpenJS to all infrastructure deployed by the project that isn't canceled
 - [ ] Decide on the future of the project's communication channels (e.g., mailing lists, chat rooms). If closing them, provide guidance on where to go for similar projects or communities.
 
+## VIII. Leaving the Foundation
 
-## VII. Annual Review Process
+A project may decide that the Foundation is no longer the right home for it. It may have grown to the point where running its own foundation makes sense, or its direction may no longer fit with how the OpenJS Foundation operates. This section describes how a project leaves the Foundation when that happens.
+
+When a project joins the Foundation, it transfers intellectual property such as trademarks and domains to the Foundation. Leaving therefore means transferring that intellectual property out of the Foundation, which is why the request goes to both the CPC and the Board, and why both must approve it.
+
+This section applies to projects that have graduated from incubation, whatever their current stage. Incubating projects can withdraw as described in the [Project Proposal Requirements](#project-proposal-requirements).
+
+### Prerequisites
+
+* **The receiving organization must be a nonprofit.** For legal reasons, the Foundation can only transfer a project's intellectual property to another nonprofit organization. It cannot transfer it to an individual or to a for-profit company. The receiving organization must exist and have agreed to receive the project's intellectual property before the transfer can take place. This also applies when a project intends to set up its own foundation.
+* **The request must come from the project.** The decision to leave is made by the project's governing body, following the decision-making process described in its charter or governance documentation.
+
+### Process
+
+1. Projects are encouraged to talk to the CPC as early as possible, before making a formal request.
+1. The project sends a written request to leave the Foundation to the CPC and the Board, by email to cpc-private@lists.openjsf.org. The CPC Directors bring the request to the Board. The request includes:
+   * The reasons for leaving.
+   * The nonprofit organization that will receive the project's intellectual property, and confirmation that it has agreed to do so.
+   * A record of the decision made by the project's governing body.
+   * The list of assets to transfer, such as trademarks, domains, and infrastructure.
+   * A proposed timeline.
+1. The CPC reviews the request and decides whether to approve the transfer, following the [decision-making][cpc charter decision making] and [voting][cpc charter voting] policies described in the CPC charter.
+1. The Board reviews the request and decides whether to approve the transfer.
+1. The transfer requires the approval of both the CPC and the Board. If either does not approve, the project remains in the Foundation at its current stage and is told why.
+1. Once both have approved, the project, the receiving organization, and Foundation staff complete the [checklist](#leaving-the-foundation-checklist) below. The project remains a Foundation project until the transfer is complete.
+
+### Leaving the Foundation Checklist
+
+Projects that are leaving the Foundation should follow this checklist. Tasks will be completed together with the CPC and Foundation staff. If you have any questions or need help, the OpenJS Foundation CPC is available to assist.
+
+#### Transfer
+
+- [ ] Sign an agreement between the Foundation and the receiving nonprofit organization covering the transfer of the project's intellectual property
+- [ ] Transfer the project's trademarks to the receiving organization
+- [ ] Transfer the project's official domains to the receiving organization
+- [ ] Hand over infrastructure and accounts managed by the Foundation on behalf of the project
+- [ ] Agree on what happens to any funds the Foundation holds, and any commitments it has made, on behalf of the project
+
+#### Community Communication
+
+- [ ] Agree on an announcement date with the Foundation media team
+- [ ] Notify active contributors and the project community about the move and the project's new home
+
+#### Project Updates
+
+- [ ] Update the project website, charter, and README to remove the OpenJS Foundation logo, copyright notices, and references to the Foundation
+- [ ] Update the project's Code of Conduct reporting and escalation path so that it no longer points to the OpenJS Foundation
+- [ ] Update the project's security policy so that it no longer points to the OpenJS Foundation
+- [ ] Move the project to a "Former Projects" section in the CPC repo's README.md
+- [ ] Move the project logo on the OpenJS Foundation website to a Former Projects section
+- [ ] Update CPC membership to reflect that the project is no longer represented on the CPC
+
+## IX. Annual Review Process
 
 ### Annual Foundation Project Health Survey
 
