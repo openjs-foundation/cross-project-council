@@ -401,9 +401,9 @@ Projects that are transitioning to Archived should follow this checklist. Tasks 
 
 ## VIII. Leaving the Foundation
 
-A project may come to the conclusion that the Foundation is no longer the right home for it. It may have grown to the point where running its own foundation makes sense, or its direction may no longer fit with how the OpenJS Foundation operates. This section describes how a project leaves the Foundation when that happens.
+A project may decide that the Foundation is no longer the right home for it. It may have grown to the point where running its own foundation makes sense, or its direction may no longer fit with how the OpenJS Foundation operates. This section describes how a project leaves the Foundation when that happens.
 
-When a project joins the Foundation, it transfers intellectual property such as trademarks and domains to it. Leaving therefore means transferring that intellectual property out of the Foundation, which is why the request goes to both the CPC and the Board, and why both must approve it.
+When a project joins the Foundation, it transfers intellectual property such as trademarks and domains to the Foundation. Leaving therefore means transferring that intellectual property out of the Foundation, which is why the request goes to both the CPC and the Board, and why both must approve it.
 
 This section applies to projects that have graduated from incubation, whatever their current stage. Incubating projects can withdraw as described in the [Project Proposal Requirements](#project-proposal-requirements).
 
