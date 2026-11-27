@@ -225,6 +225,7 @@ Anyone who has been active in the foundation or one of its member projects, as d
 - Michał Gołębiowski-Owczarek ([@mgol](https://github.com/mgol))
 - Mike Samuel ([@mikesamuel](https://github.com/mikesamuel))
 - Natalia Venditto ([@anfibiacreativa](https://github.com/anfibiacreativa))
+- Nathan Walker ([@NathanWalker](https://github.com/NathanWalker))
 - Nick O'Leary ([@knolleary](https://github.com/knolleary))
 - Nikita Rokotyan [@rokotyan](https://github.com/rokotyan)
 - Nitin Kumar ([@snitin315](https://github.com/snitin315))
